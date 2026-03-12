@@ -152,7 +152,7 @@
       "github": "https://github.com/f/agentlytics",
       "homepage": "https://agentlytics.io",
       "language": "JavaScript",
-      "stars": 307,
+      "stars": 309,
       "forks": 33,
       "installCommand": "npx agentlytics",
       "requirements": "Node.js 20.19+ or 22.12+, macOS",
@@ -194,7 +194,7 @@
       "homepage": "https://apps.fka.dev",
       "language": "JavaScript",
       "stars": 14,
-      "forks": 2,
+      "forks": 3,
       "requirements": "Any modern browser",
       "features": [
         "Apple App Store-inspired UI",
@@ -299,6 +299,184 @@
       "_store": "Appétit",
       "_storeUrl": "https://apps.fka.dev",
       "developer": "Fatih Kadir Akin"
+    },
+    {
+      "id": "dodoclip",
+      "name": "DodoClip",
+      "subtitle": "A free clipboard manager for macOS",
+      "description": "A lightweight, native clipboard manager that automatically saves everything you copy and provides instant access to your clipboard history.",
+      "longDescription": "A lightweight, native clipboard manager that automatically saves everything you copy and provides instant access to your clipboard history.",
+      "icon": "https://raw.githubusercontent.com/DodoApps/dodoclip/main/icon.png",
+      "iconStyle": {},
+      "category": [
+        "productivity"
+      ],
+      "platform": "macOS",
+      "price": "Free",
+      "github": "https://github.com/DodoApps/dodoclip",
+      "homepage": null,
+      "language": "Swift",
+      "stars": 78,
+      "forks": 4,
+      "downloadUrl": "https://github.com/DodoApps/dodoclip/releases/download/v1.2.2/DodoClip-1.2.2.dmg",
+      "requirements": "macOS 14.0 or later",
+      "features": [
+        "Clipboard history with search",
+        "OCR for images",
+        "Paste stack for sequential pasting",
+        "Privacy controls"
+      ],
+      "screenshots": [
+        "https://github.com/user-attachments/assets/f281b654-a0a2-4883-b09c-21aa2cd3efb4"
+      ],
+      "_source": "https://raw.githubusercontent.com/f/catalog/main/wvw.apps.json",
+      "_owner": "main",
+      "_developer": "DodoApps",
+      "_store": "DodoApps",
+      "_storeUrl": "",
+      "developer": "DodoApps"
+    },
+    {
+      "id": "dodonest",
+      "name": "DodoNest",
+      "subtitle": "Organize your menu bar items",
+      "description": "A native macOS application for organizing and rearranging your menu bar items through drag-and-drop functionality and search.",
+      "longDescription": "A native macOS application for organizing and rearranging your menu bar items through drag-and-drop functionality and search.",
+      "icon": "https://raw.githubusercontent.com/DodoApps/dodonest/main/icon.png",
+      "iconStyle": {},
+      "category": [
+        "utilities"
+      ],
+      "platform": "macOS",
+      "price": "Free",
+      "github": "https://github.com/DodoApps/dodonest",
+      "homepage": null,
+      "language": "Swift",
+      "stars": 7,
+      "forks": 0,
+      "downloadUrl": "https://github.com/DodoApps/dodonest/releases/download/v1.1.0/DodoNest-1.1.0.dmg",
+      "requirements": "macOS 14.0 or later",
+      "features": [
+        "Visual menu bar layout",
+        "Drag-and-drop reordering",
+        "Search functionality",
+        "Real-time sync"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/DodoApps/dodonest/main/assets/screenshot.png"
+      ],
+      "_source": "https://raw.githubusercontent.com/f/catalog/main/wvw.apps.json",
+      "_owner": "main",
+      "_developer": "DodoApps",
+      "_store": "DodoApps",
+      "_storeUrl": "",
+      "developer": "DodoApps"
+    },
+    {
+      "id": "dodopulse",
+      "name": "DodoPulse",
+      "subtitle": "Real-time system monitoring in your menu bar",
+      "description": "A lightweight, native macOS menu bar app that displays real-time system metrics with beautiful mini graphs. Monitor CPU, memory, GPU, network, and more.",
+      "longDescription": "A lightweight, native macOS menu bar app that displays real-time system metrics with beautiful mini graphs. Monitor CPU, memory, GPU, network, and more.",
+      "icon": "https://raw.githubusercontent.com/DodoApps/dodopulse/525b81f/icon.png",
+      "iconStyle": {},
+      "category": [
+        "utilities"
+      ],
+      "platform": "macOS",
+      "price": "Free",
+      "github": "https://github.com/DodoApps/dodopulse",
+      "homepage": null,
+      "language": "Swift",
+      "stars": 126,
+      "forks": 13,
+      "downloadUrl": "https://github.com/DodoApps/dodopulse/releases/download/v1.1.0/DodoPulse-1.1.0.dmg",
+      "requirements": "macOS 12.0 or later",
+      "features": [
+        "CPU, memory, GPU monitoring",
+        "Network speed tracking",
+        "Battery and fan status",
+        "Beautiful mini graphs"
+      ],
+      "screenshots": [
+        "https://github.com/user-attachments/assets/6868a0ac-1d01-45aa-84d7-8d21dc0daa6b"
+      ],
+      "_source": "https://raw.githubusercontent.com/f/catalog/main/wvw.apps.json",
+      "_owner": "main",
+      "_developer": "DodoApps",
+      "_store": "DodoApps",
+      "_storeUrl": "",
+      "developer": "DodoApps"
+    },
+    {
+      "id": "dodoshot",
+      "name": "DodoShot",
+      "subtitle": "A beautiful screenshot tool for macOS",
+      "description": "Lightweight native macOS screenshot application with capture, annotation, and management capabilities. Inspired by CleanShot X, entirely free and open source.",
+      "longDescription": "Lightweight native macOS screenshot application with capture, annotation, and management capabilities. Inspired by CleanShot X, entirely free and open source.",
+      "icon": "https://raw.githubusercontent.com/DodoApps/dodoshot/main/icon.png",
+      "iconStyle": {},
+      "category": [
+        "productivity"
+      ],
+      "platform": "macOS",
+      "price": "Free",
+      "github": "https://github.com/DodoApps/dodoshot",
+      "homepage": null,
+      "language": "Swift",
+      "stars": 28,
+      "forks": 3,
+      "downloadUrl": "https://github.com/DodoApps/dodoshot/releases/download/v1.2.9/DodoShot-1.2.9.dmg",
+      "requirements": "macOS 14.0 or later",
+      "features": [
+        "Area, window, fullscreen capture",
+        "Annotation tools with shapes and text",
+        "OCR text extraction",
+        "Floating screenshots"
+      ],
+      "screenshots": [
+        "https://github.com/user-attachments/assets/a24b9914-0aab-4a03-993a-144069790290"
+      ],
+      "_source": "https://raw.githubusercontent.com/f/catalog/main/wvw.apps.json",
+      "_owner": "main",
+      "_developer": "DodoApps",
+      "_store": "DodoApps",
+      "_storeUrl": "",
+      "developer": "DodoApps"
+    },
+    {
+      "id": "dodotidy",
+      "name": "DodoTidy",
+      "subtitle": "A native macOS system cleaner",
+      "description": "A native macOS application for system monitoring, disk analysis, and cleanup. Remove caches, logs, and temporary files with multiple safety mechanisms.",
+      "longDescription": "A native macOS application for system monitoring, disk analysis, and cleanup. Remove caches, logs, and temporary files with multiple safety mechanisms.",
+      "icon": "https://raw.githubusercontent.com/DodoApps/dodotidy/main/dodotidy.png",
+      "iconStyle": {},
+      "category": [
+        "utilities"
+      ],
+      "platform": "macOS",
+      "price": "Free",
+      "github": "https://github.com/DodoApps/dodotidy",
+      "homepage": null,
+      "language": "Swift",
+      "stars": 170,
+      "forks": 6,
+      "downloadUrl": "https://github.com/DodoApps/dodotidy/releases/download/v1.0.5/DodoTidy-1.0.5.dmg",
+      "requirements": "macOS 14.0 or later",
+      "features": [
+        "Cache and log cleanup",
+        "Disk space visualization",
+        "System optimization",
+        "Safe trash-based deletion"
+      ],
+      "screenshots": [],
+      "_source": "https://raw.githubusercontent.com/f/catalog/main/wvw.apps.json",
+      "_owner": "main",
+      "_developer": "DodoApps",
+      "_store": "DodoApps",
+      "_storeUrl": "",
+      "developer": "DodoApps"
     },
     {
       "id": "galaksinin-muhafizlari",
@@ -488,8 +666,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 151623,
-      "forks": 19920,
+      "stars": 151626,
+      "forks": 19921,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",

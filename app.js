@@ -107,8 +107,9 @@
   }
 
   function ownerBadge(app) {
-    if (!app._owner) return "";
-    return `<span class="owner-badge">${app._owner}</span>`;
+    const label = app.developer || app._owner;
+    if (!label) return "";
+    return `<span class="owner-badge">${label}</span>`;
   }
 
   function appRow(app) {
