@@ -1,0 +1,107 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Appétit App Store",
+  "description": "Schema for apps.json — the data file powering an Appétit app store.",
+  "type": "object",
+  "required": ["store", "categories", "apps"],
+  "properties": {
+    "store": {
+      "type": "object",
+      "description": "Store-level metadata.",
+      "required": ["name", "developer"],
+      "properties": {
+        "name": { "type": "string", "description": "Store display name." },
+        "developer": { "type": "string", "description": "Default developer name shown on app detail pages." },
+        "tagline": { "type": "string", "description": "Short tagline for the store." },
+        "github": { "type": "string", "format": "uri", "description": "GitHub profile or org URL." }
+      }
+    },
+    "featured": {
+      "type": "array",
+      "description": "Apps to feature in the carousel banner on the Discover page.",
+      "items": {
+        "type": "object",
+        "required": ["id", "headline", "title", "subtitle"],
+        "properties": {
+          "id": { "type": "string", "description": "Must match an app id in the apps array." },
+          "headline": { "type": "string", "description": "Small label above the title (e.g. 'NEW APP')." },
+          "title": { "type": "string", "description": "Large banner title." },
+          "subtitle": { "type": "string", "description": "Banner description text." }
+        }
+      }
+    },
+    "categories": {
+      "type": "array",
+      "description": "Sidebar categories for filtering apps.",
+      "items": {
+        "type": "object",
+        "required": ["id", "name"],
+        "properties": {
+          "id": { "type": "string", "description": "Category identifier used in app category arrays." },
+          "name": { "type": "string", "description": "Display name in the sidebar." }
+        }
+      }
+    },
+    "apps": {
+      "type": "array",
+      "description": "The list of apps in the store.",
+      "items": {
+        "$ref": "#/definitions/app"
+      }
+    }
+  },
+  "definitions": {
+    "iconStyle": {
+      "type": "object",
+      "description": "Per-app icon display settings to handle different icon formats.",
+      "properties": {
+        "scale": { "type": "number", "description": "CSS transform scale (e.g. 1.3 to zoom in on padded macOS icons)." },
+        "objectFit": { "type": "string", "enum": ["cover", "contain", "fill"], "description": "CSS object-fit for the icon image." },
+        "borderRadius": { "type": "string", "description": "CSS border-radius for the icon container (e.g. '22%')." },
+        "bgColor": { "type": "string", "description": "Background color for the icon container (e.g. '#000000')." },
+        "padding": { "type": "string", "description": "CSS padding inside the icon container (e.g. '18%')." }
+      }
+    },
+    "app": {
+      "type": "object",
+      "required": ["id", "name", "subtitle", "description", "category", "platform", "price", "github"],
+      "properties": {
+        "id": { "type": "string", "description": "Unique app identifier. Used in URLs and deduplication." },
+        "name": { "type": "string", "description": "App display name." },
+        "developer": { "type": "string", "description": "Override the store-level developer name for this app." },
+        "subtitle": { "type": "string", "description": "Short tagline shown in list rows." },
+        "description": { "type": "string", "description": "One-liner for list views and search." },
+        "longDescription": { "type": "string", "description": "Full description for the detail page." },
+        "icon": { "type": ["string", "null"], "format": "uri", "description": "URL to the app icon image (PNG or SVG)." },
+        "iconEmoji": { "type": "string", "description": "Fallback emoji when icon is null or fails to load." },
+        "iconStyle": { "$ref": "#/definitions/iconStyle" },
+        "category": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Category IDs this app belongs to (e.g. ['macos', 'productivity'])."
+        },
+        "platform": { "type": "string", "description": "Platform label (e.g. 'macOS', 'Web', 'Node.js', 'CLI')." },
+        "price": { "type": "string", "description": "Price label (e.g. 'Free')." },
+        "github": { "type": "string", "format": "uri", "description": "GitHub repository URL." },
+        "homepage": { "type": ["string", "null"], "format": "uri", "description": "Project homepage URL." },
+        "language": { "type": "string", "description": "Primary programming language." },
+        "stars": { "type": "integer", "minimum": 0, "description": "GitHub star count." },
+        "forks": { "type": "integer", "minimum": 0, "description": "GitHub fork count." },
+        "brew": { "type": "string", "description": "Homebrew install command. Triggers the install modal." },
+        "installCommand": { "type": "string", "description": "Alternative install command (e.g. 'npx my-app'). Triggers the install modal." },
+        "downloadUrl": { "type": "string", "format": "uri", "description": "Direct download URL (e.g. GitHub Releases latest). Shown as secondary button in install modal." },
+        "requirements": { "type": "string", "description": "System requirements (e.g. 'macOS 15 Sequoia or later')." },
+        "features": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Feature list shown on the detail page."
+        },
+        "screenshots": {
+          "type": "array",
+          "items": { "type": "string", "format": "uri" },
+          "description": "Screenshot URLs shown in the detail page preview section."
+        }
+      }
+    }
+  }
+}
