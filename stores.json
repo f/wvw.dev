@@ -1,7 +1,8 @@
 [
-  "f/appetit",
-  "https://raw.githubusercontent.com/f/catalog/main/wvw.apps.json",
-  "stedwick/wvw.dev.apps",
-  "shametim/agent-chess",
-  "https://software-lab.shibukazu.com/apps.json"
+    "f/appetit",
+    "https://raw.githubusercontent.com/f/catalog/main/wvw.apps.json",
+    "stedwick/wvw.dev.apps",
+    "shametim/agent-chess",
+    "https://software-lab.shibukazu.com/apps.json",
+    "fixittech-sales/quadcode-listing"
 ]
