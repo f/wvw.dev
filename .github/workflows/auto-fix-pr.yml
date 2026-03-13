@@ -1,0 +1,109 @@
+name: Auto-fix PR Conflicts
+
+on:
+  push:
+    branches: [master]
+    paths: [stores.json]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  fix-conflicts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
+      - name: Fix conflicting PRs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Checking open PRs for stores.json conflicts..."
+
+          prs=$(gh pr list --repo ${{ github.repository }} --state open --json number,headRefName,headRepositoryOwner --jq '.[] | "\(.number) \(.headRepositoryOwner.login) \(.headRefName)"')
+
+          if [ -z "$prs" ]; then
+            echo "No open PRs found."
+            exit 0
+          fi
+
+          master_stores=$(cat stores.json)
+
+          while IFS=' ' read -r pr_number pr_owner pr_branch; do
+            echo ""
+            echo "--- PR #$pr_number ($pr_owner:$pr_branch) ---"
+
+            mergeable=$(gh api repos/${{ github.repository }}/pulls/$pr_number --jq '.mergeable // empty' 2>/dev/null)
+
+            if [ "$mergeable" = "true" ]; then
+              echo "  Already mergeable, skipping."
+              continue
+            fi
+
+            echo "  Attempting to fix stores.json conflict..."
+
+            pr_stores=$(curl -sf "https://api.github.com/repos/$pr_owner/$(echo ${{ github.repository }} | cut -d/ -f2)/contents/stores.json?ref=$pr_branch" \
+              -H "Authorization: token $GH_TOKEN" \
+              -H "Accept: application/vnd.github.v3.raw" 2>/dev/null) || pr_stores=""
+
+            if [ -z "$pr_stores" ]; then
+              echo "  Could not fetch PR's stores.json, skipping."
+              continue
+            fi
+
+            new_entries=$(echo "$pr_stores" | jq -c '.[]' | while read -r entry; do
+              if ! echo "$master_stores" | jq -e --argjson e "$entry" 'index($e) != null' > /dev/null 2>&1; then
+                echo "$entry"
+              fi
+            done)
+
+            if [ -z "$new_entries" ]; then
+              echo "  No new entries found in PR, skipping."
+              continue
+            fi
+
+            echo "  New entries to add:"
+            echo "$new_entries" | while read -r e; do echo "    $e"; done
+
+            merged=$(echo "$master_stores" | jq --argjson new "$(echo "$new_entries" | jq -s '.')" '. + $new')
+
+            echo "$merged" | jq '.' > /tmp/merged_stores.json
+
+            sha=$(curl -sf "https://api.github.com/repos/$pr_owner/$(echo ${{ github.repository }} | cut -d/ -f2)/contents/stores.json?ref=$pr_branch" \
+              -H "Authorization: token $GH_TOKEN" | jq -r '.sha')
+
+            content=$(base64 -w0 /tmp/merged_stores.json)
+
+            update_result=$(curl -sf -X PUT \
+              "https://api.github.com/repos/$pr_owner/$(echo ${{ github.repository }} | cut -d/ -f2)/contents/stores.json" \
+              -H "Authorization: token $GH_TOKEN" \
+              -H "Content-Type: application/json" \
+              -d "{\"message\":\"Auto-fix: rebase stores.json on master\",\"content\":\"$content\",\"sha\":\"$sha\",\"branch\":\"$pr_branch\"}" 2>&1) || true
+
+            if echo "$update_result" | jq -e '.content.sha' > /dev/null 2>&1; then
+              echo "  ✓ Fixed! PR #$pr_number stores.json updated."
+              gh pr comment $pr_number --repo ${{ github.repository }} --body "🤖 Auto-fixed the stores.json conflict by rebasing on the latest master. This PR should now be mergeable."
+            else
+              echo "  ✗ Could not update (no push access to fork). Leaving a comment."
+              gh pr comment $pr_number --repo ${{ github.repository }} --body "🤖 This PR has a conflict in \`stores.json\`. Please rebase on master:
+
+\`\`\`bash
+git fetch upstream
+git rebase upstream/master
+git push --force
+\`\`\`
+
+Or I can fix it if you grant write access to your fork."
+            fi
+
+          done <<< "$prs"
+
+          echo ""
+          echo "Done."
