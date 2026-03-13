@@ -241,7 +241,7 @@
       "github": "https://github.com/f/appetit",
       "homepage": "https://apps.fka.dev",
       "language": "JavaScript",
-      "stars": 19,
+      "stars": 20,
       "forks": 3,
       "requirements": "Any modern browser",
       "features": [
@@ -968,8 +968,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 151703,
-      "forks": 19929,
+      "stars": 151718,
+      "forks": 19934,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
