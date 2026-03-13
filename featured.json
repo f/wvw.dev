@@ -1,26 +1,26 @@
 [
   {
     "id": "prompts-chat",
-    "headline": "TOP RATED",
-    "title": "150,000 stars don't lie.",
-    "subtitle": "Prompts.chat is the community's go-to library for AI prompts — free, open source, and self-hostable for total privacy."
+    "headline": "FAN FAVORITE",
+    "title": "The prompt library the internet built.",
+    "subtitle": "With 150K+ GitHub stars, Prompts.chat is where developers, writers, and AI power users come to find the perfect words — open source, self-hostable, and free forever."
   },
   {
-    "id": "mcptools",
-    "headline": "EDITOR'S PICK",
-    "title": "Tame any MCP server from your terminal.",
-    "subtitle": "MCP Tools is the Swiss Army knife for Model Context Protocol — discover, call, and debug tools and resources with one CLI."
+    "id": "textream",
+    "headline": "JUST SHIPPED",
+    "title": "Speak freely. Let your Mac follow.",
+    "subtitle": "Textream tracks every word you say in real time, scrolling your script as you speak — all processed on-device, tucked inside a stunning Dynamic Island overlay."
   },
   {
-    "id": "macabolic",
-    "headline": "MUST TRY",
-    "title": "Download anything. Keep everything.",
-    "subtitle": "Macabolic wraps yt-dlp in a gorgeous macOS UI — grab videos, audio, and playlists from thousands of sites with SponsorBlock built in."
+    "id": "dodopulse",
+    "headline": "RISING STAR",
+    "title": "Your Mac's vitals, always at a glance.",
+    "subtitle": "DodoPulse tucks gorgeous real-time graphs for CPU, memory, GPU, and network right into your menu bar — lightweight, native Swift, and surprisingly beautiful."
   },
   {
-    "id": "ha-bluetooth-audio-manager",
-    "headline": "HIDDEN GEM",
-    "title": "Bluetooth audio, finally solved for Home Assistant.",
-    "subtitle": "This add-on pairs A2DP Bluetooth devices to Home Assistant with persistent pairing and auto-reconnect — no more manual fiddling."
+    "id": "hono-telescope",
+    "headline": "TRENDING",
+    "title": "X-ray vision for your Hono API.",
+    "subtitle": "Drop one middleware into your Hono app and instantly get a real-time dashboard for requests, exceptions, logs, and database queries — zero config, full clarity."
   }
 ]
