@@ -447,6 +447,24 @@
             </div>` : ""}
           </div>
         </div>
+
+        ${(() => {
+          const related = data.apps.filter(
+            (a) => a.id !== app.id &&
+            a.category && app.category &&
+            a.category.some((c) => app.category.includes(c))
+          ).slice(0, 6);
+          if (related.length === 0) return "";
+          return `
+        <div class="detail-section">
+          <div class="section-header">
+            <h3 style="font-size:22px;margin-bottom:0">You Might Also Like</h3>
+          </div>
+          <div class="app-list">
+            ${related.map((a) => appRow(a)).join("")}
+          </div>
+        </div>`;
+        })()}
       </div>`;
   }
 
