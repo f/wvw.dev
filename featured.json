@@ -1,26 +1,26 @@
 [
   {
-    "id": "dodopulse",
-    "headline": "FROM DODOAPPS",
-    "title": "Your Mac, at a glance.",
-    "subtitle": "Real-time CPU, memory, GPU, and network monitoring in your menu bar — with beautiful mini graphs."
-  },
-  {
-    "id": "textream",
-    "headline": "NEW APP",
-    "title": "Your script, always in sight.",
-    "subtitle": "Textream brings a Dynamic Island teleprompter to your Mac — highlighting words as you speak them."
-  },
-  {
     "id": "prompts-chat",
-    "headline": "151K+ STARS",
-    "title": "The world's largest prompt collection.",
-    "subtitle": "Share, discover, and collect AI prompts from the community. Free, open source, and self-hostable."
+    "headline": "TOP RATED",
+    "title": "150,000 stars don't lie.",
+    "subtitle": "Prompts.chat is the community's go-to library for AI prompts — free, open source, and self-hostable for total privacy."
   },
   {
-    "id": "dodoshot",
-    "headline": "FREE ALTERNATIVE",
-    "title": "Screenshots, reimagined.",
-    "subtitle": "A beautiful, free screenshot tool for macOS — capture, annotate, and manage. Inspired by CleanShot X."
+    "id": "mcptools",
+    "headline": "EDITOR'S PICK",
+    "title": "Tame any MCP server from your terminal.",
+    "subtitle": "MCP Tools is the Swiss Army knife for Model Context Protocol — discover, call, and debug tools and resources with one CLI."
+  },
+  {
+    "id": "macabolic",
+    "headline": "MUST TRY",
+    "title": "Download anything. Keep everything.",
+    "subtitle": "Macabolic wraps yt-dlp in a gorgeous macOS UI — grab videos, audio, and playlists from thousands of sites with SponsorBlock built in."
+  },
+  {
+    "id": "ha-bluetooth-audio-manager",
+    "headline": "HIDDEN GEM",
+    "title": "Bluetooth audio, finally solved for Home Assistant.",
+    "subtitle": "This add-on pairs A2DP Bluetooth devices to Home Assistant with persistent pairing and auto-reconnect — no more manual fiddling."
   }
 ]
