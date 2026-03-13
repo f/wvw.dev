@@ -5,5 +5,9 @@
   "stedwick/wvw.dev.apps",
   "shametim/agent-chess",
   "https://software-lab.shibukazu.com/apps.json",
-  "fixittech-sales/quadcode-listing"
+  "fixittech-sales/quadcode-listing",
+  "https://raw.githubusercontent.com/radioheavy/wiro_cl-/refs/heads/master/apps.json",
+  "https://raw.githubusercontent.com/radioheavy/captioneer/refs/heads/master/apps.json",
+  "https://raw.githubusercontent.com/radioheavy/avalon/refs/heads/main/apps.json",
+  "https://raw.githubusercontent.com/radioheavy/wiro-extension/refs/heads/master/apps.json"
 ]
