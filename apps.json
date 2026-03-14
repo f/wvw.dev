@@ -200,7 +200,7 @@
       "github": "https://github.com/f/agentlytics",
       "homepage": "https://agentlytics.io",
       "language": "JavaScript",
-      "stars": 326,
+      "stars": 327,
       "forks": 34,
       "installCommand": "npx agentlytics",
       "requirements": "Node.js 20.19+ or 22.12+, macOS",
@@ -327,7 +327,7 @@
       "_source": "sametcn99/apps",
       "_owner": "sametcn99",
       "_developer": "sametcn99",
-      "_store": "Appétit",
+      "_store": "sametcn99's Apps",
       "_storeUrl": "https://apps.sametcc.me"
     },
     {
@@ -881,7 +881,7 @@
       "_source": "sametcn99/apps",
       "_owner": "sametcn99",
       "_developer": "sametcn99",
-      "_store": "Appétit",
+      "_store": "sametcn99's Apps",
       "_storeUrl": "https://apps.sametcc.me"
     },
     {
@@ -1052,7 +1052,7 @@
       "_source": "sametcn99/apps",
       "_owner": "sametcn99",
       "_developer": "sametcn99",
-      "_store": "Appétit",
+      "_store": "sametcn99's Apps",
       "_storeUrl": "https://apps.sametcc.me"
     },
     {
@@ -1171,7 +1171,7 @@
       "_source": "sametcn99/apps",
       "_owner": "sametcn99",
       "_developer": "sametcn99",
-      "_store": "Appétit",
+      "_store": "sametcn99's Apps",
       "_storeUrl": "https://apps.sametcc.me"
     },
     {
@@ -1280,7 +1280,7 @@
       "_source": "sametcn99/apps",
       "_owner": "sametcn99",
       "_developer": "sametcn99",
-      "_store": "Appétit",
+      "_store": "sametcn99's Apps",
       "_storeUrl": "https://apps.sametcc.me"
     },
     {
@@ -1442,7 +1442,7 @@
       "_source": "sametcn99/apps",
       "_owner": "sametcn99",
       "_developer": "sametcn99",
-      "_store": "Appétit",
+      "_store": "sametcn99's Apps",
       "_storeUrl": "https://apps.sametcc.me"
     },
     {
@@ -1765,7 +1765,7 @@
       "_source": "sametcn99/apps",
       "_owner": "sametcn99",
       "_developer": "sametcn99",
-      "_store": "Appétit",
+      "_store": "sametcn99's Apps",
       "_storeUrl": "https://apps.sametcc.me"
     },
     {
@@ -1790,8 +1790,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 152253,
-      "forks": 20008,
+      "stars": 152276,
+      "forks": 20011,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -2016,7 +2016,7 @@
       "_source": "sametcn99/apps",
       "_owner": "sametcn99",
       "_developer": "sametcn99",
-      "_store": "Appétit",
+      "_store": "sametcn99's Apps",
       "_storeUrl": "https://apps.sametcc.me"
     },
     {
@@ -2191,7 +2191,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 1985,
+      "stars": 1987,
       "forks": 138,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
@@ -2271,7 +2271,7 @@
       "_source": "sametcn99/apps",
       "_owner": "sametcn99",
       "_developer": "sametcn99",
-      "_store": "Appétit",
+      "_store": "sametcn99's Apps",
       "_storeUrl": "https://apps.sametcc.me",
       "developer": "sametcn99"
     },
