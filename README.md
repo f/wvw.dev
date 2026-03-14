@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.svg" width="128" height="128" alt="World Vibe Web">
+  <img src="logo.png" width="128" height="128" alt="World Vibe Web">
 </p>
 
 <h1 align="center">World Vibe Web</h1>
@@ -63,7 +63,7 @@ python3 -m http.server 8080
 ├── index.html              Static site shell
 ├── style.css               Appétit UI styles
 ├── app.js                  Appétit UI logic
-├── logo.svg                WVW favicon/logo
+├── logo.png                WVW favicon/logo
 ├── stores.json             List of store sources (edit this)
 ├── build.sh                Fetches & merges all apps.json
 ├── apps.json               Generated — do not edit manually
