@@ -7,28 +7,28 @@
   },
   "featured": [
     {
-      "id": "prompts-chat",
-      "headline": "FAN FAVORITE",
-      "title": "The prompt library the internet built.",
-      "subtitle": "With 150K+ GitHub stars, Prompts.chat is where developers, writers, and AI power users come to find the perfect words — open source, self-hostable, and free forever."
+      "id": "mcptools",
+      "headline": "EDITOR'S PICK",
+      "title": "Command every AI tool from one terminal.",
+      "subtitle": "MCP Tools is the missing CLI for the Model Context Protocol — discover, invoke, and chain tools across any MCP-compatible server with effortless, scriptable precision."
     },
     {
-      "id": "textream",
-      "headline": "JUST SHIPPED",
-      "title": "Speak freely. Let your Mac follow.",
-      "subtitle": "Textream tracks every word you say in real time, scrolling your script as you speak — all processed on-device, tucked inside a stunning Dynamic Island overlay."
+      "id": "macabolic",
+      "headline": "MUST TRY",
+      "title": "Every video the internet has, downloaded.",
+      "subtitle": "Macabolic wraps yt-dlp in a polished Mac-native GUI — grab videos, audio, and entire playlists from YouTube and thousands of other sites, with SponsorBlock built right in."
     },
     {
-      "id": "dodopulse",
-      "headline": "RISING STAR",
-      "title": "Your Mac's vitals, always at a glance.",
-      "subtitle": "DodoPulse tucks gorgeous real-time graphs for CPU, memory, GPU, and network right into your menu bar — lightweight, native Swift, and surprisingly beautiful."
+      "id": "ha-bluetooth-audio-manager",
+      "headline": "HIDDEN GEM",
+      "title": "Bluetooth audio that just works, always.",
+      "subtitle": "This Home Assistant add-on quietly handles the persistent pairing and auto-reconnect headaches of A2DP Bluetooth audio — so your speakers are always ready when you are."
     },
     {
-      "id": "hono-telescope",
-      "headline": "TRENDING",
-      "title": "X-ray vision for your Hono API.",
-      "subtitle": "Drop one middleware into your Hono app and instantly get a real-time dashboard for requests, exceptions, logs, and database queries — zero config, full clarity."
+      "id": "vitepress-mermaid-renderer",
+      "headline": "COMMUNITY FAVORITE",
+      "title": "Diagrams that think inside your docs.",
+      "subtitle": "Drop this VitePress plugin in and watch Mermaid code blocks transform into interactive, exportable diagrams with full theme support — documentation that finally comes alive."
     }
   ],
   "categories": [
