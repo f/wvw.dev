@@ -108,7 +108,9 @@ total=$(echo "$unique_apps" | jq 'length')
 echo ""
 echo "Fetching live GitHub stats for $total apps..."
 
-updated_apps="[]"
+apps_file="$TMP_DIR/updated_apps.jsonl"
+> "$apps_file"
+
 while IFS= read -r app_json; do
   github_url=$(echo "$app_json" | jq -r '.github // ""')
   app_name=$(echo "$app_json" | jq -r '.name')
@@ -132,8 +134,9 @@ while IFS= read -r app_json; do
     issues_json=$(curl -sf "https://api.github.com/repos/$repo_path/issues?state=all&per_page=10&sort=created&direction=desc" \
       ${GITHUB_TOKEN:+-H "Authorization: token $GITHUB_TOKEN"} 2>/dev/null) || issues_json="[]"
 
-    if [ -n "$issues_json" ] && [ "$issues_json" != "[]" ]; then
-      comments=$(echo "$issues_json" | jq '[.[] | select(.pull_request == null) | {
+    is_array=$(echo "$issues_json" | jq 'type == "array"' 2>/dev/null) || is_array="false"
+    if [ "$is_array" = "true" ]; then
+      comments=$(echo "$issues_json" | jq '[.[] | select(type == "object") | select(.pull_request == null) | {
         user: .user.login,
         avatar: .user.avatar_url,
         title: .title,
@@ -161,11 +164,10 @@ while IFS= read -r app_json; do
     echo ""
   fi
 
-  updated_apps=$(echo "$updated_apps" "[$app_json]" | jq -s '.[0] + .[1]')
+  echo "$app_json" >> "$apps_file"
 done < <(echo "$unique_apps" | jq -c '.[]')
 
-jq -n \
-  --argjson apps "$updated_apps" \
+jq -s '.' "$apps_file" | jq \
   --argjson categories "$categories" \
   --argjson featured "$featured" \
   '{
@@ -177,7 +179,7 @@ jq -n \
     },
     featured: $featured,
     categories: $categories,
-    apps: $apps
+    apps: .
   }' > "$OUTPUT"
 
 rm -rf "$TMP_DIR"
