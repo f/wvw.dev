@@ -1792,12 +1792,12 @@
       "subtitle": "An Interactive Guide to AI Prompts",
       "description": "A comprehensive interactive guide to crafting clear and effective AI prompts — from foundations to advanced techniques like chain-of-thought, few-shot learning, and agentic systems.",
       "longDescription": "Written by Fatih Kadir Akın, curator of the 151K+ star Awesome ChatGPT Prompts repository. This interactive book covers how AI models think and process prompts, crafting clear and specific prompts, advanced techniques including chain-of-thought, few-shot learning, and prompt chaining, plus real-world use cases for writing, coding, education, and business. Features 25 interactive chapters with examples you can try directly in the browser. Continuously updated as AI evolves.",
-      "icon": "https://raw.githubusercontent.com/f/prompts.chat/main/public/logo-dark.svg",
+      "icon": "https://public-files.gumroad.com/hi3ruhodzjsspr6lg7h5if7hir9g",
       "iconStyle": {
-        "scale": 0.9,
+        "scale": 1,
         "objectFit": "contain",
         "bgColor": "#000000",
-        "padding": "18%"
+        "padding": "0"
       },
       "category": [
         "productivity"
