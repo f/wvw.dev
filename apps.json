@@ -200,7 +200,7 @@
       "github": "https://github.com/f/agentlytics",
       "homepage": "https://agentlytics.io",
       "language": "JavaScript",
-      "stars": 327,
+      "stars": 328,
       "forks": 34,
       "installCommand": "npx agentlytics",
       "requirements": "Node.js 20.19+ or 22.12+, macOS",
@@ -243,6 +243,89 @@
           }
         }
       ]
+    },
+    {
+      "id": "ai-word-or-not",
+      "name": "AI Word or Not",
+      "subtitle": "Human or AI? Word quiz game",
+      "description": "Can you tell the difference between AI-generated and human-written text? Test your skills with hundreds of challenges across multiple difficulty levels.",
+      "iconEmoji": "🧠",
+      "category": [
+        "games"
+      ],
+      "platform": "iOS",
+      "price": "Free",
+      "github": "https://github.com/mergisi",
+      "homepage": "https://apps.apple.com/us/app/ai-word-or-not/id6749833661",
+      "features": [
+        "Hundreds of AI vs human challenges",
+        "Multiple difficulty levels",
+        "Daily fresh challenges",
+        "Accuracy and streak tracking",
+        "Social sharing"
+      ],
+      "_source": "mergisi/apps",
+      "_owner": "mergisi",
+      "_developer": "Mustafa Ergisi",
+      "_store": "Mustafa Ergisi",
+      "_storeUrl": "",
+      "developer": "Mustafa Ergisi"
+    },
+    {
+      "id": "ai2image",
+      "name": "AI2image",
+      "subtitle": "AI image generation platform",
+      "description": "Generate stunning images with AI. Create Studio Ghibli style, realistic, and artistic images using AI prompts.",
+      "iconEmoji": "🎨",
+      "category": [
+        "graphics-design"
+      ],
+      "platform": "Web",
+      "price": "Freemium",
+      "github": "https://github.com/mergisi",
+      "homepage": "https://ai2image.com",
+      "features": [
+        "AI-powered image generation",
+        "Multiple art styles including Ghibli",
+        "Prompt templates and guides",
+        "High-resolution output"
+      ],
+      "_source": "mergisi/apps",
+      "_owner": "mergisi",
+      "_developer": "Mustafa Ergisi",
+      "_store": "Mustafa Ergisi",
+      "_storeUrl": "",
+      "developer": "Mustafa Ergisi"
+    },
+    {
+      "id": "ai2sql",
+      "name": "AI2SQL",
+      "subtitle": "Generate SQL queries with AI",
+      "description": "AI-powered SQL query generator. Write complex SQL without knowing SQL syntax. Supports MySQL, PostgreSQL, MongoDB, and more.",
+      "longDescription": "AI2SQL helps developers, data analysts, and non-technical users generate SQL queries using natural language. Paste your schema, describe what you want, get production-ready SQL. Supports multiple databases including MySQL, PostgreSQL, SQL Server, MongoDB, and Oracle.",
+      "iconEmoji": "🗄️",
+      "category": [
+        "developer-tools",
+        "business"
+      ],
+      "platform": "Web",
+      "price": "Freemium",
+      "github": "https://github.com/mergisi/ai2sql",
+      "homepage": "https://ai2sql.io",
+      "language": "TypeScript",
+      "features": [
+        "Natural language to SQL conversion",
+        "Multiple database support (MySQL, PostgreSQL, MongoDB)",
+        "Schema-aware query generation",
+        "Query explanation and optimization",
+        "CSV data analysis"
+      ],
+      "_source": "mergisi/apps",
+      "_owner": "mergisi",
+      "_developer": "Mustafa Ergisi",
+      "_store": "Mustafa Ergisi",
+      "_storeUrl": "",
+      "developer": "Mustafa Ergisi"
     },
     {
       "id": "appetit",
@@ -373,6 +456,96 @@
           "body": "Is there any way I can prevent repeat Keychain access requests?\n\nI'm cool with the access, I just want to set it and forget it.\n\n<img width=\"546\" height=\"291\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/3a75c441-fa84-4062-80f9-89c9153d068b\" />\n\n```\n% asc auth status  \nCredential stor",
           "url": "https://github.com/tddworks/asc-cli/issues/2",
           "created_at": "2026-03-13T14:22:25Z",
+          "reactions": {
+            "total": 0,
+            "thumbsUp": 0,
+            "thumbsDown": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "awesome-openclaw-agents",
+      "name": "Awesome OpenClaw Agents",
+      "subtitle": "103 open source AI agent templates",
+      "description": "Curated collection of 103 ready-to-deploy AI agent templates across 19 categories. SOUL.md configurations for OpenClaw framework.",
+      "iconEmoji": "⭐",
+      "category": [
+        "developer-tools"
+      ],
+      "platform": "Node.js",
+      "price": "Free",
+      "github": "https://github.com/mergisi/awesome-openclaw-agents",
+      "homepage": "https://crewclaw.com/agents",
+      "language": "Markdown",
+      "installCommand": "npx openclaw start",
+      "features": [
+        "103 agent templates",
+        "19 categories",
+        "300+ GitHub stars",
+        "SOUL.md configuration format",
+        "Ready to deploy with OpenClaw CLI"
+      ],
+      "_source": "mergisi/apps",
+      "_owner": "mergisi",
+      "_developer": "Mustafa Ergisi",
+      "_store": "Mustafa Ergisi",
+      "_storeUrl": "",
+      "developer": "Mustafa Ergisi",
+      "stars": 363,
+      "forks": 59,
+      "_comments": [
+        {
+          "user": "mergisi",
+          "avatar": "https://avatars.githubusercontent.com/u/6433678?v=4",
+          "title": "Add: Blog post to social media repurposing agent template",
+          "body": "## Template Request: Blog Post → Social Media Repurposing Agent\n\n### What this agent should do\n\nA SOUL.md template for an agent that takes a blog post URL or text and automatically generates platform-specific social content from it. The agent should:\n\n- Read a blog post (via URL or pasted text)\n- - ",
+          "url": "https://github.com/mergisi/awesome-openclaw-agents/issues/3",
+          "created_at": "2026-02-18T15:14:34Z",
+          "reactions": {
+            "total": 0,
+            "thumbsUp": 0,
+            "thumbsDown": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+          }
+        },
+        {
+          "user": "mergisi",
+          "avatar": "https://avatars.githubusercontent.com/u/6433678?v=4",
+          "title": "Add: Slack standup bot agent template",
+          "body": "## Template Request: Slack Standup Bot Agent\n\n### What this agent should do\n\nA SOUL.md template for an agent that runs daily async standups via Slack. The agent should:\n\n- Post a standup prompt to a Slack channel at a configured time (e.g. \"What did you do yesterday? What are you doing today? Any bl",
+          "url": "https://github.com/mergisi/awesome-openclaw-agents/issues/2",
+          "created_at": "2026-02-18T15:13:27Z",
+          "reactions": {
+            "total": 0,
+            "thumbsUp": 0,
+            "thumbsDown": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+          }
+        },
+        {
+          "user": "mergisi",
+          "avatar": "https://avatars.githubusercontent.com/u/6433678?v=4",
+          "title": "Add: GitHub PR reviewer agent template",
+          "body": "## Template Request: GitHub PR Reviewer Agent\n\n### What this agent should do\n\nA SOUL.md template for an agent that reviews GitHub pull requests. The agent should:\n\n- Read the PR diff and changed files\n- - Check for common issues (missing tests, unclear variable names, security concerns)\n- - - Post a",
+          "url": "https://github.com/mergisi/awesome-openclaw-agents/issues/1",
+          "created_at": "2026-02-18T15:12:25Z",
           "reactions": {
             "total": 0,
             "thumbsUp": 0,
@@ -670,6 +843,126 @@
       "forks": 0
     },
     {
+      "id": "cre-flyer-maker",
+      "name": "CRE Flyer Maker",
+      "subtitle": "Flyer maker for CRE brokers",
+      "description": "Create professional commercial real estate property flyers in under 3 minutes. Snap photos, fill details, generate client-ready PDFs.",
+      "iconEmoji": "🏢",
+      "category": [
+        "business"
+      ],
+      "platform": "iOS",
+      "price": "Free",
+      "github": "https://github.com/mergisi",
+      "homepage": "https://apps.apple.com/us/app/cre-flyer-maker/id6752876654",
+      "features": [
+        "Professional flyer templates",
+        "Photo capture and editing",
+        "QR code generation",
+        "PDF export",
+        "Custom branding and logos",
+        "Works offline"
+      ],
+      "_source": "mergisi/apps",
+      "_owner": "mergisi",
+      "_developer": "Mustafa Ergisi",
+      "_store": "Mustafa Ergisi",
+      "_storeUrl": "",
+      "developer": "Mustafa Ergisi"
+    },
+    {
+      "id": "crewclaw",
+      "name": "CrewClaw",
+      "subtitle": "Deploy AI agents in 60 seconds",
+      "description": "AI agent lifecycle platform. 103 ready-to-deploy templates across 19 categories. Build, deploy, and connect your AI employees to Telegram, Slack, Discord, and WhatsApp.",
+      "longDescription": "CrewClaw is the operating system for AI agents. Pick a role from 103 templates, customize personality and skills, deploy with one click. Each agent comes with SOUL.md, Docker config, Telegram bot, and full deploy package. Integrated with Moltbook for agent social profiles. One-time $9, no subscriptions.",
+      "iconEmoji": "🤖",
+      "category": [
+        "developer-tools",
+        "productivity"
+      ],
+      "platform": "Web",
+      "price": "$9",
+      "github": "https://github.com/mergisi/awesome-openclaw-agents",
+      "homepage": "https://crewclaw.com",
+      "language": "TypeScript",
+      "features": [
+        "103 ready-to-deploy agent templates",
+        "19 categories (Engineering, Sales, Marketing, etc.)",
+        "SOUL.md + Docker + Telegram bot in every package",
+        "Moltbook social profile integration",
+        "Works on Telegram, Slack, Discord, WhatsApp",
+        "One-time payment, no subscriptions"
+      ],
+      "_source": "mergisi/apps",
+      "_owner": "mergisi",
+      "_developer": "Mustafa Ergisi",
+      "_store": "Mustafa Ergisi",
+      "_storeUrl": "",
+      "developer": "Mustafa Ergisi",
+      "stars": 363,
+      "forks": 59,
+      "_comments": [
+        {
+          "user": "mergisi",
+          "avatar": "https://avatars.githubusercontent.com/u/6433678?v=4",
+          "title": "Add: Blog post to social media repurposing agent template",
+          "body": "## Template Request: Blog Post → Social Media Repurposing Agent\n\n### What this agent should do\n\nA SOUL.md template for an agent that takes a blog post URL or text and automatically generates platform-specific social content from it. The agent should:\n\n- Read a blog post (via URL or pasted text)\n- - ",
+          "url": "https://github.com/mergisi/awesome-openclaw-agents/issues/3",
+          "created_at": "2026-02-18T15:14:34Z",
+          "reactions": {
+            "total": 0,
+            "thumbsUp": 0,
+            "thumbsDown": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+          }
+        },
+        {
+          "user": "mergisi",
+          "avatar": "https://avatars.githubusercontent.com/u/6433678?v=4",
+          "title": "Add: Slack standup bot agent template",
+          "body": "## Template Request: Slack Standup Bot Agent\n\n### What this agent should do\n\nA SOUL.md template for an agent that runs daily async standups via Slack. The agent should:\n\n- Post a standup prompt to a Slack channel at a configured time (e.g. \"What did you do yesterday? What are you doing today? Any bl",
+          "url": "https://github.com/mergisi/awesome-openclaw-agents/issues/2",
+          "created_at": "2026-02-18T15:13:27Z",
+          "reactions": {
+            "total": 0,
+            "thumbsUp": 0,
+            "thumbsDown": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+          }
+        },
+        {
+          "user": "mergisi",
+          "avatar": "https://avatars.githubusercontent.com/u/6433678?v=4",
+          "title": "Add: GitHub PR reviewer agent template",
+          "body": "## Template Request: GitHub PR Reviewer Agent\n\n### What this agent should do\n\nA SOUL.md template for an agent that reviews GitHub pull requests. The agent should:\n\n- Read the PR diff and changed files\n- - Check for common issues (missing tests, unclear variable names, security concerns)\n- - - Post a",
+          "url": "https://github.com/mergisi/awesome-openclaw-agents/issues/1",
+          "created_at": "2026-02-18T15:12:25Z",
+          "reactions": {
+            "total": 0,
+            "thumbsUp": 0,
+            "thumbsDown": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+          }
+        }
+      ]
+    },
+    {
       "id": "damga",
       "name": "Damga",
       "subtitle": "Digitalized loyalty cards.",
@@ -697,6 +990,32 @@
       "_store": "Kagan Temizkan",
       "_storeUrl": "https://my-store-six-ruby.vercel.app/apps",
       "developer": "Kagan Temizkan"
+    },
+    {
+      "id": "deep-work-zone",
+      "name": "Deep Work Zone",
+      "subtitle": "Website blocker & Pomodoro timer",
+      "description": "Chrome extension that blocks distracting websites and includes a Pomodoro timer for focused deep work sessions.",
+      "iconEmoji": "🎯",
+      "category": [
+        "productivity"
+      ],
+      "platform": "Chrome Extension",
+      "price": "Free",
+      "github": "https://github.com/mergisi",
+      "homepage": "https://deepworkz.one",
+      "features": [
+        "Block distracting websites",
+        "Built-in Pomodoro timer",
+        "Customizable block lists",
+        "Focus session tracking"
+      ],
+      "_source": "mergisi/apps",
+      "_owner": "mergisi",
+      "_developer": "Mustafa Ergisi",
+      "_store": "Mustafa Ergisi",
+      "_storeUrl": "",
+      "developer": "Mustafa Ergisi"
     },
     {
       "id": "deeper",
@@ -2817,6 +3136,34 @@
       "_storeUrl": "https://apps.sametcc.me"
     },
     {
+      "id": "prompt-pilot",
+      "name": "Prompt Pilot",
+      "subtitle": "AI prompt guide & templates",
+      "description": "Discover, organize, and reuse high-performing prompts for ChatGPT, Claude, and Gemini. 170+ curated prompts and 50 customizable templates.",
+      "iconEmoji": "✈️",
+      "category": [
+        "productivity"
+      ],
+      "platform": "iOS",
+      "price": "Free",
+      "github": "https://github.com/mergisi",
+      "homepage": "https://apps.apple.com/us/app/prompt-pilot/id6749590169",
+      "features": [
+        "170+ curated AI prompts",
+        "50 customizable templates",
+        "Smart search and collections",
+        "Import prompts from web",
+        "Daily prompt challenges",
+        "Works with ChatGPT, Claude, Gemini"
+      ],
+      "_source": "mergisi/apps",
+      "_owner": "mergisi",
+      "_developer": "Mustafa Ergisi",
+      "_store": "Mustafa Ergisi",
+      "_storeUrl": "",
+      "developer": "Mustafa Ergisi"
+    },
+    {
       "id": "prompts-chat",
       "name": "Prompts.chat",
       "subtitle": "Community Prompt Collection",
@@ -2838,8 +3185,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 152303,
-      "forks": 20017,
+      "stars": 152316,
+      "forks": 20018,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -2922,8 +3269,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 152303,
-      "forks": 20017,
+      "stars": 152316,
+      "forks": 20018,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -3347,6 +3694,35 @@
           }
         }
       ]
+    },
+    {
+      "id": "sql-prep",
+      "name": "SQL Prep",
+      "subtitle": "SQL interview prep & quiz",
+      "description": "Learn SQL through 500+ interactive challenges. Practice SELECT, JOIN, subqueries, and window functions with instant feedback.",
+      "iconEmoji": "📊",
+      "category": [
+        "developer-tools",
+        "education"
+      ],
+      "platform": "iOS",
+      "price": "Free",
+      "github": "https://github.com/mergisi",
+      "homepage": "https://apps.apple.com/us/app/sql-prep/id6752492649",
+      "features": [
+        "500+ interactive SQL challenges",
+        "Multiple difficulty levels",
+        "Covers SELECT, JOIN, subqueries, window functions",
+        "Instant feedback and XP rewards",
+        "Leaderboard competition",
+        "AI hints for stuck moments"
+      ],
+      "_source": "mergisi/apps",
+      "_owner": "mergisi",
+      "_developer": "Mustafa Ergisi",
+      "_store": "Mustafa Ergisi",
+      "_storeUrl": "",
+      "developer": "Mustafa Ergisi"
     },
     {
       "id": "superportless",
