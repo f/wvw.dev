@@ -108,7 +108,9 @@ total=$(echo "$unique_apps" | jq 'length')
 echo ""
 echo "Fetching live GitHub stats for $total apps..."
 
-updated_apps="[]"
+apps_file="$TMP_DIR/updated_apps.jsonl"
+> "$apps_file"
+
 while IFS= read -r app_json; do
   github_url=$(echo "$app_json" | jq -r '.github // ""')
   app_name=$(echo "$app_json" | jq -r '.name')
@@ -162,11 +164,10 @@ while IFS= read -r app_json; do
     echo ""
   fi
 
-  updated_apps=$(echo "$updated_apps" "[$app_json]" | jq -s '.[0] + .[1]')
+  echo "$app_json" >> "$apps_file"
 done < <(echo "$unique_apps" | jq -c '.[]')
 
-jq -n \
-  --argjson apps "$updated_apps" \
+jq -s '.' "$apps_file" | jq \
   --argjson categories "$categories" \
   --argjson featured "$featured" \
   '{
@@ -178,7 +179,7 @@ jq -n \
     },
     featured: $featured,
     categories: $categories,
-    apps: $apps
+    apps: .
   }' > "$OUTPUT"
 
 rm -rf "$TMP_DIR"
