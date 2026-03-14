@@ -1,26 +1,26 @@
 [
   {
-    "id": "dodopulse",
-    "headline": "FROM DODOAPPS",
-    "title": "Your Mac, at a glance.",
-    "subtitle": "Real-time CPU, memory, GPU, and network monitoring in your menu bar — with beautiful mini graphs."
+    "id": "prompts-chat",
+    "headline": "FAN FAVORITE",
+    "title": "The prompt library the internet built.",
+    "subtitle": "With 150K+ GitHub stars, Prompts.chat is where developers, writers, and AI power users come to find the perfect words — open source, self-hostable, and free forever."
   },
   {
     "id": "textream",
-    "headline": "NEW APP",
-    "title": "Your script, always in sight.",
-    "subtitle": "Textream brings a Dynamic Island teleprompter to your Mac — highlighting words as you speak them."
+    "headline": "JUST SHIPPED",
+    "title": "Speak freely. Let your Mac follow.",
+    "subtitle": "Textream tracks every word you say in real time, scrolling your script as you speak — all processed on-device, tucked inside a stunning Dynamic Island overlay."
   },
   {
-    "id": "prompts-chat",
-    "headline": "151K+ STARS",
-    "title": "The world's largest prompt collection.",
-    "subtitle": "Share, discover, and collect AI prompts from the community. Free, open source, and self-hostable."
+    "id": "dodopulse",
+    "headline": "RISING STAR",
+    "title": "Your Mac's vitals, always at a glance.",
+    "subtitle": "DodoPulse tucks gorgeous real-time graphs for CPU, memory, GPU, and network right into your menu bar — lightweight, native Swift, and surprisingly beautiful."
   },
   {
-    "id": "dodoshot",
-    "headline": "FREE ALTERNATIVE",
-    "title": "Screenshots, reimagined.",
-    "subtitle": "A beautiful, free screenshot tool for macOS — capture, annotate, and manage. Inspired by CleanShot X."
+    "id": "hono-telescope",
+    "headline": "TRENDING",
+    "title": "X-ray vision for your Hono API.",
+    "subtitle": "Drop one middleware into your Hono app and instantly get a real-time dashboard for requests, exceptions, logs, and database queries — zero config, full clarity."
   }
 ]

@@ -5,8 +5,10 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch:
   push:
-    branches: [main]
-    paths: [stores.json]
+    branches: [master]
+    paths:
+      - stores.json
+      - featured.json
 
 permissions:
   contents: write
