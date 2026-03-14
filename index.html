@@ -9,6 +9,12 @@
   <link rel="canonical" href="https://wvw.dev">
   <link rel="icon" type="image/png" href="logo.png">
   <link rel="stylesheet" href="style.css">
+  <script>
+    (function() {
+      var p = new URLSearchParams(window.location.search).get('p');
+      if (p) history.replaceState(null, '', p);
+    })();
+  </script>
 </head>
 <body>
   <div class="app-store">

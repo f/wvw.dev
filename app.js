@@ -741,23 +741,29 @@
   }
 
   // Router
-  let suppressHash = false;
+  function buildPath(view, appId) {
+    if (appId) return `/${view}/${appId}`;
+    if (view === "discover") return `/`;
+    return `/${view}`;
+  }
 
-  function buildHash(view, appId) {
-    if (appId) return `#/${view}/${appId}`;
-    if (view === "discover") return "#/";
-    return `#/${view}`;
+  function parsePath() {
+    const path = location.pathname.replace(/^\//, "");
+    if (!path) return { view: "discover", appId: null };
+    const parts = path.split("/");
+    if (parts.length >= 2) return { view: parts[0], appId: parts[1] };
+    return { view: parts[0], appId: null };
   }
 
   function parseHash() {
     const hash = location.hash.replace(/^#\/?/, "");
-    if (!hash) return { view: "discover", appId: null };
+    if (!hash) return null;
     const parts = hash.split("/");
     if (parts.length >= 2) return { view: parts[0], appId: parts[1] };
     return { view: parts[0], appId: null };
   }
 
-  function navigate(view, appId, fromHash) {
+  function navigate(view, appId, skipPush) {
     if (carouselTimer) { clearInterval(carouselTimer); carouselTimer = null; }
     const scroll = $("#contentScroll");
     scroll.scrollTop = 0;
@@ -785,10 +791,8 @@
       scroll.innerHTML = renderCategory(view);
     }
 
-    if (!fromHash) {
-      suppressHash = true;
-      location.hash = buildHash(currentView, currentApp);
-      suppressHash = false;
+    if (!skipPush) {
+      history.pushState(null, "", buildPath(currentView, currentApp));
     }
 
     buildSidebar();
@@ -796,9 +800,8 @@
     updateMobileTopbar();
   }
 
-  function onHashChange() {
-    if (suppressHash) return;
-    const { view, appId } = parseHash();
+  function onPopState() {
+    const { view, appId } = parsePath();
     navigate(view || "discover", appId || null, true);
   }
 
@@ -1147,9 +1150,17 @@
     }
 
     buildSidebar();
-    window.addEventListener("hashchange", onHashChange);
-    const initial = parseHash();
-    navigate(initial.view || "discover", initial.appId || null);
+    window.addEventListener("popstate", onPopState);
+
+    const hashRoute = parseHash();
+    if (hashRoute) {
+      history.replaceState(null, "", buildPath(hashRoute.view, hashRoute.appId));
+      navigate(hashRoute.view || "discover", hashRoute.appId || null, true);
+    } else {
+      const initial = parsePath();
+      navigate(initial.view || "discover", initial.appId || null, true);
+    }
+
     bindSidebar();
     bindSearch();
     bindKeyboard();
