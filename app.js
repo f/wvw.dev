@@ -149,6 +149,13 @@
     );
   }
 
+  function parseSearchQuery(query) {
+    const byMatch = query.match(/(?:^|\s)by:(?:"([^"]+)"|(.+?))(?=\s+\w+:|$)/i);
+    const publisherQuery = byMatch ? (byMatch[1] || byMatch[2] || "").trim().toLowerCase() : "";
+    const textQuery = (byMatch ? query.replace(byMatch[0], " ") : query).trim().toLowerCase();
+    return { publisherQuery, textQuery };
+  }
+
   function appRow(app) {
     return `
       <div class="app-row" data-app="${app.id}">
@@ -476,9 +483,7 @@
 
   // Search results
   function renderSearch(query) {
-    const publisherMatch = query.match(/(?:^|\s)by:([^\s]+)/i);
-    const publisherQuery = publisherMatch ? publisherMatch[1].trim().toLowerCase() : "";
-    const textQuery = query.replace(/(?:^|\s)by:[^\s]+/ig, " ").trim().toLowerCase();
+    const { publisherQuery, textQuery } = parseSearchQuery(query);
     const matchingApps = data.apps
       .map((app) => ({
         app,
