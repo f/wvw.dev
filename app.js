@@ -1024,7 +1024,8 @@
       el.addEventListener("click", (e) => {
         if (e.target.closest("[data-action='get']")) return;
         if (e.target.closest("a")) return;
-        navigate(currentView, el.dataset.app);
+        const view = (currentView === "stores" && currentApp) ? "discover" : currentView;
+        navigate(view, el.dataset.app);
       });
     });
 
