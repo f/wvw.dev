@@ -125,6 +125,30 @@
     return `<span class="owner-badge">${label}</span>`;
   }
 
+  function getAppPublisherTerms(app) {
+    return [app.developer, app._developer, app._owner, data.store.developer]
+      .filter(Boolean)
+      .map((value) => value.toLowerCase());
+  }
+
+  function getPublisherMatchType(app, query) {
+    if (!query) return 0;
+    const terms = getAppPublisherTerms(app);
+    if (terms.some((value) => value === query)) return 2;
+    if (terms.some((value) => value.includes(query))) return 1;
+    return 0;
+  }
+
+  function matchesSearchText(app, query) {
+    if (!query) return true;
+    return (
+      app.name.toLowerCase().includes(query) ||
+      app.subtitle.toLowerCase().includes(query) ||
+      app.description.toLowerCase().includes(query) ||
+      (app.features && app.features.some((f) => f.toLowerCase().includes(query)))
+    );
+  }
+
   function appRow(app) {
     return `
       <div class="app-row" data-app="${app.id}">
@@ -452,14 +476,25 @@
 
   // Search results
   function renderSearch(query) {
-    const q = query.toLowerCase();
-    const results = data.apps.filter(
-      (a) =>
-        a.name.toLowerCase().includes(q) ||
-        a.subtitle.toLowerCase().includes(q) ||
-        a.description.toLowerCase().includes(q) ||
-        (a.features && a.features.some((f) => f.toLowerCase().includes(q)))
-    );
+    const publisherMatch = query.match(/(?:^|\s)by:([^\s]+)/i);
+    const publisherQuery = publisherMatch ? publisherMatch[1].trim().toLowerCase() : "";
+    const textQuery = query.replace(/(?:^|\s)by:[^\s]+/ig, " ").trim().toLowerCase();
+    const matchingApps = data.apps
+      .map((app) => ({
+        app,
+        publisherMatchType: publisherQuery ? getPublisherMatchType(app, publisherQuery) : 0,
+      }))
+      .filter(({ app, publisherMatchType }) =>
+        (!publisherQuery || publisherMatchType > 0) && matchesSearchText(app, textQuery)
+      );
+
+    const exactPublisherMatches = publisherQuery
+      ? matchingApps.filter(({ publisherMatchType }) => publisherMatchType === 2).map(({ app }) => app)
+      : [];
+    const partialPublisherMatches = publisherQuery
+      ? matchingApps.filter(({ publisherMatchType }) => publisherMatchType === 1).map(({ app }) => app)
+      : [];
+    const results = !publisherQuery ? matchingApps.map(({ app }) => app) : exactPublisherMatches.concat(partialPublisherMatches);
 
     if (results.length === 0) {
       return `
@@ -473,9 +508,22 @@
 
     return `
       <div class="page-header"><h1>Search: "${query}"</h1></div>
+      ${publisherQuery ? `
+      <div class="app-list">
+        ${exactPublisherMatches.map((a) => appRow(a)).join("")}
+      </div>
+      ${partialPublisherMatches.length > 0 ? `
+      <div class="section">
+        <div class="section-header">
+          <h2>Related Publisher Matches</h2>
+        </div>
+        <div class="app-list">
+          ${partialPublisherMatches.map((a) => appRow(a)).join("")}
+        </div>
+      </div>` : ""}` : `
       <div class="app-list">
         ${results.map((a) => appRow(a)).join("")}
-      </div>`;
+      </div>`}`;
   }
 
   // Stores Page
