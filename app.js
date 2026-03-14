@@ -706,8 +706,25 @@
         </div>`;
     }
 
+    const totalApps = data.apps ? data.apps.length : 0;
+    const totalStars = storesData.reduce((sum, s) => sum + s.totalStars, 0);
+
     return `
       <div class="page-header"><h1>Stores</h1></div>
+      <div class="stores-overview">
+        <div class="stores-overview-stat">
+          <div class="stores-overview-value">${storesData.length}</div>
+          <div class="stores-overview-label">Stores</div>
+        </div>
+        <div class="stores-overview-stat">
+          <div class="stores-overview-value">${totalApps}</div>
+          <div class="stores-overview-label">Apps</div>
+        </div>
+        <div class="stores-overview-stat">
+          <div class="stores-overview-value">${formatNumber(totalStars)}</div>
+          <div class="stores-overview-label">Stars</div>
+        </div>
+      </div>
       <p style="color:var(--text-secondary);font-size:14px;margin-bottom:24px;line-height:1.5">
         World Vibe Web aggregates apps from independent stores. Each store maintains its own <code style="font-size:12px;background:var(--bg-tertiary);padding:2px 6px;border-radius:4px">apps.json</code> and contributes to the unified catalog.
       </p>

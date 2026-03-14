@@ -1534,6 +1534,34 @@ a.about-btn {
 }
 
 /* Stores Page */
+.stores-overview {
+  display: flex;
+  gap: 32px;
+  margin-bottom: 20px;
+  padding: 20px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.stores-overview-stat {
+  display: flex;
+  flex-direction: column;
+}
+
+.stores-overview-value {
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--text-primary);
+  line-height: 1.2;
+}
+
+.stores-overview-label {
+  font-size: 12px;
+  color: var(--text-tertiary);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-top: 2px;
+}
+
 .stores-list {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
