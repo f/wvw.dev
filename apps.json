@@ -518,7 +518,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 382,
+      "stars": 383,
       "forks": 63,
       "_comments": [
         {
@@ -920,7 +920,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 382,
+      "stars": 383,
       "forks": 63,
       "_comments": [
         {
@@ -1562,8 +1562,8 @@
       "github": "https://github.com/DodoApps/dodoshot",
       "homepage": null,
       "language": "Swift",
-      "stars": 32,
-      "forks": 3,
+      "stars": 33,
+      "forks": 4,
       "downloadUrl": null,
       "requirements": "macOS 14.0 or later",
       "features": [
@@ -1588,25 +1588,6 @@
           "body": "When you select an image with the rectangle tool or arrow in Dodoshot and save it, the rectangle is repositioned at a different point on the image before saving.\n\nThe first image shows where I positioned the red frame in Dodoshot, and the second image shows where it was positioned after saving the i",
           "url": "https://github.com/DodoApps/dodoshot/issues/8",
           "created_at": "2026-02-10T18:21:06Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "bahadirdemircioglu",
-          "avatar": "https://avatars.githubusercontent.com/u/220878008?v=4",
-          "title": "Cannot pass the “Screen & System Audio Recording” permission screen even after granting permission",
-          "body": "Even though I have already granted Screen & System Audio Recording permission to the Dodoshot application in macOS system settings, the application gets stuck on the permission request screen at startup and does not proceed.\n\nThe permission is clearly enabled in:\nSystem Settings → Privacy & Security",
-          "url": "https://github.com/DodoApps/dodoshot/issues/7",
-          "created_at": "2026-02-06T07:30:09Z",
           "reactions": {
             "total": 0,
             "thumbsUp": 0,
@@ -2383,7 +2364,7 @@
       "github": "https://github.com/f/istanbul",
       "homepage": null,
       "language": "Swift",
-      "stars": 13,
+      "stars": 14,
       "forks": 4,
       "brew": "brew install f/tap/istanbul",
       "downloadUrl": "https://github.com/f/istanbul/releases/latest",
@@ -3365,8 +3346,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 152387,
-      "forks": 20022,
+      "stars": 152400,
+      "forks": 20027,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -3449,8 +3430,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 152387,
-      "forks": 20022,
+      "stars": 152400,
+      "forks": 20027,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -4063,8 +4044,8 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 1992,
-      "forks": 138,
+      "stars": 1993,
+      "forks": 140,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
       "requirements": "macOS 15 Sequoia or later",
