@@ -174,9 +174,7 @@
       "_developer": "Martin",
       "_store": "shametim",
       "_storeUrl": "",
-      "developer": "Martin",
-      "stars": 0,
-      "forks": 0
+      "developer": "Martin"
     },
     {
       "id": "agentlytics",
@@ -200,8 +198,8 @@
       "github": "https://github.com/f/agentlytics",
       "homepage": "https://agentlytics.io",
       "language": "JavaScript",
-      "stars": 327,
-      "forks": 34,
+      "stars": 325,
+      "forks": 33,
       "installCommand": "npx agentlytics",
       "requirements": "Node.js 20.19+ or 22.12+, macOS",
       "features": [
@@ -221,28 +219,7 @@
       "_developer": "Fatih Kadir Akin",
       "_store": "Appétit",
       "_storeUrl": "https://apps.fka.dev",
-      "developer": "Fatih Kadir Akin",
-      "_comments": [
-        {
-          "user": "TheYkk",
-          "avatar": "https://avatars.githubusercontent.com/u/21688838?v=4",
-          "title": "Cursor data incomplete",
-          "body": "I can only see the session list and their contents but not the model info nor the token usage. I am on the old billing plan. that might be it.",
-          "url": "https://github.com/f/agentlytics/issues/19",
-          "created_at": "2026-03-09T19:45:36Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        }
-      ]
+      "developer": "Fatih Kadir Akin"
     },
     {
       "id": "appetit",
@@ -280,28 +257,7 @@
       "_developer": "Fatih Kadir Akin",
       "_store": "Appétit",
       "_storeUrl": "https://apps.fka.dev",
-      "developer": "Fatih Kadir Akin",
-      "_comments": [
-        {
-          "user": "f",
-          "avatar": "https://avatars.githubusercontent.com/u/196477?v=4",
-          "title": "Awesome",
-          "body": "Awesome app!",
-          "url": "https://github.com/f/appetit/issues/4",
-          "created_at": "2026-03-14T09:30:27Z",
-          "reactions": {
-            "total": 1,
-            "thumbsUp": 1,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        }
-      ]
+      "developer": "Fatih Kadir Akin"
     },
     {
       "id": "bilokma",
@@ -332,9 +288,7 @@
       "_developer": "Kagan Temizkan",
       "_store": "Kagan Temizkan",
       "_storeUrl": "https://my-store-six-ruby.vercel.app/apps",
-      "developer": "Kagan Temizkan",
-      "stars": 1,
-      "forks": 0
+      "developer": "Kagan Temizkan"
     },
     {
       "id": "booking-calendar",
@@ -370,104 +324,7 @@
       "_owner": "sametcn99",
       "_developer": "sametcn99",
       "_store": "sametcn99's Apps",
-      "_storeUrl": "https://apps.sametcc.me",
-      "_comments": [
-        {
-          "user": "AnonymousMonkeyNo12",
-          "avatar": "https://avatars.githubusercontent.com/u/183312345?v=4",
-          "title": "[Bug] Booking link creation should not have negative validity inputs in the frontend",
-          "body": "<img width=\"967\" height=\"770\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/0ae656fc-8533-48c5-83a1-3f1244c51b7c\" />\n\n- I suggest disallowing negative validity, as a user I have no clue what that could mean.\n\n- If set to 0, it should change to displaying the word \"unlimited\" and functi",
-          "url": "https://github.com/sametcn99/booking-calendar/issues/7",
-          "created_at": "2026-02-22T14:48:06Z",
-          "reactions": {
-            "total": 1,
-            "thumbsUp": 1,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "sametcn99",
-          "avatar": "https://avatars.githubusercontent.com/u/57061347?v=4",
-          "title": "add/remove tags on Events, Planner entries & Appointments",
-          "body": "Summary\n\nAllow admin to add, edit, and remove personal tags on admin-only Events, Planner items, and Appointments so they can organize and surface items relevant to their workflow. Tags are personal (visible only to the tagging admin) and used for quick grouping, filtering, and visual emphasis in ad",
-          "url": "https://github.com/sametcn99/booking-calendar/issues/6",
-          "created_at": "2026-02-22T04:05:38Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "sametcn99",
-          "avatar": "https://avatars.githubusercontent.com/u/57061347?v=4",
-          "title": "Allow admin to edit or remove booking-link slots after creation without breaking existing guest appointments",
-          "body": "Admin must be able to update slots for a booking link after the link is created. If a slot has one or more guest appointments, admin edits or deletions must not invalidate, move, or delete those appointments.\n\nAcceptance criteria:\n\nAdmin can add, edit (start/end/timezone/metadata), and remove slots ",
-          "url": "https://github.com/sametcn99/booking-calendar/issues/5",
-          "created_at": "2026-02-22T03:52:10Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "sametcn99",
-          "avatar": "https://avatars.githubusercontent.com/u/57061347?v=4",
-          "title": "Allow admin to sort lists by date (new→old and old→new), search within item cards by text, and filter lists by selecting a specific date range in the Appointments, Events, and Planner views.",
-          "body": "Feature Summary\n\nAllow admin to sort lists by date (new→old and old→new), search within item cards by text, and filter lists by selecting a specific date range in the Appointments, Events, and Planner views.\nUser-facing Behavior\n\nSorting: A single control lets the user choose descending (newest firs",
-          "url": "https://github.com/sametcn99/booking-calendar/issues/4",
-          "created_at": "2026-02-22T03:25:27Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "sametcn99",
-          "avatar": "https://avatars.githubusercontent.com/u/57061347?v=4",
-          "title": "Require admin approval for guest-created appointments",
-          "body": "Goal: Add optional \"admin approval\" for guest-created appointments so they do not appear on the admin calendar until approved.\nToggle: Checkbox on booking-link creation (default: unchecked). If checked, guests must enter their email when booking.\nAdmin UX: Pending appointments appear in Appointments",
-          "url": "https://github.com/sametcn99/booking-calendar/issues/3",
-          "created_at": "2026-02-22T03:18:58Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        }
-      ]
+      "_storeUrl": "https://apps.sametcc.me"
     },
     {
       "id": "check-ai",
@@ -546,9 +403,7 @@
       "_developer": "Levent Bali",
       "_store": "Levent Bali",
       "_storeUrl": "",
-      "developer": "Levent Bali",
-      "stars": 0,
-      "forks": 0
+      "developer": "Levent Bali"
     },
     {
       "id": "damga",
@@ -622,28 +477,7 @@
       "_developer": "Fatih Kadir Akin",
       "_store": "Appétit",
       "_storeUrl": "https://apps.fka.dev",
-      "developer": "Fatih Kadir Akin",
-      "_comments": [
-        {
-          "user": "jamesmurdza",
-          "avatar": "https://avatars.githubusercontent.com/u/33395784?v=4",
-          "title": "Support for macOS sequoia",
-          "body": "This would be nice. Thank you!",
-          "url": "https://github.com/f/deeper/issues/3",
-          "created_at": "2026-03-08T11:40:59Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        }
-      ]
+      "developer": "Fatih Kadir Akin"
     },
     {
       "id": "dev-cleaner",
@@ -682,9 +516,7 @@
       "_developer": "Tolsion",
       "_store": "Dev Cleaner",
       "_storeUrl": "",
-      "developer": "Tolsion",
-      "stars": 2,
-      "forks": 0
+      "developer": "Tolsion"
     },
     {
       "id": "dodoclip",
@@ -708,8 +540,8 @@
       "github": "https://github.com/DodoApps/dodoclip",
       "homepage": null,
       "language": "Swift",
-      "stars": 79,
-      "forks": 4,
+      "stars": 47,
+      "forks": 0,
       "downloadUrl": null,
       "requirements": "macOS 14.0 or later",
       "features": [
@@ -725,85 +557,7 @@
       "_owner": "DodoApps",
       "_developer": "DodoApps",
       "_store": "DodoApps",
-      "_storeUrl": "",
-      "_comments": [
-        {
-          "user": "makiftutuncu",
-          "avatar": "https://avatars.githubusercontent.com/u/1009191?v=4",
-          "title": "Incorrect Version in About",
-          "body": "I noticed even after installing v1.3.1, I'm seeing an old version in the about page of the settings.\n\n<img width=\"612\" height=\"500\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/3b42bfe3-66d8-4058-8730-5ec936ed5c72\" />",
-          "url": "https://github.com/DodoApps/dodoclip/issues/17",
-          "created_at": "2026-02-12T11:54:42Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "makiftutuncu",
-          "avatar": "https://avatars.githubusercontent.com/u/1009191?v=4",
-          "title": "Ability to Paste Directly",
-          "body": "As far as I understand, initiating a paste in any way doesn't actually paste it into the current cursor but it sets the clipboard content so that the next <kbd>Cmd</kbd>+<kbd>V</kbd> then actually pastes it to the current cursor. This is a bit tedious. I think with a background helper, this is in fa",
-          "url": "https://github.com/DodoApps/dodoclip/issues/16",
-          "created_at": "2026-02-11T12:38:22Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "grandeand",
-          "avatar": "https://avatars.githubusercontent.com/u/178186303?v=4",
-          "title": "Quick Paste (⌘1-9) shortcuts not working despite proper permissions",
-          "body": "### Description\nQuick Paste feature (⌘1-9 shortcuts) is not working despite having all required permissions enabled. The clipboard history panel works correctly (⇧⌘V), but keyboard shortcuts for quick pasting don't trigger.\n\n### Expected Behavior\n- Close the DodoClip panel\n- Press ⌘1 → First clipboa",
-          "url": "https://github.com/DodoApps/dodoclip/issues/11",
-          "created_at": "2026-02-02T17:18:58Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "balcis",
-          "avatar": "https://avatars.githubusercontent.com/u/27490744?v=4",
-          "title": "pinlenmiş öğeler için herhangi bir görsel belirteç yok",
-          "body": "pinlemiş öğeler hem görsel olarak fark edilmiyor (ben edemedim) hem de örneğin günde 20 kere yapıştırdığım bir şey 1000 öğelik yerde aramak da gereksiz. direkt pin işareti ve pinlenen öğelerin başta, en solda sabit durması çok pratik olur. herkes böyle istemezse lütfen ayarlara ekleyin. benzer metin",
-          "url": "https://github.com/DodoApps/dodoclip/issues/10",
-          "created_at": "2026-01-31T17:55:13Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        }
-      ]
+      "_storeUrl": ""
     },
     {
       "id": "dodocount",
@@ -827,8 +581,8 @@
       "github": "https://github.com/DodoApps/dodocount",
       "homepage": null,
       "language": "Swift",
-      "stars": 14,
-      "forks": 2,
+      "stars": 0,
+      "forks": 0,
       "downloadUrl": null,
       "requirements": "macOS 14.0 or later",
       "features": [
@@ -866,7 +620,7 @@
       "github": "https://github.com/DodoApps/dodonest",
       "homepage": null,
       "language": "Swift",
-      "stars": 7,
+      "stars": 2,
       "forks": 0,
       "downloadUrl": null,
       "requirements": "macOS 14.0 or later",
@@ -907,7 +661,7 @@
       "github": "https://github.com/DodoApps/dodopass",
       "homepage": null,
       "language": "Swift",
-      "stars": 3,
+      "stars": 0,
       "forks": 0,
       "downloadUrl": null,
       "requirements": "macOS 14.0 or later",
@@ -946,8 +700,8 @@
       "github": "https://github.com/DodoApps/dodopulse",
       "homepage": null,
       "language": "Swift",
-      "stars": 127,
-      "forks": 13,
+      "stars": 101,
+      "forks": 0,
       "downloadUrl": null,
       "requirements": "macOS 12.0 or later",
       "features": [
@@ -963,85 +717,7 @@
       "_owner": "DodoApps",
       "_developer": "DodoApps",
       "_store": "DodoApps",
-      "_storeUrl": "",
-      "_comments": [
-        {
-          "user": "mhmmd5225",
-          "avatar": "https://avatars.githubusercontent.com/u/150592957?v=4",
-          "title": "mac mini fan kontrol ve sıcaklık bilgisi",
-          "body": "Merhaba hocam fan hızını ayarlama özelliği ekler misiniz? Cpu kısmında sıcaklık bilgisini görebilirsek güzel olur. \nCihazım Mac mini m4 \nTeşekkürler elinize sağlık",
-          "url": "https://github.com/DodoApps/dodopulse/issues/6",
-          "created_at": "2026-02-01T12:14:34Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "moebis",
-          "avatar": "https://avatars.githubusercontent.com/u/3595244?v=4",
-          "title": "Great app, but might need optimization",
-          "body": "Big fan of menu bar stat apps, I've tried them all. This is one of the nicest and cleanest. I love that it doesn't try to do too much, shows you what you need and links to native apps like activity monitor and disk utility. Only issue is that it's constantly consuming 10-12% CPU even in the backgrou",
-          "url": "https://github.com/DodoApps/dodopulse/issues/4",
-          "created_at": "2026-01-26T18:29:58Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "rodvay",
-          "avatar": "https://avatars.githubusercontent.com/u/6803794?v=4",
-          "title": "Windows için widget çalışması",
-          "body": "Windows için widget çalışması",
-          "url": "https://github.com/DodoApps/dodopulse/issues/2",
-          "created_at": "2026-01-26T13:23:28Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "isezen",
-          "avatar": "https://avatars.githubusercontent.com/u/613356?v=4",
-          "title": "Sistem uyumsuz mesajı",
-          "body": "Merhaba,\n\n1. Homebrew ile kurulum yaptım.\n2. Applications/ içinden sağ tıklayıp aç komutu ile denedim.\n3. Aşağıdaki ekran görüntüsünü aldım.\n\n<img width=\"284\" height=\"247\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/08ee775c-a4e5-40ea-8aed-7458dec9975d\" />\n\nDökümanda Mac OSX Sonoma 1",
-          "url": "https://github.com/DodoApps/dodopulse/issues/1",
-          "created_at": "2026-01-26T12:43:21Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        }
-      ]
+      "_storeUrl": ""
     },
     {
       "id": "dodoservice",
@@ -1065,7 +741,7 @@
       "github": "https://github.com/DodoApps/dodoservice",
       "homepage": null,
       "language": "Swift",
-      "stars": 7,
+      "stars": 0,
       "forks": 0,
       "downloadUrl": null,
       "requirements": "macOS 14.0 or later",
@@ -1104,8 +780,8 @@
       "github": "https://github.com/DodoApps/dodoshot",
       "homepage": null,
       "language": "Swift",
-      "stars": 32,
-      "forks": 3,
+      "stars": 13,
+      "forks": 0,
       "downloadUrl": null,
       "requirements": "macOS 14.0 or later",
       "features": [
@@ -1121,47 +797,7 @@
       "_owner": "DodoApps",
       "_developer": "DodoApps",
       "_store": "DodoApps",
-      "_storeUrl": "",
-      "_comments": [
-        {
-          "user": "CeRBeR666",
-          "avatar": "https://avatars.githubusercontent.com/u/504973?v=4",
-          "title": "Mark Problem",
-          "body": "When you select an image with the rectangle tool or arrow in Dodoshot and save it, the rectangle is repositioned at a different point on the image before saving.\n\nThe first image shows where I positioned the red frame in Dodoshot, and the second image shows where it was positioned after saving the i",
-          "url": "https://github.com/DodoApps/dodoshot/issues/8",
-          "created_at": "2026-02-10T18:21:06Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "bahadirdemircioglu",
-          "avatar": "https://avatars.githubusercontent.com/u/220878008?v=4",
-          "title": "Cannot pass the “Screen & System Audio Recording” permission screen even after granting permission",
-          "body": "Even though I have already granted Screen & System Audio Recording permission to the Dodoshot application in macOS system settings, the application gets stuck on the permission request screen at startup and does not proceed.\n\nThe permission is clearly enabled in:\nSystem Settings → Privacy & Security",
-          "url": "https://github.com/DodoApps/dodoshot/issues/7",
-          "created_at": "2026-02-06T07:30:09Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        }
-      ]
+      "_storeUrl": ""
     },
     {
       "id": "dodotidy",
@@ -1185,8 +821,8 @@
       "github": "https://github.com/DodoApps/dodotidy",
       "homepage": null,
       "language": "Swift",
-      "stars": 170,
-      "forks": 6,
+      "stars": 71,
+      "forks": 0,
       "downloadUrl": null,
       "requirements": "macOS 14.0 or later",
       "features": [
@@ -1200,104 +836,7 @@
       "_owner": "DodoApps",
       "_developer": "DodoApps",
       "_store": "DodoApps",
-      "_storeUrl": "",
-      "_comments": [
-        {
-          "user": "bugrasnmz",
-          "avatar": "https://avatars.githubusercontent.com/u/1667766?v=4",
-          "title": "Ram usage detail",
-          "body": "When user click ram section in the menubar, it would be nice if a detailed ram usage window appears.",
-          "url": "https://github.com/DodoApps/dodotidy/issues/10",
-          "created_at": "2026-01-30T19:43:51Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "latifckrgl",
-          "avatar": "https://avatars.githubusercontent.com/u/33635593?v=4",
-          "title": "Optimization failed: \"Unable to purge disk buffers: Operation not permitted\"",
-          "body": "**Describe the bug**\nThe optimization process fails with a permission error, resulting in an \"Operation not permitted\" error.\n\n**Error Message**\n> Optimization failed\n> Unable to purge disk buffers: Operation not permitted...\n\n**To Reproduce**\nSteps to reproduce the behavior:\n1. Go to 'Optimizer'\n2.",
-          "url": "https://github.com/DodoApps/dodotidy/issues/8",
-          "created_at": "2026-01-28T14:19:25Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "latifckrgl",
-          "avatar": "https://avatars.githubusercontent.com/u/33635593?v=4",
-          "title": "Optimization failed: \"The -kill option has been removed\"",
-          "body": "**Describe the bug**\nWhen running the optimization process, the operation fails with a \"Optimization failed\" error toast.\n\n**Error Message**\n> Optimization failed\n> # The -kill option has been removed because it was dangerous and no longer useful....\n\n**To Reproduce**\nSteps to reproduce the behavior",
-          "url": "https://github.com/DodoApps/dodotidy/issues/7",
-          "created_at": "2026-01-28T14:16:29Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "gorkem-bwl",
-          "avatar": "https://avatars.githubusercontent.com/u/167266851?v=4",
-          "title": "\"Reveal\" directories (an icon should open that directory in system)",
-          "body": "",
-          "url": "https://github.com/DodoApps/dodotidy/issues/6",
-          "created_at": "2026-01-27T22:06:45Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "gorkem-bwl",
-          "avatar": "https://avatars.githubusercontent.com/u/167266851?v=4",
-          "title": "Clean selected button should read \"Review and clean\"",
-          "body": "",
-          "url": "https://github.com/DodoApps/dodotidy/issues/5",
-          "created_at": "2026-01-27T22:05:40Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        }
-      ]
+      "_storeUrl": ""
     },
     {
       "id": "env-protector",
@@ -1335,47 +874,7 @@
       "_owner": "sametcn99",
       "_developer": "sametcn99",
       "_store": "sametcn99's Apps",
-      "_storeUrl": "https://apps.sametcc.me",
-      "_comments": [
-        {
-          "user": "The-LukeZ",
-          "avatar": "https://avatars.githubusercontent.com/u/117578407?v=4",
-          "title": "[Bug] Git diff not showing properly when wanting to open diff view",
-          "body": "it's just a small inconvenience I'd say - **anyways...**\n\nReproduction steps:\n\n1. make an .env.example\n2. commit that\n3. make a change, like renaming a variable or adding one\n4. in VSC, open your Source Control in the left sidebar\n5. click on the changed file and select \"Open with default editor\"\n\nI",
-          "url": "https://github.com/sametcn99/env-protector/issues/8",
-          "created_at": "2026-01-13T00:28:31Z",
-          "reactions": {
-            "total": 1,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 1,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "The-LukeZ",
-          "avatar": "https://avatars.githubusercontent.com/u/117578407?v=4",
-          "title": "[Bug] Env file not protected when starting repository with env last opened",
-          "body": "Steps:\n1. In VSC open your env file with double click on it\n2. Close VSC\n3. Reopen VSC\n\n-> Env file shown with values - \"not protected\"",
-          "url": "https://github.com/sametcn99/env-protector/issues/7",
-          "created_at": "2026-01-10T20:02:57Z",
-          "reactions": {
-            "total": 1,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 1
-          }
-        }
-      ]
+      "_storeUrl": "https://apps.sametcc.me"
     },
     {
       "id": "flappy-bird",
@@ -1399,9 +898,7 @@
       "_developer": "Kagan Temizkan",
       "_store": "Kagan Temizkan",
       "_storeUrl": "https://my-store-six-ruby.vercel.app/apps",
-      "developer": "Kagan Temizkan",
-      "stars": 0,
-      "forks": 0
+      "developer": "Kagan Temizkan"
     },
     {
       "id": "flight-ticket",
@@ -1429,9 +926,7 @@
       "_developer": "Kagan Temizkan",
       "_store": "Kagan Temizkan",
       "_storeUrl": "https://my-store-six-ruby.vercel.app/apps",
-      "developer": "Kagan Temizkan",
-      "stars": 0,
-      "forks": 0
+      "developer": "Kagan Temizkan"
     },
     {
       "id": "galaksinin-muhafizlari",
@@ -1469,104 +964,7 @@
       "_owner": "f",
       "_developer": "Fatih Kadir Akin",
       "_store": "Appétit",
-      "_storeUrl": "https://apps.fka.dev",
-      "_comments": [
-        {
-          "user": "theilgaz",
-          "avatar": "https://avatars.githubusercontent.com/u/13048645?v=4",
-          "title": "README Dosyası Ekleyelim",
-          "body": "Problem:\nRepo'yu ziyaret eden biri oyunun ne olduğunu, nasıl oynanacağını veya nasıl çalıştırılacağını bilemiyor. GitHub'da hiç açıklama yok.\n\nÇözüm:\nRepo'nun ana klasörüne bir `README.md` dosyası ekleyelim:\n\n```markdown\n# Galaksinin Muhafızları 🚀\n\nGalaksiyi düşmanlardan koru!\n\nNasıl Oynanır?\n- WASD",
-          "url": "https://github.com/asafakin/oyun/issues/11",
-          "created_at": "2026-03-12T03:10:38Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "theilgaz",
-          "avatar": "https://avatars.githubusercontent.com/u/13048645?v=4",
-          "title": "Oyun Sonu Skor ve İstatistik Ekranı",
-          "body": "Problem:\nOyun bitince sadece \"ZAFER!\" veya \"YENİLDİN!\" yazıyor. Oyuncu kaç düşman öldürdüğünü, kaç tur dayandığını veya ne kadar para harcadığını göremiyor. Tekrar oynamak için bir neden olmuyor.\n\nÇözüm:\nOyun sonu ekranına kısa bir istatistik bölümü ekleyelim:\n\n- 💥 Öldürülen düşman sayısı\n- ⏱️ Kaç t",
-          "url": "https://github.com/asafakin/oyun/issues/10",
-          "created_at": "2026-03-12T03:09:45Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "theilgaz",
-          "avatar": "https://avatars.githubusercontent.com/u/13048645?v=4",
-          "title": "Final Boss'a Kaç Tur Kaldı?",
-          "body": "Problem:\nOyuncu kaç tur sonra Final Boss ile karşılaşacağını bilmiyor. Ne zaman hazırlanmaya başlayacağını, ne zaman para biriktirmesi gerektiğini tahmin edemiyor.\n\nÇözüm:\nHer tur sonunda oyuncuya kısa bir bilgi gösterilsin:\n\n> 🚨 *\"Final Boss'a 2 tur kaldı! Hazırlan!\"*\n\n- Tur sonu ekranında veya mağ",
-          "url": "https://github.com/asafakin/oyun/issues/9",
-          "created_at": "2026-03-12T03:05:56Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "theilgaz",
-          "avatar": "https://avatars.githubusercontent.com/u/13048645?v=4",
-          "title": "Bar ve Süper Yeteneğin Açıklanması",
-          "body": "<img width=\"992\" height=\"651\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/be0fd7b8-86c4-41d9-b03b-bcedda6c0f9f\" />\n\nProblem:\nEkranın altında bir bar ve **SÜPER** butonu var ama oyuncu bunun ne işe yaradığını ve nasıl kullanılacağını bilmiyor:\n- Bar dolunca ne oluyor?\n- SÜPER butonu n",
-          "url": "https://github.com/asafakin/oyun/issues/8",
-          "created_at": "2026-03-12T03:03:07Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "theilgaz",
-          "avatar": "https://avatars.githubusercontent.com/u/13048645?v=4",
-          "title": "Pause Menüsü ve Ses Ayarları",
-          "body": "Problem:\nŞu an oyunu durdurmak için sadece mağaza tuşuna basılıyor. Bu bir pause çözümü değil, gerçek bir menü yok. Ses efektlerini açıp kapamak gibi temel ayarlara da hiç ulaşılamıyor.\n\nÇözüm:\nESC tuşuna veya bir pause butonuna basınca açılan bir **pause menüsü** ekleyelim:\n\n- ⏸️ **Oyunu Durdur / D",
-          "url": "https://github.com/asafakin/oyun/issues/7",
-          "created_at": "2026-03-12T03:00:04Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        }
-      ]
+      "_storeUrl": "https://apps.fka.dev"
     },
     {
       "id": "git-rewrite-commits",
@@ -1607,66 +1005,7 @@
       "_developer": "Fatih Kadir Akin",
       "_store": "Appétit",
       "_storeUrl": "https://apps.fka.dev",
-      "developer": "Fatih Kadir Akin",
-      "_comments": [
-        {
-          "user": "amirparsadd",
-          "avatar": "https://avatars.githubusercontent.com/u/76398455?v=4",
-          "title": "Base URL Configuration",
-          "body": "It would be great to have a baseUrl configuration so that we could use routers like openrouter or avalai or stuff like aws bedrock",
-          "url": "https://github.com/f/git-rewrite-commits/issues/27",
-          "created_at": "2025-12-15T11:57:30Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "Dmitry0108",
-          "avatar": "https://avatars.githubusercontent.com/u/78903846?v=4",
-          "title": "Use Openrouter api",
-          "body": "",
-          "url": "https://github.com/f/git-rewrite-commits/issues/25",
-          "created_at": "2025-11-27T21:06:11Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "RyanHope",
-          "avatar": "https://avatars.githubusercontent.com/u/141005?v=4",
-          "title": "[feature] Local Ollama url override",
-          "body": "Need a way to override the ollama url globally (and possibly locally). For example, can't access Ollama api served by the main gui app from within WSL. Also, can't use a remove Ollama server as is.",
-          "url": "https://github.com/f/git-rewrite-commits/issues/19",
-          "created_at": "2025-11-16T18:31:22Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        }
-      ]
+      "developer": "Fatih Kadir Akin"
     },
     {
       "id": "gpvblazor",
@@ -1741,30 +1080,7 @@
       "_developer": "scyto",
       "_store": "scyto",
       "_storeUrl": "",
-      "developer": "scyto",
-      "stars": 23,
-      "forks": 0,
-      "_comments": [
-        {
-          "user": "pivlersmom",
-          "avatar": "https://avatars.githubusercontent.com/u/45692075?v=4",
-          "title": "Device: OneOdio Studio Max 1",
-          "body": "### Device name & model\n\nOneOdio Studio Max 1\n\n### Device type\n\nSpeaker\n\n### Bluetooth adapter\n\nIntel (8087:0a2b)\n\n### HAOS version\n\n17.1\n\n### App version\n\n2.0.0\n\n### Hardware\n\nGeneric x86-64\n\n### What doesn't work (check all that apply)\n\n- [x] Device is not discovered\n- [ ] Pairing fails\n- [ ] No a",
-          "url": "https://github.com/scyto/ha-bluetooth-audio-manager/issues/270",
-          "created_at": "2026-03-13T19:36:39Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        }
-      ]
+      "developer": "scyto"
     },
     {
       "id": "hono-telescope",
@@ -1804,28 +1120,7 @@
       "_developer": "İlker Balcılar",
       "_store": "Jubstaa's App Store",
       "_storeUrl": "",
-      "developer": "İlker Balcılar",
-      "_comments": [
-        {
-          "user": "HexiDev",
-          "avatar": "https://avatars.githubusercontent.com/u/59119671?v=4",
-          "title": "[BUG] @hono-telescope/types doesn't exist",
-          "body": "## 🐛 Bug Description\n\n@hono-telescope/types is missing from the package\n\n## 📝 Steps to Reproduce\n\nSteps to reproduce the behavior:\n\n1. Setup Telescope with hono\n2. Start the hono server\n\n## 🔍 Expected Behavior\n\nStarting\n\n## 🖼️ Screenshots/Logs\n\n```\nnode:internal/modules/cjs/loader:1249\n  const err =",
-          "url": "https://github.com/Jubstaaa/hono-telescope/issues/1",
-          "created_at": "2025-10-31T18:30:01Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        }
-      ]
+      "developer": "İlker Balcılar"
     },
     {
       "id": "htwind",
@@ -1863,47 +1158,7 @@
       "_owner": "sametcn99",
       "_developer": "sametcn99",
       "_store": "sametcn99's Apps",
-      "_storeUrl": "https://apps.sametcc.me",
-      "_comments": [
-        {
-          "user": "sametcn99",
-          "avatar": "https://avatars.githubusercontent.com/u/57061347?v=4",
-          "title": "feat: Per-widget PowerShell Permission Toggle (UI)",
-          "body": "Add a per-widget PowerShell permission control in the application UI that lets users grant or revoke PowerShell access for each widget. The UI toggle persists the user's decision and is enforced by the host API: when a widget's PowerShell permission is revoked, any host API calls from that widget th",
-          "url": "https://github.com/sametcn99/HTWind/issues/3",
-          "created_at": "2026-02-25T08:30:02Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "sametcn99",
-          "avatar": "https://avatars.githubusercontent.com/u/57061347?v=4",
-          "title": "Add configurable Built-in Features API (patterned after PowerShell host bridge)",
-          "body": "Introduce a host-side API (mirroring the PowerShell bridge pattern) that allows HTML widgets to read and update the application's built-in feature configuration via JavaScript. This API requires explicit consent for sensitive operations, persists changes, and is discoverable by widgets at runtime — ",
-          "url": "https://github.com/sametcn99/HTWind/issues/2",
-          "created_at": "2026-02-25T08:27:34Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        }
-      ]
+      "_storeUrl": "https://apps.sametcc.me"
     },
     {
       "id": "istanbul",
@@ -1974,9 +1229,7 @@
       "_developer": "Kagan Temizkan",
       "_store": "Kagan Temizkan",
       "_storeUrl": "https://my-store-six-ruby.vercel.app/apps",
-      "developer": "Kagan Temizkan",
-      "stars": 0,
-      "forks": 0
+      "developer": "Kagan Temizkan"
     },
     {
       "id": "linkedin-hide-viewed-jobs",
@@ -2012,28 +1265,7 @@
       "_owner": "sametcn99",
       "_developer": "sametcn99",
       "_store": "sametcn99's Apps",
-      "_storeUrl": "https://apps.sametcc.me",
-      "_comments": [
-        {
-          "user": "sametcn99",
-          "avatar": "https://avatars.githubusercontent.com/u/57061347?v=4",
-          "title": "[NEED HELP] userscript stops detecting viewed jobs after navigation to /jobs/collections/* — avoid reloading page",
-          "body": "When navigating from LinkedIn’s `/jobs` (or other jobs routes) into `/jobs/collections/*` subpaths the userscript loses its detection of “viewed” job cards. I want the script to continue working across those SPA navigations without forcing a full page reload (reloading the page is a poor UX). I’m st",
-          "url": "https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1",
-          "created_at": "2026-03-01T09:25:52Z",
-          "reactions": {
-            "total": 1,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 1,
-            "eyes": 0
-          }
-        }
-      ]
+      "_storeUrl": "https://apps.sametcc.me"
     },
     {
       "id": "macabolic",
@@ -2057,8 +1289,8 @@
       "github": "https://github.com/alinuxpengui/Macabolic",
       "homepage": null,
       "language": "Swift",
-      "stars": 241,
-      "forks": 5,
+      "stars": 79,
+      "forks": 0,
       "downloadUrl": null,
       "requirements": "macOS 12.0 or later",
       "features": [
@@ -2079,104 +1311,7 @@
       "_owner": "DodoApps",
       "_developer": "DodoApps",
       "_store": "DodoApps",
-      "_storeUrl": "",
-      "_comments": [
-        {
-          "user": "Estrarc",
-          "avatar": "https://avatars.githubusercontent.com/u/202203607?v=4",
-          "title": "[Bug] \"Requested format is not available\" error on URL input — no format selection shown",
-          "body": "Describe the bug\nWhen adding a YouTube URL, Macabolic doesn't show the format/quality selection screen at all — it immediately throws an error and the download never starts.\nTo Reproduce\n\nOpen Macabolic\nPaste a YouTube URL\nNo format selection appears\nDownload fails immediately with the error below\n\n",
-          "url": "https://github.com/alinuxpengui/Macabolic/issues/13",
-          "created_at": "2026-02-22T22:42:03Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "sdMickey",
-          "avatar": "https://avatars.githubusercontent.com/u/54260201?v=4",
-          "title": "Stuck in yt-dlp update",
-          "body": "<img width=\"1012\" height=\"764\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/e01690fb-16df-45ab-9b99-e48c9486a0c3\" />\n\nIt's stuck here. I have tried downloading yt-dlp separately through brew. It downloaded successfully but Macabolic is unable to fetch it. \n\nEven after that, of I click",
-          "url": "https://github.com/alinuxpengui/Macabolic/issues/12",
-          "created_at": "2026-02-22T16:48:15Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "mrfixpl",
-          "avatar": "https://avatars.githubusercontent.com/u/103274854?v=4",
-          "title": "Settings GUI issue",
-          "body": "Going into settings and switching tab to \"Download\" will cause elements to be outside the view. No option to resize the window, close the window, change tab, nor close the app itself.\n\nProcess needs to be killed and app restarted.\n\n`macOS 12.7.6`\n\n<img width=\"1012\" height=\"764\" alt=\"Image\" src=\"http",
-          "url": "https://github.com/alinuxpengui/Macabolic/issues/11",
-          "created_at": "2026-02-16T07:29:50Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "whateverpop",
-          "avatar": "https://avatars.githubusercontent.com/u/20801072?v=4",
-          "title": "more video & audio codec options?",
-          "body": "Heya again, I was wondering if its possible to support more video & audio codes - specifically I'm wondering about this profile:\n\nvcodec: mpeg2\nacodec: mpeg audio, 128 bitrate, 2 channel, 44100 sample rate\n\nIdeally I'd also like to resize the video to 320 x 240. Is that possible in your gui?\n\nI'm us",
-          "url": "https://github.com/alinuxpengui/Macabolic/issues/10",
-          "created_at": "2026-02-03T10:22:00Z",
-          "reactions": {
-            "total": 1,
-            "thumbsUp": 1,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        },
-        {
-          "user": "whateverpop",
-          "avatar": "https://avatars.githubusercontent.com/u/20801072?v=4",
-          "title": "BiliBili download",
-          "body": "",
-          "url": "https://github.com/alinuxpengui/Macabolic/issues/9",
-          "created_at": "2026-02-03T10:06:20Z",
-          "reactions": {
-            "total": 0,
-            "thumbsUp": 0,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        }
-      ]
+      "_storeUrl": ""
     },
     {
       "id": "mcptools",
