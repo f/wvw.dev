@@ -262,9 +262,11 @@ Only the following category IDs are recognized by WVW. Apps with unrecognized ca
 
 The canonical source is [`categories.json`](categories.json).
 
-## Let Your AI Agent Do It
+## Generate Your apps.json
 
-You don't need to write `apps.json` by hand. Just give this document to your AI coding agent (Cursor, Claude Code, Windsurf, Copilot, etc.) and ask it to:
+You don't need to write `apps.json` by hand. Use the **[WVW apps.json Generator](https://findutils.com/en/tools/wvw-apps-json-generator/)** — a web tool that walks you through creating a valid `apps.json` with a form-based UI. Fill in your app details, pick categories, and download the ready-to-commit file.
+
+Or let your AI coding agent do it. Give this document to your agent (Cursor, Claude Code, Windsurf, Copilot, etc.) and ask it to:
 
 > "Create an apps.json for my GitHub repos following this spec."
 

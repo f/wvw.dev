@@ -1,0 +1,30 @@
+{
+  "name": "wvw-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for generating apps.json for World Vibe Web (wvw.dev)",
+  "type": "module",
+  "bin": {
+    "wvw-mcp": "./server.js"
+  },
+  "main": "server.js",
+  "keywords": [
+    "mcp",
+    "wvw",
+    "apps-json",
+    "app-store",
+    "vibe-coding",
+    "claude",
+    "cursor"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/f/wvw.dev",
+    "directory": "mcp"
+  },
+  "homepage": "https://wvw.dev",
+  "author": "Fatih Kadir Akin",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1"
+  },
+  "license": "MIT"
+}

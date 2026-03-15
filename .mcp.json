@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wvw": {
+      "command": "npx",
+      "args": ["-y", "wvw-mcp"]
+    }
+  }
+}
