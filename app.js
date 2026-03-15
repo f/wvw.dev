@@ -841,8 +841,8 @@
         </div>
         <div class="requests-info-card">
           <div class="requests-info-icon">2</div>
-          <h4>Community Review</h4>
-          <p>Others can upvote and comment. Popular requests get prioritized.</p>
+          <h4>Someone Vibecodes It</h4>
+          <p>A developer from the community picks up the request and vibecodes the app into existence.</p>
         </div>
         <div class="requests-info-card">
           <div class="requests-info-icon">3</div>
