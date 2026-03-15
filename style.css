@@ -2324,10 +2324,23 @@ a.about-btn {
 @media (max-width: 600px) {
   .content-scroll {
     padding: 16px 12px 32px;
+    max-width: 100vw;
+    box-sizing: border-box;
+  }
+
+  .section,
+  .detail-section,
+  .app-list,
+  .app-detail {
+    min-width: 0;
+    max-width: 100%;
+    overflow: hidden;
   }
 
   .app-row {
     gap: 10px;
+    width: 100%;
+    box-sizing: border-box;
   }
 
   .app-icon {
