@@ -1,26 +1,26 @@
 [
   {
     "id": "prompts-chat",
-    "headline": "TOP RATED",
-    "title": "Over 150,000 stars of prompt brilliance.",
-    "subtitle": "The internet's most beloved prompt collection, now a full app. Search, save, and share prompts for ChatGPT, Claude, and Gemini — or self-host it for your team with total privacy."
+    "headline": "COMMUNITY FAVORITE",
+    "title": "The world's most-starred prompt collection.",
+    "subtitle": "With 150K+ GitHub stars, Prompts.chat is the definitive home for AI prompts. Browse hundreds of curated starters for ChatGPT, Claude, and Gemini — or self-host the entire thing for your team in minutes."
   },
   {
-    "id": "crewclaw",
-    "headline": "JUST SHIPPED",
-    "title": "Your AI workforce, deployed in 60 seconds.",
-    "subtitle": "CrewClaw turns agent deployment from a weekend project into a one-click moment. Choose from 103 battle-tested templates, plug into Telegram or Slack, and your digital employees are live."
+    "id": "macabolic",
+    "headline": "EDITOR'S PICK",
+    "title": "Every video, beautifully yours.",
+    "subtitle": "Macabolic wraps the legendary yt-dlp engine in a polished native Mac interface — download anything from YouTube to Instagram in up to 4K, skip sponsors automatically, and grab whole playlists without touching the terminal."
   },
   {
-    "id": "dodotidy",
-    "headline": "RISING STAR",
-    "title": "Give your Mac room to breathe again.",
-    "subtitle": "DodoTidy is the native macOS cleaner that actually understands your disk — surfacing hidden caches, bloated logs, and junk files, then trash-deleting them safely so you never lose what matters."
+    "id": "asc-cli",
+    "headline": "HIDDEN GEM",
+    "title": "Ship to the App Store without leaving your shell.",
+    "subtitle": "asc puts the full App Store Connect API at your fingertips — builds, TestFlight, screenshots, subscriptions, and code signing — all scriptable, AI-agent-ready, and CI-friendly out of the box."
   },
   {
-    "id": "hono-telescope",
-    "headline": "FAN FAVORITE",
-    "title": "See inside every request, in real time.",
-    "subtitle": "Hono Telescope drops a live dashboard into your Node.js or Bun app with one middleware line — inspect requests, stack traces, and database queries without ever leaving your browser."
+    "id": "vitepress-mermaid-renderer",
+    "headline": "MUST TRY",
+    "title": "Diagrams that zoom, pan, and dazzle.",
+    "subtitle": "Drop one plugin into your VitePress site and every Mermaid block becomes a living, interactive diagram — fullscreen, theme-aware, and exportable as SVG or PNG with a single click."
   }
 ]
