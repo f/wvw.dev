@@ -355,7 +355,7 @@
       "homepage": "https://apps.fka.dev",
       "language": "JavaScript",
       "stars": 29,
-      "forks": 5,
+      "forks": 7,
       "requirements": "Any modern browser",
       "features": [
         "Apple App Store-inspired UI",
@@ -467,8 +467,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 617,
-      "forks": 96
+      "stars": 636,
+      "forks": 98
     },
     {
       "id": "baby-sleeper",
@@ -512,6 +512,55 @@
       "developer": "Osman Koç",
       "stars": 2,
       "forks": 1
+    },
+    {
+      "id": "basarozcan-gitlabinmenubar",
+      "name": "GitLab in Menubar",
+      "developer": "Başar Özcan",
+      "subtitle": "A native macOS menubar app that shows GitLab merge request statuses at a glance.",
+      "description": "A native macOS menu bar app to monitor GitLab merge requests, pipelines, and reach your review requests instantly—right from the menu bar.",
+      "longDescription": "GitLab in Menubar is a lightweight macOS menu bar application that keeps your GitLab activity easily accessible without opening the browser. It lets you monitor merge requests, pipeline statuses, and quickly reach review requests directly from the menu bar. The app provides a color-coded pipeline status indicator and a clear overview of merge requests across your projects, including approvals, draft state, discussions, and pipeline results. With one click you can open any merge request or pipeline in GitLab, while background refresh and notifications help you stay updated on new activity and status changes so you can keep track of reviews and project progress without interrupting your workflow.",
+      "icon": "https://raw.githubusercontent.com/basarozcan/gitlab-in-menubar/refs/heads/main/GitLabInMenubar/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+      "iconEmoji": "🔄",
+      "iconStyle": {
+        "scale": 1.3,
+        "objectFit": "cover",
+        "borderRadius": "20%"
+      },
+      "category": [
+        "macos",
+        "productivity",
+        "developer-tools"
+      ],
+      "platform": "macOS",
+      "price": "Free",
+      "github": "https://github.com/basarozcan/gitlab-in-menubar",
+      "downloadUrl": "https://github.com/basarozcan/gitlab-in-menubar/releases/latest",
+      "language": "Swift",
+      "requirements": "macOS 15 Sequoia or later",
+      "features": [
+        "Menubar icon with color-coded status indicator based on pipeline health",
+        "MR list showing all open merge requests across configured projects",
+        "Pipeline status badges with colored background and icon (Passed, Running, Failed, Pending, etc.)",
+        "Click pipeline badge to open the pipeline page in GitLab",
+        "Click MR row to open the merge request in GitLab",
+        "Approval tracking showing received/required approval counts per MR",
+        "Thread tracking showing resolved/total resolvable discussion threads",
+        "Draft detection with visible DRAFT badge",
+        "Merge status labels (Conflict, Not Approved, CI Running, Blocked, etc.)",
+        "Auto-refresh in the background at a configurable interval (15s - 600s)",
+        "Notifications on pipeline status changes and new approvals",
+        "Filters by state (opened/merged/closed/all), scope (all/assigned to me/created by me), author username, and draft visibility",
+        "Secure token storage in macOS Keychain",
+        "Menubar-only - no dock icon"
+      ],
+      "_source": "basarozcan/gitlab-in-menubar",
+      "_owner": "basarozcan",
+      "_developer": "Başar Özcan",
+      "_store": "CBOsoft",
+      "_storeUrl": "",
+      "stars": 0,
+      "forks": 0
     },
     {
       "id": "bilokma",
@@ -823,8 +872,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 617,
-      "forks": 96
+      "stars": 636,
+      "forks": 98
     },
     {
       "id": "damga",
@@ -1844,7 +1893,7 @@
       "github": "https://github.com/f/istanbul",
       "homepage": null,
       "language": "Swift",
-      "stars": 14,
+      "stars": 15,
       "forks": 4,
       "brew": "brew install f/tap/istanbul",
       "downloadUrl": "https://github.com/f/istanbul/releases/latest",
@@ -2587,8 +2636,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 152781,
-      "forks": 20095,
+      "stars": 152796,
+      "forks": 20097,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -2631,8 +2680,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 152781,
-      "forks": 20095,
+      "stars": 152796,
+      "forks": 20097,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -3350,7 +3399,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 2017,
+      "stars": 2018,
       "forks": 143,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
@@ -3437,7 +3486,7 @@
       "github": "https://github.com/sametcn99/vitepress-mermaid-renderer",
       "homepage": "https://vitepress-mermaid-renderer.vercel.app",
       "language": "TypeScript",
-      "stars": 47,
+      "stars": 48,
       "forks": 4,
       "developer": "sametcn99",
       "installCommand": "npm install vitepress-mermaid-renderer",
@@ -3464,8 +3513,13 @@
       "description": "Transform your Mac desktop with stunning live video wallpapers. Metal-powered, multi-monitor support.",
       "longDescription": "Wallnetic brings live video wallpapers to your Mac desktop. Transform your workspace with dynamic, animated backgrounds that run efficiently in the background. Features include multi-monitor support with per-display settings, library management with collections and favorites, smart power management (pause on battery, pause on fullscreen), Metal GPU-accelerated rendering, and native macOS experience with Dark/Light/System theme support. Wallpaper Engine has 40M+ users on Windows - now Mac users finally have a native alternative!",
       "icon": "https://raw.githubusercontent.com/fatihkan/wallnetic/main/docs/assets/icon.png",
-      "iconEmoji": "🎬",
+      "iconStyle": {
+        "scale": 1.3,
+        "objectFit": "cover",
+        "borderRadius": "22%"
+      },
       "category": [
+        "macos",
         "graphics-design",
         "utilities"
       ],
@@ -3473,36 +3527,29 @@
       "price": "Free",
       "github": "https://github.com/fatihkan/wallnetic",
       "homepage": "https://github.com/fatihkan/wallnetic",
+      "language": "Swift",
       "downloadUrl": "https://github.com/fatihkan/wallnetic/releases/latest",
+      "requirements": "macOS 13.0 (Ventura) or later",
+      "features": [
+        "Live video wallpapers (MP4, MOV, M4V)",
+        "Multi-monitor support with per-display settings",
+        "Library with collections and favorites",
+        "Metal GPU-accelerated rendering",
+        "Smart power management (pause on battery/fullscreen)",
+        "Dark/Light/System theme support",
+        "Launch at login option",
+        "Drag & drop video import"
+      ],
       "screenshots": [
         "https://raw.githubusercontent.com/fatihkan/wallnetic/main/docs/assets/screenshot-main.png",
         "https://raw.githubusercontent.com/fatihkan/wallnetic/main/docs/assets/screenshot-settings.png"
       ],
-      "features": [
-        "Live video wallpapers (MP4, MOV, M4V)",
-        "Multi-monitor support",
-        "Collections & favorites",
-        "Metal GPU acceleration",
-        "Smart power management",
-        "Dark/Light/System themes",
-        "Launch at login",
-        "Drag & drop import"
-      ],
-      "requirements": {
-        "macos": "13.0+",
-        "architecture": [
-          "arm64",
-          "x86_64"
-        ]
-      },
-      "version": "1.0.0",
-      "releaseDate": "2026-03-16",
       "_source": "fatihkan/wallnetic",
       "_owner": "fatihkan",
-      "_developer": "Unknown",
+      "_developer": "Fatih Kan",
       "_store": "Wallnetic",
       "_storeUrl": "",
-      "developer": "Unknown",
+      "developer": "Fatih Kan",
       "stars": 0,
       "forks": 0
     },
