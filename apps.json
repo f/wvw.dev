@@ -467,7 +467,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 604,
+      "stars": 613,
       "forks": 95
     },
     {
@@ -823,7 +823,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 604,
+      "stars": 613,
       "forks": 95
     },
     {
@@ -2587,7 +2587,7 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 152775,
+      "stars": 152779,
       "forks": 20095,
       "requirements": "Any modern browser",
       "features": [
@@ -2631,7 +2631,7 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 152775,
+      "stars": 152779,
       "forks": 20095,
       "requirements": "Any modern browser",
       "features": [
@@ -3351,7 +3351,7 @@
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
       "stars": 2016,
-      "forks": 141,
+      "forks": 142,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
       "requirements": "macOS 15 Sequoia or later",
@@ -3456,6 +3456,55 @@
       "_developer": "sametcn99",
       "_store": "sametcn99's Apps",
       "_storeUrl": "https://apps.sametcc.me"
+    },
+    {
+      "id": "wallnetic",
+      "name": "Wallnetic",
+      "subtitle": "Live Video Wallpapers for Mac",
+      "description": "Transform your Mac desktop with stunning live video wallpapers. Metal-powered, multi-monitor support.",
+      "longDescription": "Wallnetic brings live video wallpapers to your Mac desktop. Transform your workspace with dynamic, animated backgrounds that run efficiently in the background. Features include multi-monitor support with per-display settings, library management with collections and favorites, smart power management (pause on battery, pause on fullscreen), Metal GPU-accelerated rendering, and native macOS experience with Dark/Light/System theme support. Wallpaper Engine has 40M+ users on Windows - now Mac users finally have a native alternative!",
+      "icon": "https://raw.githubusercontent.com/fatihkan/wallnetic/main/docs/assets/icon.png",
+      "iconEmoji": "🎬",
+      "category": [
+        "graphics-design",
+        "utilities"
+      ],
+      "platform": "macOS",
+      "price": "Free",
+      "github": "https://github.com/fatihkan/wallnetic",
+      "homepage": "https://github.com/fatihkan/wallnetic",
+      "downloadUrl": "https://github.com/fatihkan/wallnetic/releases/latest",
+      "screenshots": [
+        "https://raw.githubusercontent.com/fatihkan/wallnetic/main/docs/assets/screenshot-main.png",
+        "https://raw.githubusercontent.com/fatihkan/wallnetic/main/docs/assets/screenshot-settings.png"
+      ],
+      "features": [
+        "Live video wallpapers (MP4, MOV, M4V)",
+        "Multi-monitor support",
+        "Collections & favorites",
+        "Metal GPU acceleration",
+        "Smart power management",
+        "Dark/Light/System themes",
+        "Launch at login",
+        "Drag & drop import"
+      ],
+      "requirements": {
+        "macos": "13.0+",
+        "architecture": [
+          "arm64",
+          "x86_64"
+        ]
+      },
+      "version": "1.0.0",
+      "releaseDate": "2026-03-16",
+      "_source": "fatihkan/wallnetic",
+      "_owner": "fatihkan",
+      "_developer": "Unknown",
+      "_store": "Wallnetic",
+      "_storeUrl": "",
+      "developer": "Unknown",
+      "stars": 0,
+      "forks": 0
     },
     {
       "id": "whisperwrap",
