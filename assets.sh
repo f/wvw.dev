@@ -37,37 +37,54 @@ fi
 REPO_BASE="https://raw.githubusercontent.com/f/wvw.dev/master"
 OUR_ICON_PREFIX="${REPO_BASE}/${ICONS_DIR}/"
 
-# --- Remove generated icons for apps whose store owner set iconStyle ---
-echo "=== Checking for store-owner icon updates ==="
-
+# Owner cleanup happens after needs_icon is defined (below)
 removed=0
-for icon_file in "$ICONS_DIR"/*.jpg; do
-  [ -f "$icon_file" ] || continue
-  app_id=$(basename "$icon_file" .jpg)
 
-  has_own_style=$(jq -r --arg id "$app_id" '.apps[] | select(.id == $id) | if .iconStyle != null and .iconStyle != {} then "yes" else "no" end' "$APPS_FILE" | head -1)
-
-  if [ "$has_own_style" = "yes" ]; then
-    echo "  $app_id — store owner set iconStyle, removing generated icon"
-    jq --arg id "$app_id" '
-      .apps = [.apps[] | if .id == $id then del(._generatedIcon) else . end]
-    ' "$APPS_FILE" > "${APPS_FILE}.tmp" && mv "${APPS_FILE}.tmp" "$APPS_FILE"
-    rm -f "$icon_file"
-    removed=$((removed + 1))
-  fi
-done
-echo "Removed $removed superseded generated icons."
-
-# --- Generate icons for apps without icons ---
-total_needing=$(jq '[.apps[] | select(.iconStyle == null or .iconStyle == {})] | length' "$APPS_FILE")
+# --- Check icon quality and generate replacements ---
 echo ""
-echo "=== Generating icons for apps without icons ($total_needing apps) ==="
+echo "=== Checking app icons ==="
+
+needs_icon() {
+  local icon_url="$1"
+  if [ -z "$icon_url" ] || [ "$icon_url" = "null" ]; then
+    return 0
+  fi
+  local tmp="/tmp/wvw-icon-check-$$.tmp"
+  if ! curl -sf --max-time 10 -o "$tmp" "$icon_url" 2>/dev/null; then
+    rm -f "$tmp"
+    return 0
+  fi
+  local dims
+  dims=$($IMG_CMD identify -format "%w %h" "$tmp" 2>/dev/null) || { rm -f "$tmp"; return 0; }
+  rm -f "$tmp"
+  local w h
+  w=$(echo "$dims" | awk '{print $1}')
+  h=$(echo "$dims" | awk '{print $2}')
+  if [ -z "$w" ] || [ -z "$h" ] || [ "$w" -eq 0 ] || [ "$h" -eq 0 ]; then
+    return 0
+  fi
+  local ratio
+  if [ "$w" -gt "$h" ]; then
+    ratio=$(( (w * 100) / h ))
+  else
+    ratio=$(( (h * 100) / w ))
+  fi
+  # Not square if ratio > 1.15 (15% tolerance)
+  if [ "$ratio" -gt 115 ]; then
+    return 0
+  fi
+  return 1
+}
+
+total_apps=$(jq '.apps | length' "$APPS_FILE")
+echo "Checking $total_apps apps..."
 
 icon_count=0
 while IFS= read -r app; do
   [ -z "$app" ] && continue
   app_id=$(echo "$app" | jq -r '.id')
   app_name=$(echo "$app" | jq -r '.name')
+  app_icon=$(echo "$app" | jq -r '.icon // empty')
   app_subtitle=$(echo "$app" | jq -r '.subtitle // ""')
   app_category=$(echo "$app" | jq -r '(.category // [])[0] // "utilities"')
   app_platform=$(echo "$app" | jq -r '.platform // "App"')
@@ -76,6 +93,10 @@ while IFS= read -r app; do
 
   if [ -f "$icon_file" ]; then
     echo "  $app_name — already cached"
+    continue
+  fi
+
+  if ! needs_icon "$app_icon"; then
     continue
   fi
 
@@ -114,9 +135,29 @@ while IFS= read -r app; do
   else
     echo "API FAILED"
   fi
-done < <(jq -c '.apps[] | select(.iconStyle == null or .iconStyle == {})' "$APPS_FILE")
+done < <(jq -c '.apps[]' "$APPS_FILE")
 
 echo "Generated $icon_count new icons."
+
+# --- Remove generated icons for apps that now have a good square icon ---
+echo ""
+echo "=== Cleaning up superseded generated icons ==="
+
+for icon_file in "$ICONS_DIR"/*.jpg; do
+  [ -f "$icon_file" ] || continue
+  app_id=$(basename "$icon_file" .jpg)
+  app_icon=$(jq -r --arg id "$app_id" '.apps[] | select(.id == $id) | .icon // empty' "$APPS_FILE" | head -1)
+
+  if [ -n "$app_icon" ] && ! needs_icon "$app_icon"; then
+    echo "  $app_id — owner now has a good icon, removing generated"
+    jq --arg id "$app_id" '
+      .apps = [.apps[] | if .id == $id then del(._generatedIcon) else . end]
+    ' "$APPS_FILE" > "${APPS_FILE}.tmp" && mv "${APPS_FILE}.tmp" "$APPS_FILE"
+    rm -f "$icon_file"
+    removed=$((removed + 1))
+  fi
+done
+echo "Removed $removed superseded generated icons."
 
 # --- Update apps.json with _generatedIcon field ---
 echo ""
@@ -127,18 +168,6 @@ for icon_file in "$ICONS_DIR"/*.jpg; do
   [ -f "$icon_file" ] || continue
   app_id=$(basename "$icon_file" .jpg)
   icon_url="${OUR_ICON_PREFIX}${app_id}.jpg"
-
-  has_own_style=$(jq -r --arg id "$app_id" '.apps[] | select(.id == $id) | if .iconStyle != null and .iconStyle != {} then "yes" else "no" end' "$APPS_FILE" | head -1)
-
-  if [ "$has_own_style" = "yes" ]; then
-    # User set their own icon+iconStyle, remove our generated icon and the file
-    jq --arg id "$app_id" '
-      .apps = [.apps[] | if .id == $id then del(._generatedIcon) else . end]
-    ' "$APPS_FILE" > "${APPS_FILE}.tmp" && mv "${APPS_FILE}.tmp" "$APPS_FILE"
-    echo "  $app_id — user has iconStyle, removing generated icon"
-    rm -f "$icon_file"
-    continue
-  fi
 
   jq --arg id "$app_id" --arg url "$icon_url" '
     .apps = [.apps[] | if .id == $id then ._generatedIcon = $url else . end]
