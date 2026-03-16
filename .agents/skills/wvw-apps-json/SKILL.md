@@ -52,7 +52,7 @@ The file must follow the Appétit schema. Add `"$schema": "https://wvw.dev/apps.
 
 Use ONLY these allowed category IDs. Apps with unrecognized categories will be stripped by WVW:
 
-`macos`, `web`, `cli`, `developer-tools`, `productivity`, `utilities`, `education`, `entertainment`, `games`, `music`, `photo-video`, `graphics-design`, `social-networking`, `finance`, `health-fitness`, `lifestyle`, `news`, `business`, `reference`, `travel`, `food-drink`, `navigation`, `sports`, `weather`, `shopping`, `books`, `medical`
+`macos`, `ios`, `android`, `web`, `cli`, `developer-tools`, `productivity`, `utilities`, `education`, `entertainment`, `games`, `music`, `photo-video`, `graphics-design`, `social-networking`, `finance`, `health-fitness`, `lifestyle`, `news`, `business`, `reference`, `travel`, `food-drink`, `navigation`, `sports`, `weather`, `shopping`, `books`, `medical`
 
 ```json
 "categories": [

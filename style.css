@@ -665,12 +665,62 @@ a.about-btn {
 	z-index: 1;
 }
 
-.featured-banner[style*="background-image"]::before {
-	background: rgba(0, 0, 0, 0.5);
+/* Dark mode: dark overlay, white text */
+[data-theme="dark"] .featured-banner[style*="background-image"]::before {
+  background: rgba(0, 0, 0, 0.7) !important;
 }
 
-.featured-banner[style*="background-image"]::after {
-	background: linear-gradient(to top, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.2) 50%, transparent 100%);
+[data-theme="dark"] .featured-banner[style*="background-image"]::after {
+  background: linear-gradient(to top, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.6) 50%, rgba(0,0,0,0.4) 100%) !important;
+}
+
+[data-theme="dark"] .featured-banner[style*="background-image"] .featured-content {
+  text-shadow: 0 2px 8px rgba(0,0,0,0.8), 0 0 20px rgba(0,0,0,0.5);
+}
+
+[data-theme="dark"] .featured-banner[style*="background-image"] .featured-label,
+[data-theme="dark"] .featured-banner[style*="background-image"] .featured-title,
+[data-theme="dark"] .featured-banner[style*="background-image"] .featured-subtitle,
+[data-theme="dark"] .featured-banner[style*="background-image"] .featured-app-name,
+[data-theme="dark"] .featured-banner[style*="background-image"] .featured-app-sub {
+  color: #fff !important;
+}
+
+[data-theme="dark"] .featured-banner[style*="background-image"] .featured-get-btn {
+  background: #fff !important;
+  color: #000 !important;
+}
+
+/* Light mode: light overlay, dark text */
+[data-theme="light"] .featured-banner[style*="background-image"]::before {
+  background: rgba(255, 255, 255, 0.65) !important;
+}
+
+[data-theme="light"] .featured-banner[style*="background-image"]::after {
+  background: linear-gradient(to top, rgba(255,255,255,0.9) 0%, rgba(255,255,255,0.5) 50%, rgba(255,255,255,0.3) 100%) !important;
+}
+
+[data-theme="light"] .featured-banner[style*="background-image"] .featured-content {
+  text-shadow: 0 1px 4px rgba(255,255,255,0.6);
+}
+
+[data-theme="light"] .featured-banner[style*="background-image"] .featured-label {
+  color: var(--accent) !important;
+}
+
+[data-theme="light"] .featured-banner[style*="background-image"] .featured-title,
+[data-theme="light"] .featured-banner[style*="background-image"] .featured-app-name {
+  color: #111 !important;
+}
+
+[data-theme="light"] .featured-banner[style*="background-image"] .featured-subtitle,
+[data-theme="light"] .featured-banner[style*="background-image"] .featured-app-sub {
+  color: #333 !important;
+}
+
+[data-theme="light"] .featured-banner[style*="background-image"] .featured-get-btn {
+  background: var(--accent) !important;
+  color: #fff !important;
 }
 
 .featured-content {
@@ -2229,6 +2279,11 @@ a.about-btn {
 .mobile-back-fab.faded {
 	opacity: 0;
 	pointer-events: none;
+}
+
+.mobile-menu-fab.hidden,
+.mobile-back-fab.hidden {
+  display: none !important;
 }
 
 .sidebar-overlay {

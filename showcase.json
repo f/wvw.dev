@@ -1,231 +1,18 @@
 {
-  "generated_at": "2026-03-16T09:31:24Z",
+  "generated_at": "2026-03-16T08:06:57Z",
   "highlights": [
     {
-      "id": "prompts-chat",
-      "name": "Prompts.chat",
-      "subtitle": "Community Prompt Collection",
-      "icon": "https://raw.githubusercontent.com/f/prompts.chat/main/public/logo-dark.svg",
-      "iconStyle": {
-        "scale": 0.9,
-        "objectFit": "contain",
-        "bgColor": "#000000",
-        "padding": "18%"
-      },
-      "iconEmoji": null,
-      "screenshot": "https://raw.githubusercontent.com/f/prompts.chat/main/public/og.png",
-      "category": "developer-tools",
-      "platform": "Web",
-      "stars": 152742
-    },
-    {
-      "id": "textream",
-      "name": "Textream",
-      "subtitle": "A Free macOS Teleprompter",
-      "icon": "https://raw.githubusercontent.com/f/textream/master/Textream/Textream/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
-      "iconStyle": {
-        "scale": 1.3,
-        "objectFit": "cover",
-        "borderRadius": "22%"
-      },
-      "iconEmoji": null,
-      "screenshot": "https://raw.githubusercontent.com/f/textream/master/docs/video.gif",
-      "category": "macos",
-      "platform": "macOS",
-      "stars": 2016
-    }
-  ],
-  "picks": [
-    {
-      "id": "dodotidy",
-      "name": "DodoTidy",
-      "subtitle": "A native macOS system cleaner",
-      "icon": "https://raw.githubusercontent.com/DodoApps/dodotidy/main/dodotidy.png",
-      "iconStyle": {
-        "scale": 1.3,
-        "objectFit": "cover",
-        "borderRadius": "22%"
-      },
-      "iconEmoji": null,
-      "screenshot": null,
-      "category": "macos",
-      "platform": "macOS",
-      "stars": 171
-    },
-    {
-      "id": "textream",
-      "name": "Textream",
-      "subtitle": "A Free macOS Teleprompter",
-      "icon": "https://raw.githubusercontent.com/f/textream/master/Textream/Textream/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
-      "iconStyle": {
-        "scale": 1.3,
-        "objectFit": "cover",
-        "borderRadius": "22%"
-      },
-      "iconEmoji": null,
-      "screenshot": "https://raw.githubusercontent.com/f/textream/master/docs/video.gif",
-      "category": "macos",
-      "platform": "macOS",
-      "stars": 2016
-    },
-    {
-      "id": "appetit",
-      "name": "Appétit",
-      "subtitle": "Bon Appétit for Apps",
-      "icon": "https://raw.githubusercontent.com/f/appetit/master/logo.svg",
-      "iconStyle": {
-        "objectFit": "cover"
-      },
-      "iconEmoji": null,
-      "screenshot": null,
-      "category": "web",
-      "platform": "Web",
-      "stars": 29
-    },
-    {
-      "id": "poker-tracker",
-      "name": "Poker Tracker",
-      "subtitle": "Track your live poker PnL with a simple web app",
-      "icon": "https://pokertracker-23081.web.app/logo192-masked.png",
-      "iconStyle": null,
-      "iconEmoji": null,
-      "screenshot": "https://raw.githubusercontent.com/stedwick/wvw.dev.apps/main/screenshots/poker-tracker.png",
-      "category": "web",
-      "platform": "Web",
-      "stars": 1
-    },
-    {
-      "id": "agent-chess",
-      "name": "Agent Chess",
-      "subtitle": "Local chess matches for AI agents",
-      "icon": "https://raw.githubusercontent.com/shametim/agent-chess/main/logo.png",
-      "iconStyle": null,
-      "iconEmoji": "♟️",
-      "screenshot": "https://raw.githubusercontent.com/shametim/agent-chess/main/docs/agent-chess-cli.png",
+      "id": "git-rewrite-commits",
+      "name": "git-rewrite-commits",
+      "subtitle": "AI-Powered Commit Message Rewriter",
+      "icon": null,
+      "iconStyle": {},
+      "iconEmoji": "✍️",
+      "screenshot": "https://raw.githubusercontent.com/f/git-rewrite-commits/master/git-rewrite-commits.png",
       "category": "cli",
       "platform": "Node.js",
-      "stars": 0
-    },
-    {
-      "id": "radioheavy-wiro-cli",
-      "name": "Wiro CLI",
-      "subtitle": "Terminal client for discovering models, running tasks, and watching progress on Wiro AI",
-      "icon": null,
-      "iconStyle": null,
-      "iconEmoji": "⌘",
-      "screenshot": null,
-      "category": "cli",
-      "platform": "CLI",
-      "stars": 1
-    },
-    {
-      "id": "prompts-chat",
-      "name": "Prompts.chat",
-      "subtitle": "Community Prompt Collection",
-      "icon": "https://raw.githubusercontent.com/f/prompts.chat/main/public/logo-dark.svg",
-      "iconStyle": {
-        "scale": 0.9,
-        "objectFit": "contain",
-        "bgColor": "#000000",
-        "padding": "18%"
-      },
-      "iconEmoji": null,
-      "screenshot": "https://raw.githubusercontent.com/f/prompts.chat/main/public/og.png",
-      "category": "developer-tools",
-      "platform": "Web",
-      "stars": 152742
-    },
-    {
-      "id": "sql-prep",
-      "name": "SQL Prep",
-      "subtitle": "SQL interview prep & quiz",
-      "icon": null,
-      "iconStyle": null,
-      "iconEmoji": "📊",
-      "screenshot": null,
-      "category": "developer-tools",
-      "platform": "iOS",
-      "stars": 0
-    },
-    {
-      "id": "deeper",
-      "name": "Deeper",
-      "subtitle": "Messaging Analytics for Beeper",
-      "icon": "https://raw.githubusercontent.com/f/deeper/main/icon.svg",
-      "iconStyle": {
-        "scale": 1,
-        "objectFit": "contain",
-        "bgColor": "#1c1c1e"
-      },
-      "iconEmoji": null,
-      "screenshot": "https://raw.githubusercontent.com/f/deeper/main/docs/screenshot.png",
-      "category": "productivity",
-      "platform": "macOS",
-      "stars": 59
-    },
-    {
-      "id": "linkedin-hide-viewed-jobs",
-      "name": "linkedin-hide-viewed-jobs",
-      "subtitle": "Hide or highlight viewed LinkedIn job posts.",
-      "icon": null,
-      "iconStyle": null,
-      "iconEmoji": "💼",
-      "screenshot": "https://raw.githubusercontent.com/sametcn99/linkedin-hide-viewed-jobs/refs/heads/master/screenshot.png",
-      "category": "productivity",
-      "platform": "Browser",
-      "stars": 3
-    },
-    {
-      "id": "unified-audio-control",
-      "name": "Unified Audio Control",
-      "subtitle": "One control for all your audio",
-      "icon": null,
-      "iconStyle": null,
-      "iconEmoji": "🎛️",
-      "screenshot": null,
-      "category": "utilities",
-      "platform": "Python",
-      "stars": 0
-    },
-    {
-      "id": "dodoservice",
-      "name": "DodoService",
-      "subtitle": "Manage your Mac services from the menu bar",
-      "icon": "",
-      "iconStyle": {
-        "scale": 1.3,
-        "objectFit": "cover",
-        "borderRadius": "22%"
-      },
-      "iconEmoji": null,
-      "screenshot": null,
-      "category": "utilities",
-      "platform": "macOS",
-      "stars": 8
-    },
-    {
-      "id": "koumath",
-      "name": "KOUmath",
-      "subtitle": "AI math solver.",
-      "icon": "https://my-store-six-ruby.vercel.app/assets/koumath-logo-B8_Amk9_.png",
-      "iconStyle": null,
-      "iconEmoji": null,
-      "screenshot": "https://github.com/user-attachments/assets/63aa9796-cc61-4b10-a4ff-f4519be8227d",
-      "category": "education",
-      "platform": "React Native",
-      "stars": 0
-    },
-    {
-      "id": "sql-prep",
-      "name": "SQL Prep",
-      "subtitle": "SQL interview prep & quiz",
-      "icon": null,
-      "iconStyle": null,
-      "iconEmoji": "📊",
-      "screenshot": null,
-      "category": "education",
-      "platform": "iOS",
-      "stars": 0
+      "stars": 1385,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f10/26y4y48yWGlQQZxXrBOP7_Am6MXLuJ.png"
     },
     {
       "id": "macabolic",
@@ -241,43 +28,270 @@
       "screenshot": "https://raw.githubusercontent.com/alinuxpengui/Macabolic/refs/heads/main/Screenshots/ss1.png",
       "category": "entertainment",
       "platform": "macOS",
-      "stars": 243
+      "stars": 243,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f32/SGppgrHKZSixeven12XWg_vMFHNmrb.png"
+    }
+  ],
+  "picks": [
+    {
+      "id": "textream",
+      "name": "Textream",
+      "subtitle": "A Free macOS Teleprompter",
+      "icon": "https://raw.githubusercontent.com/f/textream/master/Textream/Textream/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+      "iconStyle": {
+        "scale": 1.3,
+        "objectFit": "cover",
+        "borderRadius": "22%"
+      },
+      "iconEmoji": null,
+      "screenshot": "https://raw.githubusercontent.com/f/textream/master/docs/video.gif",
+      "category": "macos",
+      "platform": "macOS",
+      "stars": 6
     },
     {
-      "id": "soundshift",
-      "name": "SoundShift",
-      "subtitle": "Discover how your music taste evolved",
+      "id": "whisperwrap",
+      "name": "WhisperWrap",
+      "subtitle": "Whisper made easy",
       "icon": null,
       "iconStyle": null,
-      "iconEmoji": "🎵",
-      "screenshot": "https://raw.githubusercontent.com/apo-bozdag/SoundShift/main/ss/1.png",
-      "category": "entertainment",
-      "platform": "Web",
-      "stars": 5
-    },
-    {
-      "id": "ai-word-or-not",
-      "name": "AI Word or Not",
-      "subtitle": "Human or AI? Word quiz game",
-      "icon": null,
-      "iconStyle": null,
-      "iconEmoji": "🧠",
+      "iconEmoji": "🗣️",
       "screenshot": null,
-      "category": "games",
-      "platform": "iOS",
-      "stars": 0
+      "category": "macos",
+      "platform": "Python",
+      "stars": 0,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f09/iBQgYymI8v7RMRPaL0Ne0_uyJXfq9W.png"
     },
     {
-      "id": "wordle",
-      "name": "Wordle Game",
-      "subtitle": "Word guessing game.",
-      "icon": "https://my-store-six-ruby.vercel.app/assets/word-game-logo-CEXOfg9W.png",
+      "id": "gpvblazor",
+      "name": "GPVBlazor",
+      "subtitle": "Explore GitHub profiles, repos, gists, and star history.",
+      "icon": "https://gpv.sametcc.me/icons/icon512.png",
+      "iconStyle": null,
+      "iconEmoji": "📈",
+      "screenshot": "https://opengraph.githubassets.com/1/sametcn99/GPVBlazor",
+      "category": "web",
+      "platform": "Web",
+      "stars": 2,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f0c/2gQNA-iu2HTjmiymY7Nhu_WHBL7xKV.png"
+    },
+    {
+      "id": "radioheavy-avalon",
+      "name": "Avalon",
+      "subtitle": "Visual prompt IDE for AI editing, reverse engineering, and image workflows",
+      "icon": "https://raw.githubusercontent.com/radioheavy/avalon/main/public/apple-touch-icon.png",
+      "iconStyle": {
+        "scale": 1.2,
+        "objectFit": "cover",
+        "borderRadius": "22%"
+      },
+      "iconEmoji": "✨",
+      "screenshot": "https://raw.githubusercontent.com/radioheavy/avalon/main/public/a/new-2-dashboard.png",
+      "category": "web",
+      "platform": "Web",
+      "stars": 0,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f0e/bWdwzHXc4DkPXgBwbTqjX_ZnqvxWcR.png"
+    },
+    {
+      "id": "agent-chess",
+      "name": "Agent Chess",
+      "subtitle": "Local chess matches for AI agents",
+      "icon": "https://raw.githubusercontent.com/shametim/agent-chess/main/logo.png",
+      "iconStyle": null,
+      "iconEmoji": "♟️",
+      "screenshot": "https://raw.githubusercontent.com/shametim/agent-chess/main/docs/agent-chess-cli.png",
+      "category": "cli",
+      "platform": "Node.js",
+      "stars": 1385,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f10/26y4y48yWGlQQZxXrBOP7_Am6MXLuJ.png"
+    },
+    {
+      "id": "radioheavy-wiro-cli",
+      "name": "Wiro CLI",
+      "subtitle": "Terminal client for discovering models, running tasks, and watching progress on Wiro AI",
+      "icon": null,
+      "iconStyle": null,
+      "iconEmoji": "⌘",
+      "screenshot": null,
+      "category": "cli",
+      "platform": "macOS",
+      "stars": 64,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f13/aj5qDN0l08N53gEF9DdUt_ToFwFV6A.png"
+    },
+    {
+      "id": "dev-cleaner",
+      "name": "Dev Cleaner",
+      "subtitle": "Workspace health dashboard",
+      "icon": "https://raw.githubusercontent.com/Tolsion/DevCleaner/main/assets/dev_clean_color.png",
+      "iconStyle": {
+        "scale": 1.1,
+        "objectFit": "cover",
+        "borderRadius": "22%"
+      },
+      "iconEmoji": "🧹",
+      "screenshot": null,
+      "category": "developer-tools",
+      "platform": "macOS",
+      "stars": 2,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f16/cnNI3tTeWZp3jFjiTyex7_keb4SIBN.png"
+    },
+    {
+      "id": "guidgenerator-vscode",
+      "name": "GuidGenerator",
+      "subtitle": "GUID Generator Extension for VS Code",
+      "icon": "https://kocdev.gallerycdn.vsassets.io/extensions/kocdev/guidgenerator/0.0.6/1691729877308/Microsoft.VisualStudio.Services.Icons.Default",
       "iconStyle": null,
       "iconEmoji": null,
-      "screenshot": "https://my-store-six-ruby.vercel.app/assets/1-BFyt7Gyl.png",
-      "category": "games",
+      "screenshot": null,
+      "category": "developer-tools",
+      "platform": "VS Code",
+      "stars": 3,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f1c/2O_sPOATtOtFptab7fNDw_iJhNYsoQ.png"
+    },
+    {
+      "id": "github-repo-cleaner-ai",
+      "name": "GitHub Repo Manager & Cleaner",
+      "subtitle": "AI-powered GitHub repository management",
+      "icon": "https://raw.githubusercontent.com/palamut62/github-repo-cleaner-ai/main/assets/icon.png",
+      "iconStyle": {
+        "borderRadius": "22%",
+        "objectFit": "cover"
+      },
+      "iconEmoji": null,
+      "screenshot": "https://raw.githubusercontent.com/palamut62/github-repo-cleaner-ai/main/screenshoot.png",
+      "category": "productivity",
+      "platform": "Desktop",
+      "stars": 0,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f20/z4mf0v9-KfZyjXkkXE0bp_Oo3kebma.png"
+    },
+    {
+      "id": "product-planning-copilot",
+      "name": "product-planning-copilot",
+      "subtitle": "Documentation-first planning system teams can fork and adapt.",
+      "icon": null,
+      "iconStyle": null,
+      "iconEmoji": "🗂️",
+      "screenshot": "https://opengraph.githubassets.com/1/sametcn99/product-planning-copilot",
+      "category": "productivity",
+      "platform": "Web",
+      "stars": 1,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f22/lPWA2LJlWLY7Oz9ZsW3OQ_zzkJOymG.png"
+    },
+    {
+      "id": "philnav",
+      "name": "PhilNav",
+      "subtitle": "Infrared head mouse for hands-free computer control",
+      "icon": "https://public-files.gumroad.com/0nnvduycqqoj9l0bvocbiw2fclq9",
+      "iconStyle": {
+        "objectFit": "cover",
+        "borderRadius": "16%"
+      },
+      "iconEmoji": "🖱️",
+      "screenshot": "https://public-files.gumroad.com/0nnvduycqqoj9l0bvocbiw2fclq9",
+      "category": "utilities",
+      "platform": "Raspberry Pi + Desktop",
+      "stars": 5,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f24/ku3x6RtZvgB9IFeVbEMLy_EL3hTskp.png"
+    },
+    {
+      "id": "unified-audio-control",
+      "name": "Unified Audio Control",
+      "subtitle": "One control for all your audio",
+      "icon": null,
+      "iconStyle": null,
+      "iconEmoji": "🎛️",
+      "screenshot": null,
+      "category": "utilities",
+      "platform": "Python",
+      "stars": 0,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f28/Ad-gcAwFVZ4F0c7lHQnlR_ly2h9Hs0.png"
+    },
+    {
+      "id": "koumath",
+      "name": "KOUmath",
+      "subtitle": "AI math solver.",
+      "icon": "https://my-store-six-ruby.vercel.app/assets/koumath-logo-B8_Amk9_.png",
+      "iconStyle": null,
+      "iconEmoji": null,
+      "screenshot": "https://github.com/user-attachments/assets/63aa9796-cc61-4b10-a4ff-f4519be8227d",
+      "category": "education",
       "platform": "React Native",
-      "stars": 0
+      "stars": 0,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f29/NrAbrEtqM4oLnQchLJgGh_TdLlIVp2.png"
+    },
+    {
+      "id": "sql-prep",
+      "name": "SQL Prep",
+      "subtitle": "SQL interview prep & quiz",
+      "icon": null,
+      "iconStyle": null,
+      "iconEmoji": "📊",
+      "screenshot": null,
+      "category": "education",
+      "platform": "iOS",
+      "stars": 0,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f2c/ALJf9addIdvd88s3zoN1l_Ye8EhN2h.png"
+    },
+    {
+      "id": "random-quotes",
+      "name": "Random Quotes",
+      "subtitle": "Daily Inspirational Quotes App",
+      "icon": "https://play-lh.googleusercontent.com/ecgtkF_JnTvt_9Haz1X878rvkUu0AXeCCISm156LQZQo52JTpv5_bml3Yq1WW7vDHoQ=w240-h480-rw",
+      "iconStyle": {
+        "objectFit": "cover",
+        "borderRadius": "22%"
+      },
+      "iconEmoji": null,
+      "screenshot": null,
+      "category": "entertainment",
+      "platform": "iOS & Android",
+      "stars": 1,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f2f/4SCO_4au8cMYgPFKM-Mao_yK2rCKfC.png"
+    },
+    {
+      "id": "macabolic",
+      "name": "Macabolic",
+      "subtitle": "A video and audio downloader for macOS",
+      "icon": "https://raw.githubusercontent.com/alinuxpengui/Macabolic/main/Macabolic/Resources/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+      "iconStyle": {
+        "scale": 1.3,
+        "objectFit": "cover",
+        "borderRadius": "22%"
+      },
+      "iconEmoji": null,
+      "screenshot": "https://raw.githubusercontent.com/alinuxpengui/Macabolic/refs/heads/main/Screenshots/ss1.png",
+      "category": "entertainment",
+      "platform": "macOS",
+      "stars": 243,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f32/SGppgrHKZSixeven12XWg_vMFHNmrb.png"
+    },
+    {
+      "id": "pixel-guess-game",
+      "name": "Pixel Guess",
+      "subtitle": "Guess the character behind the pixels",
+      "icon": "https://raw.githubusercontent.com/Jubstaaa/pixelate-game-mobile/main/assets/icon.png",
+      "iconStyle": {
+        "borderRadius": "22%"
+      },
+      "iconEmoji": null,
+      "screenshot": "https://ilkerbalcilar.com/api/media/file/8392a623-b7d3-4c80-a301-d4402c4d7c3e.webp",
+      "category": "games",
+      "platform": "Web",
+      "stars": 0,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f34/BOPb2NYO-eRYGrTosqtxn_8yf4gGPd.png"
+    },
+    {
+      "id": "galaksinin-muhafizlari",
+      "name": "Galaksinin Muhafızları",
+      "subtitle": "Galaksiyi Koru, Muhafızlarını Topla!",
+      "icon": null,
+      "iconStyle": {},
+      "iconEmoji": "🚀",
+      "screenshot": null,
+      "category": "games",
+      "platform": "Web",
+      "stars": 4,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f38/wTHCLYBjGZBlHBWmxVbvw_aMmM0gJ8.png"
     },
     {
       "id": "ha-bluetooth-audio-manager",
@@ -289,7 +303,8 @@
       "screenshot": "https://github.com/user-attachments/assets/a1dd24b9-9f99-4049-80fc-918e3a5f8909",
       "category": "music",
       "platform": "Docker",
-      "stars": 24
+      "stars": 24,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f3d/58Pp8KPFgvRYiXbIohIOo_bREHtT0s.png"
     },
     {
       "id": "soundshift",
@@ -301,7 +316,8 @@
       "screenshot": "https://raw.githubusercontent.com/apo-bozdag/SoundShift/main/ss/1.png",
       "category": "music",
       "platform": "Web",
-      "stars": 5
+      "stars": 5,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f3e/8GFOnuIXgi0LgTpEf-PFN_enNCecNY.png"
     },
     {
       "id": "radioheavy-captioneer",
@@ -317,7 +333,8 @@
       "screenshot": null,
       "category": "photo-video",
       "platform": "macOS",
-      "stars": 1
+      "stars": 1,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f41/lKgJJs-z8nLaIIJKkzgsn_Nz6VK10n.png"
     },
     {
       "id": "ai2image",
@@ -329,7 +346,8 @@
       "screenshot": null,
       "category": "graphics-design",
       "platform": "Web",
-      "stars": 0
+      "stars": 0,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f43/7LYYneMtyVZ5A8hacN-Sl_tC42qWR3.png"
     },
     {
       "id": "radioheavy-avalon",
@@ -345,7 +363,8 @@
       "screenshot": "https://raw.githubusercontent.com/radioheavy/avalon/main/public/a/new-2-dashboard.png",
       "category": "graphics-design",
       "platform": "Web",
-      "stars": 0
+      "stars": 0,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f46/64Wa15VHk7bR6fSWcX99v_EQeqgtze.png"
     },
     {
       "id": "my-net-worth",
@@ -357,7 +376,8 @@
       "screenshot": "https://mynetworthone.com/full-screenshot-light.png",
       "category": "finance",
       "platform": "Web",
-      "stars": 0
+      "stars": 0,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f47/AN4xe7S_L4wisXiw3aNJg_foZ3ufr0.png"
     },
     {
       "id": "poker-tracker",
@@ -372,16 +392,33 @@
       "stars": 1
     },
     {
-      "id": "damga",
-      "name": "Damga",
-      "subtitle": "Digitalized loyalty cards.",
-      "icon": "https://my-store-six-ruby.vercel.app/assets/damga-logo-p5IeWNAL.png",
+      "id": "whistle-sos",
+      "name": "Whistle SOS",
+      "subtitle": "Emergency Whistle for Earthquake Situations",
+      "icon": "https://play-lh.googleusercontent.com/RA5xl79ALrLWIL8SptFCc6UQIN-iVdf-Y5d0KsNsUI0H3Yn4MwOHf6WgB4K7n6mAGMA=w240-h480-rw",
+      "iconStyle": {
+        "objectFit": "cover",
+        "borderRadius": "22%"
+      },
+      "iconEmoji": null,
+      "screenshot": null,
+      "category": "health-fitness",
+      "platform": "iOS & Android",
+      "stars": 3,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f51/IR43GW_VN4NUo2JY-C6wr_X1I1PcWf.png"
+    },
+    {
+      "id": "en-yakin-eczane-bot",
+      "name": "En Yakın Eczaneyi Bul",
+      "subtitle": "Nearest Pharmacy Finder — Telegram Bot",
+      "icon": "https://osmankoc.dev/images/projects/en-yakin-eczaneyi-bul-logo.jpg",
       "iconStyle": null,
       "iconEmoji": null,
-      "screenshot": "https://my-store-six-ruby.vercel.app/assets/1-CwKcGcxW.png",
-      "category": "lifestyle",
-      "platform": "React Native",
-      "stars": 0
+      "screenshot": null,
+      "category": "health-fitness",
+      "platform": "Telegram",
+      "stars": 4,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f53/UhodghVHRszjDfo1OH-Y4_PYcMHHQh.png"
     },
     {
       "id": "my-plants",
@@ -393,7 +430,21 @@
       "screenshot": "https://my-store-six-ruby.vercel.app/assets/1-Bw-nLna7.png",
       "category": "lifestyle",
       "platform": "React Native",
-      "stars": 0
+      "stars": 0,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f59/wyK9e34OJ3fvhIwYHkjeB_oEjx05cm.png"
+    },
+    {
+      "id": "yadet",
+      "name": "yâdet",
+      "subtitle": "Remote Cemetery Care Platform",
+      "icon": "https://osmankoc.dev/images/projects/yadet-logo.png",
+      "iconStyle": null,
+      "iconEmoji": null,
+      "screenshot": null,
+      "category": "lifestyle",
+      "platform": "iOS & Android",
+      "stars": 0,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f5b/XioVAdkR_Konp_7JhTWUW_G32E2WRS.png"
     },
     {
       "id": "reviseflow",
@@ -405,7 +456,8 @@
       "screenshot": "https://reviseflow.io/screenshots/reviseflow-ai-linkedin.png",
       "category": "business",
       "platform": "Web",
-      "stars": 0
+      "stars": 0,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f5d/-aWF_swRL-ulebMuyoMQj_PYdaTovC.png"
     },
     {
       "id": "dodocount",
@@ -421,7 +473,8 @@
       "screenshot": null,
       "category": "business",
       "platform": "macOS",
-      "stars": 14
+      "stars": 14,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f5f/iDShdvXdhpsy-u8ab6x19_F4XtWg93.png"
     },
     {
       "id": "flight-ticket",
@@ -433,7 +486,8 @@
       "screenshot": "https://my-store-six-ruby.vercel.app/assets/S1-BEsuJBYQ.png",
       "category": "travel",
       "platform": "React Native",
-      "stars": 0
+      "stars": 0,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f62/mBpfO_GV2pBwu0P9Z9t6N_Gd9QrlqK.png"
     },
     {
       "id": "bilokma",
@@ -445,7 +499,8 @@
       "screenshot": "https://github.com/kagantemizkan/bilokma/assets/46727689/19b46d3f-bea8-4b58-9fa3-13c6694ac2e9",
       "category": "food-drink",
       "platform": "React Native",
-      "stars": 1
+      "stars": 1,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f63/3RrtXHBiFQxJu8UEZ1dn5_XohapvaO.png"
     },
     {
       "id": "rn-maps",
@@ -457,7 +512,8 @@
       "screenshot": "https://github.com/kagantemizkan/mapsForBlinds/assets/46727689/64543788-bc8f-41dc-bc34-aaaae7ab022a",
       "category": "navigation",
       "platform": "React Native",
-      "stars": 0
+      "stars": 0,
+      "showcase_image": "https://v3b.fal.media/files/b/0a925f67/Ssuu_XauP7vKDcjQUd0T3_28uqtj0K.png"
     }
   ]
 }

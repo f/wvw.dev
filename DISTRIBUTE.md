@@ -233,6 +233,8 @@ Only the following category IDs are recognized by WVW. Apps with unrecognized ca
 | ID | Display Name |
 |----|-------------|
 | `macos` | macOS Apps |
+| `ios` | iOS Apps |
+| `android` | Android Apps |
 | `web` | Web Apps |
 | `cli` | CLI Apps |
 | `developer-tools` | Developer Tools |

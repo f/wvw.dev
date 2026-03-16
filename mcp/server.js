@@ -10,7 +10,7 @@ import {
 } from "@modelcontextprotocol/sdk/types.js";
 
 const ALLOWED_CATEGORIES = [
-  "macos", "web", "cli", "developer-tools", "productivity", "utilities",
+  "macos", "ios", "android", "web", "cli", "developer-tools", "productivity", "utilities",
   "education", "entertainment", "games", "music", "photo-video",
   "graphics-design", "social-networking", "finance", "health-fitness",
   "lifestyle", "news", "business", "reference", "travel", "food-drink",

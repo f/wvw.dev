@@ -37,6 +37,14 @@
       "name": "macOS Apps"
     },
     {
+      "id": "ios",
+      "name": "iOS Apps"
+    },
+    {
+      "id": "android",
+      "name": "Android Apps"
+    },
+    {
       "id": "web",
       "name": "Web Apps"
     },
@@ -200,7 +208,7 @@
       "github": "https://github.com/f/agentlytics",
       "homepage": "https://agentlytics.io",
       "language": "JavaScript",
-      "stars": 335,
+      "stars": 336,
       "forks": 34,
       "installCommand": "npx agentlytics",
       "requirements": "Node.js 20.19+ or 22.12+, macOS",
@@ -459,8 +467,51 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 572,
-      "forks": 94
+      "stars": 604,
+      "forks": 95
+    },
+    {
+      "id": "baby-sleeper",
+      "name": "Baby Sleeper",
+      "subtitle": "Soothing Sounds & Lullabies for Babies",
+      "description": "Soothing sounds and lullabies to help babies fall asleep. Developed with Flutter.",
+      "longDescription": "Baby Sleeper is a Flutter app packed with carefully curated soothing sounds and lullabies to help infants and toddlers drift off peacefully. Choose from white noise, nature sounds, and classic lullabies. Set a sleep timer and let the app do the rest.",
+      "icon": "https://play-lh.googleusercontent.com/lUVE3_TOvgVdRentWDpLwDj-qq5j2N4ciZvehsfrWBL-VuHNSesqOauqSvL4kaGjZDI=w240-h480-rw",
+      "iconStyle": {
+        "objectFit": "cover",
+        "borderRadius": "22%"
+      },
+      "category": [
+        "lifestyle"
+      ],
+      "platform": "Android",
+      "price": "Free",
+      "github": "https://github.com/osman-koc/baby-sleeper-app",
+      "homepage": "https://play.google.com/store/apps/details?id=com.osmankoc.babysleeper",
+      "language": "Flutter",
+      "requirements": "Android 5+",
+      "links": [
+        {
+          "label": "Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.osmankoc.babysleeper",
+          "platform": "android"
+        }
+      ],
+      "features": [
+        "Curated soothing sounds and lullabies",
+        "White noise, nature sounds, and classic lullabies",
+        "Built-in sleep timer",
+        "Open source on GitHub"
+      ],
+      "screenshots": [],
+      "_source": "osman-koc/my-apps",
+      "_owner": "osman-koc",
+      "_developer": "Osman Koç",
+      "_store": "kocdev",
+      "_storeUrl": "https://apps.osmankoc.dev",
+      "developer": "Osman Koç",
+      "stars": 2,
+      "forks": 1
     },
     {
       "id": "bilokma",
@@ -533,6 +584,27 @@
       "_developer": "sametcn99",
       "_store": "sametcn99's Apps",
       "_storeUrl": "https://apps.sametcc.me"
+    },
+    {
+      "id": "breathe-wisely",
+      "name": "Breathe Wisely",
+      "subtitle": "Simple Stress Relief",
+      "description": "A simple breathing exercise app designed for quick and effective stress relief.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/1c/dd/fd1cddd8-acb4-1db3-8031-6d3bfafa7aee/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "iconEmoji": "🌬️",
+      "category": [
+        "ios"
+      ],
+      "platform": "iOS",
+      "price": "Free",
+      "github": "https://github.com/akeslo",
+      "homepage": "https://apps.apple.com/us/app/breathe-wisely/id6744491087",
+      "_source": "akeslo/wvw.com",
+      "_owner": "akeslo",
+      "_developer": "akeslo",
+      "_store": "Akeslo Apps",
+      "_storeUrl": "",
+      "developer": "akeslo"
     },
     {
       "id": "check-ai",
@@ -614,6 +686,49 @@
       "developer": "Levent Bali",
       "stars": 0,
       "forks": 0
+    },
+    {
+      "id": "coldcase",
+      "name": "ColdCase",
+      "subtitle": "Online Detective Game",
+      "description": "An interactive detective game where players investigate unsolved cases, analyze clues, and connect evidence to uncover the truth. Designed as a mobile-first experience, ColdCase lets players step into the role of a digital detective and solve mysteries through immersive case files and investigation mechanics.",
+      "longDescription": "ColdCase is a mobile-first detective game where every case is a mystery waiting to be solved. Dive into detailed case files, examine evidence photos, cross-reference witness statements, and piece together the clues to name your suspect. Each case is crafted to challenge your deductive reasoning — can you close the case before the trail goes cold?",
+      "icon": "https://osmankoc.dev/images/projects/coldcase-app.png",
+      "category": [
+        "games",
+        "entertainment"
+      ],
+      "platform": "iOS & Android",
+      "price": "Free",
+      "github": null,
+      "homepage": "https://coldcaseapp.com",
+      "language": "React Native",
+      "requirements": "iOS 13+ or Android 6+",
+      "links": [
+        {
+          "label": "App Store",
+          "url": "https://apps.apple.com/tr/app/coldcase-online-dedektif/id6758562111",
+          "platform": "ios"
+        },
+        {
+          "label": "Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.osmankoc.coldcase",
+          "platform": "android"
+        }
+      ],
+      "features": [
+        "Investigate immersive unsolved case files",
+        "Analyze clues, evidence photos, and witness statements",
+        "Connect the dots and name your suspect",
+        "Mobile-first design with intuitive investigation mechanics"
+      ],
+      "screenshots": [],
+      "_source": "osman-koc/my-apps",
+      "_owner": "osman-koc",
+      "_developer": "Osman Koç",
+      "_store": "kocdev",
+      "_storeUrl": "https://apps.osmankoc.dev",
+      "developer": "Osman Koç"
     },
     {
       "id": "context-generator",
@@ -708,8 +823,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 572,
-      "forks": 94
+      "stars": 604,
+      "forks": 95
     },
     {
       "id": "damga",
@@ -874,7 +989,7 @@
       "github": "https://github.com/DodoApps/dodoclip",
       "homepage": null,
       "language": "Swift",
-      "stars": 80,
+      "stars": 81,
       "forks": 4,
       "downloadUrl": null,
       "requirements": "macOS 14.0 or later",
@@ -1173,6 +1288,73 @@
       "_storeUrl": ""
     },
     {
+      "id": "en-yakin-eczane-bot",
+      "name": "En Yakın Eczaneyi Bul",
+      "subtitle": "Nearest Pharmacy Finder — Telegram Bot",
+      "description": "A Telegram bot that finds the nearest or on-duty pharmacies around you. Returns name, address, telephone and map location. Works in Türkiye.",
+      "longDescription": "En Yakın Eczaneyi Bul is a Telegram bot that locates the closest open or on-duty pharmacies in Türkiye based on your shared location. It responds with the pharmacy name, address, phone number, and a direct map link — perfect for late-night situations when you need to find a nöbetçi eczane quickly.",
+      "icon": "https://osmankoc.dev/images/projects/en-yakin-eczaneyi-bul-logo.jpg",
+      "category": [
+        "utilities",
+        "health-fitness"
+      ],
+      "platform": "Telegram",
+      "price": "Free",
+      "github": "https://github.com/osman-koc/en-yakin-eczane-telegram-botu",
+      "homepage": "https://t.me/EnYakinEczaneBot",
+      "language": "Python",
+      "requirements": "Telegram app",
+      "features": [
+        "Find the nearest open or on-duty pharmacy by location",
+        "Returns name, address, phone number, and map link",
+        "Also finds nöbetçi eczane (late-night on-duty pharmacies)",
+        "Works across Türkiye",
+        "Open source on GitHub"
+      ],
+      "screenshots": [],
+      "_source": "osman-koc/my-apps",
+      "_owner": "osman-koc",
+      "_developer": "Osman Koç",
+      "_store": "kocdev",
+      "_storeUrl": "https://apps.osmankoc.dev",
+      "developer": "Osman Koç",
+      "stars": 4,
+      "forks": 1
+    },
+    {
+      "id": "en-yakin-hastane-bot",
+      "name": "En Yakın Hastaneyi Bul",
+      "subtitle": "Nearest Hospital Finder — Telegram Bot",
+      "description": "A Telegram bot that finds and transmits the name, address, telephone and map location of the nearest hospitals around you by location. Works in Türkiye.",
+      "longDescription": "En Yakın Hastaneyi Bul is a Telegram bot that, given your location, instantly returns the name, address, phone number, and map link for the nearest hospitals in Türkiye. Just share your location in the chat and the bot takes care of the rest.",
+      "icon": "https://osmankoc.dev/images/projects/en-yakin-hastaneyi-bul-logo.jpg",
+      "category": [
+        "utilities",
+        "health-fitness"
+      ],
+      "platform": "Telegram",
+      "price": "Free",
+      "github": "https://github.com/osman-koc/en-yakin-hastane-telegram-botu",
+      "homepage": "https://t.me/EnYakinHastaneBot",
+      "language": "Python",
+      "requirements": "Telegram app",
+      "features": [
+        "Share your location to find the nearest hospitals",
+        "Returns name, address, phone number, and map link",
+        "Works across Türkiye",
+        "Open source on GitHub"
+      ],
+      "screenshots": [],
+      "_source": "osman-koc/my-apps",
+      "_owner": "osman-koc",
+      "_developer": "Osman Koç",
+      "_store": "kocdev",
+      "_storeUrl": "https://apps.osmankoc.dev",
+      "developer": "Osman Koç",
+      "stars": 0,
+      "forks": 1
+    },
+    {
       "id": "env-protector",
       "name": "Env Protector",
       "subtitle": "Keep .env secrets hidden before they reach the editor.",
@@ -1348,6 +1530,37 @@
       "developer": "Fatih Kadir Akin"
     },
     {
+      "id": "git-search-ai",
+      "name": "Git Search AI",
+      "subtitle": "AI-Powered Git Commit Search for VS Code",
+      "description": "AI-powered Git commit history and code search tool for VS Code. Running on your local machine, it helps you find the code you need in seconds.",
+      "longDescription": "Git Search AI is a VS Code extension that uses AI to search through your entire git commit history and codebase semantically. Simply describe what you are looking for in plain language and the extension surfaces the relevant commits and code changes instantly — all running privately on your local machine.",
+      "icon": "https://osmankoc.dev/images/projects/git-search-ai/icon.png",
+      "category": [
+        "developer-tools"
+      ],
+      "platform": "VS Code",
+      "price": "Free",
+      "github": null,
+      "homepage": "https://marketplace.visualstudio.com/items?itemName=kocdev.git-search-ai",
+      "language": "TypeScript",
+      "requirements": "VS Code 1.60+",
+      "features": [
+        "AI-powered semantic search across git history",
+        "Runs entirely on your local machine — no cloud, no tracking",
+        "Find code changes by describing them in natural language",
+        "Supports all git repositories",
+        "Available on VS Code Marketplace"
+      ],
+      "screenshots": [],
+      "_source": "osman-koc/my-apps",
+      "_owner": "osman-koc",
+      "_developer": "Osman Koç",
+      "_store": "kocdev",
+      "_storeUrl": "https://apps.osmankoc.dev",
+      "developer": "Osman Koç"
+    },
+    {
       "id": "github-repo-cleaner-ai",
       "name": "GitHub Repo Manager & Cleaner",
       "subtitle": "AI-powered GitHub repository management",
@@ -1425,6 +1638,71 @@
       "_developer": "sametcn99",
       "_store": "sametcn99's Apps",
       "_storeUrl": "https://apps.sametcc.me"
+    },
+    {
+      "id": "guidgenerator-vs",
+      "name": "GuidGenerator for Visual Studio",
+      "subtitle": "GUID Generator Extension for Visual Studio",
+      "description": "Generate and insert GUIDs effortlessly into your code using a simple shortcut. A Visual Studio extension by kocdev.",
+      "longDescription": "GuidGenerator for Visual Studio is the classic IDE companion to the VS Code edition. It generates and inserts GUIDs directly into your code with a keyboard shortcut, keeping you in the flow without switching to an external tool. Available on the Visual Studio Marketplace.",
+      "icon": "https://kocdev.gallerycdn.vsassets.io/extensions/kocdev/vsguidgenerate/0.0.3/1691761600857/Microsoft.VisualStudio.Services.Icons.Default",
+      "category": [
+        "developer-tools"
+      ],
+      "platform": "Visual Studio",
+      "price": "Free",
+      "github": "https://github.com/osman-koc/vs-guid-generator",
+      "homepage": "https://marketplace.visualstudio.com/items?itemName=kocdev.vsguidgenerate",
+      "language": "C#",
+      "requirements": "Visual Studio 2019+",
+      "features": [
+        "Generate and insert GUIDs with a keyboard shortcut",
+        "Works inside Visual Studio IDE",
+        "Available on Visual Studio Marketplace",
+        "Open source on GitHub"
+      ],
+      "screenshots": [],
+      "_source": "osman-koc/my-apps",
+      "_owner": "osman-koc",
+      "_developer": "Osman Koç",
+      "_store": "kocdev",
+      "_storeUrl": "https://apps.osmankoc.dev",
+      "developer": "Osman Koç",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "id": "guidgenerator-vscode",
+      "name": "GuidGenerator",
+      "subtitle": "GUID Generator Extension for VS Code",
+      "description": "Generate and insert GUIDs (UUID) effortlessly into your code using a simple shortcut. A VS Code extension by kocdev.",
+      "longDescription": "GuidGenerator is a lightweight VS Code extension that generates and inserts RFC 4122-compliant GUIDs (UUIDs) directly into your code with a single keyboard shortcut. No more leaving your editor to copy a GUID from an online tool — just trigger the command and it is inserted at your cursor.",
+      "icon": "https://kocdev.gallerycdn.vsassets.io/extensions/kocdev/guidgenerator/0.0.6/1691729877308/Microsoft.VisualStudio.Services.Icons.Default",
+      "category": [
+        "developer-tools"
+      ],
+      "platform": "VS Code",
+      "price": "Free",
+      "github": "https://github.com/osman-koc/vscode-guid-generator",
+      "homepage": "https://marketplace.visualstudio.com/items?itemName=kocdev.guidgenerator",
+      "language": "TypeScript",
+      "requirements": "VS Code 1.60+",
+      "features": [
+        "Generate RFC 4122-compliant GUIDs with a shortcut",
+        "Insert GUID directly at cursor position",
+        "No internet required — purely local",
+        "Available on VS Code Marketplace",
+        "Open source on GitHub"
+      ],
+      "screenshots": [],
+      "_source": "osman-koc/my-apps",
+      "_owner": "osman-koc",
+      "_developer": "Osman Koç",
+      "_store": "kocdev",
+      "_storeUrl": "https://apps.osmankoc.dev",
+      "developer": "Osman Koç",
+      "stars": 3,
+      "forks": 0
     },
     {
       "id": "ha-bluetooth-audio-manager",
@@ -1676,7 +1954,7 @@
       "github": "https://github.com/alinuxpengui/Macabolic",
       "homepage": null,
       "language": "Swift",
-      "stars": 243,
+      "stars": 244,
       "forks": 5,
       "downloadUrl": null,
       "requirements": "macOS 12.0 or later",
@@ -1989,6 +2267,39 @@
       "forks": 0
     },
     {
+      "id": "personal-website",
+      "name": "Personal Website",
+      "subtitle": "osmankoc.dev — Next.js & TypeScript",
+      "description": "osmankoc.dev — Personal portfolio and blog site. Built with Next.js, TypeScript, and Tailwind CSS.",
+      "longDescription": "osmankoc.dev is Osman Koç’s personal website and blog, built with Next.js 14, TypeScript, and Tailwind CSS. It features a portfolio of projects, a blog powered by Medium RSS feed, talks and presentations, and a clean minimal design. The source code is open on GitHub.",
+      "icon": "https://osmankoc.dev/favicon.png",
+      "category": [
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/osman-koc/my-web-site",
+      "homepage": "https://osmankoc.dev",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "features": [
+        "Built with Next.js 14, TypeScript, and Tailwind CSS",
+        "Portfolio of projects and apps",
+        "Blog powered by Medium RSS integration",
+        "Talks and presentations section",
+        "Open source on GitHub"
+      ],
+      "screenshots": [],
+      "_source": "osman-koc/my-apps",
+      "_owner": "osman-koc",
+      "_developer": "Osman Koç",
+      "_store": "kocdev",
+      "_storeUrl": "https://apps.osmankoc.dev",
+      "developer": "Osman Koç",
+      "stars": 0,
+      "forks": 0
+    },
+    {
       "id": "philnav",
       "name": "PhilNav",
       "subtitle": "Infrared head mouse for hands-free computer control",
@@ -2028,6 +2339,27 @@
       "developer": "Philip Brocoum",
       "stars": 5,
       "forks": 3
+    },
+    {
+      "id": "pinkcloud-timer",
+      "name": "PinkCloud Timer",
+      "subtitle": "Personal sobriety companion",
+      "description": "A personal sobriety companion that tracks your journey and celebrates your milestones.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/01/e4/2301e472-66ee-e5da-9857-4cd6252e956a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "iconEmoji": "☁️",
+      "category": [
+        "ios"
+      ],
+      "platform": "iOS",
+      "price": "Free",
+      "github": "https://github.com/akeslo",
+      "homepage": "https://apps.apple.com/us/app/pinkcloud-timer/id6744997715",
+      "_source": "akeslo/wvw.com",
+      "_owner": "akeslo",
+      "_developer": "akeslo",
+      "_store": "Akeslo Apps",
+      "_storeUrl": "",
+      "developer": "akeslo"
     },
     {
       "id": "pixel-guess-game",
@@ -2255,8 +2587,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 152742,
-      "forks": 20089,
+      "stars": 152775,
+      "forks": 20095,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -2299,8 +2631,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 152742,
-      "forks": 20089,
+      "stars": 152775,
+      "forks": 20095,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -2493,6 +2825,55 @@
       "forks": 0
     },
     {
+      "id": "random-quotes",
+      "name": "Random Quotes",
+      "subtitle": "Daily Inspirational Quotes App",
+      "description": "Daily inspirational quotes app. Get motivated with a new quote every day. Developed with Flutter.",
+      "longDescription": "Random Quotes is a clean, minimal Flutter app that delivers a fresh inspirational quote each day. Browse quotes by category, save favorites, and share them with friends. Designed for simplicity and a distraction-free reading experience.",
+      "icon": "https://play-lh.googleusercontent.com/ecgtkF_JnTvt_9Haz1X878rvkUu0AXeCCISm156LQZQo52JTpv5_bml3Yq1WW7vDHoQ=w240-h480-rw",
+      "iconStyle": {
+        "objectFit": "cover",
+        "borderRadius": "22%"
+      },
+      "category": [
+        "lifestyle",
+        "entertainment"
+      ],
+      "platform": "iOS & Android",
+      "price": "Free",
+      "github": "https://github.com/osman-koc/random-quotes-app",
+      "homepage": "https://apps.apple.com/app/id6477748373",
+      "language": "Flutter",
+      "requirements": "iOS 12+ or Android 5+",
+      "links": [
+        {
+          "label": "App Store",
+          "url": "https://apps.apple.com/app/id6477748373",
+          "platform": "ios"
+        },
+        {
+          "label": "Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.osmankoc.randomquotes",
+          "platform": "android"
+        }
+      ],
+      "features": [
+        "A new inspirational quote every day",
+        "Browse quotes by category",
+        "Save and share your favorites",
+        "Open source on GitHub"
+      ],
+      "screenshots": [],
+      "_source": "osman-koc/my-apps",
+      "_owner": "osman-koc",
+      "_developer": "Osman Koç",
+      "_store": "kocdev",
+      "_storeUrl": "https://apps.osmankoc.dev",
+      "developer": "Osman Koç",
+      "stars": 1,
+      "forks": 0
+    },
+    {
       "id": "reddit-rss-api",
       "name": "Reddit RSS API",
       "subtitle": "Structured Reddit RSS feeds as filterable JSON.",
@@ -2536,6 +2917,7 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/98/c3/0e98c388-eb8a-3d15-dba3-34d3600b76d9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "iconEmoji": "⏱️",
       "category": [
+        "ios",
         "productivity",
         "utilities"
       ],
@@ -2703,6 +3085,49 @@
       "developer": "Fatih Kadir Akin"
     },
     {
+      "id": "simple-todo",
+      "name": "Simple ToDo",
+      "subtitle": "Minimalist Todo List App",
+      "description": "Minimalist todo list app for daily tasks. Keep it simple, get it done. Developed with Flutter.",
+      "longDescription": "Simple ToDo is a no-frills Flutter app focused entirely on getting your tasks done. Add tasks, check them off, and move on — with no subscriptions, no accounts, and no distractions. Your tasks stay on your device.",
+      "icon": "https://play-lh.googleusercontent.com/Sfkbt3l8SdK1WWJ637Gi0d4WskqF3SPn32uo3V7_CpjZQnMXZr56Au0Mo2bMuM8srA=w240-h480-rw",
+      "iconStyle": {
+        "objectFit": "cover",
+        "borderRadius": "22%"
+      },
+      "category": [
+        "productivity"
+      ],
+      "platform": "Android",
+      "price": "Free",
+      "github": "https://github.com/osman-koc/simple-todo-app",
+      "homepage": "https://play.google.com/store/apps/details?id=com.osmkoc.simpletodo",
+      "language": "Flutter",
+      "requirements": "Android 5+",
+      "links": [
+        {
+          "label": "Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.osmkoc.simpletodo",
+          "platform": "android"
+        }
+      ],
+      "features": [
+        "Minimalist task management — no distractions",
+        "No account or internet required",
+        "Tasks stored locally on your device",
+        "Open source on GitHub"
+      ],
+      "screenshots": [],
+      "_source": "osman-koc/my-apps",
+      "_owner": "osman-koc",
+      "_developer": "Osman Koç",
+      "_store": "kocdev",
+      "_storeUrl": "https://apps.osmankoc.dev",
+      "developer": "Osman Koç",
+      "stars": 2,
+      "forks": 0
+    },
+    {
       "id": "soundshift",
       "name": "SoundShift",
       "subtitle": "Discover how your music taste evolved",
@@ -2852,6 +3277,57 @@
       "_store": "Phil's Apps",
       "_storeUrl": "https://philipbrocoum.com",
       "developer": "Philip Brocoum"
+    },
+    {
+      "id": "terminal-alias-manager",
+      "name": "Terminal Alias Manager",
+      "subtitle": "Manage your shell aliases visually",
+      "description": "A native macOS app to manage your ~/.zshrc terminal aliases with a clean SwiftUI interface.",
+      "longDescription": "Terminal Alias Manager lets you visually manage your shell aliases without ever editing ~/.zshrc by hand. Add, edit, delete, enable/disable, search, sort, duplicate, backup, and import/export aliases — all from a native Finder-style interface. Changes are applied instantly with automatic source ~/.zshrc.",
+      "icon": "https://raw.githubusercontent.com/efekurucay/terminal-alias-manager/main/AliasManager/Assets.xcassets/AppIcon.appiconset/512-mac.png",
+      "iconEmoji": "⌨️",
+      "iconStyle": {
+        "scale": 1.3,
+        "objectFit": "cover",
+        "borderRadius": "22%"
+      },
+      "category": [
+        "macos",
+        "developer-tools",
+        "utilities"
+      ],
+      "platform": "macOS",
+      "price": "Free",
+      "github": "https://github.com/efekurucay/terminal-alias-manager",
+      "homepage": "https://efekurucay.com",
+      "language": "Swift",
+      "downloadUrl": "https://github.com/efekurucay/terminal-alias-manager/releases/latest",
+      "requirements": "macOS 14.0 (Sonoma) or later",
+      "features": [
+        "Parse & list aliases from ~/.zshrc automatically",
+        "Add, edit, and delete aliases with validation",
+        "Enable/disable aliases without removing them",
+        "Search by name, command, or description",
+        "Sort by name, command, or status",
+        "Duplicate aliases with one click",
+        "Auto-runs source ~/.zshrc after every change",
+        "Backup ~/.zshrc with timestamped copies",
+        "JSON import/export for migration",
+        "Copy any command to clipboard instantly",
+        "Native SwiftUI with Finder-style NavigationSplitView"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/efekurucay/terminal-alias-manager/main/docs/ss.png",
+        "https://raw.githubusercontent.com/efekurucay/terminal-alias-manager/main/docs/ss3.png"
+      ],
+      "_source": "efekurucay/terminal-alias-manager",
+      "_owner": "efekurucay",
+      "_developer": "efekurucay",
+      "_store": "efekurucay apps",
+      "_storeUrl": "",
+      "developer": "efekurucay",
+      "stars": 0,
+      "forks": 0
     },
     {
       "id": "textream",
@@ -3005,6 +3481,55 @@
       "forks": 0
     },
     {
+      "id": "whistle-sos",
+      "name": "Whistle SOS",
+      "subtitle": "Emergency Whistle for Earthquake Situations",
+      "description": "Emergency whistle app for earthquake situations. Turn your phone into a loud whistle to signal for help when trapped. Developed with Flutter.",
+      "longDescription": "Whistle SOS (Deprem Düdüğü) turns your smartphone into a powerful emergency whistle during earthquake situations. If you are trapped and need to signal your location to rescuers, simply open the app and activate the whistle — no internet or phone service required. Developed with Flutter for both Android and iOS.",
+      "icon": "https://play-lh.googleusercontent.com/RA5xl79ALrLWIL8SptFCc6UQIN-iVdf-Y5d0KsNsUI0H3Yn4MwOHf6WgB4K7n6mAGMA=w240-h480-rw",
+      "iconStyle": {
+        "objectFit": "cover",
+        "borderRadius": "22%"
+      },
+      "category": [
+        "utilities",
+        "health-fitness"
+      ],
+      "platform": "iOS & Android",
+      "price": "Free",
+      "github": "https://github.com/osman-koc/deprem-dudugu",
+      "homepage": "https://apps.apple.com/app/id6477729209",
+      "language": "Flutter",
+      "requirements": "iOS 12+ or Android 5+",
+      "links": [
+        {
+          "label": "App Store",
+          "url": "https://apps.apple.com/app/id6477729209",
+          "platform": "ios"
+        },
+        {
+          "label": "Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.osmankoc.DepremDudugu",
+          "platform": "android"
+        }
+      ],
+      "features": [
+        "Loud emergency whistle — no internet required",
+        "Designed for earthquake survival situations",
+        "Works offline, no account needed",
+        "Open source on GitHub"
+      ],
+      "screenshots": [],
+      "_source": "osman-koc/my-apps",
+      "_owner": "osman-koc",
+      "_developer": "Osman Koç",
+      "_store": "kocdev",
+      "_storeUrl": "https://apps.osmankoc.dev",
+      "developer": "Osman Koç",
+      "stars": 3,
+      "forks": 0
+    },
+    {
       "id": "wordle",
       "name": "Wordle Game",
       "subtitle": "Word guessing game.",
@@ -3074,6 +3599,48 @@
       "_store": "Appétit",
       "_storeUrl": "https://apps.fka.dev",
       "developer": "Fatih Kadir Akin"
+    },
+    {
+      "id": "yadet",
+      "name": "yâdet",
+      "subtitle": "Remote Cemetery Care Platform",
+      "description": "A mobile-first cemetery care platform that enables remote grave maintenance. Users can publish care requests, while local service providers accept tasks and complete them on-site — making it possible to manage and monitor cemetery services from anywhere.",
+      "longDescription": "yâdet is a mobile-first platform designed for remote grave maintenance. Whether you live far from your loved ones’ burial site or simply cannot visit regularly, yâdet connects you with trusted local service providers who complete care tasks on-site. You can publish requests, receive photo updates, and monitor progress — all from your phone, anywhere in the world.",
+      "icon": "https://osmankoc.dev/images/projects/yadet-logo.png",
+      "category": [
+        "utilities",
+        "lifestyle"
+      ],
+      "platform": "iOS & Android",
+      "price": "Free",
+      "github": null,
+      "homepage": "https://yadet.app",
+      "language": "React Native",
+      "requirements": "iOS 13+ or Android 6+",
+      "links": [
+        {
+          "label": "App Store",
+          "url": "https://apps.apple.com/tr/app/yadet-uzaktan-mezar-bak%C4%B1m%C4%B1/id6756832778",
+          "platform": "ios"
+        },
+        {
+          "label": "Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.osmankoc.yadet",
+          "platform": "android"
+        }
+      ],
+      "features": [
+        "Publish remote cemetery care requests",
+        "Local service providers accept and complete tasks on-site",
+        "Photo updates and task monitoring from anywhere"
+      ],
+      "screenshots": [],
+      "_source": "osman-koc/my-apps",
+      "_owner": "osman-koc",
+      "_developer": "Osman Koç",
+      "_store": "kocdev",
+      "_storeUrl": "https://apps.osmankoc.dev",
+      "developer": "Osman Koç"
     }
   ]
 }

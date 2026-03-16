@@ -1,5 +1,7 @@
 [
   { "id": "macos", "name": "macOS Apps" },
+  { "id": "ios", "name": "iOS Apps" },
+  { "id": "android", "name": "Android Apps" },
   { "id": "web", "name": "Web Apps" },
   { "id": "cli", "name": "CLI Apps" },
   { "id": "developer-tools", "name": "Developer Tools" },
