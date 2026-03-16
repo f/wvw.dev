@@ -1,26 +1,26 @@
 [
   {
     "id": "prompts-chat",
-    "headline": "COMMUNITY FAVORITE",
-    "title": "The world's most-starred prompt collection.",
-    "subtitle": "With 150K+ GitHub stars, Prompts.chat is the definitive home for AI prompts. Browse hundreds of curated starters for ChatGPT, Claude, and Gemini — or self-host the entire thing for your team in minutes."
+    "headline": "TOP RATED",
+    "title": "Half a million devs can't be wrong.",
+    "subtitle": "Prompts.chat has amassed 152K GitHub stars and counting — the definitive open-source library of AI prompts for ChatGPT, Claude, and Gemini. Find the perfect starter or self-host it for your team in one command."
   },
   {
-    "id": "macabolic",
-    "headline": "EDITOR'S PICK",
-    "title": "Every video, beautifully yours.",
-    "subtitle": "Macabolic wraps the legendary yt-dlp engine in a polished native Mac interface — download anything from YouTube to Instagram in up to 4K, skip sponsors automatically, and grab whole playlists without touching the terminal."
+    "id": "awesome-openclaw-agents",
+    "headline": "RISING STAR",
+    "title": "103 agents, ready to deploy today.",
+    "subtitle": "Awesome OpenClaw Agents is a curated vault of AI agent templates spanning 19 categories — from research bots to coding assistants. One config file is all it takes to bring any of them to life."
   },
   {
-    "id": "asc-cli",
-    "headline": "HIDDEN GEM",
-    "title": "Ship to the App Store without leaving your shell.",
-    "subtitle": "asc puts the full App Store Connect API at your fingertips — builds, TestFlight, screenshots, subscriptions, and code signing — all scriptable, AI-agent-ready, and CI-friendly out of the box."
+    "id": "dodopulse",
+    "headline": "FAN FAVORITE",
+    "title": "Your Mac's vitals, front and center.",
+    "subtitle": "DodoPulse lives quietly in your menu bar, serving up real-time CPU, memory, GPU, and network graphs at a glance. Native, lightweight, and gorgeous — the system monitor you didn't know you needed."
   },
   {
-    "id": "vitepress-mermaid-renderer",
-    "headline": "MUST TRY",
-    "title": "Diagrams that zoom, pan, and dazzle.",
-    "subtitle": "Drop one plugin into your VitePress site and every Mermaid block becomes a living, interactive diagram — fullscreen, theme-aware, and exportable as SVG or PNG with a single click."
+    "id": "hono-telescope",
+    "headline": "JUST SHIPPED",
+    "title": "X-ray vision for your Hono backend.",
+    "subtitle": "Hono Telescope gives you a live debugging dashboard for Hono apps — inspect every request, exception, log, and database query as it happens. Think of it as browser DevTools, but for your server."
   }
 ]
