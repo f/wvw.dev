@@ -643,11 +643,23 @@ a.about-btn {
 }
 
 .featured-banner[style*="background-image"]::before {
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.7) !important;
 }
 
 .featured-banner[style*="background-image"]::after {
-  background: linear-gradient(to top, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.2) 50%, transparent 100%);
+  background: linear-gradient(to top, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.6) 50%, rgba(0,0,0,0.4) 100%) !important;
+}
+
+.featured-banner[style*="background-image"] .featured-content {
+  text-shadow: 0 2px 8px rgba(0,0,0,0.8), 0 0 20px rgba(0,0,0,0.5);
+}
+
+.featured-banner[style*="background-image"] .featured-label,
+.featured-banner[style*="background-image"] .featured-title,
+.featured-banner[style*="background-image"] .featured-subtitle,
+.featured-banner[style*="background-image"] .featured-app-name,
+.featured-banner[style*="background-image"] .featured-app-sub {
+  color: #fff !important;
 }
 
 .featured-content {
