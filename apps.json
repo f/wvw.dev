@@ -467,7 +467,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 604,
+      "stars": 609,
       "forks": 95
     },
     {
@@ -823,7 +823,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 604,
+      "stars": 609,
       "forks": 95
     },
     {
@@ -2587,7 +2587,7 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 152775,
+      "stars": 152778,
       "forks": 20095,
       "requirements": "Any modern browser",
       "features": [
@@ -2631,7 +2631,7 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 152775,
+      "stars": 152778,
       "forks": 20095,
       "requirements": "Any modern browser",
       "features": [
@@ -3351,7 +3351,7 @@
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
       "stars": 2016,
-      "forks": 141,
+      "forks": 142,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
       "requirements": "macOS 15 Sequoia or later",
