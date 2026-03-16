@@ -235,6 +235,9 @@
     if (app.brew || app.downloadUrl || app.installCommand) return "Get";
     return "View";
   }
+  function getAppDeveloperLabel(app) {
+    return app.developer || app._developer || app._owner || app._store || data.store.developer;
+  }
 
   function getAppPublisherTerms(app) {
     return [app.developer, app._developer, app._owner, data.store.developer]
@@ -657,14 +660,17 @@
         </div>
 
         ${(() => {
-          const sameStore = data.apps.filter(
-            (a) => a.id !== app.id && a._store && app._store && a._store === app._store
-          ).slice(0, 6);
+          const relatedBySource = data.apps.filter(
+            (a) => a.id !== app.id && a._source && app._source && a._source === app._source
+          );
+          const sameStore = relatedBySource.slice(0, 6);
+          const hasStorePage = app._source && storesData.some((store) => store.source === app._source);
           if (sameStore.length === 0) return "";
           return `
         <div class="detail-section">
           <div class="section-header">
-            <h3 style="font-size:22px;margin-bottom:0">More by ${app._store}</h3>
+            <h3 style="font-size:22px;margin-bottom:0">More by ${getAppDeveloperLabel(app)}</h3>
+            ${hasStorePage && relatedBySource.length > sameStore.length ? `<button class="see-all-link see-all-store-btn" type="button" data-store="${encodeURIComponent(app._source)}">See All</button>` : ""}
           </div>
           <div class="app-list">
             ${sameStore.map((a) => appRow(a)).join("")}
