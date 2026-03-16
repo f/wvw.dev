@@ -1,39 +1,46 @@
 {
-  "generated_at": "2026-03-15T07:09:53Z",
+  "generated_at": "2026-03-16T09:31:24Z",
   "highlights": [
     {
-      "id": "git-rewrite-commits",
-      "name": "git-rewrite-commits",
-      "subtitle": "AI-Powered Commit Message Rewriter",
-      "icon": null,
-      "iconStyle": {},
-      "iconEmoji": "✍️",
-      "screenshot": "https://raw.githubusercontent.com/f/git-rewrite-commits/master/git-rewrite-commits.png",
-      "category": "cli",
-      "platform": "Node.js",
-      "stars": 1385,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923beb/liZKgrEAAH3iA5hVlOQ2t_eaH8JiiS.png"
+      "id": "prompts-chat",
+      "name": "Prompts.chat",
+      "subtitle": "Community Prompt Collection",
+      "icon": "https://raw.githubusercontent.com/f/prompts.chat/main/public/logo-dark.svg",
+      "iconStyle": {
+        "scale": 0.9,
+        "objectFit": "contain",
+        "bgColor": "#000000",
+        "padding": "18%"
+      },
+      "iconEmoji": null,
+      "screenshot": "https://raw.githubusercontent.com/f/prompts.chat/main/public/og.png",
+      "category": "developer-tools",
+      "platform": "Web",
+      "stars": 152742
     },
     {
-      "id": "git-rewrite-commits",
-      "name": "git-rewrite-commits",
-      "subtitle": "AI-Powered Commit Message Rewriter",
-      "icon": null,
-      "iconStyle": {},
-      "iconEmoji": "✍️",
-      "screenshot": "https://raw.githubusercontent.com/f/git-rewrite-commits/master/git-rewrite-commits.png",
-      "category": "developer-tools",
-      "platform": "Node.js",
-      "stars": 1385,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923bf3/R4_Hj4ex5EfHM3D3R9qF1_DN3EQQV1.png"
+      "id": "textream",
+      "name": "Textream",
+      "subtitle": "A Free macOS Teleprompter",
+      "icon": "https://raw.githubusercontent.com/f/textream/master/Textream/Textream/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+      "iconStyle": {
+        "scale": 1.3,
+        "objectFit": "cover",
+        "borderRadius": "22%"
+      },
+      "iconEmoji": null,
+      "screenshot": "https://raw.githubusercontent.com/f/textream/master/docs/video.gif",
+      "category": "macos",
+      "platform": "macOS",
+      "stars": 2016
     }
   ],
   "picks": [
     {
-      "id": "dodopass",
-      "name": "DodoPass",
-      "subtitle": "Native macOS password manager",
-      "icon": "https://raw.githubusercontent.com/DodoApps/dodopass/main/icon.png",
+      "id": "dodotidy",
+      "name": "DodoTidy",
+      "subtitle": "A native macOS system cleaner",
+      "icon": "https://raw.githubusercontent.com/DodoApps/dodotidy/main/dodotidy.png",
       "iconStyle": {
         "scale": 1.3,
         "objectFit": "cover",
@@ -43,170 +50,158 @@
       "screenshot": null,
       "category": "macos",
       "platform": "macOS",
-      "stars": 3,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923bde/bAXhR95puhW-2Lp-dzp6F_Sr4T8jxL.png"
+      "stars": 171
     },
     {
-      "id": "mergen-ade",
-      "name": "Mergen ADE",
-      "subtitle": "Organize multiple project terminals in one native workspace",
-      "icon": "https://raw.githubusercontent.com/furkancak1r/mergen-ade/main/logo.png",
-      "iconStyle": null,
+      "id": "textream",
+      "name": "Textream",
+      "subtitle": "A Free macOS Teleprompter",
+      "icon": "https://raw.githubusercontent.com/f/textream/master/Textream/Textream/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+      "iconStyle": {
+        "scale": 1.3,
+        "objectFit": "cover",
+        "borderRadius": "22%"
+      },
       "iconEmoji": null,
-      "screenshot": "https://raw.githubusercontent.com/furkancak1r/mergen-ade/main/mergen-screenshot.png",
+      "screenshot": "https://raw.githubusercontent.com/f/textream/master/docs/video.gif",
       "category": "macos",
       "platform": "macOS",
-      "stars": 6,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923be2/Tq0C6Z5hhOKwVzvRMdfY1_SWmxPOBd.png"
+      "stars": 2016
     },
     {
-      "id": "tater-talk",
-      "name": "Tater Talk",
-      "subtitle": "The simplest speech-to-text dictation web-app on Win/Mac/Nix",
-      "icon": "https://tatertalk.app/logo.png",
+      "id": "appetit",
+      "name": "Appétit",
+      "subtitle": "Bon Appétit for Apps",
+      "icon": "https://raw.githubusercontent.com/f/appetit/master/logo.svg",
       "iconStyle": {
-        "objectFit": "contain",
-        "bgColor": "#0f172a",
-        "padding": "14%"
+        "objectFit": "cover"
       },
       "iconEmoji": null,
-      "screenshot": "https://tatertalk.app/twitter2.jpg",
+      "screenshot": null,
       "category": "web",
       "platform": "Web",
-      "stars": 0,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923be5/HsyfPkGeEPhzHfb_mrcTh_wGdSfvWf.png"
+      "stars": 29
     },
     {
-      "id": "mermaid-viewer",
-      "name": "Mermaid Viewer",
-      "subtitle": "Live Mermaid editor with instant preview and sharing.",
-      "icon": "https://mermaid.sametcc.me/favicon.png",
+      "id": "poker-tracker",
+      "name": "Poker Tracker",
+      "subtitle": "Track your live poker PnL with a simple web app",
+      "icon": "https://pokertracker-23081.web.app/logo192-masked.png",
       "iconStyle": null,
-      "iconEmoji": "📊",
-      "screenshot": "https://opengraph.githubassets.com/1/sametcn99/mermaid-viewer",
+      "iconEmoji": null,
+      "screenshot": "https://raw.githubusercontent.com/stedwick/wvw.dev.apps/main/screenshots/poker-tracker.png",
       "category": "web",
       "platform": "Web",
-      "stars": 8,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923be8/3eIKRkePVohr0w5CRB12d_GWkXCLZw.png"
+      "stars": 1
     },
     {
-      "id": "git-rewrite-commits",
-      "name": "git-rewrite-commits",
-      "subtitle": "AI-Powered Commit Message Rewriter",
-      "icon": null,
-      "iconStyle": {},
-      "iconEmoji": "✍️",
-      "screenshot": "https://raw.githubusercontent.com/f/git-rewrite-commits/master/git-rewrite-commits.png",
+      "id": "agent-chess",
+      "name": "Agent Chess",
+      "subtitle": "Local chess matches for AI agents",
+      "icon": "https://raw.githubusercontent.com/shametim/agent-chess/main/logo.png",
+      "iconStyle": null,
+      "iconEmoji": "♟️",
+      "screenshot": "https://raw.githubusercontent.com/shametim/agent-chess/main/docs/agent-chess-cli.png",
       "category": "cli",
       "platform": "Node.js",
-      "stars": 1385,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923beb/liZKgrEAAH3iA5hVlOQ2t_eaH8JiiS.png"
+      "stars": 0
     },
     {
-      "id": "asc-cli",
-      "name": "asc",
-      "subtitle": "App Store Connect from your terminal & AI agents",
-      "icon": "https://raw.githubusercontent.com/tddworks/asc-cli/main/homepage/static/icon-512.png",
-      "iconStyle": {
-        "scale": 1.3,
-        "objectFit": "cover",
-        "borderRadius": "22%"
-      },
-      "iconEmoji": null,
+      "id": "radioheavy-wiro-cli",
+      "name": "Wiro CLI",
+      "subtitle": "Terminal client for discovering models, running tasks, and watching progress on Wiro AI",
+      "icon": null,
+      "iconStyle": null,
+      "iconEmoji": "⌘",
       "screenshot": null,
       "category": "cli",
-      "platform": "macOS",
-      "stars": 64,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923bed/lld0Jf1gdEETA16e-8x4O_oED3bvdZ.png"
+      "platform": "CLI",
+      "stars": 1
     },
     {
-      "id": "git-rewrite-commits",
-      "name": "git-rewrite-commits",
-      "subtitle": "AI-Powered Commit Message Rewriter",
-      "icon": null,
-      "iconStyle": {},
-      "iconEmoji": "✍️",
-      "screenshot": "https://raw.githubusercontent.com/f/git-rewrite-commits/master/git-rewrite-commits.png",
+      "id": "prompts-chat",
+      "name": "Prompts.chat",
+      "subtitle": "Community Prompt Collection",
+      "icon": "https://raw.githubusercontent.com/f/prompts.chat/main/public/logo-dark.svg",
+      "iconStyle": {
+        "scale": 0.9,
+        "objectFit": "contain",
+        "bgColor": "#000000",
+        "padding": "18%"
+      },
+      "iconEmoji": null,
+      "screenshot": "https://raw.githubusercontent.com/f/prompts.chat/main/public/og.png",
       "category": "developer-tools",
-      "platform": "Node.js",
-      "stars": 1385,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923bf3/R4_Hj4ex5EfHM3D3R9qF1_DN3EQQV1.png"
+      "platform": "Web",
+      "stars": 152742
     },
     {
-      "id": "mermaid-viewer",
-      "name": "Mermaid Viewer",
-      "subtitle": "Live Mermaid editor with instant preview and sharing.",
-      "icon": "https://mermaid.sametcc.me/favicon.png",
+      "id": "sql-prep",
+      "name": "SQL Prep",
+      "subtitle": "SQL interview prep & quiz",
+      "icon": null,
       "iconStyle": null,
       "iconEmoji": "📊",
-      "screenshot": "https://opengraph.githubassets.com/1/sametcn99/mermaid-viewer",
+      "screenshot": null,
       "category": "developer-tools",
-      "platform": "Web",
-      "stars": 8,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923bf6/KQ7F5vkJhnutw8BzyFMdp_OUHA1ffa.png"
-    },
-    {
-      "id": "radioheavy-captioneer",
-      "name": "Captioneer",
-      "subtitle": "On-device live captions, translation, and OBS-ready overlays for macOS",
-      "icon": "https://raw.githubusercontent.com/radioheavy/captioneer/master/CaptioneerStandalone/Captioneer/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
-      "iconStyle": {
-        "scale": 1.3,
-        "objectFit": "cover",
-        "borderRadius": "22%"
-      },
-      "iconEmoji": "💬",
-      "screenshot": null,
-      "category": "productivity",
-      "platform": "macOS",
-      "stars": 1,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923bf9/GT_ECNwrMcDHFpr4BU13x_XkKp7geC.png"
-    },
-    {
-      "id": "tater-talk",
-      "name": "Tater Talk",
-      "subtitle": "The simplest speech-to-text dictation web-app on Win/Mac/Nix",
-      "icon": "https://tatertalk.app/logo.png",
-      "iconStyle": {
-        "objectFit": "contain",
-        "bgColor": "#0f172a",
-        "padding": "14%"
-      },
-      "iconEmoji": null,
-      "screenshot": "https://tatertalk.app/twitter2.jpg",
-      "category": "productivity",
-      "platform": "Web",
-      "stars": 0,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923bfe/aTfNcggTL3_SpebmD_sh2_bfa6OHyQ.png"
-    },
-    {
-      "id": "dodopulse",
-      "name": "DodoPulse",
-      "subtitle": "Real-time system monitoring in your menu bar",
-      "icon": "https://raw.githubusercontent.com/DodoApps/dodopulse/525b81f/icon.png",
-      "iconStyle": {
-        "scale": 1.3,
-        "objectFit": "cover",
-        "borderRadius": "22%"
-      },
-      "iconEmoji": null,
-      "screenshot": "https://github.com/user-attachments/assets/6868a0ac-1d01-45aa-84d7-8d21dc0daa6b",
-      "category": "utilities",
-      "platform": "macOS",
-      "stars": 127,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923c02/Uo1mEiWfx7kXOq5me7Vs4_OaK38I77.png"
-    },
-    {
-      "id": "rerun-timer",
-      "name": "Rerun Timer",
-      "subtitle": "The Infinite Loop Timer",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/98/c3/0e98c388-eb8a-3d15-dba3-34d3600b76d9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "iconStyle": null,
-      "iconEmoji": "⏱️",
-      "screenshot": null,
-      "category": "utilities",
       "platform": "iOS",
       "stars": 0
+    },
+    {
+      "id": "deeper",
+      "name": "Deeper",
+      "subtitle": "Messaging Analytics for Beeper",
+      "icon": "https://raw.githubusercontent.com/f/deeper/main/icon.svg",
+      "iconStyle": {
+        "scale": 1,
+        "objectFit": "contain",
+        "bgColor": "#1c1c1e"
+      },
+      "iconEmoji": null,
+      "screenshot": "https://raw.githubusercontent.com/f/deeper/main/docs/screenshot.png",
+      "category": "productivity",
+      "platform": "macOS",
+      "stars": 59
+    },
+    {
+      "id": "linkedin-hide-viewed-jobs",
+      "name": "linkedin-hide-viewed-jobs",
+      "subtitle": "Hide or highlight viewed LinkedIn job posts.",
+      "icon": null,
+      "iconStyle": null,
+      "iconEmoji": "💼",
+      "screenshot": "https://raw.githubusercontent.com/sametcn99/linkedin-hide-viewed-jobs/refs/heads/master/screenshot.png",
+      "category": "productivity",
+      "platform": "Browser",
+      "stars": 3
+    },
+    {
+      "id": "unified-audio-control",
+      "name": "Unified Audio Control",
+      "subtitle": "One control for all your audio",
+      "icon": null,
+      "iconStyle": null,
+      "iconEmoji": "🎛️",
+      "screenshot": null,
+      "category": "utilities",
+      "platform": "Python",
+      "stars": 0
+    },
+    {
+      "id": "dodoservice",
+      "name": "DodoService",
+      "subtitle": "Manage your Mac services from the menu bar",
+      "icon": "",
+      "iconStyle": {
+        "scale": 1.3,
+        "objectFit": "cover",
+        "borderRadius": "22%"
+      },
+      "iconEmoji": null,
+      "screenshot": null,
+      "category": "utilities",
+      "platform": "macOS",
+      "stars": 8
     },
     {
       "id": "koumath",
@@ -218,8 +213,7 @@
       "screenshot": "https://github.com/user-attachments/assets/63aa9796-cc61-4b10-a4ff-f4519be8227d",
       "category": "education",
       "platform": "React Native",
-      "stars": 0,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923c0c/ZbcHXn-We4tRYfQeuHaAY_YYjJ0O0B.png"
+      "stars": 0
     },
     {
       "id": "sql-prep",
@@ -231,8 +225,7 @@
       "screenshot": null,
       "category": "education",
       "platform": "iOS",
-      "stars": 0,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923c10/DjLhPBQX6fouGTfJthwXn_MJ0EKUKY.png"
+      "stars": 0
     },
     {
       "id": "macabolic",
@@ -248,8 +241,7 @@
       "screenshot": "https://raw.githubusercontent.com/alinuxpengui/Macabolic/refs/heads/main/Screenshots/ss1.png",
       "category": "entertainment",
       "platform": "macOS",
-      "stars": 242,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923c14/aClUqDL6qYT1pMrStWMV__Zv502tcN.png"
+      "stars": 243
     },
     {
       "id": "soundshift",
@@ -261,36 +253,31 @@
       "screenshot": "https://raw.githubusercontent.com/apo-bozdag/SoundShift/main/ss/1.png",
       "category": "entertainment",
       "platform": "Web",
-      "stars": 1,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923c19/xtN0O8UAH8rJyz7ggPHG-_sltvxaVs.png"
+      "stars": 5
     },
     {
-      "id": "pixel-guess-mobile",
-      "name": "Pixel Guess Mobile",
-      "subtitle": "Pixel guessing game for iOS & Android",
-      "icon": "https://raw.githubusercontent.com/Jubstaaa/pixelate-game-mobile/main/assets/icon.png",
-      "iconStyle": {
-        "borderRadius": "22%"
-      },
-      "iconEmoji": null,
-      "screenshot": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/5d/a1/ef5da131-2420-2e1a-a2fe-a8a9db479e5f/ios_1_1.png/600x1300bb.webp",
+      "id": "ai-word-or-not",
+      "name": "AI Word or Not",
+      "subtitle": "Human or AI? Word quiz game",
+      "icon": null,
+      "iconStyle": null,
+      "iconEmoji": "🧠",
+      "screenshot": null,
       "category": "games",
       "platform": "iOS",
-      "stars": 0,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923c1c/50yCehYD0RY2PQUATvVaL_Mc6dYdFg.png"
+      "stars": 0
     },
     {
-      "id": "number-match",
-      "name": "Number Match",
-      "subtitle": "Number match game app.",
-      "icon": "https://my-store-six-ruby.vercel.app/assets/number-match-logo-_P-lTy4H.png",
+      "id": "wordle",
+      "name": "Wordle Game",
+      "subtitle": "Word guessing game.",
+      "icon": "https://my-store-six-ruby.vercel.app/assets/word-game-logo-CEXOfg9W.png",
       "iconStyle": null,
       "iconEmoji": null,
-      "screenshot": "https://github.com/kagantemizkan/python-number-matching/assets/46727689/99b298c0-f60a-4a91-9fb9-53910a315615",
+      "screenshot": "https://my-store-six-ruby.vercel.app/assets/1-BFyt7Gyl.png",
       "category": "games",
-      "platform": "Python",
-      "stars": 0,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923c20/saV-E1Pl26Z1mwNfuq-sh_Kh9cQlyC.png"
+      "platform": "React Native",
+      "stars": 0
     },
     {
       "id": "ha-bluetooth-audio-manager",
@@ -302,8 +289,7 @@
       "screenshot": "https://github.com/user-attachments/assets/a1dd24b9-9f99-4049-80fc-918e3a5f8909",
       "category": "music",
       "platform": "Docker",
-      "stars": 23,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923c23/1dGrs2M0MKR6p0cwOh4_F_SYGzeWIC.png"
+      "stars": 24
     },
     {
       "id": "soundshift",
@@ -315,8 +301,7 @@
       "screenshot": "https://raw.githubusercontent.com/apo-bozdag/SoundShift/main/ss/1.png",
       "category": "music",
       "platform": "Web",
-      "stars": 1,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923c27/G7xiTh7gl5hRCOTUxHV1c_gsgQfYcP.png"
+      "stars": 5
     },
     {
       "id": "radioheavy-captioneer",
@@ -332,8 +317,7 @@
       "screenshot": null,
       "category": "photo-video",
       "platform": "macOS",
-      "stars": 1,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923c2a/ZgC-z7eGxSbqIiXn8L9he_RUufjy1s.png"
+      "stars": 1
     },
     {
       "id": "ai2image",
@@ -345,8 +329,7 @@
       "screenshot": null,
       "category": "graphics-design",
       "platform": "Web",
-      "stars": 0,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923c2f/AMjAu4_I_0UqVj8QvVwSx_f9SK6OLY.png"
+      "stars": 0
     },
     {
       "id": "radioheavy-avalon",
@@ -362,8 +345,7 @@
       "screenshot": "https://raw.githubusercontent.com/radioheavy/avalon/main/public/a/new-2-dashboard.png",
       "category": "graphics-design",
       "platform": "Web",
-      "stars": 0,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923c31/fWRDXhKsu4g4FVSMjSlhz_NspTMwEN.png"
+      "stars": 0
     },
     {
       "id": "my-net-worth",
@@ -375,8 +357,7 @@
       "screenshot": "https://mynetworthone.com/full-screenshot-light.png",
       "category": "finance",
       "platform": "Web",
-      "stars": 0,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923c34/C895AFesqKCCGYvVpJoAd_04LaDIVt.png"
+      "stars": 0
     },
     {
       "id": "poker-tracker",
@@ -388,8 +369,7 @@
       "screenshot": "https://raw.githubusercontent.com/stedwick/wvw.dev.apps/main/screenshots/poker-tracker.png",
       "category": "finance",
       "platform": "Web",
-      "stars": 1,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923c38/yQMB88LOoClDJznWrJcTs_7TjNij9E.png"
+      "stars": 1
     },
     {
       "id": "damga",
@@ -401,8 +381,7 @@
       "screenshot": "https://my-store-six-ruby.vercel.app/assets/1-CwKcGcxW.png",
       "category": "lifestyle",
       "platform": "React Native",
-      "stars": 0,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923c3c/QbI-yBsPbjHVq261Vm2I5_sJXoYEKs.png"
+      "stars": 0
     },
     {
       "id": "my-plants",
@@ -414,8 +393,19 @@
       "screenshot": "https://my-store-six-ruby.vercel.app/assets/1-Bw-nLna7.png",
       "category": "lifestyle",
       "platform": "React Native",
-      "stars": 0,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923c40/d5b4sLKw7n9872sq8umO5_E6oIp6Uk.png"
+      "stars": 0
+    },
+    {
+      "id": "reviseflow",
+      "name": "ReviseFlow",
+      "subtitle": "Client feedback, zero back-and-forth",
+      "icon": "https://reviseflow.io/icon.png",
+      "iconStyle": null,
+      "iconEmoji": null,
+      "screenshot": "https://reviseflow.io/screenshots/reviseflow-ai-linkedin.png",
+      "category": "business",
+      "platform": "Web",
+      "stars": 0
     },
     {
       "id": "dodocount",
@@ -431,21 +421,7 @@
       "screenshot": null,
       "category": "business",
       "platform": "macOS",
-      "stars": 14,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923c43/-efzbZE4SmprklebAVh_p_Reqkr0Uo.png"
-    },
-    {
-      "id": "cre-flyer-maker",
-      "name": "CRE Flyer Maker",
-      "subtitle": "Flyer maker for CRE brokers",
-      "icon": null,
-      "iconStyle": null,
-      "iconEmoji": "🏢",
-      "screenshot": null,
-      "category": "business",
-      "platform": "iOS",
-      "stars": 0,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923c46/R7LDhkpHNLZnUDck5utxT_jxlrpMtY.png"
+      "stars": 14
     },
     {
       "id": "flight-ticket",
@@ -457,8 +433,7 @@
       "screenshot": "https://my-store-six-ruby.vercel.app/assets/S1-BEsuJBYQ.png",
       "category": "travel",
       "platform": "React Native",
-      "stars": 0,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923c49/fsGom4zWspDAmjRT7dvr1_Q16EDNcr.png"
+      "stars": 0
     },
     {
       "id": "bilokma",
@@ -470,8 +445,7 @@
       "screenshot": "https://github.com/kagantemizkan/bilokma/assets/46727689/19b46d3f-bea8-4b58-9fa3-13c6694ac2e9",
       "category": "food-drink",
       "platform": "React Native",
-      "stars": 1,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923c4c/tNxB80h7KSrj2GE89jJDJ_n9NqbcTM.png"
+      "stars": 1
     },
     {
       "id": "rn-maps",
@@ -483,8 +457,7 @@
       "screenshot": "https://github.com/kagantemizkan/mapsForBlinds/assets/46727689/64543788-bc8f-41dc-bc34-aaaae7ab022a",
       "category": "navigation",
       "platform": "React Native",
-      "stars": 0,
-      "showcase_image": "https://v3b.fal.media/files/b/0a923c50/Ob2SMyaOW_73fvhCWJNud_P53g7zJt.png"
+      "stars": 0
     }
   ]
 }
