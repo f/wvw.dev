@@ -168,7 +168,7 @@
         <div class="click-to-rate">
           <span class="click-to-rate-label">Click to Rate:</span>
           <a href="${newIssueUrl}" target="_blank" rel="noopener" class="rate-stars">
-            ${[1,2,3,4,5].map(() => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>`).join("")}
+            ${[1, 2, 3, 4, 5].map(() => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>`).join("")}
           </a>
         </div>
         <div class="review-links">
@@ -183,7 +183,7 @@
         </div>
       </div>` : "";
 
-    const reactionEmojis = {thumbsUp:"\u{1F44D}",thumbsDown:"\u{1F44E}",laugh:"\u{1F604}",hooray:"\u{1F389}",confused:"\u{1F615}",heart:"\u2764\uFE0F",rocket:"\u{1F680}",eyes:"\u{1F440}"};
+    const reactionEmojis = { thumbsUp: "\u{1F44D}", thumbsDown: "\u{1F44E}", laugh: "\u{1F604}", hooray: "\u{1F389}", confused: "\u{1F615}", heart: "\u2764\uFE0F", rocket: "\u{1F680}", eyes: "\u{1F440}" };
 
     const reviewCards = comments.map((c) => {
       const timeAgo = getTimeAgo(new Date(c.created_at));
@@ -660,32 +660,32 @@
         </div>
 
         ${(() => {
-          const relatedBySource = data.apps.filter(
-            (a) => a.id !== app.id && a._source && app._source && a._source === app._source
-          );
-          const sameStore = relatedBySource.slice(0, 6);
-          const hasStorePage = app._source && storesData.some((store) => store.source === app._source);
-          if (sameStore.length === 0) return "";
-          return `
+        const relatedBySource = data.apps.filter(
+          (a) => a.id !== app.id && a._source && app._source && a._source === app._source
+        );
+        const sameStore = relatedBySource.slice(0, 6);
+        const hasStorePage = app._source && storesData.some((store) => store.source === app._source);
+        if (sameStore.length === 0) return "";
+        return `
         <div class="detail-section">
           <div class="section-header">
             <h3 style="font-size:22px;margin-bottom:0">More by ${getAppDeveloperLabel(app)}</h3>
-            ${hasStorePage && relatedBySource.length > sameStore.length ? `<button class="see-all-link see-all-store-btn" type="button" data-store="${encodeURIComponent(app._source)}">See All</button>` : ""}
+            ${hasStorePage && relatedBySource.length > sameStore.length ? `<button class="see-all-link" type="button" data-store="${encodeURIComponent(app._source)}">See All</button>` : ""}
           </div>
           <div class="app-list">
             ${sameStore.map((a) => appRow(a)).join("")}
           </div>
         </div>`;
-        })()}
+      })()}
 
         ${(() => {
-          const related = data.apps.filter(
-            (a) => a.id !== app.id &&
+        const related = data.apps.filter(
+          (a) => a.id !== app.id &&
             a.category && app.category &&
             a.category.some((c) => app.category.includes(c))
-          ).slice(0, 6);
-          if (related.length === 0) return "";
-          return `
+        ).slice(0, 6);
+        if (related.length === 0) return "";
+        return `
         <div class="detail-section">
           <div class="section-header">
             <h3 style="font-size:22px;margin-bottom:0">You Might Also Like</h3>
@@ -694,7 +694,7 @@
             ${related.map((a) => appRow(a)).join("")}
           </div>
         </div>`;
-        })()}
+      })()}
       </div>`;
   }
 
@@ -784,15 +784,15 @@
       </p>
       <div class="stores-list">
         ${storesData.map((s) => {
-          const iconStack = (s.icons || []).slice(0, 4).map((ic, i) =>
-            `<img src="${ic.icon}" class="store-stack-icon" style="z-index:${4-i};margin-left:${i ? '-10px' : '0'};${ic.iconStyle && ic.iconStyle.borderRadius ? 'border-radius:'+ic.iconStyle.borderRadius : 'border-radius:22%'}" onerror="this.style.display='none'">`
-          ).join("");
-          const fallbackAvatar = !s.icons || s.icons.length === 0
-            ? `<div class="store-card-avatar-letter">${s.name.charAt(0).toUpperCase()}</div>` : "";
-          const isUrl = s.source.startsWith("http");
-          const sourceLink = isUrl ? s.source : `https://github.com/${s.source}`;
-          const sourceLabel = isUrl ? s.source.replace(/^https?:\/\//, "").replace(/\/+$/, "") : s.owner;
-          return `
+      const iconStack = (s.icons || []).slice(0, 4).map((ic, i) =>
+        `<img src="${ic.icon}" class="store-stack-icon" style="z-index:${4 - i};margin-left:${i ? '-10px' : '0'};${ic.iconStyle && ic.iconStyle.borderRadius ? 'border-radius:' + ic.iconStyle.borderRadius : 'border-radius:22%'}" onerror="this.style.display='none'">`
+      ).join("");
+      const fallbackAvatar = !s.icons || s.icons.length === 0
+        ? `<div class="store-card-avatar-letter">${s.name.charAt(0).toUpperCase()}</div>` : "";
+      const isUrl = s.source.startsWith("http");
+      const sourceLink = isUrl ? s.source : `https://github.com/${s.source}`;
+      const sourceLabel = isUrl ? s.source.replace(/^https?:\/\//, "").replace(/\/+$/, "") : s.owner;
+      return `
           <div class="store-card" data-store="${encodeURIComponent(s.source)}" style="cursor:pointer">
             <div class="store-card-header">
               <div class="store-icon-stack">${iconStack}${fallbackAvatar}</div>
@@ -810,7 +810,7 @@
               <a href="${sourceLink}" target="_blank" rel="noopener" class="store-card-btn secondary">${icons.github} View Repo</a>
             </div>
           </div>`;
-        }).join("")}
+    }).join("")}
       </div>`;
   }
 
@@ -871,8 +871,8 @@
     const storeIcons = (store.icons || []).slice(0, 4);
     const iconGrid = storeIcons.length > 0
       ? `<div class="store-detail-icon-grid">${storeIcons.map((ic) =>
-          `<img src="${ic.icon}" class="store-detail-grid-icon" style="${ic.iconStyle && ic.iconStyle.borderRadius ? "border-radius:" + ic.iconStyle.borderRadius : "border-radius:22%"}" onerror="this.style.display='none'">`
-        ).join("")}</div>`
+        `<img src="${ic.icon}" class="store-detail-grid-icon" style="${ic.iconStyle && ic.iconStyle.borderRadius ? "border-radius:" + ic.iconStyle.borderRadius : "border-radius:22%"}" onerror="this.style.display='none'">`
+      ).join("")}</div>`
       : `<div class="store-detail-avatar-letter">${store.name.charAt(0).toUpperCase()}</div>`;
 
     return `
@@ -912,10 +912,10 @@
         </div>` : ""}
 
         ${(() => {
-          const allPicks = showcaseData ? (showcaseData.picks || []).filter((p) => apps.some((a) => a.id === p.id)) : [];
-          const showcasePicks = allPicks.sort(() => 0.5 - Math.random()).slice(0, 2);
-          if (showcasePicks.length === 0) return "";
-          return `
+        const allPicks = showcaseData ? (showcaseData.picks || []).filter((p) => apps.some((a) => a.id === p.id)) : [];
+        const showcasePicks = allPicks.sort(() => 0.5 - Math.random()).slice(0, 2);
+        if (showcasePicks.length === 0) return "";
+        return `
         <div class="detail-section">
           <div class="section-header">
             <h3 style="font-size:22px;margin-bottom:0">Showcased</h3>
@@ -924,7 +924,7 @@
             ${showcasePicks.map((p) => showcaseCard(p)).join("")}
           </div>
         </div>`;
-        })()}
+      })()}
 
         ${featuredApps.length > 0 ? `
         <div class="detail-section">
@@ -1202,7 +1202,7 @@
           ? `https://wvw.dev${buildPath(currentView, currentApp)}`
           : location.href;
         if (navigator.share) {
-          navigator.share({ url }).catch(() => {});
+          navigator.share({ url }).catch(() => { });
         } else {
           copyToClipboard(url);
         }
