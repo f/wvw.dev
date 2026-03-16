@@ -106,7 +106,7 @@ Each app entry:
 - `longDescription`: Full description for the detail page
 - `icon`: URL to PNG/SVG icon. Use raw.githubusercontent.com for GitHub-hosted icons.
 - `iconEmoji`: Fallback emoji when icon is null
-- `iconStyle`: Object with `scale`, `objectFit`, `borderRadius`, `bgColor`, `padding`
+- `iconStyle`: Object with `scale`, `objectFit`, `objectPosition`, `borderRadius`, `bgColor`, `padding`
 - `language`: Primary programming language
 - `features`: Array of feature strings
 - `screenshots`: Array of image/video URLs

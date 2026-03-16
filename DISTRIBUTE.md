@@ -176,6 +176,7 @@ macOS app icons from Xcode have padding baked in. SVG logos may not fill the con
 |----------|------|---------|----------|
 | `scale` | number | `1.3` | Zoom in on macOS icons with built-in padding |
 | `objectFit` | string | `"cover"` or `"contain"` | `cover` for full-bleed icons, `contain` for logos |
+| `objectPosition` | string | `"top"` or `"30% 20%"` | Focus/crop a specific area of the icon |
 | `borderRadius` | string | `"22%"` | Match macOS icon shape (squircle) |
 | `bgColor` | string | `"#000000"` | Background for transparent SVG logos |
 | `padding` | string | `"18%"` | Inset padding for wide logos |
@@ -185,6 +186,9 @@ macOS app icons from Xcode have padding baked in. SVG logos may not fill the con
 ```jsonc
 // macOS app icon (Xcode .appiconset PNG with padding)
 "iconStyle": { "scale": 1.3, "objectFit": "cover", "borderRadius": "22%" }
+
+// Focus on the top portion of a tall icon
+"iconStyle": { "objectFit": "cover", "objectPosition": "top" }
 
 // SVG logo on dark background
 "iconStyle": { "objectFit": "contain", "bgColor": "#000000" }

@@ -60,7 +60,8 @@
         "objectFit": { "type": "string", "enum": ["cover", "contain", "fill"], "description": "CSS object-fit for the icon image." },
         "borderRadius": { "type": "string", "description": "CSS border-radius for the icon container (e.g. '22%')." },
         "bgColor": { "type": "string", "description": "Background color for the icon container (e.g. '#000000')." },
-        "padding": { "type": "string", "description": "CSS padding inside the icon container (e.g. '18%')." }
+        "padding": { "type": "string", "description": "CSS padding inside the icon container (e.g. '18%')." },
+        "objectPosition": { "type": "string", "description": "CSS object-position to focus a specific area of the icon (e.g. 'top', '30% 20%', 'center right')." }
       }
     },
     "app": {

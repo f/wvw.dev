@@ -99,6 +99,7 @@
     const parts = [];
     if (s.scale) parts.push(`transform:scale(${s.scale})`);
     if (s.objectFit) parts.push(`object-fit:${s.objectFit}`);
+    if (s.objectPosition) parts.push(`object-position:${s.objectPosition}`);
     if (s.padding) parts.push(`padding:${s.padding}`);
     return parts.join(";");
   }
@@ -114,7 +115,10 @@
   function renderIcon(app) {
     const src = appIconSrc(app);
     if (src) {
-      const imgSt = app._generatedIcon ? 'object-fit:cover;border-radius:22%' : iconStyle(app);
+      const s = app.iconStyle || {};
+      const imgSt = app._generatedIcon
+        ? `object-fit:cover;border-radius:22%${s.objectPosition ? ";object-position:" + s.objectPosition : ""}${s.scale ? ";transform:scale(" + s.scale + ")" : ""}`
+        : iconStyle(app);
       const st = imgSt ? ` style="${imgSt}"` : "";
       return `<img src="${src}" alt="${app.name}"${st} onerror="this.parentElement.innerHTML='${app.iconEmoji || "📦"}'">`;
     }
@@ -316,7 +320,7 @@
         <div class="card-image">
           <div class="card-image-bg" style="background:linear-gradient(135deg, ${g[0]}, ${g[1]}, ${g[2]})">
             ${screenshotImg}
-            <div class="card-icon-fallback">${appIconSrc(app) ? `<img src="${appIconSrc(app)}" style="width:80px;height:80px;border-radius:18px;object-fit:cover" onerror="this.outerHTML='📦'">` : (app.iconEmoji || "📦")}</div>
+            <div class="card-icon-fallback">${(() => { const s = app.iconStyle || {}; const src = appIconSrc(app); return src ? `<img src="${src}" style="width:80px;height:80px;border-radius:18px;object-fit:cover${s.objectPosition ? ";object-position:" + s.objectPosition : ""}${s.scale ? ";transform:scale(" + s.scale + ")" : ""}" onerror="this.outerHTML='📦'">` : (app.iconEmoji || "📦"); })()}</div>
           </div>
         </div>
         <div class="card-body">
@@ -439,7 +443,7 @@
     return `
       <div class="showcase-card" data-app="${pick.id}" style="${bg}">
         <div class="showcase-overlay">
-          <div class="showcase-card-icon">${appIconSrc(app) ? `<img src="${appIconSrc(app)}" style="width:40px;height:40px;border-radius:10px;object-fit:cover" onerror="this.outerHTML='${app.iconEmoji || "📦"}'">` : (app.iconEmoji || "📦")}</div>
+          <div class="showcase-card-icon">${(() => { const s = app.iconStyle || {}; const src = appIconSrc(app); return src ? `<img src="${src}" style="width:40px;height:40px;border-radius:10px;object-fit:cover${s.objectPosition ? ";object-position:" + s.objectPosition : ""}${s.scale ? ";transform:scale(" + s.scale + ")" : ""}" onerror="this.outerHTML='${app.iconEmoji || "📦"}'">` : (app.iconEmoji || "📦"); })()}</div>
           <div class="showcase-card-info">
             <div class="showcase-card-name">${app.name}</div>
             <div class="showcase-card-sub">${app.subtitle}</div>
