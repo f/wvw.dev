@@ -1,26 +1,26 @@
 [
   {
     "id": "prompts-chat",
-    "headline": "TOP RATED",
-    "title": "Half a million devs can't be wrong.",
-    "subtitle": "Prompts.chat has amassed 152K GitHub stars and counting — the definitive open-source library of AI prompts for ChatGPT, Claude, and Gemini. Find the perfect starter or self-host it for your team in one command."
+    "headline": "COMMUNITY FAVORITE",
+    "title": "The world's largest prompt library, yours to keep.",
+    "subtitle": "With over 153,000 GitHub stars, Prompts.chat is where developers, writers, and tinkerers come to spark ideas. Browse thousands of community-crafted prompts for any AI — or self-host the whole thing in minutes."
   },
   {
-    "id": "awesome-openclaw-agents",
-    "headline": "RISING STAR",
-    "title": "103 agents, ready to deploy today.",
-    "subtitle": "Awesome OpenClaw Agents is a curated vault of AI agent templates spanning 19 categories — from research bots to coding assistants. One config file is all it takes to bring any of them to life."
+    "id": "macabolic",
+    "headline": "EDITOR'S PICK",
+    "title": "Download anything. Keep everything beautiful.",
+    "subtitle": "Macabolic wraps yt-dlp's raw power in a polished macOS interface — grab videos and audio from YouTube and 1,000+ other sites, with SponsorBlock, subtitles, and playlist support built right in."
   },
   {
-    "id": "dodopulse",
-    "headline": "FAN FAVORITE",
-    "title": "Your Mac's vitals, front and center.",
-    "subtitle": "DodoPulse lives quietly in your menu bar, serving up real-time CPU, memory, GPU, and network graphs at a glance. Native, lightweight, and gorgeous — the system monitor you didn't know you needed."
+    "id": "asc-cli",
+    "headline": "HIDDEN GEM",
+    "title": "Your App Store empire, managed in one command.",
+    "subtitle": "asc brings the full App Store Connect API to your terminal — ship builds, manage TestFlight, update screenshots, and handle subscriptions without ever opening a browser. AI-agent ready from day one."
   },
   {
-    "id": "hono-telescope",
-    "headline": "JUST SHIPPED",
-    "title": "X-ray vision for your Hono backend.",
-    "subtitle": "Hono Telescope gives you a live debugging dashboard for Hono apps — inspect every request, exception, log, and database query as it happens. Think of it as browser DevTools, but for your server."
+    "id": "vitepress-mermaid-renderer",
+    "headline": "MUST TRY",
+    "title": "Docs that draw themselves.",
+    "subtitle": "VitePress Mermaid Renderer transforms plain code blocks into interactive, exportable diagrams inside your VitePress site. Dark mode, custom themes, and one-click PNG export included."
   }
 ]
