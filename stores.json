@@ -39,5 +39,6 @@
   "olgunozoktas/findutils-tools",
   "abutun/appetit",
   "erdalbektas/VaxOnVaxOff",
-  "mesto-ai/portier"
+  "mesto-ai/portier",
+  "fatihsolhan/prompts-chat-extension"
 ]
