@@ -1,26 +1,26 @@
 [
   {
     "id": "prompts-chat",
-    "headline": "TOP RATED",
-    "title": "153,000 stars worth of creative fuel.",
-    "subtitle": "Prompts.chat is the internet's most-starred prompt library — a living, community-powered collection for every AI tool imaginable. Discover, remix, and self-host the prompts that spark your best work."
+    "headline": "COMMUNITY FAVORITE",
+    "title": "The prompt library that started it all.",
+    "subtitle": "With over 153,000 GitHub stars, Prompts.chat is the go-to open-source collection for AI enthusiasts worldwide. Self-host it for your team, or browse thousands of community-crafted prompts right in your browser."
   },
   {
-    "id": "dodotidy",
-    "headline": "RISING STAR",
-    "title": "Reclaim your Mac, one scan at a time.",
-    "subtitle": "DodoTidy is a native macOS app that combines system monitoring, deep disk analysis, and one-click cleanup in a clean, beautiful interface. Find what's eating your storage and take it back — no Terminal required."
+    "id": "crewclaw",
+    "headline": "TRENDING",
+    "title": "Your AI team, deployed in 60 seconds.",
+    "subtitle": "CrewClaw turns AI agents from a side project into a production reality — pick from 103 ready-made templates across 19 categories and ship your first autonomous agent before lunch."
   },
   {
-    "id": "awesome-openclaw-agents",
-    "headline": "FAN FAVORITE",
-    "title": "103 AI agents, ready to ship today.",
-    "subtitle": "Awesome OpenClaw Agents is a curated arsenal of production-ready AI agent templates across 19 categories. Fork a template, customize it in minutes, and deploy your own agent without starting from scratch."
+    "id": "macabolic",
+    "headline": "HIDDEN GEM",
+    "title": "Every video you want, beautifully saved.",
+    "subtitle": "Macabolic wraps yt-dlp in a gorgeous native macOS interface, bringing SponsorBlock, subtitles, and playlist support to anyone who hates the command line. Download from YouTube and thousands of other sites — no fuss."
   },
   {
-    "id": "hono-telescope",
-    "headline": "JUST SHIPPED",
-    "title": "DevTools for your Hono server.",
-    "subtitle": "Hono Telescope brings real-time request inspection, performance tracing, and live debugging to your Hono applications. Think browser DevTools — but pointed squarely at your backend."
+    "id": "vitepress-mermaid-renderer",
+    "headline": "MUST TRY",
+    "title": "Diagrams that live inside your docs.",
+    "subtitle": "VitePress Mermaid Renderer turns static Mermaid code blocks into interactive, theme-aware diagrams with one-click export. Stop screenshotting diagrams — make them a first-class part of your documentation."
   }
 ]
