@@ -1,26 +1,26 @@
 [
   {
     "id": "prompts-chat",
-    "headline": "COMMUNITY FAVORITE",
-    "title": "The prompt library that started it all.",
-    "subtitle": "With over 153,000 GitHub stars, Prompts.chat is the go-to open-source collection for AI enthusiasts worldwide. Self-host it for your team, or browse thousands of community-crafted prompts right in your browser."
+    "headline": "TOP RATED",
+    "title": "The prompt library the internet can't stop starring.",
+    "subtitle": "With 153,000+ GitHub stars, Prompts.chat is the world's most-loved AI prompt collection. Browse thousands of community-crafted prompts for ChatGPT, Claude, and Gemini — or self-host it for complete privacy."
   },
   {
-    "id": "crewclaw",
-    "headline": "TRENDING",
-    "title": "Your AI team, deployed in 60 seconds.",
-    "subtitle": "CrewClaw turns AI agents from a side project into a production reality — pick from 103 ready-made templates across 19 categories and ship your first autonomous agent before lunch."
+    "id": "awesome-openclaw-agents",
+    "headline": "RISING STAR",
+    "title": "103 AI agents, ready to deploy right now.",
+    "subtitle": "Awesome OpenClaw Agents is a curated library of 103 battle-tested AI agent templates spanning 19 categories — from research to automation. The fastest way to go from idea to a running agent."
   },
   {
-    "id": "macabolic",
-    "headline": "HIDDEN GEM",
-    "title": "Every video you want, beautifully saved.",
-    "subtitle": "Macabolic wraps yt-dlp in a gorgeous native macOS interface, bringing SponsorBlock, subtitles, and playlist support to anyone who hates the command line. Download from YouTube and thousands of other sites — no fuss."
+    "id": "dodotidy",
+    "headline": "EDITOR'S PICK",
+    "title": "A Mac that breathes easy again.",
+    "subtitle": "DodoTidy is a native macOS cleaner that hunts down caches, logs, and forgotten temp files with surgical precision. Multiple safety mechanisms keep you in control while your disk space comes roaring back."
   },
   {
-    "id": "vitepress-mermaid-renderer",
-    "headline": "MUST TRY",
-    "title": "Diagrams that live inside your docs.",
-    "subtitle": "VitePress Mermaid Renderer turns static Mermaid code blocks into interactive, theme-aware diagrams with one-click export. Stop screenshotting diagrams — make them a first-class part of your documentation."
+    "id": "asc-cli",
+    "headline": "JUST SHIPPED",
+    "title": "App Store Connect, tamed from your terminal.",
+    "subtitle": "asc brings the full power of App Store Connect to the command line — manage builds, TestFlight, subscriptions, screenshots, and reviews without ever opening a browser. AI-agent ready out of the box."
   }
 ]
