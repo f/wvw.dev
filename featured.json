@@ -1,26 +1,26 @@
 [
   {
     "id": "prompts-chat",
-    "headline": "COMMUNITY FAVORITE",
-    "title": "The prompt library that started it all.",
-    "subtitle": "With over 153,000 GitHub stars, Prompts.chat is the go-to open-source collection for AI enthusiasts worldwide. Self-host it for your team, or browse thousands of community-crafted prompts right in your browser."
+    "headline": "TOP RATED",
+    "title": "The prompt library that took over the internet.",
+    "subtitle": "153,000+ GitHub stars and counting — Prompts.chat is the world's most-starred AI prompt collection. Browse, copy, and deploy thousands of community-crafted prompts to supercharge any AI workflow."
   },
   {
-    "id": "crewclaw",
-    "headline": "TRENDING",
-    "title": "Your AI team, deployed in 60 seconds.",
-    "subtitle": "CrewClaw turns AI agents from a side project into a production reality — pick from 103 ready-made templates across 19 categories and ship your first autonomous agent before lunch."
+    "id": "asc-cli",
+    "headline": "EDITOR'S PICK",
+    "title": "Ship to the App Store without leaving your terminal.",
+    "subtitle": "asc brings App Store Connect's full power to the command line — manage builds, TestFlight betas, and releases with one tool that also speaks fluently to AI coding agents."
   },
   {
-    "id": "macabolic",
-    "headline": "HIDDEN GEM",
-    "title": "Every video you want, beautifully saved.",
-    "subtitle": "Macabolic wraps yt-dlp in a gorgeous native macOS interface, bringing SponsorBlock, subtitles, and playlist support to anyone who hates the command line. Download from YouTube and thousands of other sites — no fuss."
+    "id": "dodotidy",
+    "headline": "FAN FAVORITE",
+    "title": "Spring cleaning for your Mac, every day.",
+    "subtitle": "DodoTidy's native macOS interface makes system housekeeping effortless — delete caches, logs, and app leftovers with surgical precision and watch your free space grow back."
   },
   {
-    "id": "vitepress-mermaid-renderer",
-    "headline": "MUST TRY",
-    "title": "Diagrams that live inside your docs.",
-    "subtitle": "VitePress Mermaid Renderer turns static Mermaid code blocks into interactive, theme-aware diagrams with one-click export. Stop screenshotting diagrams — make them a first-class part of your documentation."
+    "id": "hono-telescope",
+    "headline": "RISING STAR",
+    "title": "X-ray vision for your Hono applications.",
+    "subtitle": "Hono Telescope gives you a real-time monitoring dashboard for Hono apps — inspect requests, debug responses, and squash issues before they ever reach production."
   }
 ]
