@@ -471,8 +471,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 1778,
-      "forks": 250,
+      "stars": 1787,
+      "forks": 251,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -1011,8 +1011,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 1778,
-      "forks": 250,
+      "stars": 1787,
+      "forks": 251,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -10224,7 +10224,7 @@
       "_store": "scyto",
       "_storeUrl": "",
       "developer": "scyto",
-      "stars": 27,
+      "stars": 28,
       "forks": 0
     },
     {
@@ -10575,7 +10575,7 @@
       "github": "https://github.com/f/mcptools",
       "homepage": null,
       "language": "Go",
-      "stars": 1532,
+      "stars": 1533,
       "forks": 118,
       "brew": "brew install f/mcptools/mcp",
       "requirements": "macOS, Linux, or Windows",
@@ -11160,6 +11160,90 @@
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/podcast-ad-remover.jpg"
     },
     {
+      "id": "poke-gate",
+      "name": "Poke Gate",
+      "subtitle": "Remote OS Access for Poke AI",
+      "description": "Let your Poke AI assistant access your machine. Run commands, read files, take screenshots — all from iMessage, Telegram, or SMS.",
+      "longDescription": "Poke Gate exposes your machine to your Poke AI assistant via an MCP tunnel. Run it on your Mac, then message Poke from iMessage, Telegram, or SMS to execute shell commands, read and write files, list directories, take screenshots, and check system info. Available as a native macOS menu bar app or a CLI tool via npx. The menu bar app auto-connects on launch, shows real-time status, and auto-restarts on disconnect. Community project — not affiliated with Poke.",
+      "icon": "https://raw.githubusercontent.com/f/poke-gate/main/assets/logo.png",
+      "iconStyle": {
+        "scale": 1.3,
+        "objectFit": "cover",
+        "borderRadius": "22%"
+      },
+      "category": [
+        "macos",
+        "cli",
+        "developer-tools"
+      ],
+      "platform": "macOS / Node.js",
+      "price": "Free",
+      "github": "https://github.com/f/poke-gate",
+      "homepage": "https://poke.com",
+      "language": "Swift / JavaScript",
+      "stars": 7,
+      "forks": 1,
+      "brew": "brew install f/tap/poke-gate",
+      "installCommand": "npx poke-gate",
+      "downloadUrl": "https://github.com/f/poke-gate/releases/latest",
+      "requirements": "macOS 15+ (app) or Node.js 18+ (CLI)",
+      "features": [
+        "Run any shell command from Poke",
+        "Read and write files remotely",
+        "Take screenshots",
+        "Read images as base64",
+        "Native macOS menu bar app",
+        "CLI alternative via npx poke-gate",
+        "Auto-connect and auto-restart"
+      ],
+      "screenshots": [],
+      "_source": "f/appetit",
+      "_owner": "f",
+      "_developer": "Fatih Kadir Akin",
+      "_store": "Appétit",
+      "_storeUrl": "https://apps.fka.dev",
+      "developer": "Fatih Kadir Akin"
+    },
+    {
+      "id": "poke-tui",
+      "name": "Poke TUI",
+      "subtitle": "Terminal Chat for Poke AI",
+      "description": "Chat with your Poke AI assistant from the terminal. An Ink-based TUI that sends messages and receives replies via MCP tunnel.",
+      "longDescription": "Poke TUI is a terminal chat client for Poke — type messages in your terminal and get replies inline, no need to switch to iMessage or Telegram. Built with Ink (React for CLIs), it runs a local MCP server tunneled to Poke's cloud so the agent can respond directly in the terminal. Features a Claude Code-inspired UI with thinking spinner, webhook management, and first-run API key onboarding. Community project — not affiliated with Poke.",
+      "icon": null,
+      "iconEmoji": "🌴",
+      "iconStyle": {},
+      "category": [
+        "cli",
+        "developer-tools"
+      ],
+      "platform": "Node.js",
+      "price": "Free",
+      "github": "https://github.com/f/poke-tui",
+      "homepage": "https://poke.com",
+      "language": "JavaScript",
+      "stars": 6,
+      "forks": 0,
+      "installCommand": "npx poke-tui",
+      "requirements": "Node.js 18+",
+      "features": [
+        "Chat with Poke inline in the terminal",
+        "Replies via MCP tunnel — no iMessage needed",
+        "Claude Code-inspired thinking spinner",
+        "Webhook create and fire support",
+        "First-run API key onboarding",
+        "Built with Ink (React for CLIs)"
+      ],
+      "screenshots": [],
+      "_source": "f/appetit",
+      "_owner": "f",
+      "_developer": "Fatih Kadir Akin",
+      "_store": "Appétit",
+      "_storeUrl": "https://apps.fka.dev",
+      "developer": "Fatih Kadir Akin",
+      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/poke-tui.jpg"
+    },
+    {
       "id": "poker-tracker",
       "name": "Poker Tracker",
       "subtitle": "Track your live poker PnL with a simple web app",
@@ -11371,8 +11455,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 154001,
-      "forks": 20246,
+      "stars": 154022,
+      "forks": 20245,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -11415,8 +11499,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 154001,
-      "forks": 20246,
+      "stars": 154022,
+      "forks": 20245,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
