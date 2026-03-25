@@ -34,9 +34,10 @@ The current `featured.json` looks like this:
 1. Read `apps.json` and get the full list of available apps
 2. Read the current `featured.json` to see what's currently featured
 3. Select **4 apps** for the new featured list using these criteria:
+   - **Visual quality first**: strongly prefer apps that have a real `icon` (not null/empty), `screenshots`, and a rich `longDescription`. Apps with all three are ideal — they look great in the carousel.
    - Pick from **different stores** (`_store` field) to ensure variety
    - **Rotate**: at least 2 of the 4 should be different from the current featured list
-   - Always keep at least 1 app with very high stars (>100) as an anchor
+   - **Discover hidden gems**: don't just pick the most-starred apps. Actively look for lesser-known apps that have polished icons, screenshots, and descriptions — they deserve the spotlight too.
 4. For each selected app, write a compelling featured entry:
    - `headline`: A short uppercase label (2-3 words). Be creative and varied. Examples: "EDITOR'S PICK", "TRENDING", "NEW APP", "COMMUNITY FAVORITE", "MUST TRY", "TOP RATED", "HIDDEN GEM", "JUST SHIPPED", "FAN FAVORITE", "RISING STAR"
    - `title`: A catchy, punchy one-liner (5-10 words). Don't just repeat the app name. Be creative — think Apple App Store editorial voice. Examples: "Your script, always in sight.", "Screenshots, reimagined.", "The world's largest prompt collection."
