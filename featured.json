@@ -1,26 +1,26 @@
 [
   {
     "id": "prompts-chat",
-    "headline": "TOP RATED",
-    "title": "153,000 developers can't be wrong.",
-    "subtitle": "Prompts.chat is the world's most-starred prompt library, loved by AI builders everywhere. Browse thousands of community-crafted prompts — or self-host the whole thing for your team in minutes."
+    "headline": "COMMUNITY FAVORITE",
+    "title": "The prompt library the internet built.",
+    "subtitle": "With over 154,000 GitHub stars, Prompts.chat is the go-to resource for anyone working with AI. Discover thousands of community-crafted prompts, or self-host your own instance in minutes."
   },
   {
-    "id": "dodotidy",
-    "headline": "EDITOR'S PICK",
-    "title": "Spring clean your Mac, any day of the year.",
-    "subtitle": "DodoTidy hunts down caches, logs, and hidden junk that quietly drain your disk. Native, safe, and deeply satisfying — watch gigabytes reclaim themselves with a single click."
+    "id": "crewclaw",
+    "headline": "MUST TRY",
+    "title": "Deploy your AI workforce in minutes.",
+    "subtitle": "CrewClaw gives you 103 battle-tested agent templates across 19 categories, ready to run on OpenClaw. Think of it as hiring a whole AI team — without the onboarding paperwork."
+  },
+  {
+    "id": "macabolic",
+    "headline": "HIDDEN GEM",
+    "title": "YouTube downloads, beautifully done.",
+    "subtitle": "Macabolic wraps yt-dlp in a gorgeous native Mac GUI — grab video or audio from thousands of sites, skip sponsors automatically, and keep your library exactly where you want it."
   },
   {
     "id": "asc-cli",
-    "headline": "JUST SHIPPED",
-    "title": "App Store Connect, tamed by the terminal.",
-    "subtitle": "asc brings your entire iOS and macOS release workflow into one CLI — manage builds, TestFlight, screenshots, and subscriptions without once touching a browser. AI-agent ready from day one."
-  },
-  {
-    "id": "hono-telescope",
-    "headline": "RISING STAR",
-    "title": "See inside every request, as it happens.",
-    "subtitle": "Hono Telescope gives your Hono app a live debugging dashboard — inspect HTTP traffic, trace exceptions, and monitor queries in real time. Open source, zero config, and instantly illuminating."
+    "headline": "FAN FAVORITE",
+    "title": "Ship iOS apps without leaving your terminal.",
+    "subtitle": "asc puts the full power of App Store Connect into a single Swift CLI — from TestFlight builds to subscription management, all scriptable, automatable, and AI-agent ready."
   }
 ]
