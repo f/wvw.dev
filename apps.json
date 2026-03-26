@@ -535,8 +535,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 1926,
-      "forks": 273,
+      "stars": 1930,
+      "forks": 276,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -1213,8 +1213,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 1926,
-      "forks": 273,
+      "stars": 1930,
+      "forks": 276,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -10310,7 +10310,7 @@
       "_developer": "Bora Biricik",
       "_store": "Bora Biricik",
       "_storeUrl": "",
-      "stars": 3,
+      "stars": 4,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/geodaddy.jpg"
     },
@@ -11830,7 +11830,7 @@
       "github": "https://github.com/f/poke-gate",
       "homepage": "https://poke.com",
       "language": "Swift / JavaScript",
-      "stars": 30,
+      "stars": 31,
       "forks": 2,
       "brew": "brew install f/tap/poke-gate",
       "installCommand": "npx poke-gate",
@@ -12137,8 +12137,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 154228,
-      "forks": 20270,
+      "stars": 154234,
+      "forks": 20269,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -12181,8 +12181,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 154228,
-      "forks": 20270,
+      "stars": 154234,
+      "forks": 20269,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -13256,7 +13256,7 @@
       "_store": "efekurucay apps",
       "_storeUrl": "",
       "developer": "efekurucay",
-      "stars": 5,
+      "stars": 6,
       "forks": 0
     },
     {
