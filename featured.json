@@ -1,26 +1,26 @@
 [
   {
     "id": "prompts-chat",
-    "headline": "TOP RATED",
-    "title": "153,000 developers can't be wrong.",
-    "subtitle": "Prompts.chat is the world's most-starred prompt library, loved by AI builders everywhere. Browse thousands of community-crafted prompts — or self-host the whole thing for your team in minutes."
+    "headline": "FAN FAVORITE",
+    "title": "The prompt library the internet built.",
+    "subtitle": "Prompts.chat is the world's most-starred AI prompt collection — over 150K GitHub stars and counting. Discover community-crafted prompts for ChatGPT, Claude, Gemini, and beyond, all in one beautifully searchable place."
   },
   {
-    "id": "dodotidy",
+    "id": "macabolic",
+    "headline": "HIDDEN GEM",
+    "title": "YouTube downloads, Mac-beautifully done.",
+    "subtitle": "Macabolic wraps the legendary yt-dlp engine in a gorgeous native macOS GUI. Download video or audio from thousands of sites, skip sponsors automatically, and grab entire playlists — all without touching the terminal."
+  },
+  {
+    "id": "ha-bluetooth-audio-manager",
+    "headline": "MUST TRY",
+    "title": "Turn your smart home into a sound system.",
+    "subtitle": "Bluetooth Audio Manager transforms your Home Assistant instance into a full A2DP audio hub — with persistent pairing, auto-reconnection, and RSSI monitoring baked in. Whole-home audio just got a serious upgrade."
+  },
+  {
+    "id": "radioheavy-avalon",
     "headline": "EDITOR'S PICK",
-    "title": "Spring clean your Mac, any day of the year.",
-    "subtitle": "DodoTidy hunts down caches, logs, and hidden junk that quietly drain your disk. Native, safe, and deeply satisfying — watch gigabytes reclaim themselves with a single click."
-  },
-  {
-    "id": "asc-cli",
-    "headline": "JUST SHIPPED",
-    "title": "App Store Connect, tamed by the terminal.",
-    "subtitle": "asc brings your entire iOS and macOS release workflow into one CLI — manage builds, TestFlight, screenshots, and subscriptions without once touching a browser. AI-agent ready from day one."
-  },
-  {
-    "id": "hono-telescope",
-    "headline": "RISING STAR",
-    "title": "See inside every request, as it happens.",
-    "subtitle": "Hono Telescope gives your Hono app a live debugging dashboard — inspect HTTP traffic, trace exceptions, and monitor queries in real time. Open source, zero config, and instantly illuminating."
+    "title": "Where prompts become architecture.",
+    "subtitle": "Avalon is a privacy-first visual IDE for AI image workflows — build prompts as structured JSON trees, let an AI assistant refine individual fields, and reverse-engineer uploads into reusable prompt blueprints. Prompt engineering, elevated."
   }
 ]
