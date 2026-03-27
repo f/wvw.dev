@@ -1,26 +1,26 @@
 [
   {
-    "id": "prompts-chat",
-    "headline": "TOP RATED",
-    "title": "153,000 developers can't be wrong.",
-    "subtitle": "Prompts.chat is the world's most-starred prompt library, loved by AI builders everywhere. Browse thousands of community-crafted prompts — or self-host the whole thing for your team in minutes."
+    "id": "wallnetic",
+    "headline": "MUST TRY",
+    "title": "Your Mac desktop, finally alive.",
+    "subtitle": "Wallnetic transforms static backgrounds into cinematic video wallpapers with GPU-accelerated Metal rendering and per-display control. Smart power management means it pauses when you need focus and plays when you want wow."
   },
   {
-    "id": "dodotidy",
+    "id": "nodepad",
+    "headline": "HIDDEN GEM",
+    "title": "Conversations that branch, build, and breathe.",
+    "subtitle": "NodePad reimagines AI chat as an infinite visual canvas — every message becomes an addressable node you can fork, compare, and reconnect. It's the thinking tool that linear chat was never designed to be."
+  },
+  {
+    "id": "reviseflow",
     "headline": "EDITOR'S PICK",
-    "title": "Spring clean your Mac, any day of the year.",
-    "subtitle": "DodoTidy hunts down caches, logs, and hidden junk that quietly drain your disk. Native, safe, and deeply satisfying — watch gigabytes reclaim themselves with a single click."
-  },
-  {
-    "id": "asc-cli",
-    "headline": "JUST SHIPPED",
-    "title": "App Store Connect, tamed by the terminal.",
-    "subtitle": "asc brings your entire iOS and macOS release workflow into one CLI — manage builds, TestFlight, screenshots, and subscriptions without once touching a browser. AI-agent ready from day one."
+    "title": "Client feedback, pixel-perfect and actionable.",
+    "subtitle": "ReviseFlow lets clients annotate your live site with a single click, capturing a pinned screenshot and the exact technical context you need to act. AI reads the feedback, finds the code, and opens the fix — no more vague emails."
   },
   {
     "id": "hono-telescope",
-    "headline": "RISING STAR",
-    "title": "See inside every request, as it happens.",
-    "subtitle": "Hono Telescope gives your Hono app a live debugging dashboard — inspect HTTP traffic, trace exceptions, and monitor queries in real time. Open source, zero config, and instantly illuminating."
+    "headline": "COMMUNITY FAVORITE",
+    "title": "Debug your Hono app without the mystery.",
+    "subtitle": "Hono Telescope drops a real-time request dashboard into your Node.js or Bun app via a single middleware line — every HTTP call, exception, log, and database query visible at a glance. Zero config, instant clarity."
   }
 ]
