@@ -1,26 +1,26 @@
 [
   {
-    "id": "wallnetic",
-    "headline": "FAN FAVORITE",
-    "title": "Your desktop, now alive and moving.",
-    "subtitle": "Wallnetic transforms your Mac with stunning live video wallpapers that play effortlessly across multiple monitors. Dynamic, beautiful, and surprisingly kind to your CPU."
+    "id": "claude-board",
+    "headline": "JUST SHIPPED",
+    "title": "Kanban meets your AI coding workflow.",
+    "subtitle": "Claude Board brings a visual Kanban board and live terminal streaming to Claude Code. Manage AI-powered dev tasks across projects, on the web or desktop — the command center your AI setup deserves."
   },
   {
-    "id": "radioheavy-avalon",
-    "headline": "EDITOR'S PICK",
-    "title": "Build AI prompts like a pro engineer.",
-    "subtitle": "Avalon is a privacy-first visual IDE for crafting image generation workflows — structure prompts as a JSON tree, get AI rewrites on any single field, and keep every experiment local."
+    "id": "nodepad",
+    "headline": "RISING STAR",
+    "title": "Conversations that branch, not just scroll.",
+    "subtitle": "NodePad turns every AI message into a node on an infinite canvas, letting you explore parallel threads and map your thinking spatially. For power users who've long outgrown the chat window."
   },
   {
-    "id": "my-net-worth",
+    "id": "secretdrop",
+    "headline": "COMMUNITY FAVORITE",
+    "title": "Share a secret. Once. Then it's gone.",
+    "subtitle": "SecretDrop wraps your passwords and API keys in end-to-end encryption and sends them as self-destructing links — no account, no plain-text storage, no trace left behind."
+  },
+  {
+    "id": "deeper",
     "headline": "HIDDEN GEM",
-    "title": "Your entire financial life, one clean page.",
-    "subtitle": "My Net Worth unifies Fidelity, Vanguard, IBKR, crypto wallets, and bank accounts without connecting to a single service. Intentionally offline, intentionally simple."
-  },
-  {
-    "id": "env-protector",
-    "headline": "MUST TRY",
-    "title": "Stop secrets from leaking before they start.",
-    "subtitle": "Env Protector intercepts .env files before VS Code ever renders them, offering masked views and a zero-exposure workflow. Security baked in from the very first keystroke."
+    "title": "Your messaging life, visualized beautifully.",
+    "subtitle": "Deeper hooks into your local Beeper app to surface ghosting patterns, conversation timelines, and sent-vs-received breakdowns across iMessage, WhatsApp, Signal, and more — entirely on-device."
   }
 ]
