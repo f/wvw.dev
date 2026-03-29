@@ -38,6 +38,11 @@ for entry in $stores; do
     continue
   fi
 
+  if ! jq empty "$tmp_file" 2>/dev/null; then
+    echo "SKIPPED (invalid JSON — please fix your apps.json)"
+    continue
+  fi
+
   # Auto-detect DodoApps catalog format and convert to Appétit schema
   is_dodoapps=$(jq 'has("publishers") and has("schemaVersion")' "$tmp_file")
   if [ "$is_dodoapps" = "true" ]; then
