@@ -1,26 +1,26 @@
 [
   {
-    "id": "wallnetic",
-    "headline": "MUST TRY",
-    "title": "Your desktop, alive and in motion.",
-    "subtitle": "Wallnetic brings GPU-accelerated live video wallpapers to macOS with per-display settings, smart battery management, and a curated library. Windows had Wallpaper Engine — now Mac users finally have their match."
+    "id": "macabolic",
+    "headline": "RISING STAR",
+    "title": "Beautiful downloads, no terminal required.",
+    "subtitle": "Macabolic wraps yt-dlp in a gorgeous native macOS GUI — grab videos and audio from YouTube and thousands of sites with SponsorBlock, subtitle, and playlist support all built in. Power-user features, zero command-line fuss."
   },
   {
-    "id": "radioheavy-avalon",
+    "id": "wallnetic",
     "headline": "EDITOR'S PICK",
-    "title": "Design AI prompts like a visual artist.",
-    "subtitle": "Avalon is a privacy-first visual IDE for AI image workflows — build structured prompts in a tree editor, reverse-engineer uploaded images, browse community examples, and generate with fal.ai. Everything stays local, nothing leaves your machine."
+    "title": "Your desktop, alive and in motion.",
+    "subtitle": "Wallnetic brings GPU-accelerated live video wallpapers to macOS with per-display settings and smart battery management. Your screen finally deserves more than a static image."
+  },
+  {
+    "id": "reviseflow",
+    "headline": "HIDDEN GEM",
+    "title": "Client feedback that lands with precision.",
+    "subtitle": "ReviseFlow lets clients click and annotate directly on your live website — every revision arrives pinned to exact pixels with full technical context. Say goodbye to long email threads and misunderstood change requests."
   },
   {
     "id": "secretdrop",
-    "headline": "FAN FAVORITE",
-    "title": "One link. One view. Then it vanishes.",
-    "subtitle": "SecretDrop encrypts your passwords, API keys, and sensitive notes into self-destructing links — seen once, then gone forever. No account needed, no plain-text storage, no trace left behind."
-  },
-  {
-    "id": "claude-board",
-    "headline": "TRENDING",
-    "title": "Command your AI coding sessions visually.",
-    "subtitle": "Claude Board is a Kanban-style dashboard built for Claude Code, with real-time terminal streaming and cross-project task management. Available as a web app and native desktop app on all major platforms."
+    "headline": "JUST SHIPPED",
+    "title": "Share secrets without leaving a trace.",
+    "subtitle": "SecretDrop turns sensitive passwords, API keys, and private notes into self-destructing links — readable once, then gone forever. No account, no plain-text storage, no trace left behind."
   }
 ]
