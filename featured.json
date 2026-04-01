@@ -1,26 +1,26 @@
 [
   {
     "id": "wallnetic",
-    "headline": "MUST TRY",
-    "title": "Your desktop, alive and in motion.",
-    "subtitle": "Wallnetic brings GPU-accelerated live video wallpapers to macOS with per-display settings, smart battery management, and a curated library. Windows had Wallpaper Engine — now Mac users finally have their match."
+    "headline": "STAFF PICK",
+    "title": "Live wallpapers, engineered for Mac.",
+    "subtitle": "Wallnetic brings GPU-accelerated video wallpapers to macOS with per-display controls and smart battery management — the feature Mac users have envied Windows for, finally done right."
   },
   {
-    "id": "radioheavy-avalon",
-    "headline": "EDITOR'S PICK",
-    "title": "Design AI prompts like a visual artist.",
-    "subtitle": "Avalon is a privacy-first visual IDE for AI image workflows — build structured prompts in a tree editor, reverse-engineer uploaded images, browse community examples, and generate with fal.ai. Everything stays local, nothing leaves your machine."
+    "id": "paus",
+    "headline": "RISING STAR",
+    "title": "See every price tag in work hours.",
+    "subtitle": "paus converts what things cost into the hours of your life they represent, making impulse buys feel real. With reminders, spending logs, and multi-currency support, it's the mindful shopping companion your wallet deserves."
   },
   {
-    "id": "secretdrop",
-    "headline": "FAN FAVORITE",
-    "title": "One link. One view. Then it vanishes.",
-    "subtitle": "SecretDrop encrypts your passwords, API keys, and sensitive notes into self-destructing links — seen once, then gone forever. No account needed, no plain-text storage, no trace left behind."
+    "id": "nodepad",
+    "headline": "HIDDEN GEM",
+    "title": "Branch your thinking. Graph your AI.",
+    "subtitle": "NodePad turns every AI exchange into a node on an infinite canvas — branch conversations, compare responses side by side, and navigate your ideas like a mind map. For power users who think in trees, not threads."
   },
   {
-    "id": "claude-board",
-    "headline": "TRENDING",
-    "title": "Command your AI coding sessions visually.",
-    "subtitle": "Claude Board is a Kanban-style dashboard built for Claude Code, with real-time terminal streaming and cross-project task management. Available as a web app and native desktop app on all major platforms."
+    "id": "macabolic",
+    "headline": "COMMUNITY FAVORITE",
+    "title": "Download anything. No terminal required.",
+    "subtitle": "Macabolic wraps the raw power of yt-dlp in a polished macOS GUI — grab video and audio from YouTube and thousands of other sites, with SponsorBlock, subtitle support, and playlist management built in. Free and open source."
   }
 ]
