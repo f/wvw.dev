@@ -1,26 +1,26 @@
 [
   {
     "id": "wallnetic",
-    "headline": "MUST TRY",
-    "title": "Your desktop, alive and in motion.",
-    "subtitle": "Wallnetic brings GPU-accelerated live video wallpapers to macOS with per-display settings, smart battery management, and a curated library. Windows had Wallpaper Engine — now Mac users finally have their match."
-  },
-  {
-    "id": "radioheavy-avalon",
-    "headline": "EDITOR'S PICK",
-    "title": "Design AI prompts like a visual artist.",
-    "subtitle": "Avalon is a privacy-first visual IDE for AI image workflows — build structured prompts in a tree editor, reverse-engineer uploaded images, browse community examples, and generate with fal.ai. Everything stays local, nothing leaves your machine."
-  },
-  {
-    "id": "secretdrop",
-    "headline": "FAN FAVORITE",
-    "title": "One link. One view. Then it vanishes.",
-    "subtitle": "SecretDrop encrypts your passwords, API keys, and sensitive notes into self-destructing links — seen once, then gone forever. No account needed, no plain-text storage, no trace left behind."
+    "headline": "STAFF PICK",
+    "title": "Your Mac, draped in living wallpapers.",
+    "subtitle": "Wallnetic turns your desktop into a stage with GPU-accelerated video wallpapers, smart battery pausing, and per-display control. It's Wallpaper Engine — but built for Mac from the ground up."
   },
   {
     "id": "claude-board",
-    "headline": "TRENDING",
-    "title": "Command your AI coding sessions visually.",
-    "subtitle": "Claude Board is a Kanban-style dashboard built for Claude Code, with real-time terminal streaming and cross-project task management. Available as a web app and native desktop app on all major platforms."
+    "headline": "RISING STAR",
+    "title": "Kanban meets terminal for AI-driven code.",
+    "subtitle": "Claude Board transforms chaotic AI coding sessions into a structured Kanban workflow with real-time terminal streaming and cross-project task management. Available as a web app and native desktop app on all major platforms."
+  },
+  {
+    "id": "macabolic",
+    "headline": "HIDDEN GEM",
+    "title": "Every video on the internet, beautifully saved.",
+    "subtitle": "Macabolic wraps yt-dlp in a gorgeous native macOS GUI — SponsorBlock, subtitles, playlist downloads, and format selection included, no command line required. The video downloader your library deserves."
+  },
+  {
+    "id": "paus",
+    "headline": "FRESH FIND",
+    "title": "What does that really cost you?",
+    "subtitle": "paus converts any price tag into hours of your actual working life, giving impulse buys the reality check they've always needed. A beautifully minimal app that turns spending into a mindful decision."
   }
 ]
