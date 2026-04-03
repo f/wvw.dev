@@ -1,26 +1,26 @@
 [
   {
     "id": "wallnetic",
-    "headline": "MUST TRY",
-    "title": "Your desktop, alive and in motion.",
-    "subtitle": "Wallnetic brings GPU-accelerated live video wallpapers to macOS with per-display settings, smart battery management, and a curated library. Windows had Wallpaper Engine — now Mac users finally have their match."
-  },
-  {
-    "id": "radioheavy-avalon",
-    "headline": "EDITOR'S PICK",
-    "title": "Design AI prompts like a visual artist.",
-    "subtitle": "Avalon is a privacy-first visual IDE for AI image workflows — build structured prompts in a tree editor, reverse-engineer uploaded images, browse community examples, and generate with fal.ai. Everything stays local, nothing leaves your machine."
-  },
-  {
-    "id": "secretdrop",
-    "headline": "FAN FAVORITE",
-    "title": "One link. One view. Then it vanishes.",
-    "subtitle": "SecretDrop encrypts your passwords, API keys, and sensitive notes into self-destructing links — seen once, then gone forever. No account needed, no plain-text storage, no trace left behind."
+    "headline": "STAFF PICK",
+    "title": "Turn your Mac into a living canvas.",
+    "subtitle": "Wallnetic brings GPU-accelerated live video wallpapers to macOS — with per-display settings, smart battery management, and a curated library. Finally, a Wallpaper Engine worthy of your Mac."
   },
   {
     "id": "claude-board",
-    "headline": "TRENDING",
+    "headline": "DEV ESSENTIAL",
     "title": "Command your AI coding sessions visually.",
-    "subtitle": "Claude Board is a Kanban-style dashboard built for Claude Code, with real-time terminal streaming and cross-project task management. Available as a web app and native desktop app on all major platforms."
+    "subtitle": "Claude Board is a Kanban-style dashboard built for Claude Code, with real-time terminal streaming and cross-project task management. Ship faster by seeing everything at once."
+  },
+  {
+    "id": "macabolic",
+    "headline": "HIDDEN GEM",
+    "title": "Download the internet, beautifully.",
+    "subtitle": "Macabolic wraps the powerful yt-dlp engine in a gorgeous native GUI — grab videos, audio, playlists, and subtitles from YouTube and thousands of sites with SponsorBlock built right in."
+  },
+  {
+    "id": "paus",
+    "headline": "RISING STAR",
+    "title": "Think twice before you tap 'Buy'.",
+    "subtitle": "paus converts prices into real work hours so every purchase feels intentional. Set pause reminders on items you're unsure about, track your saving wins, and break the impulse-buy cycle for good."
   }
 ]
