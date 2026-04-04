@@ -274,7 +274,7 @@
       "github": "https://github.com/f/agentlytics",
       "homepage": "https://agentlytics.io",
       "language": "JavaScript",
-      "stars": 392,
+      "stars": 394,
       "forks": 40,
       "installCommand": "npx agentlytics",
       "requirements": "Node.js 20.19+ or 22.12+, macOS",
@@ -517,7 +517,7 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 126,
+      "stars": 128,
       "forks": 16
     },
     {
@@ -584,7 +584,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 2492,
+      "stars": 2496,
       "forks": 383,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1356,7 +1356,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 2492,
+      "stars": 2496,
       "forks": 383,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -12751,8 +12751,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 157128,
-      "forks": 20602,
+      "stars": 157172,
+      "forks": 20603,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -12795,8 +12795,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 157128,
-      "forks": 20602,
+      "stars": 157172,
+      "forks": 20603,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
