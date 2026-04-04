@@ -1,26 +1,26 @@
 [
   {
     "id": "wallnetic",
-    "headline": "STAFF PICK",
-    "title": "Turn your Mac into a living canvas.",
-    "subtitle": "Wallnetic brings GPU-accelerated live video wallpapers to macOS — with per-display settings, smart battery management, and a curated library. Finally, a Wallpaper Engine worthy of your Mac."
-  },
-  {
-    "id": "claude-board",
-    "headline": "DEV ESSENTIAL",
-    "title": "Command your AI coding sessions visually.",
-    "subtitle": "Claude Board is a Kanban-style dashboard built for Claude Code, with real-time terminal streaming and cross-project task management. Ship faster by seeing everything at once."
-  },
-  {
-    "id": "macabolic",
-    "headline": "HIDDEN GEM",
-    "title": "Download the internet, beautifully.",
-    "subtitle": "Macabolic wraps the powerful yt-dlp engine in a gorgeous native GUI — grab videos, audio, playlists, and subtitles from YouTube and thousands of sites with SponsorBlock built right in."
+    "headline": "EDITOR'S PICK",
+    "title": "Your Mac deserves a living backdrop.",
+    "subtitle": "Wallnetic brings GPU-accelerated live video wallpapers to macOS with per-display settings and smart battery management. A curated library makes your desktop truly come alive."
   },
   {
     "id": "paus",
-    "headline": "RISING STAR",
-    "title": "Think twice before you tap 'Buy'.",
-    "subtitle": "paus converts prices into real work hours so every purchase feels intentional. Set pause reminders on items you're unsure about, track your saving wins, and break the impulse-buy cycle for good."
+    "headline": "MUST TRY",
+    "title": "Every purchase, measured in real time.",
+    "subtitle": "paus converts prices into actual work hours before you buy — so you think twice, save more, and break the impulse-buy cycle for good."
+  },
+  {
+    "id": "radioheavy-avalon",
+    "headline": "HIDDEN GEM",
+    "title": "Build AI prompts like a pro.",
+    "subtitle": "Avalon is a privacy-first visual IDE for crafting and managing AI image prompts — structured as JSON trees, with a built-in AI assistant to refine them. Your creative workflow, finally organized."
+  },
+  {
+    "id": "secretdrop",
+    "headline": "JUST SHIPPED",
+    "title": "Secrets shared once, then gone forever.",
+    "subtitle": "SecretDrop creates encrypted, self-destructing links for passwords and API keys — no sign-up, no trace. Share sensitive data the way it was always meant to be shared."
   }
 ]
