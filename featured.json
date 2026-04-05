@@ -1,26 +1,26 @@
 [
   {
     "id": "wallnetic",
-    "headline": "STAFF PICK",
-    "title": "Turn your Mac into a living canvas.",
-    "subtitle": "Wallnetic brings GPU-accelerated live video wallpapers to macOS — with per-display settings, smart battery management, and a curated library. Finally, a Wallpaper Engine worthy of your Mac."
-  },
-  {
-    "id": "claude-board",
-    "headline": "DEV ESSENTIAL",
-    "title": "Command your AI coding sessions visually.",
-    "subtitle": "Claude Board is a Kanban-style dashboard built for Claude Code, with real-time terminal streaming and cross-project task management. Ship faster by seeing everything at once."
-  },
-  {
-    "id": "macabolic",
-    "headline": "HIDDEN GEM",
-    "title": "Download the internet, beautifully.",
-    "subtitle": "Macabolic wraps the powerful yt-dlp engine in a gorgeous native GUI — grab videos, audio, playlists, and subtitles from YouTube and thousands of sites with SponsorBlock built right in."
+    "headline": "MAC ESSENTIAL",
+    "title": "Your wallpaper, alive and breathing.",
+    "subtitle": "Wallnetic fills every display with GPU-accelerated live video wallpapers — smart enough to pause when you're on battery, beautiful enough to make your desk feel like art."
   },
   {
     "id": "paus",
-    "headline": "RISING STAR",
-    "title": "Think twice before you tap 'Buy'.",
-    "subtitle": "paus converts prices into real work hours so every purchase feels intentional. Set pause reminders on items you're unsure about, track your saving wins, and break the impulse-buy cycle for good."
+    "headline": "COMMUNITY FAVORITE",
+    "title": "Every dollar saved starts with a pause.",
+    "subtitle": "paus turns any price tag into real work hours, making impulse buys feel less automatic. Set reminders, track your wins, and spend the way you actually intend to."
+  },
+  {
+    "id": "radioheavy-avalon",
+    "headline": "EDITORS' CHOICE",
+    "title": "AI prompts, engineered with precision.",
+    "subtitle": "Avalon is a privacy-first visual IDE for crafting and managing AI image prompts — build them as structured JSON, let the built-in assistant refine individual fields, and reverse-engineer uploads in seconds."
+  },
+  {
+    "id": "secretdrop",
+    "headline": "MUST TRY",
+    "title": "Share secrets once — then they're gone.",
+    "subtitle": "SecretDrop wraps passwords, API keys, and credentials in end-to-end encrypted links that self-destruct on first view. No account needed, no plain-text storage, no second chances."
   }
 ]
