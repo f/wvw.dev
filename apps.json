@@ -584,7 +584,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 2587,
+      "stars": 2588,
       "forks": 401,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1356,7 +1356,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 2587,
+      "stars": 2588,
       "forks": 401,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -10872,7 +10872,7 @@
       "github": "https://github.com/f/git-rewrite-commits",
       "homepage": "https://blog.fka.dev/git-rewrite-commits/",
       "language": "TypeScript",
-      "stars": 1409,
+      "stars": 1408,
       "forks": 56,
       "installCommand": "npx git-rewrite-commits",
       "requirements": "Node.js, Git",
@@ -12751,8 +12751,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 157604,
-      "forks": 20637,
+      "stars": 157625,
+      "forks": 20636,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -12795,8 +12795,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 157604,
-      "forks": 20637,
+      "stars": 157625,
+      "forks": 20636,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -12859,6 +12859,52 @@
       "developer": "Fatih Solhan",
       "stars": 33,
       "forks": 8
+    },
+    {
+      "id": "pscan",
+      "name": "pscan",
+      "subtitle": "Monitor and manage your localhost ports",
+      "description": "Lightweight macOS menu bar app and CLI tool that shows all active localhost ports with project detection, one-click browser/terminal/finder access, and process management.",
+      "longDescription": "pscan lives in your menu bar and scans for active localhost ports. It detects which project each port belongs to, lets you open them in browser, Terminal, or Finder with one click, and kill processes when needed. Also available as a CLI tool via Homebrew with table, JSON output, and interactive kill support.",
+      "icon": "https://raw.githubusercontent.com/mavideniz/pscan/main/icon.png",
+      "iconStyle": {
+        "scale": 1.3,
+        "objectFit": "cover",
+        "borderRadius": "22%"
+      },
+      "category": [
+        "macos",
+        "cli",
+        "developer-tools"
+      ],
+      "platform": "macOS",
+      "price": "Free",
+      "github": "https://github.com/mavideniz/pscan",
+      "language": "Swift",
+      "brew": "brew install mavideniz/pscan/pscan",
+      "downloadUrl": "https://github.com/mavideniz/pscan/releases/latest",
+      "requirements": "macOS 13+",
+      "features": [
+        "Menu bar app with active port count badge",
+        "Project name and directory detection",
+        "Open in browser, Terminal, or Finder",
+        "Kill processes with confirmation",
+        "CLI tool with table and JSON output",
+        "Launch at login support",
+        "Configurable via Options window",
+        "Filters system services automatically"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/mavideniz/pscan/main/screenshot.png"
+      ],
+      "_source": "mavideniz/pscan",
+      "_owner": "mavideniz",
+      "_developer": "Dogancan Mavideniz",
+      "_store": "mavideniz apps",
+      "_storeUrl": "",
+      "developer": "Dogancan Mavideniz",
+      "stars": 7,
+      "forks": 1
     },
     {
       "id": "radial-clock",
@@ -13910,7 +13956,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 2381,
+      "stars": 2382,
       "forks": 158,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
