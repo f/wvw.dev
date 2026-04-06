@@ -1,26 +1,26 @@
 [
   {
-    "id": "wallnetic",
-    "headline": "STAFF PICK",
-    "title": "Turn your Mac into a living canvas.",
-    "subtitle": "Wallnetic brings GPU-accelerated live video wallpapers to macOS — with per-display settings, smart battery management, and a curated library. Finally, a Wallpaper Engine worthy of your Mac."
+    "id": "prompts-chat",
+    "headline": "COMMUNITY LEGEND",
+    "title": "The world's largest prompt library, now an app.",
+    "subtitle": "Prompts.chat evolved from 157K-star Awesome ChatGPT Prompts into a full interactive web experience. Search, browse, and instantly use hundreds of community-crafted prompts — your AI copilot deserves better commands."
   },
   {
-    "id": "claude-board",
-    "headline": "DEV ESSENTIAL",
-    "title": "Command your AI coding sessions visually.",
-    "subtitle": "Claude Board is a Kanban-style dashboard built for Claude Code, with real-time terminal streaming and cross-project task management. Ship faster by seeing everything at once."
+    "id": "secretdrop",
+    "headline": "EDITOR'S PICK",
+    "title": "Share secrets that vanish without a trace.",
+    "subtitle": "SecretDrop wraps AES-256 encryption in dead-simple one-time links — share passwords and API keys that self-destruct after a single view. Zero sign-up, zero storage, zero worry."
   },
   {
-    "id": "macabolic",
-    "headline": "HIDDEN GEM",
-    "title": "Download the internet, beautifully.",
-    "subtitle": "Macabolic wraps the powerful yt-dlp engine in a gorgeous native GUI — grab videos, audio, playlists, and subtitles from YouTube and thousands of sites with SponsorBlock built right in."
+    "id": "portier",
+    "headline": "MUST TRY",
+    "title": "See every open port on your Mac, instantly.",
+    "subtitle": "Portier lives in your menu bar and maps every active network port to the exact process behind it — organized by Development, System, and more. Security clarity you didn't know you needed."
   },
   {
     "id": "paus",
-    "headline": "RISING STAR",
-    "title": "Think twice before you tap 'Buy'.",
-    "subtitle": "paus converts prices into real work hours so every purchase feels intentional. Set pause reminders on items you're unsure about, track your saving wins, and break the impulse-buy cycle for good."
+    "headline": "FAN FAVORITE",
+    "title": "Every price tag hides a cost in hours.",
+    "subtitle": "paus converts any purchase price into real work hours, making impulse buys feel exactly as heavy as they are. Set pause reminders, track your wins, and finally shop with intention."
   }
 ]
