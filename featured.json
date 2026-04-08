@@ -1,26 +1,26 @@
 [
   {
     "id": "wallnetic",
-    "headline": "STAFF PICK",
-    "title": "Turn your Mac into a living canvas.",
-    "subtitle": "Wallnetic brings GPU-accelerated live video wallpapers to macOS — with per-display settings, smart battery management, and a curated library. Finally, a Wallpaper Engine worthy of your Mac."
+    "headline": "EDITOR'S PICK",
+    "title": "Your wallpaper just got a heartbeat.",
+    "subtitle": "Wallnetic transforms your Mac desktop with GPU-accelerated live video wallpapers — six curated sources, per-Space switching, and a floating Dynamic Island control. It's the desktop upgrade you didn't know you needed."
   },
   {
-    "id": "claude-board",
-    "headline": "DEV ESSENTIAL",
-    "title": "Command your AI coding sessions visually.",
-    "subtitle": "Claude Board is a Kanban-style dashboard built for Claude Code, with real-time terminal streaming and cross-project task management. Ship faster by seeing everything at once."
+    "id": "textream",
+    "headline": "MUST TRY",
+    "title": "Speak your mind without losing your place.",
+    "subtitle": "Textream is the teleprompter that lives in your Dynamic Island — scroll hands-free with voice tracking, beam your script to an iPad via Sidecar, and control every session with Director Mode. Your audience will never know."
   },
   {
-    "id": "macabolic",
+    "id": "radioheavy-avalon",
     "headline": "HIDDEN GEM",
-    "title": "Download the internet, beautifully.",
-    "subtitle": "Macabolic wraps the powerful yt-dlp engine in a gorgeous native GUI — grab videos, audio, playlists, and subtitles from YouTube and thousands of sites with SponsorBlock built right in."
+    "title": "The prompt IDE your AI workflow deserves.",
+    "subtitle": "Avalon is a privacy-first visual editor for building and managing AI prompts as structured JSON — with a built-in AI assistant, image reverse-engineering, and direct integration with prompts.chat. Serious prompt craft, beautifully done."
   },
   {
-    "id": "paus",
-    "headline": "RISING STAR",
-    "title": "Think twice before you tap 'Buy'.",
-    "subtitle": "paus converts prices into real work hours so every purchase feels intentional. Set pause reminders on items you're unsure about, track your saving wins, and break the impulse-buy cycle for good."
+    "id": "pixel-guess-mobile",
+    "headline": "FAN FAVORITE",
+    "title": "One pixel at a time — can you guess it?",
+    "subtitle": "Pixel Guess Mobile turns fuzzy images into addictive mobile puzzles, with Skia-powered animations, global leaderboards, streak tracking, and confetti for every win. Easy to pick up, impossible to put down."
   }
 ]
