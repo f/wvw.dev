@@ -1,26 +1,26 @@
 [
   {
-    "id": "wallnetic",
-    "headline": "STAFF PICK",
-    "title": "Turn your Mac into a living canvas.",
-    "subtitle": "Wallnetic brings GPU-accelerated live video wallpapers to macOS — with per-display settings, smart battery management, and a curated library. Finally, a Wallpaper Engine worthy of your Mac."
+    "id": "radioheavy-avalon",
+    "headline": "EDITOR'S PICK",
+    "title": "Your AI prompt studio, offline and uncompromising.",
+    "subtitle": "Avalon is a privacy-first visual IDE for image generation — build prompts as structured JSON trees, reverse-engineer uploaded images, and import community examples without a single byte leaving your machine."
   },
   {
-    "id": "claude-board",
-    "headline": "DEV ESSENTIAL",
-    "title": "Command your AI coding sessions visually.",
-    "subtitle": "Claude Board is a Kanban-style dashboard built for Claude Code, with real-time terminal streaming and cross-project task management. Ship faster by seeing everything at once."
+    "id": "nodepad",
+    "headline": "MUST TRY",
+    "title": "Chat with AI in every direction.",
+    "subtitle": "NodePad turns every LLM conversation into a visual graph — branch threads, explore alternatives side-by-side, and take full spatial control over the exact context your models see."
   },
   {
-    "id": "macabolic",
-    "headline": "HIDDEN GEM",
-    "title": "Download the internet, beautifully.",
-    "subtitle": "Macabolic wraps the powerful yt-dlp engine in a gorgeous native GUI — grab videos, audio, playlists, and subtitles from YouTube and thousands of sites with SponsorBlock built right in."
+    "id": "pixel-guess-mobile",
+    "headline": "FAN FAVORITE",
+    "title": "How sharp are your eyes, really?",
+    "subtitle": "Pixel Guess Mobile challenges you to identify characters from pixelated blurs, with streak tracking, global leaderboards, and buttery-smooth Skia animations. A game you won't put down."
   },
   {
-    "id": "paus",
-    "headline": "RISING STAR",
-    "title": "Think twice before you tap 'Buy'.",
-    "subtitle": "paus converts prices into real work hours so every purchase feels intentional. Set pause reminders on items you're unsure about, track your saving wins, and break the impulse-buy cycle for good."
+    "id": "agentlytics",
+    "headline": "TRENDING",
+    "title": "One dashboard to rule all your AI agents.",
+    "subtitle": "Agentlytics unifies your Cursor, Claude Code, Windsurf, and Copilot histories into a single analytics dashboard — with cost breakdowns, coding streaks, and 100% local data. Run npx agentlytics and see everything."
   }
 ]
