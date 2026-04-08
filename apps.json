@@ -274,7 +274,7 @@
       "github": "https://github.com/f/agentlytics",
       "homepage": "https://agentlytics.io",
       "language": "JavaScript",
-      "stars": 422,
+      "stars": 424,
       "forks": 49,
       "installCommand": "npx agentlytics",
       "requirements": "Node.js 20.19+ or 22.12+, macOS",
@@ -584,8 +584,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 2663,
-      "forks": 412,
+      "stars": 2674,
+      "forks": 413,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -1356,8 +1356,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 2663,
-      "forks": 412,
+      "stars": 2674,
+      "forks": 413,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -12020,7 +12020,7 @@
       "github": "https://github.com/f/mcptools",
       "homepage": null,
       "language": "Go",
-      "stars": 1548,
+      "stars": 1549,
       "forks": 120,
       "brew": "brew install f/mcptools/mcp",
       "requirements": "macOS, Linux, or Windows",
@@ -13101,8 +13101,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 157889,
-      "forks": 20668,
+      "stars": 157941,
+      "forks": 20676,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13145,8 +13145,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 157889,
-      "forks": 20668,
+      "stars": 157941,
+      "forks": 20676,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -13253,7 +13253,7 @@
       "_store": "mavideniz apps",
       "_storeUrl": "",
       "developer": "Dogancan Mavideniz",
-      "stars": 30,
+      "stars": 32,
       "forks": 2
     },
     {
@@ -14579,8 +14579,8 @@
       "id": "wallnetic",
       "name": "Wallnetic",
       "subtitle": "Live Video Wallpapers for Mac",
-      "description": "Transform your Mac desktop with stunning live video wallpapers. Metal-powered, multi-monitor support.",
-      "longDescription": "Wallnetic brings live video wallpapers to your Mac desktop. Transform your workspace with dynamic, animated backgrounds that run efficiently in the background. Features include multi-monitor support with per-display settings, library management with collections and favorites, smart power management (pause on battery, pause on fullscreen), Metal GPU-accelerated rendering, and native macOS experience with Dark/Light/System theme support. Wallpaper Engine has 40M+ users on Windows - now Mac users finally have a native alternative!",
+      "description": "Transform your Mac desktop with live video wallpapers. Dynamic Island controls, Netflix-style UI, 6 wallpaper sources, Metal GPU acceleration, and multi-monitor support.",
+      "longDescription": "Wallnetic brings live video wallpapers to your Mac desktop with a Netflix-style browsing experience. Features include Dynamic Island — a floating control pill at the top of your screen with notch-aware layout for MacBook Pro, 6 built-in wallpaper sources (Pixabay, Pexels, MyLiveWallpapers, DesktopHut, MoeWalls, MotionBGs), per-Space wallpapers that auto-switch with Mission Control, lock screen video wallpapers, wallpaper effects (blur, brightness, tint, vignette), time-of-day auto switching, Apple Shortcuts & Siri integration, wallpaper rename, dock icon hiding for menu bar-only mode, and striking UI effects with glow cards, neon navigation, and glass morphism. Metal GPU-accelerated rendering keeps CPU usage at 2-5%. Wallpaper Engine has 40M+ users on Windows — now Mac users have a native alternative built with SwiftUI and Metal.",
       "icon": "https://raw.githubusercontent.com/fatihkan/wallnetic/main/docs/assets/icon.png",
       "iconStyle": {
         "scale": 1.3,
@@ -14590,7 +14590,9 @@
       "category": [
         "macos",
         "graphics-design",
-        "utilities"
+        "utilities",
+        "photo-video",
+        "entertainment"
       ],
       "platform": "macOS",
       "price": "Free",
@@ -14600,18 +14602,33 @@
       "downloadUrl": "https://github.com/fatihkan/wallnetic/releases/latest",
       "requirements": "macOS 13.0 (Ventura) or later",
       "features": [
-        "Live video wallpapers (MP4, MOV, M4V)",
+        "Dynamic Island — floating control pill with notch-aware layout",
+        "Netflix-style UI with Home, Explore, Popular, Discover tabs",
+        "6 wallpaper sources: Pixabay, Pexels, MyLiveWallpapers, DesktopHut, MoeWalls, MotionBGs",
+        "Live video wallpapers (MP4, MOV, M4V, GIF, WebM, WebP)",
+        "Per-Space wallpapers with auto-switch on Mission Control",
+        "Lock screen video wallpapers with clock overlay",
         "Multi-monitor support with per-display settings",
-        "Library with collections and favorites",
-        "Metal GPU-accelerated rendering",
+        "Wallpaper effects: blur, brightness, tint, vignette, 8 presets",
+        "Time-of-day auto switching (Morning, Afternoon, Evening, Night)",
+        "Apple Shortcuts & Siri integration",
+        "Metal GPU-accelerated rendering (~2-5% CPU)",
+        "Wallpaper rename with custom display titles",
+        "Dock icon hiding — menu bar-only mode",
+        "Striking UI: glow cards, neon navigation, glass morphism",
         "Smart power management (pause on battery/fullscreen)",
-        "Dark/Light/System theme support",
-        "Launch at login option",
-        "Drag & drop video import"
+        "Notification Center widget with quick controls"
       ],
       "screenshots": [
-        "https://raw.githubusercontent.com/fatihkan/wallnetic/main/docs/assets/screenshot-main.png",
-        "https://raw.githubusercontent.com/fatihkan/wallnetic/main/docs/assets/screenshot-settings.png"
+        "https://raw.githubusercontent.com/fatihkan/wallnetic/main/docs/assets/1.png",
+        "https://raw.githubusercontent.com/fatihkan/wallnetic/main/docs/assets/2.png",
+        "https://raw.githubusercontent.com/fatihkan/wallnetic/main/docs/assets/3.png",
+        "https://raw.githubusercontent.com/fatihkan/wallnetic/main/docs/assets/4.png",
+        "https://raw.githubusercontent.com/fatihkan/wallnetic/main/docs/assets/5.png",
+        "https://raw.githubusercontent.com/fatihkan/wallnetic/main/docs/assets/7.png",
+        "https://raw.githubusercontent.com/fatihkan/wallnetic/main/docs/assets/8.png",
+        "https://raw.githubusercontent.com/fatihkan/wallnetic/main/docs/assets/9.png",
+        "https://raw.githubusercontent.com/fatihkan/wallnetic/main/docs/assets/10.png"
       ],
       "_source": "fatihkan/wallnetic",
       "_owner": "fatihkan",
