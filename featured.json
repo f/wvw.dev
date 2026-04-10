@@ -1,26 +1,26 @@
 [
   {
-    "id": "wallnetic",
-    "headline": "STAFF PICK",
-    "title": "Turn your Mac into a living canvas.",
-    "subtitle": "Wallnetic brings GPU-accelerated live video wallpapers to macOS — with per-display settings, smart battery management, and a curated library. Finally, a Wallpaper Engine worthy of your Mac."
+    "id": "radioheavy-avalon",
+    "headline": "EDITOR'S PICK",
+    "title": "Your AI prompts, finally a studio.",
+    "subtitle": "Avalon is a privacy-first visual IDE for AI prompt engineering — build, iterate, and reverse-engineer prompts as structured JSON, then generate images without your keys ever leaving the browser."
   },
   {
-    "id": "claude-board",
-    "headline": "DEV ESSENTIAL",
-    "title": "Command your AI coding sessions visually.",
-    "subtitle": "Claude Board is a Kanban-style dashboard built for Claude Code, with real-time terminal streaming and cross-project task management. Ship faster by seeing everything at once."
+    "id": "pixel-guess-mobile",
+    "headline": "JUST SHIPPED",
+    "title": "Guess the pixel, beat the world.",
+    "subtitle": "Pixel Guess Mobile brings a fast, colorful guessing game to your phone with buttery Skia animations, global leaderboards, and confetti-fueled victories. Easy to pick up, impossible to put down."
   },
   {
-    "id": "macabolic",
-    "headline": "HIDDEN GEM",
-    "title": "Download the internet, beautifully.",
-    "subtitle": "Macabolic wraps the powerful yt-dlp engine in a gorgeous native GUI — grab videos, audio, playlists, and subtitles from YouTube and thousands of sites with SponsorBlock built right in."
+    "id": "env-protector",
+    "headline": "MUST TRY",
+    "title": "Keep your secrets off screen.",
+    "subtitle": "Env Protector intercepts .env files before they render in VS Code, masking raw values during screen shares and pair programming. Security-first, zero friction."
   },
   {
-    "id": "paus",
-    "headline": "RISING STAR",
-    "title": "Think twice before you tap 'Buy'.",
-    "subtitle": "paus converts prices into real work hours so every purchase feels intentional. Set pause reminders on items you're unsure about, track your saving wins, and break the impulse-buy cycle for good."
+    "id": "bilokma",
+    "headline": "COMMUNITY FAVORITE",
+    "title": "Rescue food. Reward your neighborhood.",
+    "subtitle": "Bi'lokma connects local bakeries with nearby users to rescue leftover food before it goes to waste — a beautifully designed app with a mission that tastes even better than the bread."
   }
 ]
