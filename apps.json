@@ -517,7 +517,7 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 143,
+      "stars": 144,
       "forks": 18
     },
     {
@@ -584,7 +584,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 2775,
+      "stars": 2780,
       "forks": 436,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1356,7 +1356,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 2775,
+      "stars": 2780,
       "forks": 436,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -12793,7 +12793,7 @@
       "github": "https://github.com/f/poke-gate",
       "homepage": "https://poke.com",
       "language": "Swift / JavaScript",
-      "stars": 60,
+      "stars": 61,
       "forks": 4,
       "brew": "brew install f/tap/poke-gate",
       "installCommand": "npx poke-gate",
@@ -13101,8 +13101,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 159128,
-      "forks": 20841,
+      "stars": 159166,
+      "forks": 20848,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13145,8 +13145,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 159128,
-      "forks": 20841,
+      "stars": 159166,
+      "forks": 20848,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -14306,7 +14306,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 2528,
+      "stars": 2530,
       "forks": 167,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
