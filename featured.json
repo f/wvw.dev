@@ -1,26 +1,26 @@
 [
   {
-    "id": "wallnetic",
+    "id": "dodoshot",
     "headline": "STAFF PICK",
-    "title": "Turn your Mac into a living canvas.",
-    "subtitle": "Wallnetic brings GPU-accelerated live video wallpapers to macOS — with per-display settings, smart battery management, and a curated library. Finally, a Wallpaper Engine worthy of your Mac."
+    "title": "CleanShot X vibes, zero price tag.",
+    "subtitle": "DodoShot is a polished, fully free macOS screenshot app with capture, annotation, and management built in. Open source and inspired by the best — because great tools shouldn't cost a thing."
   },
   {
-    "id": "claude-board",
-    "headline": "DEV ESSENTIAL",
-    "title": "Command your AI coding sessions visually.",
-    "subtitle": "Claude Board is a Kanban-style dashboard built for Claude Code, with real-time terminal streaming and cross-project task management. Ship faster by seeing everything at once."
+    "id": "nodepad",
+    "headline": "EDITOR'S PICK",
+    "title": "Think in graphs, not threads.",
+    "subtitle": "NodePad turns every AI exchange into a node on an infinite canvas, letting you branch, merge, and explore conversations like a mind map. For thinkers who've outgrown the chat box."
   },
   {
-    "id": "macabolic",
+    "id": "agentlytics",
+    "headline": "MUST TRY",
+    "title": "One dashboard for every AI coding tool you use.",
+    "subtitle": "Agentlytics unifies your Cursor, Windsurf, Claude Code, and Copilot history into a single analytics view — heatmaps, streaks, token economy, and session search, all in one command."
+  },
+  {
+    "id": "portier",
     "headline": "HIDDEN GEM",
-    "title": "Download the internet, beautifully.",
-    "subtitle": "Macabolic wraps the powerful yt-dlp engine in a gorgeous native GUI — grab videos, audio, playlists, and subtitles from YouTube and thousands of sites with SponsorBlock built right in."
-  },
-  {
-    "id": "paus",
-    "headline": "RISING STAR",
-    "title": "Think twice before you tap 'Buy'.",
-    "subtitle": "paus converts prices into real work hours so every purchase feels intentional. Set pause reminders on items you're unsure about, track your saving wins, and break the impulse-buy cycle for good."
+    "title": "Know exactly what's running on your Mac.",
+    "subtitle": "Portier sits in your menu bar and shows every active port and the process behind it, organized by category. Kill rogue processes, open dev servers in a click, and never be surprised by a busy port again."
   }
 ]
