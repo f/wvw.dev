@@ -1,26 +1,26 @@
 [
   {
     "id": "wallnetic",
-    "headline": "STAFF PICK",
-    "title": "Turn your Mac into a living canvas.",
-    "subtitle": "Wallnetic brings GPU-accelerated live video wallpapers to macOS — with per-display settings, smart battery management, and a curated library. Finally, a Wallpaper Engine worthy of your Mac."
-  },
-  {
-    "id": "claude-board",
-    "headline": "DEV ESSENTIAL",
-    "title": "Command your AI coding sessions visually.",
-    "subtitle": "Claude Board is a Kanban-style dashboard built for Claude Code, with real-time terminal streaming and cross-project task management. Ship faster by seeing everything at once."
-  },
-  {
-    "id": "macabolic",
-    "headline": "HIDDEN GEM",
-    "title": "Download the internet, beautifully.",
-    "subtitle": "Macabolic wraps the powerful yt-dlp engine in a gorgeous native GUI — grab videos, audio, playlists, and subtitles from YouTube and thousands of sites with SponsorBlock built right in."
+    "headline": "EDITOR'S PICK",
+    "title": "Make your desktop move.",
+    "subtitle": "Wallnetic brings GPU-accelerated live video wallpapers to macOS — with per-display control, smart battery management, and a curated library. Your Mac has never looked this alive."
   },
   {
     "id": "paus",
-    "headline": "RISING STAR",
-    "title": "Think twice before you tap 'Buy'.",
-    "subtitle": "paus converts prices into real work hours so every purchase feels intentional. Set pause reminders on items you're unsure about, track your saving wins, and break the impulse-buy cycle for good."
+    "headline": "COMMUNITY FAVORITE",
+    "title": "Put a price tag on your time.",
+    "subtitle": "paus translates every price into hours worked, turning impulse buys into intentional decisions. Set pause reminders, track your wins, and watch your savings grow."
+  },
+  {
+    "id": "secretdrop",
+    "headline": "HIDDEN GEM",
+    "title": "Share a secret. Then watch it vanish.",
+    "subtitle": "SecretDrop encrypts your passwords and credentials into self-destructing one-time links — no sign-up, no trace, no second thoughts. The safest way to send the unsendable."
+  },
+  {
+    "id": "reviseflow",
+    "headline": "JUST SHIPPED",
+    "title": "Client feedback that actually makes sense.",
+    "subtitle": "ReviseFlow lets clients click directly on your live site to leave pixel-perfect annotations, and AI reads the feedback and opens a fix PR — all without a single email thread."
   }
 ]
