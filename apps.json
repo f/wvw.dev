@@ -275,7 +275,7 @@
       "homepage": "https://agentlytics.io",
       "language": "JavaScript",
       "stars": 441,
-      "forks": 50,
+      "forks": 51,
       "installCommand": "npx agentlytics",
       "requirements": "Node.js 20.19+ or 22.12+, macOS",
       "features": [
@@ -517,7 +517,7 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 151,
+      "stars": 153,
       "forks": 18
     },
     {
@@ -584,8 +584,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 2954,
-      "forks": 461,
+      "stars": 2957,
+      "forks": 462,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -1356,8 +1356,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 2954,
-      "forks": 461,
+      "stars": 2957,
+      "forks": 462,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -13101,8 +13101,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 160000,
-      "forks": 20949,
+      "stars": 160032,
+      "forks": 20952,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13145,8 +13145,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 160000,
-      "forks": 20949,
+      "stars": 160032,
+      "forks": 20952,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -14378,7 +14378,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 2809,
+      "stars": 2827,
       "forks": 176,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
@@ -14591,7 +14591,7 @@
       "github": "https://github.com/sametcn99/vitepress-mermaid-renderer",
       "homepage": "https://vitepress-mermaid-renderer.vercel.app",
       "language": "TypeScript",
-      "stars": 55,
+      "stars": 54,
       "forks": 4,
       "developer": "sametcn99",
       "installCommand": "npm install vitepress-mermaid-renderer",
