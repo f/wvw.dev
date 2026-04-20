@@ -1,26 +1,26 @@
 [
   {
-    "id": "wallnetic",
+    "id": "dodoshot",
+    "headline": "STAFF PICK",
+    "title": "CleanShot X vibes, zero price tag.",
+    "subtitle": "DodoShot is a polished, fully free macOS screenshot app with capture, annotation, and management built in. Open source and inspired by the best — because great tools shouldn't cost a thing."
+  },
+  {
+    "id": "nodepad",
     "headline": "EDITOR'S PICK",
-    "title": "Make your desktop move.",
-    "subtitle": "Wallnetic brings GPU-accelerated live video wallpapers to macOS — with per-display control, smart battery management, and a curated library. Your Mac has never looked this alive."
+    "title": "Think in graphs, not threads.",
+    "subtitle": "NodePad turns every AI exchange into a node on an infinite canvas, letting you branch, merge, and explore conversations like a mind map. For thinkers who've outgrown the chat box."
   },
   {
-    "id": "paus",
-    "headline": "COMMUNITY FAVORITE",
-    "title": "Put a price tag on your time.",
-    "subtitle": "paus translates every price into hours worked, turning impulse buys into intentional decisions. Set pause reminders, track your wins, and watch your savings grow."
+    "id": "agentlytics",
+    "headline": "MUST TRY",
+    "title": "One dashboard for every AI coding tool you use.",
+    "subtitle": "Agentlytics unifies your Cursor, Windsurf, Claude Code, and Copilot history into a single analytics view — heatmaps, streaks, token economy, and session search, all in one command."
   },
   {
-    "id": "secretdrop",
+    "id": "portier",
     "headline": "HIDDEN GEM",
-    "title": "Share a secret. Then watch it vanish.",
-    "subtitle": "SecretDrop encrypts your passwords and credentials into self-destructing one-time links — no sign-up, no trace, no second thoughts. The safest way to send the unsendable."
-  },
-  {
-    "id": "reviseflow",
-    "headline": "JUST SHIPPED",
-    "title": "Client feedback that actually makes sense.",
-    "subtitle": "ReviseFlow lets clients click directly on your live site to leave pixel-perfect annotations, and AI reads the feedback and opens a fix PR — all without a single email thread."
+    "title": "Know exactly what's running on your Mac.",
+    "subtitle": "Portier sits in your menu bar and shows every active port and the process behind it, organized by category. Kill rogue processes, open dev servers in a click, and never be surprised by a busy port again."
   }
 ]
