@@ -517,7 +517,7 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 157,
+      "stars": 158,
       "forks": 18
     },
     {
@@ -584,8 +584,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3015,
-      "forks": 473,
+      "stars": 3021,
+      "forks": 477,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -1356,8 +1356,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3015,
-      "forks": 473,
+      "stars": 3021,
+      "forks": 477,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -11163,7 +11163,7 @@
       "_developer": "Bora Biricik",
       "_store": "Bora Biricik",
       "_storeUrl": "",
-      "stars": 41,
+      "stars": 42,
       "forks": 7,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/geodaddy.jpg"
     },
@@ -12020,7 +12020,7 @@
       "github": "https://github.com/f/mcptools",
       "homepage": null,
       "language": "Go",
-      "stars": 1555,
+      "stars": 1556,
       "forks": 121,
       "brew": "brew install f/mcptools/mcp",
       "requirements": "macOS, Linux, or Windows",
@@ -13101,8 +13101,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 160216,
-      "forks": 20964,
+      "stars": 160241,
+      "forks": 20970,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13145,8 +13145,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 160216,
-      "forks": 20964,
+      "stars": 160241,
+      "forks": 20970,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -14378,7 +14378,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 2927,
+      "stars": 2931,
       "forks": 183,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
