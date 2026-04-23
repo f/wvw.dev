@@ -274,8 +274,8 @@
       "github": "https://github.com/f/agentlytics",
       "homepage": "https://agentlytics.io",
       "language": "JavaScript",
-      "stars": 449,
-      "forks": 54,
+      "stars": 459,
+      "forks": 56,
       "installCommand": "npx agentlytics",
       "requirements": "Node.js 20.19+ or 22.12+, macOS",
       "features": [
@@ -584,8 +584,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3054,
-      "forks": 483,
+      "stars": 3059,
+      "forks": 485,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -1356,8 +1356,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3054,
-      "forks": 483,
+      "stars": 3059,
+      "forks": 485,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -2231,7 +2231,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2257,7 +2257,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2283,7 +2283,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2309,7 +2309,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2335,7 +2335,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2361,7 +2361,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2387,7 +2387,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-ai-model-picker.jpg"
     },
@@ -2414,7 +2414,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2440,7 +2440,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2466,7 +2466,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2493,7 +2493,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-ascii-diagram-generator.jpg"
     },
@@ -2520,7 +2520,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2546,7 +2546,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2572,7 +2572,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2598,7 +2598,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2624,7 +2624,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2650,7 +2650,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2676,7 +2676,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2702,7 +2702,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2728,7 +2728,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2754,7 +2754,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2780,7 +2780,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2807,7 +2807,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-bot-crawl-checker.jpg"
     },
@@ -2834,7 +2834,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2860,7 +2860,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2886,7 +2886,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2912,7 +2912,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2938,7 +2938,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2964,7 +2964,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -2990,7 +2990,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3016,7 +3016,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3043,7 +3043,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3069,7 +3069,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3095,7 +3095,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3121,7 +3121,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3148,7 +3148,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-cloudflare-cost-calculator.jpg"
     },
@@ -3176,7 +3176,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-code-diff-checker.jpg"
     },
@@ -3203,7 +3203,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3229,7 +3229,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3255,7 +3255,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3281,7 +3281,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3307,7 +3307,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3333,7 +3333,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3360,7 +3360,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3386,7 +3386,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3412,7 +3412,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3438,7 +3438,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3464,7 +3464,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3490,7 +3490,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3517,7 +3517,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-css-animation-generator.jpg"
     },
@@ -3544,7 +3544,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3570,7 +3570,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3596,7 +3596,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3622,7 +3622,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3648,7 +3648,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3674,7 +3674,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3700,7 +3700,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3726,7 +3726,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3753,7 +3753,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3779,7 +3779,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3805,7 +3805,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3831,7 +3831,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3857,7 +3857,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3883,7 +3883,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3909,7 +3909,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3936,7 +3936,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-dnpm-configurator.jpg"
     },
@@ -3963,7 +3963,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -3989,7 +3989,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4015,7 +4015,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4041,7 +4041,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4068,7 +4068,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4094,7 +4094,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4121,7 +4121,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4147,7 +4147,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4174,7 +4174,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4200,7 +4200,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4226,7 +4226,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4252,7 +4252,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4278,7 +4278,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4305,7 +4305,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4332,7 +4332,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-faq-schema-generator.jpg"
     },
@@ -4359,7 +4359,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4386,7 +4386,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4412,7 +4412,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4438,7 +4438,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4464,7 +4464,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4490,7 +4490,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4516,7 +4516,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4542,7 +4542,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4568,7 +4568,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4594,7 +4594,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4620,7 +4620,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4646,7 +4646,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4672,7 +4672,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4698,7 +4698,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4724,7 +4724,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4751,7 +4751,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4777,7 +4777,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4804,7 +4804,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-heading-structure-analyzer.jpg"
     },
@@ -4832,7 +4832,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4858,7 +4858,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4885,7 +4885,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-hreflang-tag-generator.jpg"
     },
@@ -4912,7 +4912,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4938,7 +4938,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4964,7 +4964,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -4990,7 +4990,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5016,7 +5016,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5042,7 +5042,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5068,7 +5068,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5094,7 +5094,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5120,7 +5120,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5147,7 +5147,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-image-eraser.jpg"
     },
@@ -5174,7 +5174,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5200,7 +5200,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5227,7 +5227,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-image-to-puzzle.jpg"
     },
@@ -5255,7 +5255,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5281,7 +5281,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5308,7 +5308,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5334,7 +5334,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5360,7 +5360,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5386,7 +5386,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5412,7 +5412,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5438,7 +5438,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5464,7 +5464,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5490,7 +5490,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5516,7 +5516,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5542,7 +5542,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5568,7 +5568,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5594,7 +5594,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5620,7 +5620,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5646,7 +5646,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5672,7 +5672,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5698,7 +5698,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5724,7 +5724,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5750,7 +5750,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5776,7 +5776,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5802,7 +5802,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5828,7 +5828,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5854,7 +5854,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5880,7 +5880,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5906,7 +5906,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5932,7 +5932,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5958,7 +5958,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -5984,7 +5984,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6010,7 +6010,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6036,7 +6036,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6062,7 +6062,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6088,7 +6088,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6114,7 +6114,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6140,7 +6140,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6166,7 +6166,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6192,7 +6192,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6218,7 +6218,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6244,7 +6244,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6270,7 +6270,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6296,7 +6296,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6322,7 +6322,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6348,7 +6348,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6374,7 +6374,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6400,7 +6400,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6426,7 +6426,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6452,7 +6452,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6478,7 +6478,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6505,7 +6505,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6532,7 +6532,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6558,7 +6558,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6584,7 +6584,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-keyword-density-checker.jpg"
     },
@@ -6611,7 +6611,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6637,7 +6637,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6663,7 +6663,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6689,7 +6689,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6715,7 +6715,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6741,7 +6741,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6768,7 +6768,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-lottie-editor.jpg"
     },
@@ -6795,7 +6795,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6821,7 +6821,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6847,7 +6847,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6873,7 +6873,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6899,7 +6899,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6925,7 +6925,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6952,7 +6952,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -6978,7 +6978,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7004,7 +7004,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7030,7 +7030,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7056,7 +7056,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7082,7 +7082,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7108,7 +7108,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7134,7 +7134,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7160,7 +7160,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7186,7 +7186,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7212,7 +7212,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-open-graph-preview.jpg"
     },
@@ -7239,7 +7239,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7266,7 +7266,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7293,7 +7293,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7320,7 +7320,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7347,7 +7347,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7373,7 +7373,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7399,7 +7399,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7425,7 +7425,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7451,7 +7451,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7477,7 +7477,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7503,7 +7503,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7529,7 +7529,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7555,7 +7555,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7581,7 +7581,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7607,7 +7607,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7634,7 +7634,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7661,7 +7661,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7688,7 +7688,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-photo-calendar.jpg"
     },
@@ -7715,7 +7715,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7741,7 +7741,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7767,7 +7767,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7793,7 +7793,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7819,7 +7819,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7845,7 +7845,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7871,7 +7871,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7897,7 +7897,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7924,7 +7924,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7950,7 +7950,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -7976,7 +7976,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8002,7 +8002,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8031,7 +8031,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8057,7 +8057,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8084,7 +8084,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8110,7 +8110,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8136,7 +8136,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8162,7 +8162,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8188,7 +8188,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8214,7 +8214,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8240,7 +8240,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8266,7 +8266,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8292,7 +8292,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8318,7 +8318,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8344,7 +8344,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8370,7 +8370,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8396,7 +8396,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8422,7 +8422,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8448,7 +8448,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8474,7 +8474,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8500,7 +8500,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8526,7 +8526,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8552,7 +8552,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8578,7 +8578,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8604,7 +8604,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8630,7 +8630,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8656,7 +8656,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8683,7 +8683,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8709,7 +8709,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8735,7 +8735,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8761,7 +8761,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-seo-title-description-writer.jpg"
     },
@@ -8789,7 +8789,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-serp-preview.jpg"
     },
@@ -8817,7 +8817,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8843,7 +8843,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8869,7 +8869,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8895,7 +8895,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8921,7 +8921,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8947,7 +8947,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8973,7 +8973,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -8999,7 +8999,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9025,7 +9025,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9051,7 +9051,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9077,7 +9077,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9103,7 +9103,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9129,7 +9129,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9156,7 +9156,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-sticker-maker.jpg"
     },
@@ -9183,7 +9183,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9209,7 +9209,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9235,7 +9235,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9261,7 +9261,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-structured-data-tester.jpg"
     },
@@ -9288,7 +9288,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9314,7 +9314,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9341,7 +9341,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-svg-animation-generator.jpg"
     },
@@ -9368,7 +9368,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9394,7 +9394,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9420,7 +9420,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9446,7 +9446,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9473,7 +9473,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-teleprompter.jpg"
     },
@@ -9501,7 +9501,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9527,7 +9527,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9553,7 +9553,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9579,7 +9579,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9605,7 +9605,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9631,7 +9631,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9657,7 +9657,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9683,7 +9683,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9709,7 +9709,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9735,7 +9735,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9761,7 +9761,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9788,7 +9788,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9815,7 +9815,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9841,7 +9841,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9868,7 +9868,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-uml-diagram-editor.jpg"
     },
@@ -9895,7 +9895,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9921,7 +9921,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9947,7 +9947,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -9973,7 +9973,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10000,7 +10000,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10027,7 +10027,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-url-slug-generator.jpg"
     },
@@ -10054,7 +10054,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10080,7 +10080,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10106,7 +10106,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10132,7 +10132,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10158,7 +10158,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10184,7 +10184,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10210,7 +10210,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10236,7 +10236,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10262,7 +10262,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10288,7 +10288,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10314,7 +10314,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10340,7 +10340,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10366,7 +10366,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10392,7 +10392,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10418,7 +10418,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10445,7 +10445,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10471,7 +10471,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10498,7 +10498,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10524,7 +10524,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10550,7 +10550,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10576,7 +10576,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10602,7 +10602,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10628,7 +10628,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10654,7 +10654,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10680,7 +10680,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-wvw-store-checker.jpg"
     },
@@ -10708,7 +10708,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-x402-config-generator.jpg"
     },
@@ -10735,7 +10735,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10762,7 +10762,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-xml-sitemap-generator.jpg"
     },
@@ -10789,7 +10789,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10815,7 +10815,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10842,7 +10842,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-yolobox-configurator.jpg"
     },
@@ -10869,7 +10869,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -10896,7 +10896,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-yoyo-component-generator.jpg"
     },
@@ -10924,7 +10924,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-yoyo-config-generator.jpg"
     },
@@ -10952,7 +10952,7 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-yoyo-loading-state-builder.jpg"
     },
@@ -11163,7 +11163,7 @@
       "_developer": "Bora Biricik",
       "_store": "Bora Biricik",
       "_storeUrl": "",
-      "stars": 42,
+      "stars": 43,
       "forks": 9,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/geodaddy.jpg"
     },
@@ -12793,7 +12793,7 @@
       "github": "https://github.com/f/poke-gate",
       "homepage": "https://poke.com",
       "language": "Swift / JavaScript",
-      "stars": 64,
+      "stars": 65,
       "forks": 5,
       "brew": "brew install f/tap/poke-gate",
       "installCommand": "npx poke-gate",
@@ -13101,7 +13101,7 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 160420,
+      "stars": 160444,
       "forks": 20985,
       "requirements": "Any modern browser",
       "features": [
@@ -13145,7 +13145,7 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 160420,
+      "stars": 160444,
       "forks": 20985,
       "requirements": "Any modern browser",
       "features": [
@@ -14378,7 +14378,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 2959,
+      "stars": 2962,
       "forks": 187,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
