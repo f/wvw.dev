@@ -151,72 +151,6 @@
   ],
   "apps": [
     {
-      "id": "a-flower-a-day",
-      "name": "A Flower A Day",
-      "subtitle": "A unique watercolor flower, every day",
-      "description": "Procedural flower generator with a watercolor aesthetic. Every day, a unique monochromatic flower is born from the date.",
-      "longDescription": "A Flower A Day is a procedural flower generator with a watercolor aesthetic. Every day, a unique monochromatic flower is born from the date. Watch generative petals bloom in soft, organic shapes that change daily. Save and share your favorite compositions.",
-      "icon": "https://presque.cool/a-flower-a-day/icons/icon-512.png",
-      "category": [
-        "web",
-        "entertainment",
-        "graphics-design"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/a-flower-a-day",
-      "homepage": "https://presque.cool/a-flower-a-day/",
-      "language": "TypeScript",
-      "features": [
-        "Daily unique flower seeded by date",
-        "Manual regeneration for infinite variations",
-        "Save flowers to local library",
-        "Export as PNG",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
-    },
-    {
-      "id": "adulthood-simulator",
-      "name": "Adulthood Simulator",
-      "subtitle": "The infinite to-do list of adult life",
-      "description": "A satirical infinite to-do list app simulating the burden of adult life.",
-      "longDescription": "Adulthood Simulator is a satirical infinite to-do list where tasks multiply faster than you can check them off. Every completed task spawns new ones. There is no winning, only coping. A darkly humorous take on modern life.",
-      "icon": "https://presque.cool/adulthood-simulator/icons/icon-512.png",
-      "category": [
-        "web",
-        "entertainment",
-        "games"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/adulthood-simulator",
-      "homepage": "https://presque.cool/adulthood-simulator/",
-      "language": "TypeScript",
-      "features": [
-        "Infinite to-do list: each completed task generates a new one",
-        "Satirical task pool with realistic adult responsibilities",
-        "Task completion counter and score tracking",
-        "Share progress via social media",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
-    },
-    {
       "id": "agent-chess",
       "name": "Agent Chess",
       "subtitle": "Local chess matches for AI agents",
@@ -517,8 +451,8 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 174,
-      "forks": 22
+      "stars": 175,
+      "forks": 23
     },
     {
       "id": "aso-screenshot-generator",
@@ -584,7 +518,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3203,
+      "stars": 3204,
       "forks": 525,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -866,40 +800,6 @@
       "_storeUrl": "https://akeslo.com",
       "developer": "Adam Keslo",
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/bridge-your-budget.jpg"
-    },
-    {
-      "id": "caravan-of-sidonia",
-      "name": "Caravan of Sidonia",
-      "subtitle": "Procedural parallax landscape generator",
-      "description": "A procedural parallax landscape generator. Click to explore new worlds.",
-      "longDescription": "Caravan of Sidonia is a procedural parallax landscape generator. Each click reveals a new world with layered scenery, shifting horizons, and unique color palettes. Explore an endless caravan of generated landscapes, save your favorites, and share them via URL.",
-      "icon": "https://presque.cool/caravan-of-sidonia/icons/icon-512.png",
-      "category": [
-        "web",
-        "entertainment",
-        "graphics-design"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/caravan-of-sidonia",
-      "homepage": "https://presque.cool/caravan-of-sidonia/",
-      "language": "TypeScript",
-      "features": [
-        "Procedural mountain, sky, star, meteor, and sun generation",
-        "Multi-layer parallax depth effect",
-        "Seed-based deterministic generation",
-        "Shareable landscapes via URL",
-        "Integrated radio stations (Dreamscapes, Chillwave, Lofi)",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
     },
     {
       "id": "cartoon-weather",
@@ -1228,76 +1128,6 @@
       "forks": 0
     },
     {
-      "id": "cosmographe",
-      "name": "Cosmographe",
-      "subtitle": "Draw constellations on a seed-based star field",
-      "description": "Draw your own constellations on a seed-based star field.",
-      "longDescription": "Cosmographe lets you draw your own constellations on a seed-based star field. Connect stars, name your constellations, and share your celestial maps. Each seed generates a unique sky with deterministic star positions.",
-      "icon": "https://presque.cool/cosmographe/icons/icon-512.png",
-      "category": [
-        "web",
-        "entertainment",
-        "education"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/cosmographe",
-      "homepage": "https://presque.cool/cosmographe/",
-      "language": "TypeScript",
-      "features": [
-        "Seed-based procedural star field",
-        "Interactive constellation drawing and naming",
-        "Share via URL (seed and drawings encoded)",
-        "Keyboard shortcuts",
-        "Glassmorphism HUD with film grain aesthetic",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
-    },
-    {
-      "id": "council-of-steves",
-      "name": "Council of Steves",
-      "subtitle": "Every gull is Steve",
-      "description": "Every gull is Steve. A procedural SVG bird generator.",
-      "longDescription": "Council of Steves is a procedural SVG bird generator where every gull is named Steve. Generate unique seagulls with distinct colors, poses, and personalities. Save your favorite Steves, export them as SVG, and share them.",
-      "icon": "https://presque.cool/council-of-steves/icons/icon-512.png",
-      "category": [
-        "web",
-        "entertainment",
-        "graphics-design"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/council-of-steves",
-      "homepage": "https://presque.cool/council-of-steves/",
-      "language": "TypeScript",
-      "features": [
-        "Procedural SVG bird generation with deterministic seeds",
-        "Bird designer with 21 real-time parameters",
-        "Collection grid with persistent storage",
-        "Full identity card per Steve",
-        "PNG export (512/720/1024px)",
-        "URL-based sharing",
-        "Keyboard shortcuts",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
-    },
-    {
       "id": "cre-flyer-maker",
       "name": "CRE Flyer Maker",
       "subtitle": "Flyer maker for CRE brokers",
@@ -1356,7 +1186,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3203,
+      "stars": 3204,
       "forks": 525,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -1388,41 +1218,6 @@
       "_store": "Kagan Temizkan",
       "_storeUrl": "https://my-store-six-ruby.vercel.app/apps",
       "developer": "Kagan Temizkan"
-    },
-    {
-      "id": "days-since",
-      "name": "Days Since",
-      "subtitle": "A quiet place to measure time",
-      "description": "A quiet place to measure time. Track days since or until life events.",
-      "longDescription": "Days Since is a minimalist time tracking app. Count the days since or until meaningful life events. Add personal milestones, see how much time has passed. Clean interface, local storage, no account needed.",
-      "icon": "https://presque.cool/since/icons/icon-512.png",
-      "category": [
-        "web",
-        "utilities",
-        "productivity"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/days-since",
-      "homepage": "https://presque.cool/since/",
-      "language": "TypeScript",
-      "features": [
-        "Track days since or until events",
-        "Recurring events: daily, weekly, monthly, yearly",
-        "Detailed time breakdowns (years, months, weeks, days)",
-        "Custom colors and icons per event",
-        "Export/import data as JSON",
-        "Data stored locally (IndexedDB)",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
     },
     {
       "id": "deep-work-zone",
@@ -1584,41 +1379,6 @@
       "developer": "Tolsion",
       "stars": 2,
       "forks": 0
-    },
-    {
-      "id": "dice-roller",
-      "name": "Dice Roller",
-      "subtitle": "Provably fair dice for tabletop RPGs",
-      "description": "Dice roller for tabletop RPGs. Rich notation parser, roll history, and provably fair verification.",
-      "longDescription": "Dice Roller is a professional dice rolling app for tabletop RPGs. Rich notation parser supports keep/drop, rerolls, sorting, and tags. Full roll history with provably fair SHA-256 verification. Multilingual (EN/FR), multiple themes.",
-      "icon": "https://presque.cool/dice/icons/icon-512.png",
-      "category": [
-        "web",
-        "games",
-        "utilities"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/dice-roller",
-      "homepage": "https://presque.cool/dice/",
-      "language": "TypeScript",
-      "features": [
-        "Full dice notation parser (d4-d100)",
-        "Keep/drop and reroll operators",
-        "Provably fair SHA-256 verification",
-        "Intelligent autocomplete",
-        "Filterable roll history",
-        "Dice presets for quick access",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
     },
     {
       "id": "dodoclip",
@@ -1802,7 +1562,7 @@
       "github": "https://github.com/DodoApps/dodopulse",
       "homepage": null,
       "language": "Swift",
-      "stars": 130,
+      "stars": 131,
       "forks": 14,
       "downloadUrl": null,
       "requirements": "macOS 12.0 or later",
@@ -1940,75 +1700,6 @@
       "_developer": "DodoApps",
       "_store": "DodoApps",
       "_storeUrl": ""
-    },
-    {
-      "id": "dot365",
-      "name": "dot365",
-      "subtitle": "A year in 365 dots",
-      "description": "Interactive time visualization — a year in points.",
-      "longDescription": "dot365 is an interactive time visualization that represents a full year as 365 points. Each dot marks a day, filling in as the year progresses. Watch time take shape, reflect on the days behind and ahead.",
-      "icon": "https://presque.cool/dot365/icons/icon-512.png",
-      "category": [
-        "web",
-        "utilities",
-        "lifestyle"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/dot365",
-      "homepage": "https://presque.cool/dot365/",
-      "language": "TypeScript",
-      "features": [
-        "6 time scales: year, month, week, day, hour, minute",
-        "Multiple display units per scale",
-        "Interactive dot grid with hover tooltips",
-        "Collapsible stats bar with passed/remaining counts",
-        "10 accent color presets (OKLCH-based)",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
-    },
-    {
-      "id": "dune-of-sidonia",
-      "name": "Dune of Sidonia",
-      "subtitle": "Procedural desert landscapes inspired by Moebius",
-      "description": "Procedural desert landscape generator inspired by Moebius and Dune. Nine named palettes, binary suns, shooting stars.",
-      "longDescription": "Dune of Sidonia is a procedural desert landscape generator inspired by the art of Moebius and the world of Dune. Nine named color palettes, binary suns, shooting stars, and layered terrain create unique contemplative scenes. Shareable via URL.",
-      "icon": "https://presque.cool/dune-of-sidonia/icons/icon-512.png",
-      "category": [
-        "web",
-        "entertainment",
-        "graphics-design"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/dune-of-sidonia",
-      "homepage": "https://presque.cool/dune-of-sidonia/",
-      "language": "TypeScript",
-      "features": [
-        "Procedural desert and sky generation",
-        "Binary suns and shooting star animations",
-        "Nine named color palettes",
-        "Save landscapes to local library",
-        "Export as PNG with customizable message overlays",
-        "Shareable via URL",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
     },
     {
       "id": "efsun",
@@ -11222,7 +10913,7 @@
       "github": "https://github.com/f/git-rewrite-commits",
       "homepage": "https://blog.fka.dev/git-rewrite-commits/",
       "language": "TypeScript",
-      "stars": 1412,
+      "stars": 1413,
       "forks": 57,
       "installCommand": "npx git-rewrite-commits",
       "requirements": "Node.js, Git",
@@ -11392,41 +11083,6 @@
       "_storeUrl": "https://apps.sametcc.me"
     },
     {
-      "id": "grid4",
-      "name": "Grid4",
-      "subtitle": "Minimalist 4x4 puzzle card game",
-      "description": "Minimalist 4x4 puzzle game inspired by Cards +1. Increment cards to form matching groups, manage limited action points.",
-      "longDescription": "Grid4 is a minimalist 4x4 puzzle game inspired by Cards +1. Tap cards to increment their values and form matching groups of 4 or more. Manage limited action points to keep the game going. Simple rules, deep strategy.",
-      "icon": "https://presque.cool/grid4/icons/icon-512.png",
-      "category": [
-        "web",
-        "games"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/grid4",
-      "homepage": "https://presque.cool/grid4/",
-      "language": "TypeScript",
-      "features": [
-        "Match 4+ identical adjacent cards to score",
-        "Action point resource management",
-        "Cascade chain combos",
-        "Multiple difficulty levels (Easy, Medium, Hard)",
-        "Customizable color palettes (Default, Pastel, Neon, Ocean)",
-        "Detailed session and all-time statistics",
-        "Sound effects",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
-    },
-    {
       "id": "gridzle",
       "name": "Gridzle",
       "subtitle": "Counts-First Puzzle Strategy",
@@ -11461,40 +11117,6 @@
       "_storeUrl": "https://apps.ahmet.sh",
       "developer": "Cosmic Meta Digital",
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/gridzle.jpg"
-    },
-    {
-      "id": "growing-everyday",
-      "name": "Growing Everyday",
-      "subtitle": "A digital garden growing in real time",
-      "description": "A digital garden growing in real time. One new flower per year since 2023, each taking 365 days to fully bloom.",
-      "longDescription": "Growing Everyday is a digital garden that grows in real time. One new flower appears each year since 2023, and each flower takes a full 365 days to bloom completely. Watch your garden evolve day by day.",
-      "icon": "https://presque.cool/growing-everyday/icons/icon-512.png",
-      "category": [
-        "web",
-        "entertainment",
-        "lifestyle"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/growing-everyday",
-      "homepage": "https://presque.cool/growing-everyday/",
-      "language": "TypeScript",
-      "features": [
-        "One new flower per year since 2023",
-        "365-day bloom cycle with ease-in growth curves",
-        "Procedural plant growth algorithms",
-        "Save gardens to local library",
-        "Export as PNG",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
     },
     {
       "id": "guidgenerator-vs",
@@ -11769,77 +11391,6 @@
       "developer": "Emrah Yurttutan"
     },
     {
-      "id": "kao-z",
-      "name": "Kao-Z",
-      "subtitle": "Japanese-inspired avatar generator",
-      "description": "Japanese-inspired avatar generator with 828 SVG elements across 12 categories. 5-channel color system, URL sharing, PNG/SVG export.",
-      "longDescription": "Kao-Z is a Japanese-inspired avatar generator with 828 hand-crafted SVG elements across 12 categories. Customize faces, hair, eyes, accessories, and more with a 5-channel color system. Share via compact binary URL encoding, or export as PNG or SVG.",
-      "icon": "https://presque.cool/kao-z/icons/icon-512.png",
-      "category": [
-        "web",
-        "entertainment",
-        "graphics-design"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/icon-z",
-      "homepage": "https://presque.cool/kao-z/",
-      "language": "TypeScript",
-      "features": [
-        "828 SVG elements across 12 customization categories",
-        "5-channel color system with 36 presets",
-        "Position controls: X/Y offset, zoom, closeup mode",
-        "9 avatar save slots with local persistence",
-        "Export as PNG (multiple sizes) or SVG",
-        "URL sharing for avatar states",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
-    },
-    {
-      "id": "keyb60",
-      "name": "Keyb60",
-      "subtitle": "60-second typing speed test",
-      "description": "A typewriter-themed 60-second typing speed test with real-time WPM, accuracy tracking and virtual keyboard.",
-      "longDescription": "Keyb60 is a typewriter-themed 60-second typing speed test. Measure your words per minute and accuracy in real time with a virtual keyboard overlay. Clean retro aesthetic, instant feedback, no distractions.",
-      "icon": "https://presque.cool/keyb60/icons/icon-512.png",
-      "category": [
-        "web",
-        "games",
-        "utilities"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/k60",
-      "homepage": "https://presque.cool/keyb60/",
-      "language": "TypeScript",
-      "features": [
-        "Configurable timer (15s/30s/60s/120s)",
-        "Real-time WPM and accuracy tracking",
-        "Keychron K2 virtual keyboard with key press feedback",
-        "AZERTY (French) and QWERTY (English) layouts",
-        "Multiple keyboard color schemes (Carbon, Frost, Military, Cherry)",
-        "Mechanical keypress sounds with volume control",
-        "Share results via native share or clipboard",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
-    },
-    {
       "id": "koumath",
       "name": "KOUmath",
       "subtitle": "AI math solver.",
@@ -11999,41 +11550,6 @@
       "_developer": "DodoApps",
       "_store": "DodoApps",
       "_storeUrl": ""
-    },
-    {
-      "id": "marvel-archive",
-      "name": "Marvel Archive",
-      "subtitle": "The Marvel Comics catalog, year by year",
-      "description": "Unofficial archive of 30,000+ Marvel Comics issues, 3,900+ series, and 4,300+ creators (1965-2025).",
-      "longDescription": "Marvel Archive is an unofficial static archive cataloging 30,000+ Marvel Comics issues, 3,900+ series, and 4,300+ creators from 1965 to 2025. Browse by year, series, or creator. Full-text search powered by Pagefind. Data sourced from the defunct Marvel Developer API, preserved for research and educational purposes.",
-      "icon": "https://presque.cool/marvel-archive/icons/icon-512.png",
-      "category": [
-        "web",
-        "entertainment",
-        "reference"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/marvel-archive",
-      "homepage": "https://presque.cool/marvel-archive/",
-      "language": "TypeScript",
-      "features": [
-        "30,000+ comic issues indexed",
-        "3,900+ series, 4,300+ creators",
-        "Coverage from 1965 to 2025",
-        "Browse by year, series, or creator",
-        "Full-text search powered by Pagefind",
-        "Bilingual interface (EN/FR)",
-        "Data from the defunct Marvel Developer API",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
     },
     {
       "id": "mcptools",
@@ -12319,71 +11835,6 @@
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/my-stars-atlas.jpg"
     },
     {
-      "id": "neon-gen",
-      "name": "NEON:GEN",
-      "subtitle": "Evangelion-style episode title cards",
-      "description": "Generate Evangelion-style episode title cards. Type, customize, and export.",
-      "longDescription": "NEON:GEN is an Episode Title Card Output System. Generate Evangelion-style title cards with custom text, colors, and typography. Perfect for social media, video intros, or just for fun.",
-      "icon": "https://presque.cool/neon-gen/icons/icon-512.png",
-      "category": [
-        "web",
-        "entertainment",
-        "graphics-design"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/neon-gen",
-      "homepage": "https://presque.cool/neon-gen/",
-      "language": "TypeScript",
-      "features": [
-        "Episode title customization: Japanese (kanji/kana) and English",
-        "Configurable episode number display",
-        "Authentic Evangelion aesthetic with NERV branding and hazard stripes",
-        "High-resolution PNG export",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
-    },
-    {
-      "id": "nexus",
-      "name": "Nexus",
-      "subtitle": "Path-building strategy game for two",
-      "description": "Path-building strategy game for two players. Build networks, place nodes, and connect edges to win.",
-      "longDescription": "Nexus is a path-building strategy game for two players. Build networks by placing nodes and connecting edges on a shared board. Outmaneuver your opponent by creating longer chains and controlling key positions. Simple rules, deep strategy.",
-      "icon": "https://presque.cool/nexus/icons/icon-512.png",
-      "category": [
-        "web",
-        "games"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/nexus",
-      "homepage": "https://presque.cool/nexus/",
-      "language": "TypeScript",
-      "features": [
-        "Two-player turn-based tile placement on 7x9 grid",
-        "80-tile shared bag: 20 nodes and 60 flux tiles",
-        "Directional port system (North, East, South, West)",
-        "Nodes can override opponent flux tiles",
-        "Victory by connecting your edge to the opposite side",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
-    },
-    {
       "id": "nodepad",
       "name": "NodePad",
       "subtitle": "A visual workspace for cognition-heavy non-linear LLM conversations",
@@ -12459,42 +11910,6 @@
       "developer": "Kagan Temizkan",
       "stars": 0,
       "forks": 0
-    },
-    {
-      "id": "orbital-drift",
-      "name": "Orbital Drift",
-      "subtitle": "Sci-fi landscapes with ambient radio",
-      "description": "Procedural sci-fi landscape generator with ambient radio, CRT effects, and a space cockpit HUD.",
-      "longDescription": "Orbital Drift is a procedural sci-fi landscape generator featuring ambient radio, CRT visual effects, and a space cockpit HUD overlay. Generate contemplative alien vistas, listen to ambient frequencies, and lose yourself in procedural worlds. Shareable via URL.",
-      "icon": "https://presque.cool/orbital-drift/icons/icon-512.png",
-      "category": [
-        "web",
-        "entertainment",
-        "graphics-design"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/orbital-drift",
-      "homepage": "https://presque.cool/orbital-drift/",
-      "language": "TypeScript",
-      "features": [
-        "Seed-based procedural sci-fi landscapes",
-        "Procedural planets, suns, and stars",
-        "Ambient radio with audio visualizer",
-        "CRT scanlines and HUD overlay effects",
-        "Custom color palettes",
-        "Save landscapes as PNG",
-        "Shareable via URL",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
     },
     {
       "id": "outlook365-cli",
@@ -12892,40 +12307,6 @@
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/poke-tui.jpg"
     },
     {
-      "id": "pokecodex",
-      "name": "PokeCodex",
-      "subtitle": "Interactive Pokedex powered by PokeAPI",
-      "description": "Interactive PokeCodex powered by PokeAPI. Browse, search, and discover all Pokemon with stats, types, abilities, and evolutions.",
-      "longDescription": "PokeCodex is an interactive Pokedex powered by PokeAPI. Browse, search, and discover all Pokemon with detailed stats, types, abilities, and evolution chains. Filter by generation, type, or name. Clean interface, fast search, works offline.",
-      "icon": "https://presque.cool/pokecodex/icons/icon-512.png",
-      "category": [
-        "web",
-        "entertainment",
-        "reference"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/pokecodex",
-      "homepage": "https://presque.cool/pokecodex/",
-      "language": "TypeScript",
-      "features": [
-        "Browse all Pokemon with infinite scroll",
-        "Search by name or number with autocomplete",
-        "Filter by type (single or dual type)",
-        "Detailed view: stats, evolution chain, type matchups, abilities",
-        "Stats radar chart visualization",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
-    },
-    {
       "id": "poker-tracker",
       "name": "Poker Tracker",
       "subtitle": "Track your live poker PnL with a simple web app",
@@ -13137,7 +12518,7 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 161290,
+      "stars": 161320,
       "forks": 21055,
       "requirements": "Any modern browser",
       "features": [
@@ -13181,7 +12562,7 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 161290,
+      "stars": 161320,
       "forks": 21055,
       "requirements": "Any modern browser",
       "features": [
@@ -13291,38 +12672,6 @@
       "developer": "Dogancan Mavideniz",
       "stars": 38,
       "forks": 2
-    },
-    {
-      "id": "radial-clock",
-      "name": "Radial Clock",
-      "subtitle": "Time as concentric rings",
-      "description": "A radial clock that visualizes time as concentric rings, from fast cycles to slow cycles.",
-      "longDescription": "Radial Clock is a visualization of time as concentric rings. Seven rings display seconds, minutes, hours, day of week, week, month, and year progress. Interactive tooltips on hover, bilingual interface (EN/FR), theme switching.",
-      "icon": "https://presque.cool/radial-clock/icons/icon-512.png",
-      "category": [
-        "web",
-        "utilities",
-        "graphics-design"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/radial-clock",
-      "homepage": "https://presque.cool/radial-clock/",
-      "language": "TypeScript",
-      "features": [
-        "7 concentric time rings (seconds to year)",
-        "Interactive tooltips on hover",
-        "Bilingual (EN/FR)",
-        "Light/dark/system theme",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
     },
     {
       "id": "radioheavy-avalon",
@@ -13864,79 +13213,6 @@
       "forks": 0
     },
     {
-      "id": "seedmoji",
-      "name": "Seedmoji",
-      "subtitle": "Deterministic ASCII avatar generator",
-      "description": "Deterministic ASCII avatar generator. Same seed, same face. Always. No API, no storage, works offline.",
-      "longDescription": "Seedmoji is a deterministic ASCII avatar generator. Enter any seed and get a unique face rendered from text characters. Same seed always produces the same face. No API calls, no storage, everything runs locally.",
-      "icon": "https://presque.cool/seedmoji/icons/icon-512.png",
-      "category": [
-        "web",
-        "utilities",
-        "entertainment"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/seedmoji",
-      "homepage": "https://presque.cool/seedmoji/",
-      "language": "TypeScript",
-      "features": [
-        "Deterministic: same seed always produces the same face",
-        "First character of seed becomes the avatar's mouth",
-        "Multiple shapes: square, squircle, round",
-        "Export as PNG (multiple sizes) or SVG",
-        "SVG API endpoint for direct integration",
-        "Shareable via URL hash",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
-    },
-    {
-      "id": "seedoku",
-      "name": "Seedoku",
-      "subtitle": "Daily harvest placement puzzle",
-      "description": "A placement puzzle on a 3x3 grid. Crops, boosters, and synergies between the two. A new puzzle every day.",
-      "longDescription": "Seedoku is a daily placement puzzle on a 3x3 grid. Each day, arrange a hand of 6 tiles (crops and boosters) across 8 available cells. Maximize your harvest score by exploiting synergies: potato scores more in corners, pumpkin wants the center, rice needs an adjacent sprinkler. Boosters don't score themselves but apply effects to neighbors. The theoretical maximum is computed by brute-force DFS to produce a grade from D to S.",
-      "icon": "https://presque.cool/seedoku/icons/icon-512.png",
-      "category": [
-        "web",
-        "games"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/seedoku",
-      "homepage": "https://presque.cool/seedoku/",
-      "language": "TypeScript",
-      "features": [
-        "Daily puzzle, same for all players",
-        "3x3 grid with 8 cells (one blocked by a rock)",
-        "6 unique crops with placement rules (potato, pumpkin, rice, mushroom, berry-bush)",
-        "3 boosters with neighbor effects (sprinkler, sun, chilli)",
-        "Real-time score preview while dragging",
-        "Sequential harvest animation with per-step sounds",
-        "Undo system",
-        "Grades from D to S based on theoretical maximum",
-        "Date navigation to replay past puzzles",
-        "Shareable result link",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
-    },
-    {
       "id": "shelf",
       "name": "Shelf",
       "subtitle": "Multiple Floating Docks for macOS",
@@ -14023,40 +13299,6 @@
       "forks": 0
     },
     {
-      "id": "slide-sorcery",
-      "name": "Slide & Sorcery",
-      "subtitle": "4x4 dungeon crawler inspired by 2048",
-      "description": "A 4x4 grid dungeon crawler inspired by 2048. Every tile slide triggers combat, combos, and survival decisions.",
-      "longDescription": "Slide & Sorcery is a 4x4 grid dungeon crawler inspired by 2048 and Threes. One swipe moves every tile at once, chaining explosions, counter-attacks, and combo streaks. Between runs, collected gold can buy one blessing for the next run (starter bomb, starter sword, +1 max HP, +10% combo). The game uses a pure TypeScript engine decoupled from React, procedural audio via Web Audio API, and a pity system to smooth RNG spikes.",
-      "icon": "https://presque.cool/slide-sorcery/icons/icon-192.png",
-      "category": [
-        "web",
-        "games"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/slide-n-sorcery",
-      "homepage": "https://presque.cool/slide-sorcery/",
-      "language": "TypeScript",
-      "features": [
-        "4x4 swipe-based dungeon crawler loop",
-        "Pure engine in src/engine (no React imports)",
-        "Combo and streak system with score and gold rewards",
-        "Roguelite blessings between runs",
-        "Pity system for food/coin/enemy spawn balancing",
-        "Procedural audio with Web Audio API (no audio files)",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
-    },
-    {
       "id": "soundshift",
       "name": "SoundShift",
       "subtitle": "Discover how your music taste evolved",
@@ -14099,41 +13341,6 @@
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/soundshift.jpg"
     },
     {
-      "id": "spin-eat",
-      "name": "SpinEat",
-      "subtitle": "Spin the wheel, choose your meal",
-      "description": "An interactive roulette wheel to choose your next meal. Why decide when fate can do it for you?",
-      "longDescription": "SpinEat is an interactive roulette wheel to help you choose your next meal. Add your favorite restaurants, cuisines, or dishes, spin the wheel, and let fate decide. Customizable options, smooth animations.",
-      "icon": "https://presque.cool/spin-eat/icons/icon-512.png",
-      "category": [
-        "web",
-        "food-drink",
-        "entertainment"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/spin-eat",
-      "homepage": "https://presque.cool/spin-eat/",
-      "language": "TypeScript",
-      "features": [
-        "Physics-based spinning wheel animation",
-        "Customizable food options with emoji and color",
-        "10 default cuisines included",
-        "Confetti celebration on selection",
-        "Direct Google Maps link to nearby restaurants",
-        "Rotating taglines on each visit",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
-    },
-    {
       "id": "sql-prep",
       "name": "SQL Prep",
       "subtitle": "SQL interview prep & quiz",
@@ -14162,74 +13369,6 @@
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/sql-prep.jpg"
-    },
-    {
-      "id": "starwarsavatar",
-      "name": "Star Wars Avatar",
-      "subtitle": "Star Wars character creator",
-      "description": "Star Wars avatar creator with dynamic SVG composition, multi-layer color system, and URL sharing. 4 species, hundreds of options.",
-      "longDescription": "Star Wars Avatar is a character creator with dynamic SVG composition, a multi-layer color system, and URL sharing. Choose from 4 species and hundreds of customization options across face, hair, accessories, and outfits. Share via URL or export as image.",
-      "icon": "https://starwarsavatar.com/icons/icon-512.png",
-      "category": [
-        "web",
-        "entertainment",
-        "graphics-design"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/starwarsavatar",
-      "homepage": "https://starwarsavatar.com/",
-      "language": "TypeScript",
-      "features": [
-        "4 species: Human, Twi'lek, Zabrak, Mirialan",
-        "Hundreds of layered SVG elements",
-        "Multi-layer dynamic color system",
-        "Gender selection with unique options per species",
-        "Helmet visibility rules",
-        "Export as PNG or SVG",
-        "URL-based avatar sharing",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
-    },
-    {
-      "id": "starwarscountdown",
-      "name": "Star Wars Countdown",
-      "subtitle": "Sci-fi countdown timer",
-      "description": "A Star Wars countdown timer with a sci-fi target reticle visualization.",
-      "longDescription": "Star Wars Countdown is a countdown timer with a sci-fi target reticle visualization inspired by the Star Wars universe. Set your countdown, watch the reticle animate, and feel the tension build.",
-      "icon": "https://presque.cool/starwarscountdown/icons/icon-512.png",
-      "category": [
-        "web",
-        "entertainment",
-        "utilities"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/starwarscountdown",
-      "homepage": "https://presque.cool/starwarscountdown/",
-      "language": "TypeScript",
-      "features": [
-        "Target reticle with randomized edge patterns",
-        "Countdown timer to selected Star Wars dates",
-        "Animated edge toggle",
-        "Blinking indicator lights",
-        "Respects prefers-reduced-motion"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
     },
     {
       "id": "superportless",
@@ -14467,7 +13606,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 3040,
+      "stars": 3042,
       "forks": 196,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
@@ -14699,42 +13838,6 @@
       "_developer": "sametcn99",
       "_store": "sametcn99's Apps",
       "_storeUrl": "https://apps.sametcc.me"
-    },
-    {
-      "id": "voidatlas",
-      "name": "VOID ATLAS",
-      "subtitle": "Procedural planet generator for Mothership RPG",
-      "description": "Procedural planet generator for the Mothership RPG. Atmosphere, gravity, mysteries, points of interest — a full planet in one click.",
-      "longDescription": "VOID ATLAS is a procedural planet generator for Mothership, the sci-fi horror RPG. One click produces a complete planet: name, size, atmosphere, gravity, temperature, common and rare elements, day length, points of interest, and a Warden section with narrative hooks, features, and mysteries reserved for the GM. All accompanied by an SVG visualization. Every planet has a seed encoded in the URL. Sharing in Player view hides the Warden's narrative hooks from recipients.",
-      "icon": "https://presque.cool/voidatlas/icons/icon-192.png",
-      "category": [
-        "web",
-        "entertainment"
-      ],
-      "platform": "Web",
-      "requirements": "Any modern browser",
-      "price": "Free",
-      "github": "https://github.com/presquecool/voidatlas",
-      "homepage": "https://presque.cool/voidatlas/",
-      "language": "TypeScript",
-      "features": [
-        "Full procedural planet: name, size, atmosphere, gravity, temperature, elements",
-        "Points of interest: moons, stations, ships, jump gates, orbital elevators, anomalies",
-        "Warden section with narrative hooks, features, and mysteries",
-        "SVG planet visualization with layered rendering",
-        "4 color themes (green, blue, red, amber)",
-        "Seed-based URL sharing (permanent links, no backend)",
-        "Warden/Player view distinction in shared links",
-        "Per-field re-rolls without full regeneration",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ],
-      "_source": "presquecool/apps",
-      "_owner": "presquecool",
-      "_developer": "Tristan Hubert",
-      "_store": "presque.cool",
-      "_storeUrl": "",
-      "developer": "Tristan Hubert"
     },
     {
       "id": "vynix",
