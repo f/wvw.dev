@@ -7,28 +7,28 @@
   },
   "featured": [
     {
-      "id": "wallnetic",
+      "id": "dodoshot",
+      "headline": "STAFF PICK",
+      "title": "CleanShot X vibes, zero price tag.",
+      "subtitle": "DodoShot is a polished, fully free macOS screenshot app with capture, annotation, and management built in. Open source and inspired by the best — because great tools shouldn't cost a thing."
+    },
+    {
+      "id": "nodepad",
       "headline": "EDITOR'S PICK",
-      "title": "Make your desktop move.",
-      "subtitle": "Wallnetic brings GPU-accelerated live video wallpapers to macOS — with per-display control, smart battery management, and a curated library. Your Mac has never looked this alive."
+      "title": "Think in graphs, not threads.",
+      "subtitle": "NodePad turns every AI exchange into a node on an infinite canvas, letting you branch, merge, and explore conversations like a mind map. For thinkers who've outgrown the chat box."
     },
     {
-      "id": "paus",
-      "headline": "COMMUNITY FAVORITE",
-      "title": "Put a price tag on your time.",
-      "subtitle": "paus translates every price into hours worked, turning impulse buys into intentional decisions. Set pause reminders, track your wins, and watch your savings grow."
+      "id": "agentlytics",
+      "headline": "MUST TRY",
+      "title": "One dashboard for every AI coding tool you use.",
+      "subtitle": "Agentlytics unifies your Cursor, Windsurf, Claude Code, and Copilot history into a single analytics view — heatmaps, streaks, token economy, and session search, all in one command."
     },
     {
-      "id": "secretdrop",
+      "id": "portier",
       "headline": "HIDDEN GEM",
-      "title": "Share a secret. Then watch it vanish.",
-      "subtitle": "SecretDrop encrypts your passwords and credentials into self-destructing one-time links — no sign-up, no trace, no second thoughts. The safest way to send the unsendable."
-    },
-    {
-      "id": "reviseflow",
-      "headline": "JUST SHIPPED",
-      "title": "Client feedback that actually makes sense.",
-      "subtitle": "ReviseFlow lets clients click directly on your live site to leave pixel-perfect annotations, and AI reads the feedback and opens a fix PR — all without a single email thread."
+      "title": "Know exactly what's running on your Mac.",
+      "subtitle": "Portier sits in your menu bar and shows every active port and the process behind it, organized by category. Kill rogue processes, open dev servers in a click, and never be surprised by a busy port again."
     }
   ],
   "categories": [
@@ -584,8 +584,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3202,
-      "forks": 523,
+      "stars": 3203,
+      "forks": 526,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -1356,8 +1356,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3202,
-      "forks": 523,
+      "stars": 3203,
+      "forks": 526,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -13137,8 +13137,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 161275,
-      "forks": 21052,
+      "stars": 161288,
+      "forks": 21055,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13181,8 +13181,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 161275,
-      "forks": 21052,
+      "stars": 161288,
+      "forks": 21055,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -13679,6 +13679,59 @@
       "developer": "Kagan Temizkan",
       "stars": 0,
       "forks": 0
+    },
+    {
+      "id": "runhq",
+      "name": "RunHQ",
+      "subtitle": "Run every project's commands from one window",
+      "description": "Every project has its own ritual — pnpm dev here, go run ./cmd/api there, docker compose up somewhere else. RunHQ gives you one window to run all of them, open each in your favorite editor, and drop into a terminal — without memorizing what does what.",
+      "longDescription": "RunHQ is a project cockpit for polyglot local development. Instead of juggling terminal tabs and hunting through READMEs to remember how to boot each repo, you register your projects once and every custom command becomes one click or one keystroke away.\n\nWork with dozens of projects and hundreds of services side by side. RunHQ auto-discovers them across 10 runtimes (Node / Bun / Deno, .NET, Java with Maven & Gradle, Go, Rust, Python, Ruby, PHP, Docker) by reading package.json, go.mod, Cargo.toml, pyproject.toml, .csproj, pom.xml, build.gradle, Gemfile, composer.json, compose.yaml — and never writes back to your repos.\n\nEach service carries its own cwd, env, and startup command, so you can mix `pnpm dev`, `go run ./cmd/api`, `uv run train.py`, migration scripts, seed scripts, Makefile targets, or any custom shell command into a single playable stack. Press Cmd+K to fuzzy-jump between stacks, services, and commands. Press Cmd+Shift+K from anywhere on your system — your editor, browser, Slack — to pop the Quick Action window and start/stop services without breaking flow.\n\nOpen any project in VS Code, Cursor, Windsurf, Zed, Sublime, WebStorm, IDEA, or Neovim with one click. Drop into an embedded xterm.js terminal (full PTY, Nerd Font aware) when you need to poke around manually. Watch a unified, ANSI-colored, filterable log stream with 10k-line ring buffers and virtualized rendering. Kill a stuck port from the real-time watchdog in one click.\n\nBuilt on a headless Rust core (runhq-core) with a React + Tauri shell. Single binary, <100 MB idle RAM, no Electron, no Node runtime at runtime. 100% local, private, offline — no telemetry, no cloud sync, no account. Config is atomic human-readable JSON at ~/.runhq/config.json, so your project setup is diffable and portable.",
+      "icon": "https://raw.githubusercontent.com/erdembas/runhq/main/docs/icon.png",
+      "iconEmoji": "🛰️",
+      "iconStyle": {
+        "scale": 1.3,
+        "objectFit": "cover",
+        "borderRadius": "22%"
+      },
+      "category": [
+        "developer-tools",
+        "macos"
+      ],
+      "platform": "macOS",
+      "price": "Free",
+      "github": "https://github.com/erdembas/runhq",
+      "homepage": "https://runhq.dev",
+      "language": "Rust",
+      "brew": "brew install --cask erdembas/tap/runhq",
+      "downloadUrl": "https://github.com/erdembas/runhq/releases/latest",
+      "requirements": "macOS 12+, Linux (deb / AppImage), or Windows 10+ (WebView2)",
+      "features": [
+        "Register any custom command per service — pnpm dev, go run, uv run, docker compose up, migration scripts, Makefile targets, anything",
+        "Open any project in your editor with one click — VS Code, Cursor, Windsurf, Zed, Sublime, WebStorm, IDEA, Neovim",
+        "Drop into an embedded PTY terminal (xterm.js, Nerd Font aware) for any project without leaving the window",
+        "Cmd+K command palette — fuzzy jump between stacks, services, and commands, keyboard-first",
+        "Cmd+Shift+K global Quick Action window — start/stop services from your editor, browser, or anywhere on your system",
+        "Per-project cwd, env, and grace period — projects stay isolated and reproducible",
+        "Auto-discovers projects across 10 runtimes (Node / Bun / Deno, .NET, Java, Go, Rust, Python, Ruby, PHP, Docker) — never writes back to your repos",
+        "Favorites, recent projects, category & runtime filters, global search — find anything in <1s",
+        "Unified log stream with 10k-line ring buffers, ANSI colors, live filter, follow tail, and copy line",
+        "Real-time port watchdog — list all TCP listeners, search, one-click Kill port, zombie kill",
+        "Process supervisor with graceful shutdown (SIGTERM → grace → SIGKILL) and zero orphans",
+        "Atomic JSON config at ~/.runhq/config.json — diffable, portable, human-readable",
+        "Single Rust binary, <100 MB idle RAM, no Electron, no Node runtime",
+        "100% local and offline — no telemetry, no cloud sync, no account"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/erdembas/runhq/main/docs/dashboard.png"
+      ],
+      "_source": "erdembas/runhq",
+      "_owner": "erdembas",
+      "_developer": "Erdem Baş",
+      "_store": "Erdem Baş",
+      "_storeUrl": "",
+      "developer": "Erdem Baş",
+      "stars": 10,
+      "forks": 2
     },
     {
       "id": "sarisen-cloaknote",
@@ -14414,7 +14467,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 3038,
+      "stars": 3039,
       "forks": 196,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
