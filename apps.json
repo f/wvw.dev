@@ -208,7 +208,7 @@
       "github": "https://github.com/f/agentlytics",
       "homepage": "https://agentlytics.io",
       "language": "JavaScript",
-      "stars": 496,
+      "stars": 497,
       "forks": 65,
       "installCommand": "npx agentlytics",
       "requirements": "Node.js 20.19+ or 22.12+, macOS",
@@ -518,7 +518,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3204,
+      "stars": 3208,
       "forks": 525,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1186,7 +1186,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3204,
+      "stars": 3208,
       "forks": 525,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -11221,7 +11221,7 @@
       "_store": "scyto",
       "_storeUrl": "",
       "developer": "scyto",
-      "stars": 37,
+      "stars": 38,
       "forks": 0
     },
     {
@@ -11815,7 +11815,7 @@
       "github": "https://github.com/sametcn99/my-stars-atlas",
       "homepage": "https://github.com/sametcn99/my-stars-atlas",
       "language": "TypeScript",
-      "stars": 2,
+      "stars": 3,
       "forks": 1,
       "developer": "sametcn99",
       "features": [
@@ -12518,8 +12518,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 161320,
-      "forks": 21055,
+      "stars": 161336,
+      "forks": 21056,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -12562,8 +12562,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 161320,
-      "forks": 21055,
+      "stars": 161336,
+      "forks": 21056,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -13080,7 +13080,7 @@
       "_storeUrl": "",
       "developer": "Erdem Baş",
       "stars": 10,
-      "forks": 2
+      "forks": 3
     },
     {
       "id": "sarisen-cloaknote",
