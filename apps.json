@@ -584,8 +584,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3218,
-      "forks": 528,
+      "stars": 3222,
+      "forks": 529,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -1356,8 +1356,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3218,
-      "forks": 528,
+      "stars": 3222,
+      "forks": 529,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -1472,7 +1472,7 @@
       "github": "https://github.com/f/deeper",
       "homepage": null,
       "language": "Swift",
-      "stars": 69,
+      "stars": 70,
       "forks": 8,
       "brew": "brew install f/tap/deeper",
       "downloadUrl": "https://github.com/f/deeper/releases/latest",
@@ -13137,8 +13137,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 161451,
-      "forks": 21067,
+      "stars": 161459,
+      "forks": 21066,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13181,8 +13181,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 161451,
-      "forks": 21067,
+      "stars": 161459,
+      "forks": 21066,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
