@@ -585,7 +585,7 @@
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
       "stars": 3252,
-      "forks": 536,
+      "forks": 537,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -1357,7 +1357,7 @@
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
       "stars": 3252,
-      "forks": 536,
+      "forks": 537,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -13137,8 +13137,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 161655,
-      "forks": 21084,
+      "stars": 161688,
+      "forks": 21086,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13181,8 +13181,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 161655,
-      "forks": 21084,
+      "stars": 161688,
+      "forks": 21086,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -13730,7 +13730,7 @@
       "_store": "Erdem Baş",
       "_storeUrl": "",
       "developer": "Erdem Baş",
-      "stars": 12,
+      "stars": 13,
       "forks": 4
     },
     {
@@ -14503,7 +14503,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 3093,
+      "stars": 3098,
       "forks": 201,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
