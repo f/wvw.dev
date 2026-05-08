@@ -274,7 +274,7 @@
       "github": "https://github.com/f/agentlytics",
       "homepage": "https://agentlytics.io",
       "language": "JavaScript",
-      "stars": 503,
+      "stars": 504,
       "forks": 68,
       "installCommand": "npx agentlytics",
       "requirements": "Node.js 20.19+ or 22.12+, macOS",
@@ -518,7 +518,7 @@
       "_storeUrl": "",
       "developer": "tddworks",
       "stars": 183,
-      "forks": 23
+      "forks": 24
     },
     {
       "id": "aso-screenshot-generator",
@@ -584,7 +584,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3272,
+      "stars": 3276,
       "forks": 541,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1356,7 +1356,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3272,
+      "stars": 3276,
       "forks": 541,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -13137,8 +13137,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 161794,
-      "forks": 21092,
+      "stars": 161821,
+      "forks": 21094,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13181,8 +13181,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 161794,
-      "forks": 21092,
+      "stars": 161821,
+      "forks": 21094,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -14503,7 +14503,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 3121,
+      "stars": 3124,
       "forks": 203,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
