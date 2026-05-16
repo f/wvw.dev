@@ -557,6 +557,43 @@
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/aso-screenshot-generator.jpg"
     },
     {
+      "id": "astralpost",
+      "name": "AstralPost",
+      "subtitle": "The Universe Is Listening",
+      "description": "Send a message to the universe, receive AI cosmic reflections, and connect anonymously through the void in this premium ritual journaling app.",
+      "longDescription": "AstralPost is a premium ritual journaling app that transforms your thoughts into cosmic conversations. Send a message to the universe and receive AI-powered cosmic reflections. Connect anonymously with others through the void in a beautifully crafted, contemplative experience. Designed with celestial aesthetics — lavender hues, starfields, and serif typography — AstralPost turns daily reflection into a sacred ritual. Coming soon to iOS and Android.",
+      "icon": "https://buhane.ams3.cdn.digitaloceanspaces.com/vynix/icons/astralpost-512.png",
+      "iconEmoji": "✨",
+      "category": [
+        "ios",
+        "android",
+        "lifestyle",
+        "health-fitness"
+      ],
+      "platform": "iOS & Android",
+      "price": "Free",
+      "github": "https://github.com/abutun/appetit",
+      "homepage": "https://astralpost.app",
+      "language": "Kotlin",
+      "features": [
+        "Send messages to the universe",
+        "AI-powered cosmic reflections",
+        "Anonymous connection through the void",
+        "Premium ritual journaling experience",
+        "Beautiful celestial design",
+        "Coming soon to iOS and Android"
+      ],
+      "screenshots": [],
+      "_source": "abutun/appetit",
+      "_owner": "abutun",
+      "_developer": "Cosmic Meta Digital",
+      "_store": "Cosmic Meta Digital",
+      "_storeUrl": "https://apps.ahmet.sh",
+      "developer": "Cosmic Meta Digital",
+      "stars": 1,
+      "forks": 0
+    },
+    {
       "id": "awesome-openclaw-agents",
       "name": "Awesome OpenClaw Agents",
       "subtitle": "103 open source AI agent templates",
@@ -584,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3372,
+      "stars": 3375,
       "forks": 555,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1356,7 +1393,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3372,
+      "stars": 3375,
       "forks": 555,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -11431,8 +11468,8 @@
       "name": "Gridzle",
       "subtitle": "Counts-First Puzzle Strategy",
       "description": "A logic puzzle game where you read row and column targets, place geometric pieces that toggle board cells, and solve grids through deduction.",
-      "longDescription": "Gridzle is a counts-first puzzle strategy game that challenges your logical thinking. Read the row and column targets, place geometric pieces that toggle board cells, and solve grids through pure deduction — no guessing required. Features 250 hand-crafted puzzle levels across 5 difficulty tiers, a star and coin reward system based on move count and completion time, and fully offline-capable gameplay. Every placement toggles the board, making turn order and strategic placement central to solving each puzzle.",
-      "icon": null,
+      "longDescription": "Gridzle is a counts-first puzzle strategy game that challenges your logical thinking. Read the row and column targets, place geometric pieces that toggle board cells, and solve grids through pure deduction — no guessing required. Features 250 hand-crafted puzzle levels across 5 difficulty tiers, a star and coin reward system based on move count and completion time, and fully offline-capable gameplay. Every placement toggles the board, making turn order and strategic placement central to solving each puzzle. Now available on the App Store and Google Play.",
+      "icon": "https://buhane.ams3.cdn.digitaloceanspaces.com/vynix/icons/gridzle-512.png",
       "iconEmoji": "🧩",
       "category": [
         "ios",
@@ -11442,8 +11479,9 @@
       ],
       "platform": "iOS & Android",
       "price": "Free",
-      "github": "https://github.com/abutun",
+      "github": "https://github.com/abutun/appetit",
       "homepage": "https://gridzle.app",
+      "downloadUrl": "https://apps.apple.com/app/id6763095732",
       "language": "Kotlin",
       "features": [
         "250 hand-crafted puzzle levels",
@@ -11451,7 +11489,8 @@
         "Logic-driven — no guessing required",
         "Piece placement toggles the board",
         "Star and coin reward system",
-        "Fully offline-capable"
+        "Fully offline-capable",
+        "Available on iOS App Store and Google Play"
       ],
       "screenshots": [],
       "_source": "abutun/appetit",
@@ -11460,7 +11499,8 @@
       "_store": "Cosmic Meta Digital",
       "_storeUrl": "https://apps.ahmet.sh",
       "developer": "Cosmic Meta Digital",
-      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/gridzle.jpg"
+      "stars": 1,
+      "forks": 0
     },
     {
       "id": "growing-everyday",
@@ -11600,6 +11640,43 @@
       "_storeUrl": "",
       "developer": "scyto",
       "stars": 40,
+      "forks": 0
+    },
+    {
+      "id": "hivedue",
+      "name": "HiveDue",
+      "subtitle": "Community Finance Management",
+      "description": "Manage dues, payments, announcements, and documents for apartments, residential complexes, and cooperatives — all in one modern platform.",
+      "longDescription": "HiveDue is a modern community finance management platform designed for apartment buildings, residential sites, and cooperatives. Track and collect dues, manage payments, send announcements, and organize documents — all from a single place. Streamline community administration with intuitive tools that make financial management simple and transparent for residents and managers alike.",
+      "icon": "https://buhane.ams3.cdn.digitaloceanspaces.com/vynix/icons/hivedue-512.png",
+      "iconEmoji": "🏢",
+      "category": [
+        "web",
+        "finance",
+        "productivity",
+        "business"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/abutun/appetit",
+      "homepage": "https://hivedue.com",
+      "language": "TypeScript",
+      "features": [
+        "Dues and payment tracking",
+        "Announcements and notifications",
+        "Document management",
+        "Built for apartments, sites, and cooperatives",
+        "Multi-language support (Turkish & English)",
+        "Modern, transparent financial dashboard"
+      ],
+      "screenshots": [],
+      "_source": "abutun/appetit",
+      "_owner": "abutun",
+      "_developer": "Cosmic Meta Digital",
+      "_store": "Cosmic Meta Digital",
+      "_storeUrl": "https://apps.ahmet.sh",
+      "developer": "Cosmic Meta Digital",
+      "stars": 1,
       "forks": 0
     },
     {
@@ -13137,8 +13214,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 162292,
-      "forks": 21126,
+      "stars": 162297,
+      "forks": 21129,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13181,8 +13258,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 162292,
-      "forks": 21126,
+      "stars": 162297,
+      "forks": 21129,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -14503,8 +14580,8 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 3182,
-      "forks": 207,
+      "stars": 3184,
+      "forks": 208,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
       "requirements": "macOS 15 Sequoia or later",
@@ -14556,7 +14633,7 @@
       "subtitle": "URL Shortener with Analytics",
       "description": "A fast, developer-friendly URL shortener with QR code generation, click tracking analytics, and a public API.",
       "longDescription": "u2m.io is a sleek URL shortening platform that turns long URLs into short, shareable links. Features include QR code generation for every shortened URL, click tracking and analytics dashboard, a public API with documentation for programmatic access, and bulk URL management. Built for developers and marketers who need reliable link shortening with insights.",
-      "icon": "https://u2m.io/logo.png",
+      "icon": "https://buhane.ams3.cdn.digitaloceanspaces.com/vynix/icons/u2m-512x512.png",
       "iconEmoji": "🔗",
       "category": [
         "web",
