@@ -621,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3393,
+      "stars": 3395,
       "forks": 557,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1393,7 +1393,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3393,
+      "stars": 3395,
       "forks": 557,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -11050,6 +11050,46 @@
       "forks": 0
     },
     {
+      "id": "font-mapper",
+      "name": "FontMapper",
+      "subtitle": "Map any website's fonts to your local fonts",
+      "description": "A Chrome extension that replaces any website's fonts with your favorite local fonts — per domain, instantly. Remembers your choices forever.",
+      "longDescription": "FontMapper lets each site you visit have its own typography that you personally control. Open the popup on any page, see every font the site is using, swap each one for any font installed on your machine, and FontMapper remembers your choices per domain — different rules for different sites, applied automatically on every visit. Uses Chrome's Local Font Access API for guaranteed PostScript-name matching, native CSS @font-face substitution for fast layout-preserving swaps, and zero data collection.",
+      "icon": "https://raw.githubusercontent.com/Jubstaaa/font-mapper/main/public/icon-128.png",
+      "iconStyle": {
+        "borderRadius": "22%"
+      },
+      "category": [
+        "developer-tools"
+      ],
+      "platform": "Chrome",
+      "price": "Free",
+      "github": "https://github.com/Jubstaaa/font-mapper",
+      "homepage": "https://chromewebstore.google.com/detail/gfdmhpidmomcbghfoejkcpjdklbdcdnn",
+      "language": "TypeScript",
+      "downloadUrl": "https://chromewebstore.google.com/detail/gfdmhpidmomcbghfoejkcpjdklbdcdnn",
+      "requirements": "Chrome 103+ (or any Chromium-based browser: Edge, Brave, Arc)",
+      "features": [
+        "Per-domain font mapping — different rules for different sites",
+        "Searchable font picker with previews in each typeface",
+        "Hover to identify — highlights every element using a font",
+        "Instant preview, no page reload",
+        "Zero data collection, all stored locally"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/Jubstaaa/font-mapper/main/store/screenshot-1280x800.png",
+        "https://raw.githubusercontent.com/Jubstaaa/font-mapper/main/store/screenshot-popup-1280x800.png"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "_source": "Jubstaaa/appetit",
+      "_owner": "Jubstaaa",
+      "_developer": "İlker Balcılar",
+      "_store": "Jubstaa's App Store",
+      "_storeUrl": "",
+      "developer": "İlker Balcılar"
+    },
+    {
       "id": "galactic-striker",
       "name": "Galactic Striker",
       "subtitle": "AI-Generated Space Shooter",
@@ -13214,8 +13254,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 162392,
-      "forks": 21140,
+      "stars": 162418,
+      "forks": 21142,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13258,8 +13298,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 162392,
-      "forks": 21140,
+      "stars": 162418,
+      "forks": 21142,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -14580,7 +14620,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 3193,
+      "stars": 3194,
       "forks": 211,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
