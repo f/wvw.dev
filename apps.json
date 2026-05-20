@@ -621,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3413,
+      "stars": 3417,
       "forks": 559,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1393,7 +1393,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3413,
+      "stars": 3417,
       "forks": 559,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -13254,8 +13254,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 162553,
-      "forks": 21155,
+      "stars": 162571,
+      "forks": 21157,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13298,8 +13298,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 162553,
-      "forks": 21155,
+      "stars": 162571,
+      "forks": 21157,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
