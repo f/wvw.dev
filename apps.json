@@ -327,8 +327,6 @@
       "_store": "Akeslo Apps",
       "_storeUrl": "https://akeslo.com",
       "developer": "Adam Keslo",
-      "stars": 0,
-      "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/ai-user-scripts.jpg"
     },
     {
@@ -453,28 +451,7 @@
       "_developer": "Fatih Kadir Akin",
       "_store": "Appétit",
       "_storeUrl": "https://apps.fka.dev",
-      "developer": "Fatih Kadir Akin",
-      "_comments": [
-        {
-          "user": "f",
-          "avatar": "https://avatars.githubusercontent.com/u/196477?v=4",
-          "title": "Awesome",
-          "body": "Awesome app!",
-          "url": "https://github.com/f/appetit/issues/4",
-          "created_at": "2026-03-14T09:30:27Z",
-          "reactions": {
-            "total": 1,
-            "thumbsUp": 1,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        }
-      ]
+      "developer": "Fatih Kadir Akin"
     },
     {
       "id": "asc-cli",
@@ -589,9 +566,7 @@
       "_developer": "Cosmic Meta Digital",
       "_store": "Cosmic Meta Digital",
       "_storeUrl": "https://apps.ahmet.sh",
-      "developer": "Cosmic Meta Digital",
-      "stars": 1,
-      "forks": 0
+      "developer": "Cosmic Meta Digital"
     },
     {
       "id": "awesome-openclaw-agents",
@@ -621,7 +596,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3439,
+      "stars": 3441,
       "forks": 563,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -746,9 +721,7 @@
       "_developer": "Kagan Temizkan",
       "_store": "Kagan Temizkan",
       "_storeUrl": "https://my-store-six-ruby.vercel.app/apps",
-      "developer": "Kagan Temizkan",
-      "stars": 1,
-      "forks": 0
+      "developer": "Kagan Temizkan"
     },
     {
       "id": "bitki-sulama",
@@ -1393,7 +1366,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3439,
+      "stars": 3441,
       "forks": 563,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -1800,7 +1773,7 @@
       "github": "https://github.com/DodoApps/dodopass",
       "homepage": null,
       "language": "Swift",
-      "stars": 3,
+      "stars": 0,
       "forks": 0,
       "downloadUrl": null,
       "requirements": "macOS 14.0 or later",
@@ -1839,8 +1812,8 @@
       "github": "https://github.com/DodoApps/dodopulse",
       "homepage": null,
       "language": "Swift",
-      "stars": 131,
-      "forks": 14,
+      "stars": 101,
+      "forks": 0,
       "downloadUrl": null,
       "requirements": "macOS 12.0 or later",
       "features": [
@@ -2530,8 +2503,6 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
-      "stars": 1,
-      "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-ascii-diagram-generator.jpg"
     },
     {
@@ -2790,9 +2761,7 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş",
-      "stars": 1,
-      "forks": 0
+      "developer": "Olgun Özoktaş"
     },
     {
       "id": "findutils-body-fat-calculator",
@@ -3026,9 +2995,7 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş",
-      "stars": 1,
-      "forks": 0
+      "developer": "Olgun Özoktaş"
     },
     {
       "id": "findutils-character-counter",
@@ -3291,9 +3258,7 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş",
-      "stars": 1,
-      "forks": 0
+      "developer": "Olgun Özoktaş"
     },
     {
       "id": "findutils-color-palette-generator",
@@ -3317,9 +3282,7 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş",
-      "stars": 1,
-      "forks": 0
+      "developer": "Olgun Özoktaş"
     },
     {
       "id": "findutils-compound-interest-calculator",
@@ -3422,9 +3385,7 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş",
-      "stars": 1,
-      "forks": 0
+      "developer": "Olgun Özoktaş"
     },
     {
       "id": "findutils-country-lookup",
@@ -3658,9 +3619,7 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş",
-      "stars": 1,
-      "forks": 0
+      "developer": "Olgun Özoktaş"
     },
     {
       "id": "findutils-csv-to-json",
@@ -4077,9 +4036,7 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş",
-      "stars": 1,
-      "forks": 0
+      "developer": "Olgun Özoktaş"
     },
     {
       "id": "findutils-e164-validator",
@@ -5552,9 +5509,7 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş",
-      "stars": 1,
-      "forks": 0
+      "developer": "Olgun Özoktaş"
     },
     {
       "id": "findutils-json-faker",
@@ -5656,9 +5611,7 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş",
-      "stars": 1,
-      "forks": 0
+      "developer": "Olgun Özoktaş"
     },
     {
       "id": "findutils-json-path-finder",
@@ -5838,9 +5791,7 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş",
-      "stars": 1,
-      "forks": 0
+      "developer": "Olgun Özoktaş"
     },
     {
       "id": "findutils-json-to-email-template",
@@ -5942,9 +5893,7 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş",
-      "stars": 1,
-      "forks": 0
+      "developer": "Olgun Özoktaş"
     },
     {
       "id": "findutils-json-to-java-class",
@@ -11637,9 +11586,7 @@
       "_developer": "Osman Koç",
       "_store": "kocdev",
       "_storeUrl": "https://apps.osmankoc.dev",
-      "developer": "Osman Koç",
-      "stars": 3,
-      "forks": 0
+      "developer": "Osman Koç"
     },
     {
       "id": "ha-bluetooth-audio-manager",
@@ -11678,9 +11625,7 @@
       "_developer": "scyto",
       "_store": "scyto",
       "_storeUrl": "",
-      "developer": "scyto",
-      "stars": 43,
-      "forks": 0
+      "developer": "scyto"
     },
     {
       "id": "hivedue",
@@ -13072,9 +13017,7 @@
       "_developer": "Philip Brocoum",
       "_store": "Phil's Apps",
       "_storeUrl": "https://philipbrocoum.com",
-      "developer": "Philip Brocoum",
-      "stars": 1,
-      "forks": 0
+      "developer": "Philip Brocoum"
     },
     {
       "id": "portier",
@@ -13254,7 +13197,7 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 162696,
+      "stars": 162690,
       "forks": 21170,
       "requirements": "Any modern browser",
       "features": [
@@ -13298,7 +13241,7 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 162696,
+      "stars": 162709,
       "forks": 21170,
       "requirements": "Any modern browser",
       "features": [
@@ -13488,9 +13431,7 @@
       "_owner": "radioheavy",
       "_developer": "radioheavy",
       "_store": "radioheavy Apps",
-      "_storeUrl": "",
-      "stars": 1,
-      "forks": 0
+      "_storeUrl": ""
     },
     {
       "id": "radioheavy-captioneer",
@@ -14620,7 +14561,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 3220,
+      "stars": 3222,
       "forks": 216,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
@@ -15177,8 +15118,6 @@
       "_store": "Cosmic Meta Digital",
       "_storeUrl": "https://apps.ahmet.sh",
       "developer": "Cosmic Meta Digital",
-      "stars": 1,
-      "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/worldmonitor.jpg"
     },
     {
