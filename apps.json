@@ -274,8 +274,8 @@
       "github": "https://github.com/f/agentlytics",
       "homepage": "https://agentlytics.io",
       "language": "JavaScript",
-      "stars": 513,
-      "forks": 70,
+      "stars": 514,
+      "forks": 71,
       "installCommand": "npx agentlytics",
       "requirements": "Node.js 20.19+ or 22.12+, macOS",
       "features": [
@@ -327,6 +327,8 @@
       "_store": "Akeslo Apps",
       "_storeUrl": "https://akeslo.com",
       "developer": "Adam Keslo",
+      "stars": 0,
+      "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/ai-user-scripts.jpg"
     },
     {
@@ -451,7 +453,28 @@
       "_developer": "Fatih Kadir Akin",
       "_store": "Appétit",
       "_storeUrl": "https://apps.fka.dev",
-      "developer": "Fatih Kadir Akin"
+      "developer": "Fatih Kadir Akin",
+      "_comments": [
+        {
+          "user": "f",
+          "avatar": "https://avatars.githubusercontent.com/u/196477?v=4",
+          "title": "Awesome",
+          "body": "Awesome app!",
+          "url": "https://github.com/f/appetit/issues/4",
+          "created_at": "2026-03-14T09:30:27Z",
+          "reactions": {
+            "total": 1,
+            "thumbsUp": 1,
+            "thumbsDown": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+          }
+        }
+      ]
     },
     {
       "id": "asc-cli",
@@ -566,7 +589,9 @@
       "_developer": "Cosmic Meta Digital",
       "_store": "Cosmic Meta Digital",
       "_storeUrl": "https://apps.ahmet.sh",
-      "developer": "Cosmic Meta Digital"
+      "developer": "Cosmic Meta Digital",
+      "stars": 1,
+      "forks": 0
     },
     {
       "id": "awesome-openclaw-agents",
@@ -721,7 +746,9 @@
       "_developer": "Kagan Temizkan",
       "_store": "Kagan Temizkan",
       "_storeUrl": "https://my-store-six-ruby.vercel.app/apps",
-      "developer": "Kagan Temizkan"
+      "developer": "Kagan Temizkan",
+      "stars": 1,
+      "forks": 0
     },
     {
       "id": "bitki-sulama",
@@ -1773,7 +1800,7 @@
       "github": "https://github.com/DodoApps/dodopass",
       "homepage": null,
       "language": "Swift",
-      "stars": 0,
+      "stars": 3,
       "forks": 0,
       "downloadUrl": null,
       "requirements": "macOS 14.0 or later",
@@ -1812,8 +1839,8 @@
       "github": "https://github.com/DodoApps/dodopulse",
       "homepage": null,
       "language": "Swift",
-      "stars": 101,
-      "forks": 0,
+      "stars": 131,
+      "forks": 14,
       "downloadUrl": null,
       "requirements": "macOS 12.0 or later",
       "features": [
@@ -2503,6 +2530,8 @@
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
       "developer": "Olgun Özoktaş",
+      "stars": 1,
+      "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-ascii-diagram-generator.jpg"
     },
     {
@@ -2761,7 +2790,9 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş"
+      "developer": "Olgun Özoktaş",
+      "stars": 1,
+      "forks": 0
     },
     {
       "id": "findutils-body-fat-calculator",
@@ -2995,7 +3026,9 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş"
+      "developer": "Olgun Özoktaş",
+      "stars": 1,
+      "forks": 0
     },
     {
       "id": "findutils-character-counter",
@@ -3258,7 +3291,9 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş"
+      "developer": "Olgun Özoktaş",
+      "stars": 1,
+      "forks": 0
     },
     {
       "id": "findutils-color-palette-generator",
@@ -3282,7 +3317,9 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş"
+      "developer": "Olgun Özoktaş",
+      "stars": 1,
+      "forks": 0
     },
     {
       "id": "findutils-compound-interest-calculator",
@@ -3385,7 +3422,9 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş"
+      "developer": "Olgun Özoktaş",
+      "stars": 1,
+      "forks": 0
     },
     {
       "id": "findutils-country-lookup",
@@ -3619,7 +3658,9 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş"
+      "developer": "Olgun Özoktaş",
+      "stars": 1,
+      "forks": 0
     },
     {
       "id": "findutils-csv-to-json",
@@ -4036,7 +4077,9 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş"
+      "developer": "Olgun Özoktaş",
+      "stars": 1,
+      "forks": 0
     },
     {
       "id": "findutils-e164-validator",
@@ -5509,7 +5552,9 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş"
+      "developer": "Olgun Özoktaş",
+      "stars": 1,
+      "forks": 0
     },
     {
       "id": "findutils-json-faker",
@@ -5611,7 +5656,9 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş"
+      "developer": "Olgun Özoktaş",
+      "stars": 1,
+      "forks": 0
     },
     {
       "id": "findutils-json-path-finder",
@@ -5791,7 +5838,9 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş"
+      "developer": "Olgun Özoktaş",
+      "stars": 1,
+      "forks": 0
     },
     {
       "id": "findutils-json-to-email-template",
@@ -5893,7 +5942,9 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş"
+      "developer": "Olgun Özoktaş",
+      "stars": 1,
+      "forks": 0
     },
     {
       "id": "findutils-json-to-java-class",
@@ -11586,7 +11637,9 @@
       "_developer": "Osman Koç",
       "_store": "kocdev",
       "_storeUrl": "https://apps.osmankoc.dev",
-      "developer": "Osman Koç"
+      "developer": "Osman Koç",
+      "stars": 3,
+      "forks": 0
     },
     {
       "id": "ha-bluetooth-audio-manager",
@@ -11625,7 +11678,9 @@
       "_developer": "scyto",
       "_store": "scyto",
       "_storeUrl": "",
-      "developer": "scyto"
+      "developer": "scyto",
+      "stars": 43,
+      "forks": 0
     },
     {
       "id": "hivedue",
@@ -12118,7 +12173,7 @@
       "github": "https://github.com/f/mcptools",
       "homepage": null,
       "language": "Go",
-      "stars": 1587,
+      "stars": 1588,
       "forks": 122,
       "brew": "brew install f/mcptools/mcp",
       "requirements": "macOS, Linux, or Windows",
@@ -12891,7 +12946,7 @@
       "github": "https://github.com/f/poke-gate",
       "homepage": "https://poke.com",
       "language": "Swift / JavaScript",
-      "stars": 67,
+      "stars": 68,
       "forks": 5,
       "brew": "brew install f/tap/poke-gate",
       "installCommand": "npx poke-gate",
@@ -13017,7 +13072,9 @@
       "_developer": "Philip Brocoum",
       "_store": "Phil's Apps",
       "_storeUrl": "https://philipbrocoum.com",
-      "developer": "Philip Brocoum"
+      "developer": "Philip Brocoum",
+      "stars": 1,
+      "forks": 0
     },
     {
       "id": "portier",
@@ -13197,7 +13254,7 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 162690,
+      "stars": 162719,
       "forks": 21170,
       "requirements": "Any modern browser",
       "features": [
@@ -13241,7 +13298,7 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 162709,
+      "stars": 162719,
       "forks": 21170,
       "requirements": "Any modern browser",
       "features": [
@@ -13431,7 +13488,9 @@
       "_owner": "radioheavy",
       "_developer": "radioheavy",
       "_store": "radioheavy Apps",
-      "_storeUrl": ""
+      "_storeUrl": "",
+      "stars": 1,
+      "forks": 0
     },
     {
       "id": "radioheavy-captioneer",
@@ -15118,6 +15177,8 @@
       "_store": "Cosmic Meta Digital",
       "_storeUrl": "https://apps.ahmet.sh",
       "developer": "Cosmic Meta Digital",
+      "stars": 1,
+      "forks": 0,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/worldmonitor.jpg"
     },
     {
