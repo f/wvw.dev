@@ -453,28 +453,7 @@
       "_developer": "Fatih Kadir Akin",
       "_store": "Appétit",
       "_storeUrl": "https://apps.fka.dev",
-      "developer": "Fatih Kadir Akin",
-      "_comments": [
-        {
-          "user": "f",
-          "avatar": "https://avatars.githubusercontent.com/u/196477?v=4",
-          "title": "Awesome",
-          "body": "Awesome app!",
-          "url": "https://github.com/f/appetit/issues/4",
-          "created_at": "2026-03-14T09:30:27Z",
-          "reactions": {
-            "total": 1,
-            "thumbsUp": 1,
-            "thumbsDown": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          }
-        }
-      ]
+      "developer": "Fatih Kadir Akin"
     },
     {
       "id": "asc-cli",
@@ -621,7 +600,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3467,
+      "stars": 3468,
       "forks": 575,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1393,7 +1372,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3467,
+      "stars": 3468,
       "forks": 575,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -13254,8 +13233,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 162943,
-      "forks": 21188,
+      "stars": 162956,
+      "forks": 21191,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13298,8 +13277,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 162943,
-      "forks": 21188,
+      "stars": 162956,
+      "forks": 21191,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -14623,7 +14602,7 @@
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
       "stars": 3257,
-      "forks": 220,
+      "forks": 221,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
       "requirements": "macOS 15 Sequoia or later",
