@@ -621,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3485,
+      "stars": 3487,
       "forks": 575,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1393,7 +1393,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3485,
+      "stars": 3487,
       "forks": 575,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -11356,7 +11356,7 @@
     },
     {
       "id": "github-repo-cleaner-ai",
-      "name": "GitHub Repo Manager & Cleaner",
+      "name": "GitHub Repo Organizer",
       "subtitle": "AI-powered GitHub repository management",
       "description": "Electron desktop app for managing, cleaning, and organizing GitHub repositories with AI-powered features like smart rename, README generation, and commit analysis.",
       "longDescription": "A comprehensive Electron desktop application that streamlines GitHub repository management with AI-powered features. Manage all your repositories with source/fork distinction, publish local projects to GitHub with smart .gitignore generation, analyze stale and large repos, sync forks, and leverage AI for smart renaming, description generation, README creation, and commit message optimization using Conventional Commits standards.",
@@ -12093,7 +12093,7 @@
       "github": "https://github.com/alinuxpengui/Macabolic",
       "homepage": null,
       "language": "Swift",
-      "stars": 297,
+      "stars": 298,
       "forks": 8,
       "downloadUrl": null,
       "requirements": "macOS 12.0 or later",
@@ -13254,8 +13254,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 163103,
-      "forks": 21206,
+      "stars": 163112,
+      "forks": 21209,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13298,8 +13298,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 163103,
-      "forks": 21206,
+      "stars": 163112,
+      "forks": 21209,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
