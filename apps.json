@@ -621,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3507,
+      "stars": 3510,
       "forks": 577,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -996,7 +996,7 @@
       "github": "https://github.com/f/check-ai",
       "homepage": null,
       "language": "JavaScript",
-      "stars": 61,
+      "stars": 62,
       "forks": 5,
       "installCommand": "npx check-ai",
       "requirements": "Node.js 18+",
@@ -1393,7 +1393,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3507,
+      "stars": 3510,
       "forks": 577,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -12093,7 +12093,7 @@
       "github": "https://github.com/alinuxpengui/Macabolic",
       "homepage": null,
       "language": "Swift",
-      "stars": 302,
+      "stars": 304,
       "forks": 8,
       "downloadUrl": null,
       "requirements": "macOS 12.0 or later",
@@ -13254,7 +13254,7 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 163247,
+      "stars": 163259,
       "forks": 21216,
       "requirements": "Any modern browser",
       "features": [
@@ -13298,7 +13298,7 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 163247,
+      "stars": 163259,
       "forks": 21216,
       "requirements": "Any modern browser",
       "features": [
