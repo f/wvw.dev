@@ -622,7 +622,7 @@
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
       "stars": 3513,
-      "forks": 577,
+      "forks": 578,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -1394,7 +1394,7 @@
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
       "stars": 3513,
-      "forks": 577,
+      "forks": 578,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -1679,7 +1679,7 @@
       "github": "https://github.com/DodoApps/dodoclip",
       "homepage": null,
       "language": "Swift",
-      "stars": 85,
+      "stars": 86,
       "forks": 6,
       "downloadUrl": null,
       "requirements": "macOS 14.0 or later",
@@ -12093,7 +12093,7 @@
       "github": "https://github.com/alinuxpengui/Macabolic",
       "homepage": null,
       "language": "Swift",
-      "stars": 305,
+      "stars": 306,
       "forks": 8,
       "downloadUrl": null,
       "requirements": "macOS 12.0 or later",
@@ -13254,8 +13254,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 163296,
-      "forks": 21225,
+      "stars": 163302,
+      "forks": 21223,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13298,8 +13298,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 163296,
-      "forks": 21225,
+      "stars": 163302,
+      "forks": 21223,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
