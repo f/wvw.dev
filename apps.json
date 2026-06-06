@@ -517,7 +517,7 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 234,
+      "stars": 235,
       "forks": 25
     },
     {
@@ -622,7 +622,7 @@
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
       "stars": 3530,
-      "forks": 578,
+      "forks": 579,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -1394,7 +1394,7 @@
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
       "stars": 3530,
-      "forks": 578,
+      "forks": 579,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -11077,8 +11077,9 @@
         "Zero data collection, all stored locally"
       ],
       "screenshots": [
-        "https://raw.githubusercontent.com/Jubstaaa/font-mapper/main/store/screenshot-1280x800.png",
-        "https://raw.githubusercontent.com/Jubstaaa/font-mapper/main/store/screenshot-popup-1280x800.png"
+        "https://ilkerbalcilar.com/images/projects/font-mapper/cover.webp",
+        "https://ilkerbalcilar.com/images/projects/font-mapper/font-mapper-popup.webp",
+        "https://ilkerbalcilar.com/images/projects/font-mapper/font-mapper-options.webp"
       ],
       "stars": 1,
       "forks": 0,
@@ -11725,7 +11726,7 @@
       "subtitle": "Monitoring dashboard for Hono apps",
       "description": "An open-source monitoring and debugging tool for Hono applications. Real-time dashboard to inspect requests, exceptions, logs, and database queries.",
       "longDescription": "Hono Telescope provides a real-time dashboard for Hono applications running on Node.js and Bun. Middleware-based setup gives you instant visibility into API requests with URL, method, response time, and status codes. Tracks unhandled exceptions with stack traces, collects console logs tied to request context, and monitors database queries from Prisma, Sequelize, MongoDB, and Bun SQLite with execution times.",
-      "icon": "https://ilkerbalcilar.com/api/media/file/b4a5364e-c850-4582-b28d-7c234e7627ed.webp",
+      "icon": "https://raw.githubusercontent.com/Jubstaaa/hono-telescope/main/src/dashboard/telescope-icon.svg",
       "iconStyle": {
         "borderRadius": "50%"
       },
@@ -11748,7 +11749,11 @@
         "MIT licensed and open source"
       ],
       "screenshots": [
-        "https://ilkerbalcilar.com/api/media/file/2a6e85c9-cff5-435e-8683-9291914d1385.webp"
+        "https://ilkerbalcilar.com/images/projects/hono-telescope/cover.webp",
+        "https://ilkerbalcilar.com/images/projects/hono-telescope/hono-telescope-request-logs.webp",
+        "https://ilkerbalcilar.com/images/projects/hono-telescope/hono-telescope-exception-inspector.webp",
+        "https://ilkerbalcilar.com/images/projects/hono-telescope/hono-telescope-query-inspector.webp",
+        "https://ilkerbalcilar.com/images/projects/hono-telescope/hono-telescope-logged-console-output.webp"
       ],
       "stars": 26,
       "forks": 0,
@@ -12832,7 +12837,11 @@
         "Available in 12 languages"
       ],
       "screenshots": [
-        "https://ilkerbalcilar.com/api/media/file/8392a623-b7d3-4c80-a301-d4402c4d7c3e.webp"
+        "https://ilkerbalcilar.com/images/projects/pixel-guess-game/cover.webp",
+        "https://ilkerbalcilar.com/images/projects/pixel-guess-game/pixel-guess-game-main-game-interface.webp",
+        "https://ilkerbalcilar.com/images/projects/pixel-guess-game/pixel-guess-game-leaderboard.webp",
+        "https://ilkerbalcilar.com/images/projects/pixel-guess-game/pixel-guess-game-language-selection-menu.webp",
+        "https://ilkerbalcilar.com/images/projects/pixel-guess-game/pixel-guess-game-feedback-section.webp"
       ],
       "stars": 0,
       "forks": 0,
@@ -13254,8 +13263,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 163363,
-      "forks": 21226,
+      "stars": 163381,
+      "forks": 21228,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13298,8 +13307,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 163363,
-      "forks": 21226,
+      "stars": 163381,
+      "forks": 21228,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -14463,6 +14472,41 @@
       "forks": 0
     },
     {
+      "id": "tailwind-hitslop",
+      "name": "tailwind-hitslop",
+      "subtitle": "Hit-slop touch targets for Tailwind CSS",
+      "description": "A Tailwind CSS plugin that invisibly expands an element's touch area while its visual size stays exactly the same — the web equivalent of React Native's hitSlop.",
+      "longDescription": "tailwind-hitslop adds hit-slop utilities to Tailwind CSS, expanding the interactive area of small targets — 16px icons, dense toolbars, close buttons — without changing their visual size or touching layout. It works on both Tailwind v4 (a pure-CSS @import built on the @utility and --value() primitives) and v3 (a classic config plugin), resolved automatically from one package with identical utilities on either version. Directional and axis utilities stack freely, an ::after family covers elements whose ::before is already taken, and a debug mode visualizes the expanded areas. Pure CSS, zero JavaScript, zero config — and compile-tested against the real Tailwind compiler.",
+      "category": [
+        "developer-tools"
+      ],
+      "platform": "Tailwind CSS",
+      "price": "Free",
+      "github": "https://github.com/Jubstaaa/tailwind-hitslop",
+      "homepage": "https://tailwind-hitslop.vercel.app",
+      "language": "CSS",
+      "installCommand": "bun add tailwind-hitslop",
+      "requirements": "Tailwind CSS v4 or v3",
+      "features": [
+        "Expands touch targets without changing visual size or layout",
+        "One package for both Tailwind v4 (CSS @import) and v3 (config plugin)",
+        "Pure CSS, zero JavaScript, zero config",
+        "Directional and axis utilities that stack freely",
+        "::after family for elements whose ::before is taken, plus a debug mode",
+        "Compile-tested against the real Tailwind compiler"
+      ],
+      "screenshots": [],
+      "stars": 2,
+      "forks": 0,
+      "_source": "Jubstaaa/appetit",
+      "_owner": "Jubstaaa",
+      "_developer": "İlker Balcılar",
+      "_store": "Jubstaa's App Store",
+      "_storeUrl": "",
+      "developer": "İlker Balcılar",
+      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/tailwind-hitslop.jpg"
+    },
+    {
       "id": "tarih",
       "name": "Tarih Altın Bilgiler",
       "subtitle": "KPSS, YKS, LGS Tarih Soruları",
@@ -14622,8 +14666,8 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 3298,
-      "forks": 223,
+      "stars": 3299,
+      "forks": 224,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
       "requirements": "macOS 15 Sequoia or later",
