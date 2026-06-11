@@ -621,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3627,
+      "stars": 3629,
       "forks": 589,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1393,7 +1393,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3627,
+      "stars": 3629,
       "forks": 589,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -12955,7 +12955,7 @@
       "github": "https://github.com/f/poke-gate",
       "homepage": "https://poke.com",
       "language": "Swift / JavaScript",
-      "stars": 74,
+      "stars": 75,
       "forks": 6,
       "brew": "brew install f/tap/poke-gate",
       "installCommand": "npx poke-gate",
@@ -13263,8 +13263,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 163521,
-      "forks": 21228,
+      "stars": 163532,
+      "forks": 21227,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13307,8 +13307,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 163521,
-      "forks": 21228,
+      "stars": 163532,
+      "forks": 21227,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
