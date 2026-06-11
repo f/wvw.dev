@@ -517,7 +517,7 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 245,
+      "stars": 247,
       "forks": 25
     },
     {
@@ -621,8 +621,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3631,
-      "forks": 590,
+      "stars": 3634,
+      "forks": 589,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -1393,8 +1393,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3631,
-      "forks": 590,
+      "stars": 3634,
+      "forks": 589,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -11680,7 +11680,7 @@
       "_store": "scyto",
       "_storeUrl": "",
       "developer": "scyto",
-      "stars": 47,
+      "stars": 48,
       "forks": 0
     },
     {
@@ -12254,7 +12254,7 @@
       "github": "https://github.com/sametcn99/mermaid-viewer",
       "homepage": "https://mermaid.sametcc.me/home",
       "language": "TypeScript",
-      "stars": 7,
+      "stars": 8,
       "forks": 2,
       "requirements": "Modern browser",
       "developer": "sametcn99",
@@ -12955,7 +12955,7 @@
       "github": "https://github.com/f/poke-gate",
       "homepage": "https://poke.com",
       "language": "Swift / JavaScript",
-      "stars": 76,
+      "stars": 77,
       "forks": 6,
       "brew": "brew install f/tap/poke-gate",
       "installCommand": "npx poke-gate",
@@ -13263,7 +13263,7 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 163569,
+      "stars": 163581,
       "forks": 21224,
       "requirements": "Any modern browser",
       "features": [
@@ -13307,7 +13307,7 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 163569,
+      "stars": 163581,
       "forks": 21224,
       "requirements": "Any modern browser",
       "features": [
@@ -14666,7 +14666,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 3326,
+      "stars": 3325,
       "forks": 228,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
@@ -15073,7 +15073,7 @@
       "_store": "Wallnetic",
       "_storeUrl": "",
       "developer": "Fatih Kan",
-      "stars": 33,
+      "stars": 34,
       "forks": 2
     },
     {
