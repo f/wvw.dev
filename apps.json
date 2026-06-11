@@ -436,7 +436,7 @@
       "homepage": "https://apps.fka.dev",
       "language": "JavaScript",
       "stars": 41,
-      "forks": 8,
+      "forks": 9,
       "requirements": "Any modern browser",
       "features": [
         "Apple App Store-inspired UI",
@@ -517,7 +517,7 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 243,
+      "stars": 245,
       "forks": 25
     },
     {
@@ -621,8 +621,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3629,
-      "forks": 589,
+      "stars": 3631,
+      "forks": 590,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -1393,8 +1393,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3629,
-      "forks": 589,
+      "stars": 3631,
+      "forks": 590,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -11680,7 +11680,7 @@
       "_store": "scyto",
       "_storeUrl": "",
       "developer": "scyto",
-      "stars": 46,
+      "stars": 47,
       "forks": 0
     },
     {
@@ -12996,7 +12996,7 @@
       "github": "https://github.com/f/poke-tui",
       "homepage": "https://poke.com",
       "language": "JavaScript",
-      "stars": 11,
+      "stars": 12,
       "forks": 3,
       "installCommand": "npx poke-tui",
       "requirements": "Node.js 18+",
@@ -13263,8 +13263,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 163547,
-      "forks": 21228,
+      "stars": 163569,
+      "forks": 21224,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13307,8 +13307,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 163547,
-      "forks": 21228,
+      "stars": 163569,
+      "forks": 21224,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
