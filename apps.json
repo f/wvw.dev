@@ -621,8 +621,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3689,
-      "forks": 600,
+      "stars": 3691,
+      "forks": 601,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -1110,7 +1110,7 @@
       "_storeUrl": "https://github.com/bahri-hirfanoglu/claude-board",
       "developer": "Bahri Hırfanoğlu",
       "stars": 15,
-      "forks": 2
+      "forks": 3
     },
     {
       "id": "clockss",
@@ -1393,8 +1393,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3689,
-      "forks": 600,
+      "stars": 3691,
+      "forks": 601,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -13263,7 +13263,7 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 163842,
+      "stars": 163854,
       "forks": 21249,
       "requirements": "Any modern browser",
       "features": [
@@ -13307,7 +13307,7 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 163842,
+      "stars": 163854,
       "forks": 21249,
       "requirements": "Any modern browser",
       "features": [
