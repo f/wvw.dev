@@ -621,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3747,
+      "stars": 3750,
       "forks": 612,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1393,7 +1393,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3747,
+      "stars": 3750,
       "forks": 612,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -12178,7 +12178,7 @@
       "github": "https://github.com/f/mcptools",
       "homepage": null,
       "language": "Go",
-      "stars": 1599,
+      "stars": 1600,
       "forks": 124,
       "brew": "brew install f/mcptools/mcp",
       "requirements": "macOS, Linux, or Windows",
@@ -13263,7 +13263,7 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 164518,
+      "stars": 164521,
       "forks": 21293,
       "requirements": "Any modern browser",
       "features": [
@@ -13307,7 +13307,7 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 164518,
+      "stars": 164521,
       "forks": 21293,
       "requirements": "Any modern browser",
       "features": [
@@ -14496,7 +14496,7 @@
         "Compile-tested against the real Tailwind compiler"
       ],
       "screenshots": [],
-      "stars": 6,
+      "stars": 7,
       "forks": 0,
       "_source": "Jubstaaa/appetit",
       "_owner": "Jubstaaa",
