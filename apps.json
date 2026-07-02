@@ -621,8 +621,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3759,
-      "forks": 612,
+      "stars": 3760,
+      "forks": 613,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -1109,8 +1109,8 @@
       "_store": "Claude Board",
       "_storeUrl": "https://github.com/bahri-hirfanoglu/claude-board",
       "developer": "Bahri Hırfanoğlu",
-      "stars": 15,
-      "forks": 3
+      "stars": 16,
+      "forks": 4
     },
     {
       "id": "clockss",
@@ -1393,8 +1393,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3759,
-      "forks": 612,
+      "stars": 3760,
+      "forks": 613,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -12056,7 +12056,7 @@
       "github": "https://github.com/sametcn99/linkedin-hide-viewed-jobs",
       "homepage": "https://sametcn99.github.io/linkedin-hide-viewed-jobs/",
       "language": "TypeScript",
-      "stars": 2,
+      "stars": 3,
       "forks": 0,
       "developer": "sametcn99",
       "requirements": "Tampermonkey or Violentmonkey in a supported browser",
@@ -13263,8 +13263,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 164593,
-      "forks": 21298,
+      "stars": 164600,
+      "forks": 21297,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13307,8 +13307,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 164593,
-      "forks": 21298,
+      "stars": 164600,
+      "forks": 21297,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -14667,7 +14667,7 @@
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
       "stars": 3387,
-      "forks": 233,
+      "forks": 234,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
       "requirements": "macOS 15 Sequoia or later",
