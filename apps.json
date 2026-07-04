@@ -621,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3771,
+      "stars": 3772,
       "forks": 612,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1393,7 +1393,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3771,
+      "stars": 3772,
       "forks": 612,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -11680,7 +11680,7 @@
       "_store": "scyto",
       "_storeUrl": "",
       "developer": "scyto",
-      "stars": 49,
+      "stars": 50,
       "forks": 0
     },
     {
@@ -12098,7 +12098,7 @@
       "github": "https://github.com/alinuxpengui/Macabolic",
       "homepage": null,
       "language": "Swift",
-      "stars": 327,
+      "stars": 328,
       "forks": 10,
       "downloadUrl": null,
       "requirements": "macOS 12.0 or later",
@@ -12956,7 +12956,7 @@
       "homepage": "https://poke.com",
       "language": "Swift / JavaScript",
       "stars": 80,
-      "forks": 9,
+      "forks": 10,
       "brew": "brew install f/tap/poke-gate",
       "installCommand": "npx poke-gate",
       "downloadUrl": "https://github.com/f/poke-gate/releases/latest",
@@ -13263,8 +13263,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 164693,
-      "forks": 21309,
+      "stars": 164707,
+      "forks": 21312,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13307,8 +13307,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 164693,
-      "forks": 21309,
+      "stars": 164707,
+      "forks": 21312,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
