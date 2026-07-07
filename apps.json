@@ -517,7 +517,7 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 270,
+      "stars": 271,
       "forks": 26
     },
     {
@@ -621,8 +621,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3782,
-      "forks": 614,
+      "stars": 3783,
+      "forks": 615,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -1393,8 +1393,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3782,
-      "forks": 614,
+      "stars": 3783,
+      "forks": 615,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -1961,7 +1961,7 @@
       "github": "https://github.com/DodoApps/dodotidy",
       "homepage": null,
       "language": "Swift",
-      "stars": 170,
+      "stars": 171,
       "forks": 7,
       "downloadUrl": null,
       "requirements": "macOS 14.0 or later",
@@ -12956,7 +12956,7 @@
       "homepage": "https://poke.com",
       "language": "Swift / JavaScript",
       "stars": 80,
-      "forks": 10,
+      "forks": 9,
       "brew": "brew install f/tap/poke-gate",
       "installCommand": "npx poke-gate",
       "downloadUrl": "https://github.com/f/poke-gate/releases/latest",
@@ -13263,8 +13263,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 164902,
-      "forks": 21347,
+      "stars": 164917,
+      "forks": 21350,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13307,8 +13307,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 164902,
-      "forks": 21347,
+      "stars": 164917,
+      "forks": 21350,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
