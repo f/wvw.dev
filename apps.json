@@ -274,7 +274,7 @@
       "github": "https://github.com/f/agentlytics",
       "homepage": "https://agentlytics.io",
       "language": "JavaScript",
-      "stars": 542,
+      "stars": 543,
       "forks": 74,
       "installCommand": "npx agentlytics",
       "requirements": "Node.js 20.19+ or 22.12+, macOS",
@@ -8562,9 +8562,7 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/codewitholgun",
-      "developer": "Olgun Özoktaş",
-      "stars": 1,
-      "forks": 0
+      "developer": "Olgun Özoktaş"
     },
     {
       "id": "findutils-scientific-calculator",
@@ -11680,7 +11678,7 @@
       "_store": "scyto",
       "_storeUrl": "",
       "developer": "scyto",
-      "stars": 49,
+      "stars": 50,
       "forks": 0
     },
     {
@@ -13263,8 +13261,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 165090,
-      "forks": 21366,
+      "stars": 165104,
+      "forks": 21365,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13307,8 +13305,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 165090,
-      "forks": 21366,
+      "stars": 165104,
+      "forks": 21365,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -14666,8 +14664,8 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 3410,
-      "forks": 234,
+      "stars": 3411,
+      "forks": 235,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
       "requirements": "macOS 15 Sequoia or later",
