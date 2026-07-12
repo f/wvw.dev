@@ -12956,7 +12956,7 @@
       "homepage": "https://poke.com",
       "language": "Swift / JavaScript",
       "stars": 80,
-      "forks": 9,
+      "forks": 10,
       "brew": "brew install f/tap/poke-gate",
       "installCommand": "npx poke-gate",
       "downloadUrl": "https://github.com/f/poke-gate/releases/latest",
@@ -13263,8 +13263,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 165439,
-      "forks": 21418,
+      "stars": 165465,
+      "forks": 21421,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13307,8 +13307,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 165439,
-      "forks": 21418,
+      "stars": 165465,
+      "forks": 21421,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -13856,7 +13856,7 @@
       "_store": "Erdem Baş",
       "_storeUrl": "",
       "developer": "Erdem Baş",
-      "stars": 17,
+      "stars": 18,
       "forks": 4
     },
     {
