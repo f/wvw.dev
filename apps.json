@@ -435,7 +435,7 @@
       "github": "https://github.com/f/appetit",
       "homepage": "https://apps.fka.dev",
       "language": "JavaScript",
-      "stars": 44,
+      "stars": 45,
       "forks": 9,
       "requirements": "Any modern browser",
       "features": [
@@ -621,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3805,
+      "stars": 3808,
       "forks": 617,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1393,7 +1393,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3805,
+      "stars": 3808,
       "forks": 617,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -12178,7 +12178,7 @@
       "github": "https://github.com/f/mcptools",
       "homepage": null,
       "language": "Go",
-      "stars": 1608,
+      "stars": 1609,
       "forks": 124,
       "brew": "brew install f/mcptools/mcp",
       "requirements": "macOS, Linux, or Windows",
@@ -13263,7 +13263,7 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 165586,
+      "stars": 165614,
       "forks": 21434,
       "requirements": "Any modern browser",
       "features": [
@@ -13307,7 +13307,7 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 165586,
+      "stars": 165614,
       "forks": 21434,
       "requirements": "Any modern browser",
       "features": [
