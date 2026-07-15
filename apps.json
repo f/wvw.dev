@@ -274,7 +274,7 @@
       "github": "https://github.com/f/agentlytics",
       "homepage": "https://agentlytics.io",
       "language": "JavaScript",
-      "stars": 547,
+      "stars": 548,
       "forks": 75,
       "installCommand": "npx agentlytics",
       "requirements": "Node.js 20.19+ or 22.12+, macOS",
@@ -517,7 +517,7 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 279,
+      "stars": 280,
       "forks": 25
     },
     {
@@ -621,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3816,
+      "stars": 3818,
       "forks": 622,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1393,7 +1393,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3816,
+      "stars": 3818,
       "forks": 622,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -12659,7 +12659,7 @@
       "_storeUrl": "",
       "developer": "Yusuf Altunbicak",
       "stars": 25,
-      "forks": 3,
+      "forks": 4,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/outlook365-cli.jpg"
     },
     {
@@ -13263,8 +13263,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 165797,
-      "forks": 21442,
+      "stars": 165815,
+      "forks": 21444,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13307,8 +13307,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 165797,
-      "forks": 21442,
+      "stars": 165815,
+      "forks": 21444,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -15073,7 +15073,7 @@
       "_store": "Wallnetic",
       "_storeUrl": "",
       "developer": "Fatih Kan",
-      "stars": 38,
+      "stars": 37,
       "forks": 2
     },
     {
