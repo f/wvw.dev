@@ -274,7 +274,7 @@
       "github": "https://github.com/f/agentlytics",
       "homepage": "https://agentlytics.io",
       "language": "JavaScript",
-      "stars": 548,
+      "stars": 550,
       "forks": 75,
       "installCommand": "npx agentlytics",
       "requirements": "Node.js 20.19+ or 22.12+, macOS",
@@ -621,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3819,
+      "stars": 3821,
       "forks": 622,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1393,7 +1393,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3819,
+      "stars": 3821,
       "forks": 622,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -12506,50 +12506,6 @@
       "developer": "Tristan Hubert"
     },
     {
-      "id": "nodepad",
-      "name": "NodePad",
-      "subtitle": "A visual workspace for cognition-heavy non-linear LLM conversations",
-      "description": "Construct, branch, and explore LLM conversations as directed graphs on an infinite canvas. Break free from linear chat with complete spatial control over your context.",
-      "longDescription": "NodePad is a visual workspace designed for high-agency users who find traditional, linear AI chats limiting. Every user message and AI response becomes an independent, addressable node on an infinite canvas. This graph-native architecture allows you to seamlessly branch conversations into parallel threads from any point, explore alternative approaches side-by-side, and easily switch between multiple LLM providers within the same workspace. With spatial auto-layout, dynamic context highlighting, and integrated text nodes for scratchpad thinking, NodePad gives you absolute visual control over the exact context your models see.",
-      "icon": "https://raw.githubusercontent.com/palazski/apps/master/favicon.svg",
-      "iconStyle": {
-        "scale": 0.9,
-        "padding": "8px",
-        "objectFit": "contain",
-        "bgColor": "#000000"
-      },
-      "category": [
-        "web",
-        "developer-tools",
-        "productivity"
-      ],
-      "platform": "Web",
-      "price": "Closed Beta",
-      "github": "https://github.com/palazski/apps",
-      "homepage": "https://node-pad.com",
-      "language": "TypeScript",
-      "features": [
-        "Branch conversations into parallel exploration threads from any message",
-        "Infinite visual canvas with spatial node organization",
-        "Multi-model support within the same workspace (soon)",
-        "Real-time LLM response streaming with concurrent operation support",
-        "Dynamic context visibility with path highlighting",
-        "Text nodes for sticky notes, references, and scratchpad thinking",
-        "Graph-native editing where the visual topology acts as your version history"
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/palazski/apps/master/wvw.png"
-      ],
-      "_source": "palazski/apps",
-      "_owner": "palazski",
-      "_developer": "Abdullah Palaz",
-      "_store": "palazski's awesome apps",
-      "_storeUrl": "",
-      "developer": "Abdullah Palaz",
-      "stars": 0,
-      "forks": 0
-    },
-    {
       "id": "number-match",
       "name": "Number Match",
       "subtitle": "Number match game app.",
@@ -13263,8 +13219,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 165839,
-      "forks": 21450,
+      "stars": 165852,
+      "forks": 21452,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13307,8 +13263,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 165839,
-      "forks": 21450,
+      "stars": 165852,
+      "forks": 21452,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -14666,7 +14622,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 3432,
+      "stars": 3433,
       "forks": 238,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
