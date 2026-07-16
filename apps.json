@@ -517,7 +517,7 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 281,
+      "stars": 282,
       "forks": 25
     },
     {
@@ -621,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3818,
+      "stars": 3819,
       "forks": 622,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1393,7 +1393,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3818,
+      "stars": 3819,
       "forks": 622,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -11300,8 +11300,8 @@
       "github": "https://github.com/f/git-rewrite-commits",
       "homepage": "https://blog.fka.dev/git-rewrite-commits/",
       "language": "TypeScript",
-      "stars": 1414,
-      "forks": 56,
+      "stars": 1415,
+      "forks": 57,
       "installCommand": "npx git-rewrite-commits",
       "requirements": "Node.js, Git",
       "features": [
@@ -12178,7 +12178,7 @@
       "github": "https://github.com/f/mcptools",
       "homepage": null,
       "language": "Go",
-      "stars": 1609,
+      "stars": 1610,
       "forks": 124,
       "brew": "brew install f/mcptools/mcp",
       "requirements": "macOS, Linux, or Windows",
@@ -13263,8 +13263,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 165823,
-      "forks": 21447,
+      "stars": 165839,
+      "forks": 21450,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13307,8 +13307,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 165823,
-      "forks": 21447,
+      "stars": 165839,
+      "forks": 21450,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -13900,7 +13900,7 @@
       "_developer": "Serafettin Sarisen",
       "_store": "Serafettin Sarisen",
       "_storeUrl": "",
-      "stars": 12,
+      "stars": 13,
       "forks": 2
     },
     {
@@ -15073,7 +15073,7 @@
       "_store": "Wallnetic",
       "_storeUrl": "",
       "developer": "Fatih Kan",
-      "stars": 37,
+      "stars": 38,
       "forks": 2
     },
     {
