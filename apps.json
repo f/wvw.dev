@@ -517,7 +517,7 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 284,
+      "stars": 292,
       "forks": 25
     },
     {
@@ -621,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3822,
+      "stars": 3825,
       "forks": 622,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1393,7 +1393,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3822,
+      "stars": 3825,
       "forks": 622,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -13219,7 +13219,7 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 165871,
+      "stars": 165894,
       "forks": 21455,
       "requirements": "Any modern browser",
       "features": [
@@ -13263,7 +13263,7 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 165871,
+      "stars": 165894,
       "forks": 21455,
       "requirements": "Any modern browser",
       "features": [
