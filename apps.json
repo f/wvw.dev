@@ -517,7 +517,7 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 304,
+      "stars": 307,
       "forks": 26
     },
     {
@@ -2223,7 +2223,7 @@
       "homepage": "https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector",
       "language": "TypeScript",
       "stars": 14,
-      "forks": 3,
+      "forks": 4,
       "developer": "sametcn99",
       "installCommand": "code --install-extension sametcn99.env-protector",
       "requirements": "Visual Studio Code",
@@ -13219,8 +13219,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 165920,
-      "forks": 21460,
+      "stars": 165930,
+      "forks": 21461,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13263,8 +13263,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 165920,
-      "forks": 21460,
+      "stars": 165930,
+      "forks": 21461,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -14623,7 +14623,7 @@
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
       "stars": 3435,
-      "forks": 239,
+      "forks": 240,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
       "requirements": "macOS 15 Sequoia or later",
