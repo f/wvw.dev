@@ -13219,8 +13219,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 166018,
-      "forks": 21465,
+      "stars": 166028,
+      "forks": 21468,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13263,8 +13263,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 166018,
-      "forks": 21465,
+      "stars": 166028,
+      "forks": 21468,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -13325,7 +13325,7 @@
       "_store": "prompts.chat Extension",
       "_storeUrl": "",
       "developer": "Fatih Solhan",
-      "stars": 41,
+      "stars": 42,
       "forks": 8
     },
     {
