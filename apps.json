@@ -12858,7 +12858,7 @@
       "subtitle": "AI-powered ad detection and removal",
       "description": "Downloads podcasts, transcribes them with Whisper, detects ads using LLMs, and removes them — then generates custom ad-free RSS feeds.",
       "longDescription": "AGPAR (AI-Generated Podcast Ad Remover) uses multi-LLM ad detection with support for Gemini, GPT-4, Claude, and OpenRouter to identify and remove ads, intros, and outros from podcast episodes. It handles local Whisper transcription, FFmpeg audio editing, and generates custom RSS feeds for ad-free listening. Includes a full admin dashboard, processing queue with pause/resume/cancel, AI-generated episode summaries, and Docker/Unraid deployment support.",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/akeslo/podcast-ad-remover/master/app/web/static/favicon.png",
       "iconEmoji": "🎙️",
       "category": [
         "macos",
@@ -12886,8 +12886,7 @@
       "_storeUrl": "https://akeslo.com",
       "developer": "Adam Keslo",
       "stars": 0,
-      "forks": 0,
-      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/podcast-ad-remover.jpg"
+      "forks": 0
     },
     {
       "id": "poke-gate",
@@ -13219,8 +13218,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 166075,
-      "forks": 21470,
+      "stars": 166094,
+      "forks": 21469,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13263,8 +13262,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 166075,
-      "forks": 21470,
+      "stars": 166094,
+      "forks": 21469,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -14711,7 +14710,7 @@
       "subtitle": "Menu bar audio and display manager",
       "description": "A native macOS menu bar utility that consolidates audio device switching, volume control, and external display brightness into a single popover.",
       "longDescription": "Unified Audio Control is a native Swift/SwiftUI menu bar app for macOS that brings all your audio and display controls into one place. Switch CoreAudio output devices, control Aggregate Device volumes, adjust Apple and external display brightness via DDC/CI, set global hotkeys, and rename devices for clarity. Supports Bluetooth and USB hot-plug detection so new devices appear automatically.",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/akeslo/Unified-Audio-Control/main/Assets/icon.png",
       "iconEmoji": "🎛️",
       "category": [
         "macos",
@@ -14739,8 +14738,7 @@
       "_storeUrl": "https://akeslo.com",
       "developer": "Adam Keslo",
       "stars": 0,
-      "forks": 0,
-      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/unified-audio-control.jpg"
+      "forks": 0
     },
     {
       "id": "vakit",
@@ -14835,7 +14833,7 @@
       "github": "https://github.com/sametcn99/vitepress-mermaid-renderer",
       "homepage": "https://vitepress-mermaid-renderer.vercel.app",
       "language": "TypeScript",
-      "stars": 61,
+      "stars": 62,
       "forks": 6,
       "developer": "sametcn99",
       "installCommand": "npm install vitepress-mermaid-renderer",
@@ -15038,7 +15036,7 @@
       "subtitle": "System-wide dictation and transcription",
       "description": "A macOS menu bar app for system-wide dictation with a customizable hotkey, drag-and-drop file transcription, and text-to-speech — all processed locally with Whisper.",
       "longDescription": "WhisperWrap puts speech-to-text and text-to-speech in your menu bar. Trigger system-wide dictation with Option+Space (customizable), drag and drop audio files for transcription, or use built-in text-to-speech with system voices. All transcription runs locally using faster-whisper with multiple model sizes from Tiny to Large. WhisperWrap manages its own private Python environment so there's nothing extra to install.",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/akeslo/WhisperWrap/main/Sources/WhisperWrap/Resources/AppIcon.appiconset/icon_1024x1024.png",
       "iconEmoji": "🗣️",
       "category": [
         "macos",
@@ -15066,8 +15064,7 @@
       "_storeUrl": "https://akeslo.com",
       "developer": "Adam Keslo",
       "stars": 0,
-      "forks": 0,
-      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/whisperwrap.jpg"
+      "forks": 0
     },
     {
       "id": "whistle-sos",
