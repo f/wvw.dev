@@ -621,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3936,
+      "stars": 3937,
       "forks": 639,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1437,7 +1437,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3936,
+      "stars": 3937,
       "forks": 639,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -11344,7 +11344,7 @@
       "github": "https://github.com/f/git-rewrite-commits",
       "homepage": "https://blog.fka.dev/git-rewrite-commits/",
       "language": "TypeScript",
-      "stars": 1418,
+      "stars": 1419,
       "forks": 59,
       "installCommand": "npx git-rewrite-commits",
       "requirements": "Node.js, Git",
@@ -11728,6 +11728,42 @@
       "forks": 4
     },
     {
+      "id": "hiretea",
+      "name": "Hiretea",
+      "subtitle": "Run technical assessments end to end.",
+      "description": "A self-hosted platform for creating and managing technical assessments.",
+      "longDescription": "Hiretea is a self-hosted technical assessment platform designed to support the full assessment workflow, from preparing challenges to collecting and reviewing candidate submissions while keeping the deployment and data under your control.",
+      "icon": null,
+      "iconEmoji": "🧪",
+      "category": [
+        "web",
+        "productivity"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/sametcn99/hiretea",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "developer": "sametcn99",
+      "requirements": "Self-hosted deployment and a modern browser",
+      "features": [
+        "Self-hosted technical assessment workflow",
+        "Create and manage assessment challenges",
+        "Collect candidate submissions in one platform",
+        "Keep assessment data under your own deployment"
+      ],
+      "screenshots": [
+        "https://opengraph.githubassets.com/1/sametcn99/hiretea"
+      ],
+      "_source": "sametcn99/apps",
+      "_owner": "sametcn99",
+      "_developer": "sametcn99",
+      "_store": "sametcn99's Apps",
+      "_storeUrl": "https://apps.sametcc.me",
+      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/hiretea.jpg"
+    },
+    {
       "id": "hivedue",
       "name": "HiveDue",
       "subtitle": "Community Finance Management",
@@ -12083,6 +12119,79 @@
       "_store": "My Apps",
       "_storeUrl": "https://apps.yurttutan.net",
       "developer": "Emrah Yurttutan"
+    },
+    {
+      "id": "libredirect-instances-list",
+      "name": "LibRedirect Instances List",
+      "subtitle": "Browse privacy-friendly frontend instances.",
+      "description": "A client-side web app for discovering alternative frontend instances supported by LibRedirect.",
+      "longDescription": "LibRedirect Instances List fetches and displays alternative frontend instances directly in the browser. It provides a simple, current view of available privacy-friendly services without requiring a backend.",
+      "icon": null,
+      "iconEmoji": "🛡️",
+      "category": [
+        "web",
+        "developer-tools"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/sametcn99/libredirect-instances-list",
+      "homepage": "https://libredirect-instances-list.vercel.app",
+      "language": "JavaScript",
+      "stars": 2,
+      "forks": 0,
+      "developer": "sametcn99",
+      "requirements": "Modern browser",
+      "features": [
+        "List alternative frontend instances in a searchable web interface",
+        "Fetch instance data directly from the client",
+        "Support privacy-focused alternatives across multiple services",
+        "No account or server-side setup required"
+      ],
+      "screenshots": [
+        "https://opengraph.githubassets.com/1/sametcn99/libredirect-instances-list"
+      ],
+      "_source": "sametcn99/apps",
+      "_owner": "sametcn99",
+      "_developer": "sametcn99",
+      "_store": "sametcn99's Apps",
+      "_storeUrl": "https://apps.sametcc.me",
+      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/libredirect-instances-list.jpg"
+    },
+    {
+      "id": "libredirect-mobile",
+      "name": "LibRedirect Mobile",
+      "subtitle": "Privacy-friendly link routing for Android.",
+      "description": "An Android app that redirects links from popular services to privacy-friendly alternative frontends.",
+      "longDescription": "LibRedirect Mobile intercepts links for services such as YouTube, Reddit, and X/Twitter, then routes them to privacy-friendly frontends such as Invidious and Redlib before opening them in the browser you choose.",
+      "icon": null,
+      "iconEmoji": "📱",
+      "category": [
+        "productivity",
+        "developer-tools"
+      ],
+      "platform": "Android",
+      "price": "Free",
+      "github": "https://github.com/sametcn99/libredirect-mobile",
+      "language": "Kotlin",
+      "stars": 0,
+      "forks": 0,
+      "developer": "sametcn99",
+      "requirements": "Android device",
+      "features": [
+        "Intercept links from supported services and route them to alternative frontends",
+        "Privacy-focused alternatives for YouTube, Reddit, and X/Twitter",
+        "Choose the browser used to open redirected links",
+        "Native Android experience built with Kotlin"
+      ],
+      "screenshots": [
+        "https://opengraph.githubassets.com/1/sametcn99/libredirect-mobile"
+      ],
+      "_source": "sametcn99/apps",
+      "_owner": "sametcn99",
+      "_developer": "sametcn99",
+      "_store": "sametcn99's Apps",
+      "_storeUrl": "https://apps.sametcc.me",
+      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/libredirect-mobile.jpg"
     },
     {
       "id": "linkedin-hide-viewed-jobs",
@@ -13341,8 +13450,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 167850,
-      "forks": 21663,
+      "stars": 167858,
+      "forks": 21664,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13385,8 +13494,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 167850,
-      "forks": 21663,
+      "stars": 167858,
+      "forks": 21664,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -13888,8 +13997,8 @@
       "id": "rolecraft",
       "name": "RoleCraft",
       "subtitle": "The package manager for AI agents",
-      "description": "Install, test, publish, and manage skills & MCP servers across 86+ agents. Zero-dependency CLI.",
-      "longDescription": "RoleCraft is a zero-dependency Node.js CLI that serves as the package manager for AI agent skills. Install skills from any source, test them, publish to a central registry, and manage MCP servers — all from a single tool. Compatible with 86+ AI coding agents including Claude Code, Cursor, Codex, OpenCode, Windsurf, and more.",
+      "description": "Install, test, publish, and manage skills & MCP servers across 87 agents. Zero-dependency CLI.",
+      "longDescription": "RoleCraft is a zero-dependency Node.js CLI that serves as the package manager for AI agent skills. Install skills from any source, test them, publish to a central registry, and manage MCP servers — all from a single tool. Compatible with 87 AI coding agents including Claude Code, Cursor, Codex, OpenCode, Windsurf, Oh My Pi, and more.",
       "icon": "https://raw.githubusercontent.com/rolecraft-sh/rolecraft/main/assets/rolecraft_logo.png",
       "iconEmoji": "📦",
       "iconStyle": {
@@ -13913,7 +14022,7 @@
         "Install skills from GitHub, URLs, or local paths",
         "Central skill registry with schema validation",
         "MCP server management — install, verify, and run",
-        "Compatible with 86+ AI agents (Claude Code, Cursor, Codex, OpenCode...)",
+        "Compatible with 87 AI agents (Claude Code, Cursor, Codex, OpenCode, Oh My Pi...)",
         "GitHub Action for CI/CD integration",
         "Skill testing and verification built-in",
         "Profile system for team collaboration"
@@ -14790,7 +14899,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 3666,
+      "stars": 3667,
       "forks": 253,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
