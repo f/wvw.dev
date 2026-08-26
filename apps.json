@@ -11724,8 +11724,8 @@
       "_store": "scyto",
       "_storeUrl": "",
       "developer": "scyto",
-      "stars": 59,
-      "forks": 4
+      "stars": 60,
+      "forks": 5
     },
     {
       "id": "hiretea",
@@ -13450,8 +13450,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 167899,
-      "forks": 21668,
+      "stars": 167910,
+      "forks": 21667,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13494,8 +13494,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 167899,
-      "forks": 21668,
+      "stars": 167910,
+      "forks": 21667,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -14899,7 +14899,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 3680,
+      "stars": 3682,
       "forks": 255,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
