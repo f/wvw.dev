@@ -621,8 +621,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3938,
-      "forks": 640,
+      "stars": 3940,
+      "forks": 639,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -1437,8 +1437,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3938,
-      "forks": 640,
+      "stars": 3940,
+      "forks": 639,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -13450,8 +13450,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 168036,
-      "forks": 21674,
+      "stars": 168066,
+      "forks": 21680,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13494,8 +13494,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 168036,
-      "forks": 21674,
+      "stars": 168066,
+      "forks": 21680,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -14037,7 +14037,7 @@
       "_storeUrl": "",
       "developer": "Samet ÇELİKBIÇAK",
       "stars": 75,
-      "forks": 26
+      "forks": 25
     },
     {
       "id": "runhq",
@@ -14089,7 +14089,7 @@
       "_store": "Erdem Baş",
       "_storeUrl": "",
       "developer": "Erdem Baş",
-      "stars": 18,
+      "stars": 19,
       "forks": 6
     },
     {
@@ -14899,7 +14899,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 3688,
+      "stars": 3691,
       "forks": 256,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
