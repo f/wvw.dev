@@ -517,7 +517,7 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 342,
+      "stars": 343,
       "forks": 28
     },
     {
@@ -621,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3943,
+      "stars": 3944,
       "forks": 639,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1437,7 +1437,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3943,
+      "stars": 3944,
       "forks": 639,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -11884,6 +11884,45 @@
       "_storeUrl": "https://apps.sametcc.me"
     },
     {
+      "id": "iconstate",
+      "name": "IconState",
+      "subtitle": "Rearrange your iPhone home screen from a Mac",
+      "description": "A macOS app that reads your iPhone home screen over USB, lets you drag icons and folders with a mouse, and writes it back after a diff you confirm.",
+      "longDescription": "IconState brings back the home screen editor Apple removed from iTunes. Plug an iPhone in over USB and it draws the real home screen — the device's own icons, at the grid size SpringBoard reports. Every page renders as its own phone side by side, so moving an app between pages is a single drag. It can sort everything into folders for you and learn your own layout as a rule table, placing unknown apps by their App Store category. Nothing reaches the phone until you review a diff of what would change, and the previous layout is backed up first, so one click undoes the last write. No jailbreak: it speaks the same lockdown service Finder uses for backups.",
+      "icon": "https://raw.githubusercontent.com/Jubstaaa/iconstate/main/docs/icon.png",
+      "category": [
+        "macos",
+        "utilities"
+      ],
+      "platform": "macOS",
+      "price": "Free",
+      "github": "https://github.com/Jubstaaa/iconstate",
+      "homepage": "https://github.com/Jubstaaa/iconstate/releases/latest",
+      "language": "Rust",
+      "installCommand": "curl -fsSL https://raw.githubusercontent.com/Jubstaaa/iconstate/main/scripts/install.sh | bash",
+      "requirements": "macOS 12 or later, Apple silicon, iPhone connected over USB",
+      "features": [
+        "Draws the real home screen from the phone, with its own icons and grid",
+        "Every page as its own device, side by side — drag icons between them",
+        "Sorts apps into folders, and learns your layout as a rule table",
+        "Places apps it does not know by their App Store category",
+        "Backs up and shows a diff before anything is written",
+        "One click undoes the last write",
+        "No jailbreak, no account, nothing leaves your machine"
+      ],
+      "screenshots": [
+        "https://ilkerbalcilar.com/images/projects/iconstate/cover.webp"
+      ],
+      "_source": "Jubstaaa/appetit",
+      "_owner": "Jubstaaa",
+      "_developer": "İlker Balcılar",
+      "_store": "Jubstaa's App Store",
+      "_storeUrl": "",
+      "developer": "İlker Balcılar",
+      "stars": 0,
+      "forks": 0
+    },
+    {
       "id": "istanbul",
       "name": "Istanbul",
       "subtitle": "Ambient Istanbul Soundscapes",
@@ -13450,8 +13489,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 168103,
-      "forks": 21684,
+      "stars": 168115,
+      "forks": 21685,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13494,8 +13533,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 168103,
-      "forks": 21684,
+      "stars": 168115,
+      "forks": 21685,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -14899,8 +14938,8 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 3695,
-      "forks": 256,
+      "stars": 3696,
+      "forks": 257,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
       "requirements": "macOS 15 Sequoia or later",
