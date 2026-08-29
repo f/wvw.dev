@@ -274,7 +274,7 @@
       "github": "https://github.com/f/agentlytics",
       "homepage": "https://agentlytics.io",
       "language": "JavaScript",
-      "stars": 564,
+      "stars": 566,
       "forks": 83,
       "installCommand": "npx agentlytics",
       "requirements": "Node.js 20.19+ or 22.12+, macOS",
@@ -11724,7 +11724,7 @@
       "_store": "scyto",
       "_storeUrl": "",
       "developer": "scyto",
-      "stars": 63,
+      "stars": 64,
       "forks": 6
     },
     {
@@ -11919,7 +11919,7 @@
       "_store": "Jubstaa's App Store",
       "_storeUrl": "",
       "developer": "İlker Balcılar",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -13489,7 +13489,7 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 168147,
+      "stars": 168168,
       "forks": 21683,
       "requirements": "Any modern browser",
       "features": [
@@ -13533,7 +13533,7 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 168147,
+      "stars": 168168,
       "forks": 21683,
       "requirements": "Any modern browser",
       "features": [
