@@ -517,7 +517,7 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 347,
+      "stars": 348,
       "forks": 28
     },
     {
@@ -622,7 +622,7 @@
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
       "stars": 3944,
-      "forks": 639,
+      "forks": 638,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -1438,7 +1438,7 @@
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
       "stars": 3944,
-      "forks": 639,
+      "forks": 638,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -13489,8 +13489,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 168177,
-      "forks": 21683,
+      "stars": 168185,
+      "forks": 21684,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13533,8 +13533,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 168177,
-      "forks": 21683,
+      "stars": 168185,
+      "forks": 21684,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -13596,7 +13596,7 @@
       "_storeUrl": "",
       "developer": "Fatih Solhan",
       "stars": 44,
-      "forks": 8
+      "forks": 9
     },
     {
       "id": "pscan",
