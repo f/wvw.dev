@@ -622,7 +622,7 @@
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
       "stars": 3943,
-      "forks": 638,
+      "forks": 637,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -1438,7 +1438,7 @@
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
       "stars": 3943,
-      "forks": 638,
+      "forks": 637,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -12290,7 +12290,7 @@
       "github": "https://github.com/alinuxpengui/Macabolic",
       "homepage": null,
       "language": "Swift",
-      "stars": 355,
+      "stars": 356,
       "forks": 11,
       "downloadUrl": null,
       "requirements": "macOS 12.0 or later",
@@ -13489,7 +13489,7 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 168196,
+      "stars": 168210,
       "forks": 21685,
       "requirements": "Any modern browser",
       "features": [
@@ -13533,7 +13533,7 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 168196,
+      "stars": 168210,
       "forks": 21685,
       "requirements": "Any modern browser",
       "features": [
@@ -15038,7 +15038,7 @@
       "language": "Swift",
       "github": "https://github.com/akeslo/Unified-Audio-Control",
       "homepage": "https://github.com/akeslo/Unified-Audio-Control",
-      "requirements": "macOS 13+",
+      "requirements": "macOS 14+",
       "features": [
         "CoreAudio output device switching",
         "Aggregate Device volume control",
