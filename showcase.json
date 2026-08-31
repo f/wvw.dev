@@ -1,84 +1,72 @@
 {
-  "generated_at": "2026-08-24T09:21:59Z",
+  "generated_at": "2026-08-31T09:14:35Z",
   "highlights": [
     {
-      "id": "git-rewrite-commits",
-      "name": "git-rewrite-commits",
-      "subtitle": "AI-Powered Commit Message Rewriter",
-      "icon": null,
-      "iconStyle": {},
-      "iconEmoji": "✍️",
-      "screenshot": "https://raw.githubusercontent.com/f/git-rewrite-commits/master/git-rewrite-commits.png",
-      "category": "cli",
-      "platform": "Node.js",
-      "stars": 1418,
-      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/git-rewrite-commits.jpg"
-    },
-    {
-      "id": "deeper",
-      "name": "Deeper",
-      "subtitle": "Messaging Analytics for Beeper",
-      "icon": "https://raw.githubusercontent.com/f/deeper/main/icon.svg",
+      "id": "prompts-chat-book",
+      "name": "The Interactive Book of Prompting",
+      "subtitle": "An Interactive Guide to AI Prompts",
+      "icon": "https://public-files.gumroad.com/hi3ruhodzjsspr6lg7h5if7hir9g",
       "iconStyle": {
         "scale": 1,
         "objectFit": "contain",
-        "bgColor": "#1c1c1e"
+        "bgColor": "#000000",
+        "padding": "0"
       },
       "iconEmoji": null,
-      "screenshot": "https://raw.githubusercontent.com/f/deeper/main/docs/screenshot.png",
-      "category": "macos",
-      "platform": "macOS",
-      "stars": 79
-    }
-  ],
-  "picks": [
-    {
-      "id": "deeper",
-      "name": "Deeper",
-      "subtitle": "Messaging Analytics for Beeper",
-      "icon": "https://raw.githubusercontent.com/f/deeper/main/icon.svg",
-      "iconStyle": {
-        "scale": 1,
-        "objectFit": "contain",
-        "bgColor": "#1c1c1e"
-      },
-      "iconEmoji": null,
-      "screenshot": "https://raw.githubusercontent.com/f/deeper/main/docs/screenshot.png",
-      "category": "macos",
-      "platform": "macOS",
-      "stars": 79
+      "screenshot": "https://prompts.chat/_next/image?url=%2Fbook-cover-photo.jpg&w=3840&q=75&dpl=dpl_F29LRFNhru548nrCnC6hVC8tM36p",
+      "category": "productivity",
+      "platform": "Web",
+      "stars": 168270,
+      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/prompts-chat-book.jpg"
     },
     {
-      "id": "dodoservice",
-      "name": "DodoService",
-      "subtitle": "Manage your Mac services from the menu bar",
-      "icon": "",
+      "id": "macabolic",
+      "name": "Macabolic",
+      "subtitle": "A video and audio downloader for macOS",
+      "icon": "https://raw.githubusercontent.com/alinuxpengui/Macabolic/main/Macabolic/Resources/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
       "iconStyle": {
         "scale": 1.3,
         "objectFit": "cover",
         "borderRadius": "22%"
       },
       "iconEmoji": null,
-      "screenshot": null,
-      "category": "macos",
+      "screenshot": "https://raw.githubusercontent.com/alinuxpengui/Macabolic/refs/heads/main/Screenshots/ss1.png",
+      "category": "entertainment",
       "platform": "macOS",
-      "stars": 7,
-      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/dodoservice.jpg"
-    },
+      "stars": 356,
+      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/macabolic.jpg"
+    }
+  ],
+  "picks": [
     {
-      "id": "seasons-solstice-tracker",
-      "name": "Seasons: Solstice Tracker",
-      "subtitle": "Moon, Progress & Widgets",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/a0/bb/03a0bb0a-e3e9-b128-17cf-cc4372f0bdd5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "id": "dodopulse",
+      "name": "DodoPulse",
+      "subtitle": "Real-time system monitoring in your menu bar",
+      "icon": "https://raw.githubusercontent.com/DodoApps/dodopulse/525b81f/icon.png",
       "iconStyle": {
+        "scale": 1.3,
+        "objectFit": "cover",
         "borderRadius": "22%"
       },
-      "iconEmoji": "🌗",
-      "screenshot": null,
-      "category": "ios",
-      "platform": "iOS",
-      "stars": 0,
-      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/seasons-solstice-tracker.jpg"
+      "iconEmoji": null,
+      "screenshot": "https://github.com/user-attachments/assets/6868a0ac-1d01-45aa-84d7-8d21dc0daa6b",
+      "category": "macos",
+      "platform": "macOS",
+      "stars": 134,
+      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/dodopulse.jpg"
+    },
+    {
+      "id": "mergen-ade",
+      "name": "Mergen ADE",
+      "subtitle": "Organize multiple project terminals in one native workspace",
+      "icon": "https://raw.githubusercontent.com/furkancak1r/mergen-ade/main/logo.png",
+      "iconStyle": null,
+      "iconEmoji": null,
+      "screenshot": "https://raw.githubusercontent.com/furkancak1r/mergen-ade/main/mergen-screenshot.png",
+      "category": "macos",
+      "platform": "macOS",
+      "stars": 6,
+      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/mergen-ade.jpg"
     },
     {
       "id": "glow-spin",
@@ -92,6 +80,19 @@
       "platform": "iOS & Android",
       "stars": 1,
       "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/glow-spin.jpg"
+    },
+    {
+      "id": "swipe-slip",
+      "name": "Swipe Slip",
+      "subtitle": "Tunnel Runner Game",
+      "icon": "https://buhane.ams3.cdn.digitaloceanspaces.com/vynix/icons/swipeslip-512.png",
+      "iconStyle": null,
+      "iconEmoji": null,
+      "screenshot": null,
+      "category": "ios",
+      "platform": "iOS & Android",
+      "stars": 1,
+      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/swipe-slip.jpg"
     },
     {
       "id": "gridzle",
@@ -120,140 +121,156 @@
       "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/moodjot.jpg"
     },
     {
-      "id": "findutils-placeholder-image-generator",
-      "name": "Placeholder Image Generator",
-      "subtitle": "Generate custom placeholder images with any dimensions, colors, and text.",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/placeholder-image-generator.svg",
-      "iconStyle": null,
-      "iconEmoji": null,
-      "screenshot": null,
-      "category": "web",
-      "platform": "Web",
-      "stars": 2
-    },
-    {
-      "id": "findutils-privacy-policy-generator",
-      "name": "Privacy Policy Generator",
-      "subtitle": "Generate a comprehensive, legally-compliant privacy policy for your website o...",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/privacy-policy-generator.svg",
-      "iconStyle": null,
-      "iconEmoji": null,
-      "screenshot": null,
-      "category": "web",
-      "platform": "Web",
-      "stars": 2
-    },
-    {
-      "id": "git-rewrite-commits",
-      "name": "git-rewrite-commits",
-      "subtitle": "AI-Powered Commit Message Rewriter",
+      "id": "libredirect-instances-list",
+      "name": "LibRedirect Instances List",
+      "subtitle": "Browse privacy-friendly frontend instances.",
       "icon": null,
-      "iconStyle": {},
-      "iconEmoji": "✍️",
-      "screenshot": "https://raw.githubusercontent.com/f/git-rewrite-commits/master/git-rewrite-commits.png",
-      "category": "cli",
-      "platform": "Node.js",
-      "stars": 1418,
-      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/git-rewrite-commits.jpg"
+      "iconStyle": null,
+      "iconEmoji": "🛡️",
+      "screenshot": "https://opengraph.githubassets.com/1/sametcn99/libredirect-instances-list",
+      "category": "web",
+      "platform": "Web",
+      "stars": 2,
+      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/libredirect-instances-list.jpg"
     },
     {
-      "id": "rolecraft",
-      "name": "RoleCraft",
-      "subtitle": "The package manager for AI agents",
-      "icon": "https://raw.githubusercontent.com/rolecraft-sh/rolecraft/main/assets/rolecraft_logo.png",
-      "iconStyle": {
-        "objectFit": "contain",
-        "bgColor": "#ffffff",
-        "padding": "10%"
-      },
-      "iconEmoji": "📦",
-      "screenshot": "https://raw.githubusercontent.com/rolecraft-sh/rolecraft/main/assets/rolecraft-demo.gif",
-      "category": "cli",
-      "platform": "Node.js",
-      "stars": 75,
-      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/rolecraft.jpg"
-    },
-    {
-      "id": "github-repo-cleaner-ai",
-      "name": "GitHub Repo Organizer",
-      "subtitle": "AI-powered GitHub repository management",
-      "icon": "https://raw.githubusercontent.com/palamut62/github-repo-cleaner-ai/main/assets/icon.png",
-      "iconStyle": {
-        "borderRadius": "22%",
-        "objectFit": "cover"
-      },
-      "iconEmoji": null,
-      "screenshot": "https://raw.githubusercontent.com/palamut62/github-repo-cleaner-ai/main/screenshoot.png",
-      "category": "developer-tools",
-      "platform": "Desktop",
-      "stars": 0,
-      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/github-repo-cleaner-ai.jpg"
-    },
-    {
-      "id": "mergen-ade",
-      "name": "Mergen ADE",
-      "subtitle": "Organize multiple project terminals in one native workspace",
-      "icon": "https://raw.githubusercontent.com/furkancak1r/mergen-ade/main/logo.png",
+      "id": "orbital-drift",
+      "name": "Orbital Drift",
+      "subtitle": "Sci-fi landscapes with ambient radio",
+      "icon": "https://presque.cool/orbital-drift/icons/icon-512.png",
       "iconStyle": null,
       "iconEmoji": null,
-      "screenshot": "https://raw.githubusercontent.com/furkancak1r/mergen-ade/main/mergen-screenshot.png",
-      "category": "developer-tools",
-      "platform": "macOS",
-      "stars": 6,
-      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/mergen-ade.jpg"
-    },
-    {
-      "id": "hivedue",
-      "name": "HiveDue",
-      "subtitle": "Community Finance Management",
-      "icon": "https://buhane.ams3.cdn.digitaloceanspaces.com/vynix/icons/hivedue-512.png",
-      "iconStyle": null,
-      "iconEmoji": "🏢",
       "screenshot": null,
+      "category": "web",
+      "platform": "Web",
+      "stars": 0,
+      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/orbital-drift.jpg"
+    },
+    {
+      "id": "agent-chess",
+      "name": "Agent Chess",
+      "subtitle": "Local chess matches for AI agents",
+      "icon": "https://raw.githubusercontent.com/shametim/agent-chess/main/logo.png",
+      "iconStyle": null,
+      "iconEmoji": "♟️",
+      "screenshot": "https://raw.githubusercontent.com/shametim/agent-chess/main/docs/agent-chess-cli.png",
+      "category": "cli",
+      "platform": "Node.js",
+      "stars": 0,
+      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/agent-chess.jpg"
+    },
+    {
+      "id": "poke-gate",
+      "name": "Poke Gate",
+      "subtitle": "Remote OS Access for Poke AI",
+      "icon": "https://raw.githubusercontent.com/f/poke-gate/main/assets/logo.png",
+      "iconStyle": {
+        "scale": 1.3,
+        "objectFit": "cover",
+        "borderRadius": "22%"
+      },
+      "iconEmoji": null,
+      "screenshot": null,
+      "category": "cli",
+      "platform": "macOS / Node.js",
+      "stars": 81,
+      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/poke-gate.jpg"
+    },
+    {
+      "id": "findutils-windows-update-settings-generator",
+      "name": "Windows Update Settings Generator",
+      "subtitle": "Generate .",
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/windows-update-settings-generator.svg",
+      "iconStyle": null,
+      "iconEmoji": null,
+      "screenshot": null,
+      "category": "developer-tools",
+      "platform": "Web",
+      "stars": 2
+    },
+    {
+      "id": "gpvblazor",
+      "name": "GPVBlazor",
+      "subtitle": "Explore GitHub profiles, repos, gists, and star history.",
+      "icon": "https://gpv.sametcc.me/icons/icon512.png",
+      "iconStyle": null,
+      "iconEmoji": "📈",
+      "screenshot": "https://opengraph.githubassets.com/1/sametcn99/GPVBlazor",
+      "category": "developer-tools",
+      "platform": "Web",
+      "stars": 0,
+      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/gpvblazor.jpg"
+    },
+    {
+      "id": "my-net-worth",
+      "name": "My Net Worth",
+      "subtitle": "All your stocks, ETFs, crypto wallets, 401(k), on one page",
+      "icon": "https://mynetworthone.com/icon-full.png",
+      "iconStyle": null,
+      "iconEmoji": null,
+      "screenshot": "https://mynetworthone.com/full-screenshot-light.png",
       "category": "productivity",
       "platform": "Web",
-      "stars": 1,
-      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/hivedue.jpg"
+      "stars": 0,
+      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/my-net-worth.jpg"
     },
     {
-      "id": "philnav",
-      "name": "PhilNav",
-      "subtitle": "Infrared head mouse for hands-free computer control",
-      "icon": "https://public-files.gumroad.com/0nnvduycqqoj9l0bvocbiw2fclq9",
+      "id": "prompts-chat-book",
+      "name": "The Interactive Book of Prompting",
+      "subtitle": "An Interactive Guide to AI Prompts",
+      "icon": "https://public-files.gumroad.com/hi3ruhodzjsspr6lg7h5if7hir9g",
+      "iconStyle": {
+        "scale": 1,
+        "objectFit": "contain",
+        "bgColor": "#000000",
+        "padding": "0"
+      },
+      "iconEmoji": null,
+      "screenshot": "https://prompts.chat/_next/image?url=%2Fbook-cover-photo.jpg&w=3840&q=75&dpl=dpl_F29LRFNhru548nrCnC6hVC8tM36p",
+      "category": "productivity",
+      "platform": "Web",
+      "stars": 168270,
+      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/prompts-chat-book.jpg"
+    },
+    {
+      "id": "findutils-report-card-generator",
+      "name": "Report Card",
+      "subtitle": "Create professional report cards with automatic GPA calculation.",
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/report-card-generator.svg",
+      "iconStyle": null,
+      "iconEmoji": null,
+      "screenshot": null,
+      "category": "utilities",
+      "platform": "Web",
+      "stars": 2
+    },
+    {
+      "id": "findutils-savings-calculator",
+      "name": "Savings Calculator",
+      "subtitle": "Calculate savings growth with compound interest and regular contributions.",
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/savings-calculator.svg",
+      "iconStyle": null,
+      "iconEmoji": null,
+      "screenshot": null,
+      "category": "utilities",
+      "platform": "Web",
+      "stars": 2
+    },
+    {
+      "id": "tarih",
+      "name": "Tarih Altın Bilgiler",
+      "subtitle": "KPSS, YKS, LGS Tarih Soruları",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/a9/45/6fa94501-8c61-76d2-52da-43b5fd50e6f9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "iconStyle": {
         "objectFit": "cover",
-        "borderRadius": "16%"
+        "borderRadius": "22%"
       },
-      "iconEmoji": "🖱️",
-      "screenshot": "https://public-files.gumroad.com/0nnvduycqqoj9l0bvocbiw2fclq9",
-      "category": "productivity",
-      "platform": "Raspberry Pi + Desktop",
-      "stars": 5,
-      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/philnav.jpg"
-    },
-    {
-      "id": "findutils-pgp-encryption-tool",
-      "name": "PGP Encryption Tool",
-      "subtitle": "Generate PGP key pairs, encrypt messages with public keys, and decrypt conten...",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/pgp-encryption-tool.svg",
-      "iconStyle": null,
       "iconEmoji": null,
       "screenshot": null,
-      "category": "utilities",
-      "platform": "Web",
-      "stars": 2
-    },
-    {
-      "id": "findutils-privacy-policy-checker",
-      "name": "Privacy Policy Checker",
-      "subtitle": "Analyze privacy policies for data collection practices, user rights, security...",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/privacy-policy-checker.svg",
-      "iconStyle": null,
-      "iconEmoji": null,
-      "screenshot": null,
-      "category": "utilities",
-      "platform": "Web",
-      "stars": 2
+      "category": "education",
+      "platform": "iOS & Android",
+      "stars": 0,
+      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/tarih.jpg"
     },
     {
       "id": "cosmographe",
@@ -269,20 +286,34 @@
       "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/cosmographe.jpg"
     },
     {
-      "id": "ehliyet",
-      "name": "Ehliyet Sınav Soruları",
-      "subtitle": "Sürücü Belgesi Sınavı Hazırlık",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/2a/f6/032af692-9463-dc94-a4df-386172446451/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "id": "macabolic",
+      "name": "Macabolic",
+      "subtitle": "A video and audio downloader for macOS",
+      "icon": "https://raw.githubusercontent.com/alinuxpengui/Macabolic/main/Macabolic/Resources/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
       "iconStyle": {
+        "scale": 1.3,
         "objectFit": "cover",
         "borderRadius": "22%"
       },
       "iconEmoji": null,
-      "screenshot": null,
-      "category": "education",
-      "platform": "iOS & Android",
+      "screenshot": "https://raw.githubusercontent.com/alinuxpengui/Macabolic/refs/heads/main/Screenshots/ss1.png",
+      "category": "entertainment",
+      "platform": "macOS",
+      "stars": 356,
+      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/macabolic.jpg"
+    },
+    {
+      "id": "soundshift",
+      "name": "SoundShift",
+      "subtitle": "Discover how your music taste evolved",
+      "icon": null,
+      "iconStyle": null,
+      "iconEmoji": "🎵",
+      "screenshot": "https://raw.githubusercontent.com/apo-bozdag/SoundShift/main/ss/1.png",
+      "category": "entertainment",
+      "platform": "Web",
       "stars": 0,
-      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/ehliyet.jpg"
+      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/soundshift.jpg"
     },
     {
       "id": "galactic-striker",
@@ -292,23 +323,10 @@
       "iconStyle": null,
       "iconEmoji": "🚀",
       "screenshot": null,
-      "category": "entertainment",
+      "category": "games",
       "platform": "Desktop (Python)",
       "stars": 1,
       "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/galactic-striker.jpg"
-    },
-    {
-      "id": "neon-gen",
-      "name": "NEON:GEN",
-      "subtitle": "Evangelion-style episode title cards",
-      "icon": "https://presque.cool/neon-gen/icons/icon-512.png",
-      "iconStyle": null,
-      "iconEmoji": null,
-      "screenshot": null,
-      "category": "entertainment",
-      "platform": "Web",
-      "stars": 0,
-      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/neon-gen.jpg"
     },
     {
       "id": "nexus",
@@ -324,19 +342,6 @@
       "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/nexus.jpg"
     },
     {
-      "id": "wordle",
-      "name": "Wordle Game",
-      "subtitle": "Word guessing game.",
-      "icon": "https://my-store-six-ruby.vercel.app/assets/word-game-logo-CEXOfg9W.png",
-      "iconStyle": null,
-      "iconEmoji": null,
-      "screenshot": "https://my-store-six-ruby.vercel.app/assets/1-BFyt7Gyl.png",
-      "category": "games",
-      "platform": "React Native",
-      "stars": 0,
-      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/wordle.jpg"
-    },
-    {
       "id": "ha-bluetooth-audio-manager",
       "name": "Bluetooth Audio Manager",
       "subtitle": "A2DP Bluetooth audio for Home Assistant",
@@ -346,7 +351,7 @@
       "screenshot": "https://github.com/user-attachments/assets/a1dd24b9-9f99-4049-80fc-918e3a5f8909",
       "category": "music",
       "platform": "Docker",
-      "stars": 59,
+      "stars": 64,
       "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/ha-bluetooth-audio-manager.jpg"
     },
     {
@@ -389,33 +394,33 @@
       "screenshot": "https://raw.githubusercontent.com/fatihkan/wallnetic/main/docs/assets/1.png",
       "category": "photo-video",
       "platform": "macOS",
-      "stars": 52,
+      "stars": 54,
       "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/wallnetic.jpg"
     },
     {
-      "id": "a-flower-a-day",
-      "name": "A Flower A Day",
-      "subtitle": "A unique watercolor flower, every day",
-      "icon": "https://presque.cool/a-flower-a-day/icons/icon-512.png",
-      "iconStyle": null,
-      "iconEmoji": null,
-      "screenshot": null,
-      "category": "graphics-design",
-      "platform": "Web",
-      "stars": 0,
-      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/a-flower-a-day.jpg"
-    },
-    {
-      "id": "findutils-box-shadow-generator",
-      "name": "CSS Box Shadow Generator",
-      "subtitle": "Generate CSS box shadows visually with live preview.",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/box-shadow-generator.svg",
+      "id": "findutils-3d-model-viewer",
+      "name": "3D Model Viewer",
+      "subtitle": "View and inspect GLTF and GLB 3D models directly in your browser.",
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/3d-model-viewer.svg",
       "iconStyle": null,
       "iconEmoji": null,
       "screenshot": null,
       "category": "graphics-design",
       "platform": "Web",
       "stars": 2
+    },
+    {
+      "id": "findutils-css-animation-generator",
+      "name": "CSS Animation Generator",
+      "subtitle": "Create custom CSS animations with a visual keyframe timeline editor.",
+      "icon": null,
+      "iconStyle": null,
+      "iconEmoji": "🎨",
+      "screenshot": null,
+      "category": "graphics-design",
+      "platform": "Web",
+      "stars": 2,
+      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/findutils-css-animation-generator.jpg"
     },
     {
       "id": "generic-nft-mint",
@@ -444,19 +449,6 @@
       "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/hivedue.jpg"
     },
     {
-      "id": "moodjot",
-      "name": "MoodJot",
-      "subtitle": "Mood Tracker Journal",
-      "icon": "https://buhane.ams3.cdn.digitaloceanspaces.com/vynix/icons/moodjot-512.png",
-      "iconStyle": null,
-      "iconEmoji": null,
-      "screenshot": null,
-      "category": "health-fitness",
-      "platform": "iOS & Android",
-      "stars": 1,
-      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/moodjot.jpg"
-    },
-    {
       "id": "whistle-sos",
       "name": "Whistle SOS",
       "subtitle": "Emergency Whistle for Earthquake Situations",
@@ -473,32 +465,46 @@
       "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/whistle-sos.jpg"
     },
     {
-      "id": "seasons-solstice-tracker",
-      "name": "Seasons: Solstice Tracker",
-      "subtitle": "Moon, Progress & Widgets",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/a0/bb/03a0bb0a-e3e9-b128-17cf-cc4372f0bdd5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "iconStyle": {
-        "borderRadius": "22%"
-      },
-      "iconEmoji": "🌗",
+      "id": "astralpost",
+      "name": "AstralPost",
+      "subtitle": "The Universe Is Listening",
+      "icon": "https://buhane.ams3.cdn.digitaloceanspaces.com/vynix/icons/astralpost-512.png",
+      "iconStyle": null,
+      "iconEmoji": "✨",
       "screenshot": null,
+      "category": "health-fitness",
+      "platform": "iOS & Android",
+      "stars": 1,
+      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/astralpost.jpg"
+    },
+    {
+      "id": "paus",
+      "name": "paus",
+      "subtitle": "Think before you spend by seeing prices in work hours.",
+      "icon": "https://raw.githubusercontent.com/mustafademiray/pausapp/main/paus_logo.png",
+      "iconStyle": null,
+      "iconEmoji": "⏸️",
+      "screenshot": "https://raw.githubusercontent.com/mustafademiray/pausapp/main/appstore_img_en_1.png",
       "category": "lifestyle",
       "platform": "iOS",
       "stars": 0,
-      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/seasons-solstice-tracker.jpg"
+      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/paus.jpg"
     },
     {
-      "id": "damga",
-      "name": "Damga",
-      "subtitle": "Digitalized loyalty cards.",
-      "icon": "https://my-store-six-ruby.vercel.app/assets/damga-logo-p5IeWNAL.png",
-      "iconStyle": null,
+      "id": "baby-sleeper",
+      "name": "Baby Sleeper",
+      "subtitle": "Soothing Sounds & Lullabies for Babies",
+      "icon": "https://play-lh.googleusercontent.com/lUVE3_TOvgVdRentWDpLwDj-qq5j2N4ciZvehsfrWBL-VuHNSesqOauqSvL4kaGjZDI=w240-h480-rw",
+      "iconStyle": {
+        "objectFit": "cover",
+        "borderRadius": "22%"
+      },
       "iconEmoji": null,
-      "screenshot": "https://my-store-six-ruby.vercel.app/assets/1-CwKcGcxW.png",
+      "screenshot": null,
       "category": "lifestyle",
-      "platform": "React Native",
-      "stars": 0,
-      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/damga.jpg"
+      "platform": "Android",
+      "stars": 2,
+      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/baby-sleeper.jpg"
     },
     {
       "id": "worldmonitor",
@@ -514,23 +520,6 @@
       "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/worldmonitor.jpg"
     },
     {
-      "id": "dodocount",
-      "name": "DodoCount",
-      "subtitle": "Google Analytics in your menu bar",
-      "icon": "https://raw.githubusercontent.com/DodoApps/dodocount/main/dodocount.png",
-      "iconStyle": {
-        "scale": 1.3,
-        "objectFit": "cover",
-        "borderRadius": "22%"
-      },
-      "iconEmoji": null,
-      "screenshot": null,
-      "category": "business",
-      "platform": "macOS",
-      "stars": 0,
-      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/dodocount.jpg"
-    },
-    {
       "id": "reviseflow",
       "name": "ReviseFlow",
       "subtitle": "Client feedback, zero back-and-forth",
@@ -542,6 +531,19 @@
       "platform": "Web",
       "stars": 0,
       "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/reviseflow.jpg"
+    },
+    {
+      "id": "cre-flyer-maker",
+      "name": "CRE Flyer Maker",
+      "subtitle": "Flyer maker for CRE brokers",
+      "icon": null,
+      "iconStyle": null,
+      "iconEmoji": "🏢",
+      "screenshot": null,
+      "category": "business",
+      "platform": "iOS",
+      "stars": 0,
+      "showcase_image": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/showcase/cre-flyer-maker.jpg"
     },
     {
       "id": "marvel-archive",
