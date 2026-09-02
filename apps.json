@@ -274,8 +274,8 @@
       "github": "https://github.com/f/agentlytics",
       "homepage": "https://agentlytics.io",
       "language": "JavaScript",
-      "stars": 569,
-      "forks": 83,
+      "stars": 571,
+      "forks": 82,
       "installCommand": "npx agentlytics",
       "requirements": "Node.js 20.19+ or 22.12+, macOS",
       "features": [
@@ -11724,7 +11724,7 @@
       "_store": "scyto",
       "_storeUrl": "",
       "developer": "scyto",
-      "stars": 64,
+      "stars": 65,
       "forks": 6
     },
     {
@@ -11835,7 +11835,7 @@
         "https://ilkerbalcilar.com/images/projects/hono-telescope/hono-telescope-query-inspector.webp",
         "https://ilkerbalcilar.com/images/projects/hono-telescope/hono-telescope-logged-console-output.webp"
       ],
-      "stars": 27,
+      "stars": 26,
       "forks": 0,
       "_source": "Jubstaaa/appetit",
       "_owner": "Jubstaaa",
@@ -13489,8 +13489,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 168488,
-      "forks": 21716,
+      "stars": 168550,
+      "forks": 21723,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -13533,8 +13533,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 168488,
-      "forks": 21716,
+      "stars": 168550,
+      "forks": 21723,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -14075,7 +14075,7 @@
       "_store": "RoleCraft",
       "_storeUrl": "",
       "developer": "Samet ÇELİKBIÇAK",
-      "stars": 75,
+      "stars": 76,
       "forks": 25
     },
     {
@@ -14938,7 +14938,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 3707,
+      "stars": 3709,
       "forks": 258,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
