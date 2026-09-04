@@ -517,7 +517,7 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 352,
+      "stars": 353,
       "forks": 28
     },
     {
@@ -2922,6 +2922,34 @@
       "forks": 1
     },
     {
+      "id": "findutils-bookmarks-html-to-csv",
+      "name": "Bookmarks HTML to CSV",
+      "subtitle": "Turn a Chrome, Firefox, Edge or Safari bookmarks.html export into a CSV with ...",
+      "description": "Turn a Chrome, Firefox, Edge or Safari bookmarks.html export into a CSV with one row per link, carrying the folder path, the title and the date it was saved. Nothing is uploaded.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/convert/bookmarks-html-to-csv/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "Chrome and Edge: open the bookmark manager with Ctrl+Shift+O or Cmd+Option+B, click the three-dot menu at the top right, and choose Export bookmarks. Firefox: press Ctrl+Shift+O, open the Import and Backup menu, and choose Export Bookmarks to HTML. Safari: File, then Export, then Bookmarks. Brave, Vivaldi and Opera all follow Chrome's menu. Each writes the same Netscape format this page reads. All of them, because they all export the same format. The differences are cosmetic: Firefox adds a d...",
+      "icon": null,
+      "iconEmoji": "📦",
+      "_source": "olgunozoktas/findutils-tools",
+      "_owner": "olgunozoktas",
+      "_developer": "Olgun Özoktaş",
+      "_store": "FindUtils",
+      "_storeUrl": "https://x.com/codewitholgun",
+      "developer": "Olgun Özoktaş",
+      "stars": 2,
+      "forks": 1,
+      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-bookmarks-html-to-csv.jpg"
+    },
+    {
       "id": "findutils-bot-crawl-checker",
       "name": "Bot Crawl Checker",
       "subtitle": "Check if your URL is accessible to 24 well-known search engine crawlers, AI b...",
@@ -3792,6 +3820,34 @@
       "developer": "Olgun Özoktaş",
       "stars": 2,
       "forks": 1
+    },
+    {
+      "id": "findutils-csv-to-bookmarks-html",
+      "name": "CSV to Bookmarks HTML",
+      "subtitle": "Turn a spreadsheet of links into a bookmarks.html file that Chrome, Firefox, ...",
+      "description": "Turn a spreadsheet of links into a bookmarks.html file that Chrome, Firefox, Edge and Safari import. Folder paths become real folders. Nothing is uploaded.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/convert/csv-to-bookmarks-html/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "One: the address. Name it url, href, link or address and it is found automatically. A title column named title, name or label and a folder column named folder, folder_path or path are optional but usually worth having. An add_date column is read when it holds an ISO date or a unix timestamp. Matching ignores case, spaces and punctuation, so folder_path and Folder Path are the same name. Chrome and Edge: open the bookmark manager with Ctrl+Shift+O or Cmd+Option+B, then the three-dot menu, then...",
+      "icon": null,
+      "iconEmoji": "📦",
+      "_source": "olgunozoktas/findutils-tools",
+      "_owner": "olgunozoktas",
+      "_developer": "Olgun Özoktaş",
+      "_store": "FindUtils",
+      "_storeUrl": "https://x.com/codewitholgun",
+      "developer": "Olgun Özoktaş",
+      "stars": 2,
+      "forks": 1,
+      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-csv-to-bookmarks-html.jpg"
     },
     {
       "id": "findutils-csv-to-excel",
@@ -11019,6 +11075,34 @@
       "forks": 1
     },
     {
+      "id": "findutils-vcf-to-csv",
+      "name": "VCF to CSV",
+      "subtitle": "Turn an iPhone, Android, Gmail or Outlook .vcf contacts export into a CSV wit...",
+      "description": "Turn an iPhone, Android, Gmail or Outlook .vcf contacts export into a CSV with one row per contact. Names, phones, emails and addresses in their own columns. Photos are left out and nothing is uplo...",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/convert/vcf-to-csv/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "iPhone: the simplest whole-book route is iCloud.com, Contacts, select all, then the gear menu and Export vCard. Android: Contacts app, Settings, then Export to .vcf file. Gmail: Google Contacts, Export, and choose the vCard option. Outlook desktop: select the contacts in the People view, then File and Save As, or use Import/Export for the whole folder. All of them produce the multi-card file this page reads. Yes. A .vcf export is one file holding one card after another, and every card in it i...",
+      "icon": null,
+      "iconEmoji": "📦",
+      "_source": "olgunozoktas/findutils-tools",
+      "_owner": "olgunozoktas",
+      "_developer": "Olgun Özoktaş",
+      "_store": "FindUtils",
+      "_storeUrl": "https://x.com/codewitholgun",
+      "developer": "Olgun Özoktaş",
+      "stars": 2,
+      "forks": 1,
+      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-vcf-to-csv.jpg"
+    },
+    {
       "id": "findutils-video-compressor",
       "name": "Video Compressor",
       "subtitle": "Compress video files online without uploading.",
@@ -13366,7 +13450,7 @@
       "github": "https://github.com/f/mcptools",
       "homepage": null,
       "language": "Go",
-      "stars": 1623,
+      "stars": 1624,
       "forks": 126,
       "brew": "brew install f/mcptools/mcp",
       "requirements": "macOS, Linux, or Windows",
@@ -13844,7 +13928,7 @@
       "_store": "Yusuf's Apps",
       "_storeUrl": "",
       "developer": "Yusuf Altunbicak",
-      "stars": 29,
+      "stars": 30,
       "forks": 7,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/outlook365-cli.jpg"
     },
@@ -14485,8 +14569,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 169130,
-      "forks": 21769,
+      "stars": 169270,
+      "forks": 21774,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -14529,8 +14613,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 169130,
-      "forks": 21769,
+      "stars": 169270,
+      "forks": 21774,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -15351,7 +15435,7 @@
       "github": "https://github.com/f/shelf",
       "homepage": null,
       "language": "Swift",
-      "stars": 31,
+      "stars": 32,
       "forks": 3,
       "brew": "brew install f/shelf/shelf",
       "downloadUrl": "https://github.com/f/shelf/releases/latest",
