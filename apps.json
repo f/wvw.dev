@@ -274,7 +274,7 @@
       "github": "https://github.com/f/agentlytics",
       "homepage": "https://agentlytics.io",
       "language": "JavaScript",
-      "stars": 572,
+      "stars": 573,
       "forks": 82,
       "installCommand": "npx agentlytics",
       "requirements": "Node.js 20.19+ or 22.12+, macOS",
@@ -621,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3949,
+      "stars": 3950,
       "forks": 641,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1437,7 +1437,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3949,
+      "stars": 3950,
       "forks": 641,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -3820,6 +3820,34 @@
       "forks": 1
     },
     {
+      "id": "findutils-csv-to-ics",
+      "name": "CSV to ICS",
+      "subtitle": "Turn a spreadsheet of events into an .ics file that Google Calendar, Apple Ca...",
+      "description": "Turn a spreadsheet of events into an .ics file that Google Calendar, Apple Calendar and Outlook import. Columns are matched by name, each row needs a title and a start, and nothing is uploaded.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/convert/csv-to-ics/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "Title: Subject, Title, Summary, Event or Name. Start: Start Date, Start, Date or Begin. Start time: Start Time or Time. End: End Date, End, Until or To. End time: End Time. All day: All Day Event or All Day. Description: Description, Notes, Details or Body. Location: Location, Place, Where or Venue. Also Private, UID, URL, Categories and Time Zone. Matching ignores case, spaces and punctuation. If the header uses other names, the column map lets you pick each column. No. A timed row with no e...",
+      "icon": null,
+      "iconEmoji": "📦",
+      "_source": "olgunozoktas/findutils-tools",
+      "_owner": "olgunozoktas",
+      "_developer": "Olgun Özoktaş",
+      "_store": "FindUtils",
+      "_storeUrl": "https://x.com/codewitholgun",
+      "developer": "Olgun Özoktaş",
+      "stars": 2,
+      "forks": 1,
+      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-csv-to-ics.jpg"
+    },
+    {
       "id": "findutils-csv-to-sql",
       "name": "CSV to SQL",
       "subtitle": "Paste a CSV and get CREATE TABLE plus INSERT statements for PostgreSQL, MySQL...",
@@ -5524,6 +5552,34 @@
       "developer": "Olgun Özoktaş",
       "stars": 2,
       "forks": 1
+    },
+    {
+      "id": "findutils-ics-to-csv",
+      "name": "ICS to CSV",
+      "subtitle": "Turn a Google Calendar, Apple Calendar or Outlook .ics export into a CSV with...",
+      "description": "Turn a Google Calendar, Apple Calendar or Outlook .ics export into a CSV with one row per event. Times stay exactly as the file states them, recurrence rules are kept as text, and nothing is uploaded.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/convert/ics-to-csv/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "Google Calendar: open Settings, choose Import & export, and click Export; you get a zip with one .ics per calendar. Apple Calendar: select the calendar and choose File > Export > Export. Outlook desktop: File > Save Calendar, and choose the date range and detail level in the More Options dialog. Outlook on the web: Settings > Calendar > Shared calendars > Publish a calendar gives an ICS link you can download. No. Each time is written exactly as the file states it, and the timezone column name...",
+      "icon": null,
+      "iconEmoji": "📦",
+      "_source": "olgunozoktas/findutils-tools",
+      "_owner": "olgunozoktas",
+      "_developer": "Olgun Özoktaş",
+      "_store": "FindUtils",
+      "_storeUrl": "https://x.com/codewitholgun",
+      "developer": "Olgun Özoktaş",
+      "stars": 2,
+      "forks": 1,
+      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-ics-to-csv.jpg"
     },
     {
       "id": "findutils-image-caption-maker",
@@ -13789,7 +13845,7 @@
       "_storeUrl": "",
       "developer": "Yusuf Altunbicak",
       "stars": 29,
-      "forks": 6,
+      "forks": 7,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/outlook365-cli.jpg"
     },
     {
@@ -14429,8 +14485,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 168866,
-      "forks": 21755,
+      "stars": 168977,
+      "forks": 21761,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -14473,8 +14529,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 168866,
-      "forks": 21755,
+      "stars": 168977,
+      "forks": 21761,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -16284,7 +16340,7 @@
       "_store": "Wallnetic",
       "_storeUrl": "",
       "developer": "Fatih Kan",
-      "stars": 56,
+      "stars": 57,
       "forks": 3
     },
     {
