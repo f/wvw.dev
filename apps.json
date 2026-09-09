@@ -517,7 +517,7 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 358,
+      "stars": 359,
       "forks": 28
     },
     {
@@ -621,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3954,
+      "stars": 3953,
       "forks": 642,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1437,7 +1437,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3954,
+      "stars": 3953,
       "forks": 642,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -2818,6 +2818,34 @@
       "forks": 1
     },
     {
+      "id": "findutils-avif-to-jpg",
+      "name": "AVIF to JPG",
+      "subtitle": "Convert .avif images to JPG, PNG, or WebP in your browser.",
+      "description": "Convert .avif images to JPG, PNG, or WebP in your browser. The files are decoded on your device and never uploaded. Drop a batch, download a single zip.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/convert/avif-to-jpg/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "No. Your browser's own AVIF decoder reads the file, and a WebAssembly decoder built from libavif takes over on the device when the browser cannot. The image bytes never leave your machine. You can verify it yourself: open your browser's network panel before you drop a file, and you will see no request carrying the image. AVIF is a modern image format built on the AV1 video codec, and it usually makes a much smaller file than a JPEG of similar visual quality. Image CDNs and site build pipeline...",
+      "icon": null,
+      "iconEmoji": "📦",
+      "_source": "olgunozoktas/findutils-tools",
+      "_owner": "olgunozoktas",
+      "_developer": "Olgun Özoktaş",
+      "_store": "FindUtils",
+      "_storeUrl": "https://x.com/olgunozoktas",
+      "developer": "Olgun Özoktaş",
+      "stars": 2,
+      "forks": 1,
+      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-avif-to-jpg.jpg"
+    },
+    {
       "id": "findutils-barcode-generator",
       "name": "Barcode Generator",
       "subtitle": "Generate Code 128, Code 39, EAN-13, EAN-8, and UPC-A barcodes in your browser.",
@@ -3904,6 +3932,34 @@
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-csv-to-ics.jpg"
     },
     {
+      "id": "findutils-csv-to-ndjson",
+      "name": "CSV to NDJSON",
+      "subtitle": "Convert a spreadsheet CSV into newline-delimited JSON (.ndjson, .jsonl) in yo...",
+      "description": "Convert a spreadsheet CSV into newline-delimited JSON (.ndjson, .jsonl) in your browser: one JSON object per line, keyed by the header row, with optional type coercion. Nothing is uploaded.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/convert/csv-to-ndjson/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "None in the content. Both hold one JSON object per line with line-feed separators. .ndjson stands for newline-delimited JSON and .jsonl for JSON Lines. The download is named .ndjson; rename it to .jsonl if a loader checks the extension. A CSV carries no types, so 007, 1e5 and a phone number are all just text. Turning text into numbers by guessing is how a zip code loses its leading zero. Values stay strings unless you turn on Coerce types, and then only true, false, null, an empty cell and a ...",
+      "icon": null,
+      "iconEmoji": "📦",
+      "_source": "olgunozoktas/findutils-tools",
+      "_owner": "olgunozoktas",
+      "_developer": "Olgun Özoktaş",
+      "_store": "FindUtils",
+      "_storeUrl": "https://x.com/olgunozoktas",
+      "developer": "Olgun Özoktaş",
+      "stars": 2,
+      "forks": 1,
+      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-csv-to-ndjson.jpg"
+    },
+    {
       "id": "findutils-csv-to-sql",
       "name": "CSV to SQL",
       "subtitle": "Paste a CSV and get CREATE TABLE plus INSERT statements for PostgreSQL, MySQL...",
@@ -4622,6 +4678,34 @@
       "developer": "Olgun Özoktaş",
       "stars": 2,
       "forks": 1
+    },
+    {
+      "id": "findutils-env-json-converter",
+      "name": "Env JSON Converter",
+      "subtitle": "Turn a .env file into a flat JSON object, or JSON back into KEY=value lines, ...",
+      "description": "Turn a .env file into a flat JSON object, or JSON back into KEY=value lines, in your browser. Values stay strings like process.env. Secrets are not uploaded.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/developers/env-json-converter/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "No. The conversion runs in your browser and no request carries the text. This is why the tool has no REST or MCP version: the input is usually secrets, and the safest server is no server. Third-party analytics and ads may still load on the page, as on the rest of the site. Because a dotenv loader hands every value to the process as a string. PORT=3000 becomes \"3000\" in process.env, so the JSON says \"3000\" too. Turn on Infer types when the consumer expects real numbers and booleans; unquoted i...",
+      "icon": null,
+      "iconEmoji": "📦",
+      "_source": "olgunozoktas/findutils-tools",
+      "_owner": "olgunozoktas",
+      "_developer": "Olgun Özoktaş",
+      "_store": "FindUtils",
+      "_storeUrl": "https://x.com/olgunozoktas",
+      "developer": "Olgun Özoktaş",
+      "stars": 2,
+      "forks": 1,
+      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-env-json-converter.jpg"
     },
     {
       "id": "findutils-env-linter",
@@ -5638,6 +5722,34 @@
       "forks": 1
     },
     {
+      "id": "findutils-icns-to-png",
+      "name": "ICNS to PNG",
+      "subtitle": "Extract Mac app icons from .icns files as PNG in your browser.",
+      "description": "Extract Mac app icons from .icns files as PNG in your browser. Nothing is uploaded. Take the largest size on its own, or every size in the file as a zip.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/convert/icns-to-png/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "No. The .icns container is parsed inside your browser tab, and the file bytes never leave your device. You can verify it yourself: open your browser's network panel before you drop a file, and you will see no request carrying the icon. It is the container macOS uses for an application icon. One file holds the same icon at many sizes at once, from 16 pixels up to 1024, in both 1x and 2x scale, so the system can pick the right one for the Dock, the Finder list, or a large preview. Inside the ap...",
+      "icon": null,
+      "iconEmoji": "📦",
+      "_source": "olgunozoktas/findutils-tools",
+      "_owner": "olgunozoktas",
+      "_developer": "Olgun Özoktaş",
+      "_store": "FindUtils",
+      "_storeUrl": "https://x.com/olgunozoktas",
+      "developer": "Olgun Özoktaş",
+      "stars": 2,
+      "forks": 1,
+      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-icns-to-png.jpg"
+    },
+    {
       "id": "findutils-ics-to-csv",
       "name": "ICS to CSV",
       "subtitle": "Turn a Google Calendar, Apple Calendar or Outlook .ics export into a CSV with...",
@@ -5775,7 +5887,7 @@
       "id": "findutils-image-converter",
       "name": "Image Format Converter",
       "subtitle": "Convert images between formats instantly.",
-      "description": "Convert images between formats instantly. Support for PNG, JPEG, WebP, GIF, BMP, and ICO. Fast, and completely private. HEIC files from an iPhone are not supported here - use the HEIC to JPG conver...",
+      "description": "Convert images between formats instantly. Support for PNG, JPEG, WebP, GIF, BMP, and ICO. Fast, and completely private. HEIC, AVIF, TIFF, and ICNS files have their own converters: HEIC to JPG, AVIF...",
       "category": [
         "utilities",
         "web"
@@ -6644,8 +6756,8 @@
     {
       "id": "findutils-json-to-invoice",
       "name": "JSON to Invoice",
-      "subtitle": "Generate professional invoices from JSON data.",
-      "description": "Generate professional invoices from JSON data. Automatically calculate totals, taxes, and create printable invoice documents. Export as PNG or copy HTML.",
+      "subtitle": "Render an invoice from JSON line items with totals and taxes calculated.",
+      "description": "Render an invoice from JSON line items with totals and taxes calculated. Export as PNG or copy the HTML. For a PDF, use the Finance Invoice Generator.",
       "category": [
         "utilities",
         "web"
@@ -7188,6 +7300,34 @@
       "developer": "Olgun Özoktaş",
       "stars": 2,
       "forks": 1
+    },
+    {
+      "id": "findutils-json-toml-converter",
+      "name": "JSON TOML Converter",
+      "subtitle": "Convert a JSON object to TOML 1.0 or TOML back to JSON in your browser.",
+      "description": "Convert a JSON object to TOML 1.0 or TOML back to JSON in your browser. Tables, arrays of tables and inline arrays handled; nulls dropped or emptied, your choice.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/developers/json-toml-converter/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "TOML has no null. With Nulls set to Drop, the key is left out; with Empty string, it is written as \"\". The keys that changed are listed under Notes either way, including nulls inside arrays. A TOML document is a table of keys, so a JSON array or a bare value has nowhere to go. Wrap the array in an object, for example {\"items\": [...]}, and it becomes an inline array or an array of tables. As arrays of tables: each element becomes a [[name]] block in order. Arrays of scalars stay inline, such a...",
+      "icon": null,
+      "iconEmoji": "📦",
+      "_source": "olgunozoktas/findutils-tools",
+      "_owner": "olgunozoktas",
+      "_developer": "Olgun Özoktaş",
+      "_store": "FindUtils",
+      "_storeUrl": "https://x.com/olgunozoktas",
+      "developer": "Olgun Özoktaş",
+      "stars": 2,
+      "forks": 1,
+      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-json-toml-converter.jpg"
     },
     {
       "id": "findutils-json-visualizer",
@@ -8009,6 +8149,34 @@
       "stars": 2,
       "forks": 1,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-mute-video.jpg"
+    },
+    {
+      "id": "findutils-ndjson-to-csv",
+      "name": "NDJSON to CSV",
+      "subtitle": "Convert newline-delimited JSON (.ndjson, .jsonl) into a flat CSV in your brow...",
+      "description": "Convert newline-delimited JSON (.ndjson, .jsonl) into a flat CSV in your browser. Nested keys become dot paths, the columns are the union of every row, a bad line is skipped and counted, and nothin...",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/convert/ndjson-to-csv/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "NDJSON stands for newline-delimited JSON. JSON Lines and JSONL are other names for the same format. A file holds one JSON value per line, usually one object, and the lines are separated by line feeds. The file as a whole is not one JSON document, so a parser that reads the whole text fails after the first line. That is why the JSON to CSV tool cannot read it and this page exists. Every key in every line goes into the header, in the order the keys first appear. If line 1 has id and name and li...",
+      "icon": null,
+      "iconEmoji": "📦",
+      "_source": "olgunozoktas/findutils-tools",
+      "_owner": "olgunozoktas",
+      "_developer": "Olgun Özoktaş",
+      "_store": "FindUtils",
+      "_storeUrl": "https://x.com/olgunozoktas",
+      "developer": "Olgun Özoktaş",
+      "stars": 2,
+      "forks": 1,
+      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-ndjson-to-csv.jpg"
     },
     {
       "id": "findutils-net-worth-calculator",
@@ -8962,6 +9130,34 @@
       "developer": "Olgun Özoktaş",
       "stars": 2,
       "forks": 1
+    },
+    {
+      "id": "findutils-properties-json-converter",
+      "name": "Properties JSON Converter",
+      "subtitle": "Convert Java .properties to nested or flat JSON, or flatten JSON back to dott...",
+      "description": "Convert Java .properties to nested or flat JSON, or flatten JSON back to dotted keys, in your browser. Continuations, \\uXXXX escapes, and # or ! comments handled.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/developers/properties-json-converter/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "It expands the dotted key into nested objects: {\"app\":{\"db\":{\"host\":\"...\"}}}. Keys with [0], [1] suffixes become arrays. Flat mode keeps app.db.host as a single JSON key. Because Properties.getProperty returns a string, so server.port=8080 is \"8080\" to the program. Turn on Numbers and booleans to promote clean integers, decimals, true and false. Values with leading zeros stay strings. Yes. A line ending in a single backslash continues onto the next line with that line's leading whitespace rem...",
+      "icon": null,
+      "iconEmoji": "📦",
+      "_source": "olgunozoktas/findutils-tools",
+      "_owner": "olgunozoktas",
+      "_developer": "Olgun Özoktaş",
+      "_store": "FindUtils",
+      "_storeUrl": "https://x.com/olgunozoktas",
+      "developer": "Olgun Özoktaş",
+      "stars": 2,
+      "forks": 1,
+      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-properties-json-converter.jpg"
     },
     {
       "id": "findutils-purchase-order-generator",
@@ -10708,6 +10904,34 @@
       "forks": 1
     },
     {
+      "id": "findutils-tiff-to-jpg",
+      "name": "TIFF to JPG",
+      "subtitle": "Convert .tif and .tiff files to JPG, PNG, or WebP in your browser.",
+      "description": "Convert .tif and .tiff files to JPG, PNG, or WebP in your browser. Every page of a multi-page scan becomes its own image. Nothing is uploaded anywhere.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/convert/tiff-to-jpg/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "No. The TIFF is decoded by UTIF, a JavaScript decoder originally written for Photopea, running inside your browser tab. The pixels go onto a canvas and are re-encoded there. Open your browser's network panel before you drop a file and you will see no request carrying it. Windows and macOS both display TIFF, so viewing is never the issue. Sending is. Web upload forms, WhatsApp and most messaging apps, LinkedIn and the other social networks, and many CMS and e-commerce product uploads accept JP...",
+      "icon": null,
+      "iconEmoji": "📦",
+      "_source": "olgunozoktas/findutils-tools",
+      "_owner": "olgunozoktas",
+      "_developer": "Olgun Özoktaş",
+      "_store": "FindUtils",
+      "_storeUrl": "https://x.com/olgunozoktas",
+      "developer": "Olgun Özoktaş",
+      "stars": 2,
+      "forks": 1,
+      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-tiff-to-jpg.jpg"
+    },
+    {
       "id": "findutils-time-difference-calculator",
       "name": "Time Difference Calculator",
       "subtitle": "Work out how long there is between two times of day, including a shift that r...",
@@ -10864,6 +11088,34 @@
       "developer": "Olgun Özoktaş",
       "stars": 2,
       "forks": 1
+    },
+    {
+      "id": "findutils-tsv-to-csv",
+      "name": "TSV to CSV",
+      "subtitle": "Convert tab-separated exports from psql, mysql and Excel into RFC 4180 CSV, a...",
+      "description": "Convert tab-separated exports from psql, mysql and Excel into RFC 4180 CSV, and CSV back into TSV, in your browser. Quoting is correct, values stay text, and nothing is uploaded.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/convert/tsv-to-csv/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "Because a value can contain a comma. Pipe, 5 inch becomes two cells and every column after it shifts by one. A value with a quote or a line break breaks the file in the same way. The CSV rule is to wrap such a value in quotes and double the inner quotes, and that is what this page does. Yes. Flip the direction toggle, or drop a .csv file and the page switches by itself. The CSV is read per RFC 4180, so a quoted comma stays inside its value, and the cells are joined with tabs. A cell that hold...",
+      "icon": null,
+      "iconEmoji": "📦",
+      "_source": "olgunozoktas/findutils-tools",
+      "_owner": "olgunozoktas",
+      "_developer": "Olgun Özoktaş",
+      "_store": "FindUtils",
+      "_storeUrl": "https://x.com/olgunozoktas",
+      "developer": "Olgun Özoktaş",
+      "stars": 2,
+      "forks": 1,
+      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-tsv-to-csv.jpg"
     },
     {
       "id": "findutils-twitter-post-generator",
@@ -11149,7 +11401,7 @@
       "homepage": "https://findutils.com/generate/uuid-generator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "UUID (Universally Unique Identifier) is a 128-bit identifier that's practically guaranteed to be unique. It's commonly used in databases, distributed systems, and software development to identify objects. UUID v1 uses timestamp and MAC address, v4 is random (most common), v5 uses namespace and SHA-1 hashing. Each version has different use cases and uniqueness guarantees. UUIDv4 has 122 random bits, making collisions astronomically unlikely (1 in 5.3x10^36). For practical purposes, you can gen...",
+      "longDescription": "UUID (Universally Unique Identifier) is a 128-bit identifier that's practically guaranteed to be unique. It's commonly used in databases, distributed systems, and software development to identify objects. This page generates four kinds. Version 4 is random and the usual choice. Version 7 (RFC 9562) starts with a Unix millisecond timestamp, so values sort by creation time. Version 1 (RFC 4122) starts with a 100-nanosecond timestamp and ends with a node id; this tool uses a random node id with ...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/uuid-generator.svg",
       "_source": "olgunozoktas/findutils-tools",
       "_owner": "olgunozoktas",
@@ -12178,8 +12430,8 @@
     {
       "id": "findutils-youtube-description-generator",
       "name": "YouTube Description Generator",
-      "subtitle": "Create professional, SEO-optimized YouTube video descriptions with timestamps...",
-      "description": "Create professional, SEO-optimized YouTube video descriptions with timestamps, links, and hashtags. Boost your video's discoverability and engagement.",
+      "subtitle": "Build YouTube video descriptions from a template: summary, chapter timestamps...",
+      "description": "Build YouTube video descriptions from a template: summary, chapter timestamps, links, social handles, hashtags, and a call to action. Runs in your browser. No AI, no ranking model.",
       "category": [
         "utilities",
         "web"
@@ -12190,7 +12442,7 @@
       "homepage": "https://findutils.com/generate/youtube-description-generator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "YouTube allows up to 5,000 characters. Aim for at least 250 words for better SEO, with the most important information in the first 150 characters. Yes! YouTube hashtags appear above your video title and help with discoverability. Use 3-5 relevant hashtags per video. Absolutely! Timestamps improve user experience and can appear in Google search results as key moments, increasing your video's visibility.",
+      "longDescription": "YouTube allows up to 5,000 characters. No length is known to rank better. Put the most useful information in the first 150 characters, because that is what YouTube shows before Show more. YouTube shows up to three hashtags above the video title and makes each one a link to a hashtag page, so a viewer can find related videos from there. Use 3 to 5 that match the video. This tool inserts the hashtags you type; it does not pick them. Yes. YouTube turns timestamps in MM:SS - Title form into chapt...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/youtube-description-generator.svg",
       "_source": "olgunozoktas/findutils-tools",
       "_owner": "olgunozoktas",
@@ -14737,8 +14989,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 169734,
-      "forks": 21839,
+      "stars": 169761,
+      "forks": 21844,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -14781,8 +15033,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 169734,
-      "forks": 21839,
+      "stars": 169761,
+      "forks": 21844,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
