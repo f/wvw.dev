@@ -435,7 +435,7 @@
       "github": "https://github.com/f/appetit",
       "homepage": "https://apps.fka.dev",
       "language": "JavaScript",
-      "stars": 49,
+      "stars": 50,
       "forks": 12,
       "requirements": "Any modern browser",
       "features": [
@@ -621,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3954,
+      "stars": 3956,
       "forks": 642,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1437,7 +1437,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3954,
+      "stars": 3956,
       "forks": 642,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -1723,7 +1723,7 @@
       "github": "https://github.com/DodoApps/dodoclip",
       "homepage": null,
       "language": "Swift",
-      "stars": 89,
+      "stars": 90,
       "forks": 6,
       "downloadUrl": null,
       "requirements": "macOS 14.0 or later",
@@ -12845,7 +12845,7 @@
       "homepage": "https://blog.fka.dev/git-rewrite-commits/",
       "language": "TypeScript",
       "stars": 1420,
-      "forks": 59,
+      "forks": 58,
       "installCommand": "npx git-rewrite-commits",
       "requirements": "Node.js, Git",
       "features": [
@@ -14989,8 +14989,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 169851,
-      "forks": 21844,
+      "stars": 169870,
+      "forks": 21846,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -15033,8 +15033,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 169851,
-      "forks": 21844,
+      "stars": 169870,
+      "forks": 21846,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -16562,7 +16562,7 @@
       "name": "Vakit",
       "subtitle": "Quran, Dhikr & Worship Tracker",
       "description": "Manage prayer times, Qibla, Quran, dhikr, and all your worship in one app.",
-      "longDescription": "Vakit is a comprehensive Islamic life app that helps you track prayer times, find qibla direction, read the Quran and Hadith, and manage all your worship from one place. With Lock Screen widgets, Dynamic Island support, and full offline capability, it delivers a modern worship experience.",
+      "longDescription": "Vakit is a comprehensive Islamic life app for iPhone, iPad, Apple Watch and Mac that helps you track prayer times, find qibla direction, read the Quran and Hadith, and manage all your worship from one place. With Lock Screen widgets, Dynamic Island support, 25 interface languages and full offline capability, it delivers a modern worship experience.",
       "icon": "https://vakit.hakancelik.dev/assets/app-icon-32.png",
       "iconEmoji": "🕌",
       "iconStyle": {
@@ -16581,9 +16581,9 @@
       "homepage": "https://vakit.hakancelik.dev",
       "language": "Swift",
       "downloadUrl": "https://apps.apple.com/app/id6748356813",
-      "requirements": "iOS 18+",
+      "requirements": "iOS 16.4+, watchOS 9+, macOS 13+",
       "features": [
-        "Prayer times with 22 calculation methods",
+        "Prayer times with 13 calculation methods",
         "Qibla compass",
         "Holy Quran (translation, tafsir, word-by-word analysis)",
         "36,390 hadith from 7 major collections",
@@ -16594,8 +16594,9 @@
         "Worship tracking & profile",
         "Live Activities & Dynamic Island",
         "Lock Screen widgets",
+        "Apple Watch and Mac apps",
         "Fully offline functionality",
-        "Turkish & English language support"
+        "25 interface languages (Quran and hadith translations in Turkish & English)"
       ],
       "screenshots": [],
       "_source": "hakancelikdev/vakit",
@@ -16844,8 +16845,8 @@
       "_store": "Wallnetic",
       "_storeUrl": "",
       "developer": "Fatih Kan",
-      "stars": 60,
-      "forks": 3
+      "stars": 61,
+      "forks": 4
     },
     {
       "id": "whisperwrap",
