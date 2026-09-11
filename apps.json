@@ -621,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3956,
+      "stars": 3957,
       "forks": 641,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1437,7 +1437,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3956,
+      "stars": 3957,
       "forks": 641,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -1883,7 +1883,7 @@
       "github": "https://github.com/DodoApps/dodopulse",
       "homepage": null,
       "language": "Swift",
-      "stars": 134,
+      "stars": 135,
       "forks": 14,
       "downloadUrl": null,
       "requirements": "macOS 12.0 or later",
@@ -2457,7 +2457,7 @@
       "platform": "Web",
       "price": "Free",
       "github": "https://github.com/olgunozoktas/findutils-tools",
-      "homepage": "https://findutils.com/developers/ai-agent-starter-guide/",
+      "homepage": "https://findutils.com/ai-agent-starter-guide/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "No. The guide runs entirely in your browser with simulated terminals and editors. You can learn prompting techniques, configuration patterns, and workflow tips without installing anything. When you are ready to apply what you learned, you can install the AI tool of your choice. If you want the most powerful agentic capabilities, start with Claude Code. If you prefer tight editor integration, start with GitHub Copilot. If you want an all-in-one AI editor, start with Cursor AI. Our AI Model Pic...",
@@ -2690,8 +2690,8 @@
     {
       "id": "findutils-audio-format-converter",
       "name": "Audio Format Converter",
-      "subtitle": "Convert audio files between MP3, WAV, OGG, and FLAC formats online.",
-      "description": "Convert audio files between MP3, WAV, OGG, and FLAC formats online. No upload required - all processing happens in your browser.",
+      "subtitle": "Convert audio between MP3, WAV, OGG, FLAC, and AAC in your browser.",
+      "description": "Convert audio between MP3, WAV, OGG, FLAC, and AAC in your browser. WAV output is always available; other formats appear when your browser can encode them.",
       "category": [
         "utilities",
         "web"
@@ -2702,7 +2702,7 @@
       "homepage": "https://findutils.com/media/audio-format-converter/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "You can convert from MP3, WAV, OGG, FLAC, and AAC. Output is currently available as WAV format. WAV is a lossless format, so the output preserves the full quality from your source. Converting to WAV won't add any compression artifacts. No, all processing happens entirely in your browser. Your files never leave your device.",
+      "longDescription": "Input covers MP3, WAV, OGG, FLAC, AAC and M4A. WAV output is always available, because it is written directly as lossless PCM. MP3, OGG (Opus), FLAC and AAC output depend on the encoders your browser ships, so the picker lists only the formats your browser can produce right now. No, not by itself. Converting to WAV adds no compression artifacts, because WAV stores lossless PCM. It also repairs nothing: decoding an MP3 or an AAC file to WAV keeps the quality that survived the first compression...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/audio-format-converter.svg",
       "_source": "olgunozoktas/findutils-tools",
       "_owner": "olgunozoktas",
@@ -2716,8 +2716,8 @@
     {
       "id": "findutils-audio-metadata-extractor",
       "name": "Audio Metadata Extractor",
-      "subtitle": "Extract audio metadata online - view sample rate, channels, bitrate, codec, a...",
-      "description": "Extract audio metadata online - view sample rate, channels, bitrate, codec, and duration. private, no upload to any server.",
+      "subtitle": "Read the sample rate, channel count, duration, estimated bitrate and MIME typ...",
+      "description": "Read the sample rate, channel count, duration, estimated bitrate and MIME type of an audio file. The file is decoded in your browser and is never uploaded.",
       "category": [
         "utilities",
         "web"
@@ -2728,7 +2728,7 @@
       "homepage": "https://findutils.com/media/audio-metadata-extractor/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "You can view file name, size, duration, sample rate, number of channels (mono/stereo), bitrate, and MIME type. Metadata helps verify audio specifications, troubleshoot playback issues, ensure compatibility, and understand quality settings. No, all analysis happens entirely in your browser. Your files never leave your device.",
+      "longDescription": "The report covers file name, file size, MIME type, duration, sample rate and channel count (mono or stereo), plus a bitrate figure. That bitrate is calculated from the file size divided by the duration rather than read from the stream, so it is an estimate and it will be off on a variable-bitrate file. Bit depth is not read. Metadata helps verify audio specifications, troubleshoot playback issues, ensure compatibility, and understand quality settings. No, not the file. The extractor decodes y...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/audio-metadata-extractor.svg",
       "_source": "olgunozoktas/findutils-tools",
       "_owner": "olgunozoktas",
@@ -2742,8 +2742,8 @@
     {
       "id": "findutils-audio-resampler",
       "name": "Audio Resampler",
-      "subtitle": "Change audio sample rate online.",
-      "description": "Change audio sample rate online. Convert 44.1kHz to 48kHz and more. Browser-based - no upload, no signup, no quality loss.",
+      "subtitle": "Change the sample rate of an audio file, 44.1 kHz to 48 kHz and back.",
+      "description": "Change the sample rate of an audio file, 44.1 kHz to 48 kHz and back. Runs in your browser, accepts files up to 100 MB and writes a lossless WAV.",
       "category": [
         "utilities",
         "web"
@@ -2754,7 +2754,7 @@
       "homepage": "https://findutils.com/media/audio-resampler/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Sample rate is the number of audio samples captured per second, measured in Hz. Higher sample rates capture more detail but create larger files. Common rates: 44.1 kHz for music, 48 kHz for video. 44.1 kHz is CD quality and good for music. 48 kHz is standard for video and streaming platforms. Use our Quick Presets for automatic recommendations based on your use case. Downsampling removes high-frequency content above the Nyquist frequency. Upsampling doesn't add new detail but can improve comp...",
+      "longDescription": "Sample rate is the number of audio samples captured per second, measured in Hz. Higher sample rates capture more detail but create larger files. Common rates: 44.1 kHz for music, 48 kHz for video. 44.1 kHz is CD quality and good for music. 48 kHz is standard for video and streaming platforms. Use our Quick Presets for automatic recommendations based on your use case. Yes, in one direction. Downsampling permanently removes the high-frequency content above the new Nyquist limit, so 48 kHz down ...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/audio-resampler.svg",
       "_source": "olgunozoktas/findutils-tools",
       "_owner": "olgunozoktas",
@@ -2780,7 +2780,7 @@
       "homepage": "https://findutils.com/media/audio-trimmer/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Yes, our audio trimmer is available with no hidden costs, watermarks, or limitations. No, all processing happens entirely in your browser. Your files never leave your device. We support MP3, WAV, OGG, FLAC, and AAC for input. Output is saved as WAV format.",
+      "longDescription": "Yes. The audio trimmer is free, with no signup, no watermark and no usage limit. It accepts files up to 100 MB and writes a lossless WAV. No, not the file. The audio is decoded and cut in your browser, and the tool code sends no part of it to a server. The page itself loads analytics and ad scripts, as most websites do, so a network monitor shows requests from those. They are separate from the tool code. Input covers MP3, WAV, OGG, FLAC and AAC, and the output is always a lossless WAV. Decodi...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/audio-trimmer.svg",
       "_source": "olgunozoktas/findutils-tools",
       "_owner": "olgunozoktas",
@@ -4335,8 +4335,8 @@
     {
       "id": "findutils-dns-lookup",
       "name": "DNS Lookup",
-      "subtitle": "DNS lookup tool - find An AAAA, MX, CNAME, NS, TXT, and SOA records for any d...",
-      "description": "DNS lookup tool - find An AAAA, MX, CNAME, NS, TXT, and SOA records for any domain. Fast, private, no signup required.",
+      "subtitle": "DNS lookup tool - find A, AAAA, MX, CNAME, NS, TXT, and SOA records for any d...",
+      "description": "DNS lookup tool - find A, AAAA, MX, CNAME, NS, TXT, and SOA records for any domain. Queries Google Public DNS over HTTPS. No signup required.",
       "category": [
         "utilities",
         "web"
@@ -4347,7 +4347,7 @@
       "homepage": "https://findutils.com/network/dns-lookup/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "A DNS lookup queries the Domain Name System to find the records associated with a domain name. These records map domain names to IP addresses (A/AAAA), mail servers (MX), name servers (NS), and other configuration data (TXT, CNAME, SOA). This tool supports An AAAA, MX, CNAME, NS, TXT, and SOA record types. A records map to IPv4 addresses, AAAA to IPv6, MX to mail servers, CNAME to domain aliases, NS to authoritative name servers, TXT for verification and policy data, and SOA for zone authorit...",
+      "longDescription": "A DNS lookup queries the Domain Name System to find the records associated with a domain name. These records map domain names to IP addresses (A/AAAA), mail servers (MX), name servers (NS), and other configuration data (TXT, CNAME, SOA). This tool supports A, AAAA, MX, CNAME, NS, TXT, and SOA record types. A records map to IPv4 addresses, AAAA to IPv6, MX to mail servers, CNAME to domain aliases, NS to authoritative name servers, TXT for verification and policy data, and SOA for zone authorit...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/dns-lookup.svg",
       "_source": "olgunozoktas/findutils-tools",
       "_owner": "olgunozoktas",
@@ -4383,6 +4383,34 @@
       "developer": "Olgun Özoktaş",
       "stars": 2,
       "forks": 1
+    },
+    {
+      "id": "findutils-docx-to-html",
+      "name": "DOCX to HTML",
+      "subtitle": "Drop a Word .docx and get clean semantic HTML for a CMS, a blog or an email e...",
+      "description": "Drop a Word .docx and get clean semantic HTML for a CMS, a blog or an email editor. Headings, lists, links, tables and emphasis are kept; fonts and layout are not. Nothing is uploaded.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/convert/docx-to-html/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "Kept: headings that use Word's Heading styles, paragraphs, bold and italic, underline and strikethrough, hyperlinks, bulleted and numbered lists, tables, and images if you turn the option on. Lost: fonts, colours, font sizes, text alignment, columns, page breaks, headers, footers and page layout. A website styles those for itself, so they are dropped rather than written as inline styles. Copy the fragment when the HTML goes into a CMS, a blog editor, a knowledge base or an email editor: those...",
+      "icon": null,
+      "iconEmoji": "📦",
+      "_source": "olgunozoktas/findutils-tools",
+      "_owner": "olgunozoktas",
+      "_developer": "Olgun Özoktaş",
+      "_store": "FindUtils",
+      "_storeUrl": "https://x.com/olgunozoktas",
+      "developer": "Olgun Özoktaş",
+      "stars": 2,
+      "forks": 1,
+      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-docx-to-html.jpg"
     },
     {
       "id": "findutils-docx-to-markdown",
@@ -5000,32 +5028,6 @@
       "forks": 1
     },
     {
-      "id": "findutils-free-music-library",
-      "name": "Creator Music Library",
-      "subtitle": "Browse and download royalty-free music for your YouTube videos, podcasts, Tik...",
-      "description": "Browse and download royalty-free music for your YouTube videos, podcasts, TikTok, games, and more. No copyright claims. available without signup with attribution. Filter by mood, genre, BPM, and ca...",
-      "category": [
-        "utilities",
-        "web"
-      ],
-      "platform": "Web",
-      "price": "Free",
-      "github": "https://github.com/olgunozoktas/findutils-tools",
-      "homepage": "https://findutils.com/media/free-music-library/",
-      "language": "TypeScript",
-      "requirements": "Any modern browser",
-      "longDescription": "Yes! All tracks in our library are available to use in your projects. Most tracks require a simple attribution in your video description or credits, while some tracks have optional attribution. Absolutely. Our music is royalty-free and will not trigger Content ID claims on YouTube. You can safely monetize your videos using our tracks. Tracks are available in high-quality MP3 format. WAV format and loop versions will be available in future updates.",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/free-music-library.svg",
-      "_source": "olgunozoktas/findutils-tools",
-      "_owner": "olgunozoktas",
-      "_developer": "Olgun Özoktaş",
-      "_store": "FindUtils",
-      "_storeUrl": "https://x.com/olgunozoktas",
-      "developer": "Olgun Özoktaş",
-      "stars": 2,
-      "forks": 1
-    },
-    {
       "id": "findutils-gif-to-video",
       "name": "GIF to Video",
       "subtitle": "Convert animated GIF to MP4 or WebM video online.",
@@ -5040,7 +5042,7 @@
       "homepage": "https://findutils.com/media/gif-to-video/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Upload your animated GIF, choose MP4 or WebM, then click Convert to Video. The video downloads with no watermark and no signup. No. All processing happens entirely in your browser. Your GIF never leaves your device, keeping it private. GIF uses an inefficient format limited to 256 colors. Modern video codecs compress the same animation far more effectively, often producing a file a fraction of the size.",
+      "longDescription": "Upload your animated GIF, choose MP4 or WebM, then click Convert to Video. The video downloads with no watermark and no signup. No. The GIF is decoded and re-encoded in your browser and the file never leaves your device. The page loads ad and analytics scripts as most sites do, and they never see your GIF. GIF uses an inefficient format limited to 256 colors. Modern video codecs compress the same animation far more effectively, often producing a file a fraction of the size.",
       "icon": null,
       "iconEmoji": "📦",
       "_source": "olgunozoktas/findutils-tools",
@@ -5642,6 +5644,34 @@
       "forks": 1
     },
     {
+      "id": "findutils-html-to-docx",
+      "name": "HTML to DOCX",
+      "subtitle": "Paste or drop HTML and download an editable Word .docx.",
+      "description": "Paste or drop HTML and download an editable Word .docx. Headings, lists, tables, links, bold and italic become real Word structure; CSS layout is not cloned. Nothing is uploaded or fetched.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/convert/html-to-docx/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "h1 to h6 become Heading 1 to Heading 6; p becomes a paragraph; ul and ol become bulleted and numbered lists with their nesting; table becomes a Word table with a shaded header row; a becomes a hyperlink; b, strong, i, em, u, s, del and code become bold, italic, underline, strikethrough and monospace runs; pre becomes a shaded monospace block; blockquote an indented italic paragraph; hr a rule; br a line break. Because CSS is never read. Classes, inline styles, floats, grids, columns and media...",
+      "icon": null,
+      "iconEmoji": "📦",
+      "_source": "olgunozoktas/findutils-tools",
+      "_owner": "olgunozoktas",
+      "_developer": "Olgun Özoktaş",
+      "_store": "FindUtils",
+      "_storeUrl": "https://x.com/olgunozoktas",
+      "developer": "Olgun Özoktaş",
+      "stars": 2,
+      "forks": 1,
+      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-html-to-docx.jpg"
+    },
+    {
       "id": "findutils-html-to-markdown",
       "name": "HTML to Markdown Converter",
       "subtitle": "Convert HTML to clean Markdown (GFM) syntax online.",
@@ -5969,18 +5999,18 @@
       "subtitle": "Convert any image into a mesmerizing ASCII art or emoji mosaic animated video...",
       "description": "Convert any image into a mesmerizing ASCII art or emoji mosaic animated video clip. Upload a photo and watch it transform into a terminal-style typing animation, perfect for sharing on social media.",
       "category": [
-        "graphics-design",
+        "utilities",
         "web"
       ],
       "platform": "Web",
       "price": "Free",
       "github": "https://github.com/olgunozoktas/findutils-tools",
-      "homepage": "https://findutils.com/design/image-to-ascii-video/",
+      "homepage": "https://findutils.com/media/image-to-ascii-video/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "JPEG, PNG, WebP, and GIF (first frame) are all supported. Maximum file size is 20MB. Videos are exported as WebM files with VP9 codec at 30fps. WebM is widely supported on social media platforms and web browsers. The preview works on all browsers, but video export requires the MediaRecorder API which is not available in Safari. Please use Chrome, Firefox, or Edge for full functionality.",
       "icon": null,
-      "iconEmoji": "🎨",
+      "iconEmoji": "📦",
       "_source": "olgunozoktas/findutils-tools",
       "_owner": "olgunozoktas",
       "_developer": "Olgun Özoktaş",
@@ -6156,8 +6186,8 @@
     {
       "id": "findutils-internet-speed-test",
       "name": "Internet Speed Test",
-      "subtitle": "Test your internet download and upload speeds instantly in your browser.",
-      "description": "Test your internet download and upload speeds instantly in your browser. online speed test with ping, jitter, and bandwidth results.",
+      "subtitle": "Test your internet download and upload speeds in your browser against the Clo...",
+      "description": "Test your internet download and upload speeds in your browser against the Cloudflare network. Online speed test with ping, jitter, and bandwidth results.",
       "category": [
         "utilities",
         "web"
@@ -6261,7 +6291,7 @@
       "id": "findutils-ip-blacklist-checker",
       "name": "IP Blacklist Checker",
       "subtitle": "Check if an IP address is listed on major DNS-based blacklists (DNSBL).",
-      "description": "Check if an IP address is listed on major DNS-based blacklists (DNSBL). Test against Spamhaus, SpamCop, Barracuda, SORBS, and more. real-time blocklist checker.",
+      "description": "Check if an IP address is listed on major DNS-based blacklists (DNSBL). Test against Spamhaus, SpamCop, Barracuda, SORBS, and more in one real-time blocklist check.",
       "category": [
         "utilities",
         "web"
@@ -7969,8 +7999,8 @@
     {
       "id": "findutils-media-info-viewer",
       "name": "Media Info Viewer",
-      "subtitle": "View comprehensive metadata for images, videos, and audio files.",
-      "description": "View comprehensive metadata for images, videos, and audio files. Extract EXIF data including GPS location, camera info, and date taken. Browser-based, no upload required.",
+      "subtitle": "Read EXIF from a photo, or the container, codec, frame rate and sample rate f...",
+      "description": "Read EXIF from a photo, or the container, codec, frame rate and sample rate from a video or audio file. Runs in your browser, up to 500 MB, with no upload.",
       "category": [
         "utilities",
         "web"
@@ -7981,7 +8011,7 @@
       "homepage": "https://findutils.com/media/media-info-viewer/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "For images: dimensions, EXIF data (GPS location, camera make/model, lens, exposure, aperture, ISO, focal length, flash, date taken), color profile, and orientation. For videos: resolution, codec, frame rate, duration, and aspect ratio. For audio: codec, sample rate, and channels. No, all analysis happens entirely in your browser. Your files never leave your device, ensuring complete privacy. Images: JPEG, PNG, WebP, HEIC, TIFF. Videos: MP4, WebM, MKV, MOV. Audio: MP3, WAV, OGG, FLAC, AAC.",
+      "longDescription": "For images: dimensions, orientation, color profile and the EXIF block (GPS location, camera make and model, lens, exposure, aperture, ISO, focal length, flash, date taken). For video: container, codec, resolution, frame rate, bitrate and duration. For audio: codec, sample rate, channels and duration. No, not the file. It is parsed in your browser and the tool code sends no part of it to a server. The page itself loads analytics and ad scripts, as most websites do, so a network monitor shows r...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/media-info-viewer.svg",
       "_source": "olgunozoktas/findutils-tools",
       "_owner": "olgunozoktas",
@@ -8137,7 +8167,7 @@
       "homepage": "https://findutils.com/media/mute-video/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "No. The tool only removes the audio track and copies the video stream without re-encoding it, so the picture quality is identical to your original file. No. All processing happens entirely in your browser. Your video never leaves your device, which keeps private and sensitive footage secure. The tool accepts MP4, WebM, MKV, and MOV files. MP4 and MOV inputs are saved as MP4, while WebM and MKV inputs are saved as WebM.",
+      "longDescription": "No. The tool only removes the audio track and copies the video stream without re-encoding it, so the picture quality is identical to your original file. No. The audio track is dropped and the video stream copied in your browser, and the video file never leaves your device. The page loads ad and analytics scripts as most sites do, and they never see your file. The tool accepts MP4, WebM, MKV, and MOV files. MP4 and MOV inputs are saved as MP4, while WebM and MKV inputs are saved as WebM.",
       "icon": null,
       "iconEmoji": "📦",
       "_source": "olgunozoktas/findutils-tools",
@@ -8229,6 +8259,34 @@
       "developer": "Olgun Özoktaş",
       "stars": 2,
       "forks": 1
+    },
+    {
+      "id": "findutils-odt-to-markdown",
+      "name": "ODT to Markdown",
+      "subtitle": "Drop a LibreOffice .odt and get clean Markdown for a wiki, a README or a docs...",
+      "description": "Drop a LibreOffice .odt and get clean Markdown for a wiki, a README or a docs site. Headings, lists, links, tables and emphasis are kept; fonts and layout are not. Nothing is uploaded.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/convert/odt-to-markdown/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "Kept: headings with an outline level and the Title style, paragraphs, bold, italic and strikethrough from the document's styles, hyperlinks, bulleted and numbered lists, tables, line breaks, and footnotes as bracketed text. Lost: underline, fonts, colours, font sizes, alignment, columns, page breaks, headers, footers, comments, tracked-change records and images. Markdown has no way to hold those, so they are dropped rather than approximated. The page reads text documents only. A spreadsheet o...",
+      "icon": null,
+      "iconEmoji": "📦",
+      "_source": "olgunozoktas/findutils-tools",
+      "_owner": "olgunozoktas",
+      "_developer": "Olgun Özoktaş",
+      "_store": "FindUtils",
+      "_storeUrl": "https://x.com/olgunozoktas",
+      "developer": "Olgun Özoktaş",
+      "stars": 2,
+      "forks": 1,
+      "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/findutils-odt-to-markdown.jpg"
     },
     {
       "id": "findutils-one-rep-max-calculator",
@@ -9871,8 +9929,8 @@
     {
       "id": "findutils-security-headers-analyzer",
       "name": "Security Headers Analyzer",
-      "subtitle": "Analyze HTTP security headers for any website.",
-      "description": "Analyze HTTP security headers for any website. Check for Content-Security-Policy, X-Frame-Options, HSTS, and other important security configurations.",
+      "subtitle": "Paste a site's HTTP response headers and get a security grade.",
+      "description": "Paste a site's HTTP response headers and get a security grade. Checks Content-Security-Policy, HSTS, X-Frame-Options, X-Content-Type-Options, Referrer-Policy, Permissions-Policy and the Cross-Origi...",
       "category": [
         "utilities",
         "web"
@@ -9993,32 +10051,6 @@
       "requirements": "Any modern browser",
       "longDescription": "Digital signatures created here can be used for informal documents. For legally binding documents, check your local laws regarding electronic signatures. In many jurisdictions, a typed or drawn signature image is acceptable for basic agreements, but high-stakes contracts may require a certified e-signature service with audit trails. Signatures are downloaded as PNG images with a transparent background by default, so they sit cleanly on any document. Uncheck Transparent background before you d...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/signature-generator.svg",
-      "_source": "olgunozoktas/findutils-tools",
-      "_owner": "olgunozoktas",
-      "_developer": "Olgun Özoktaş",
-      "_store": "FindUtils",
-      "_storeUrl": "https://x.com/olgunozoktas",
-      "developer": "Olgun Özoktaş",
-      "stars": 2,
-      "forks": 1
-    },
-    {
-      "id": "findutils-site-to-markdown",
-      "name": "Site to Markdown",
-      "subtitle": "Convert any website or webpage into clean, well-formatted Markdown.",
-      "description": "Convert any website or webpage into clean, well-formatted Markdown. Simply paste a URL and get readable Markdown output instantly. Powered by Cloudflare Markdown for Agents when available.",
-      "category": [
-        "utilities",
-        "web"
-      ],
-      "platform": "Web",
-      "price": "Free",
-      "github": "https://github.com/olgunozoktas/findutils-tools",
-      "homepage": "https://findutils.com/convert/site-to-markdown/",
-      "language": "TypeScript",
-      "requirements": "Any modern browser",
-      "longDescription": "You can convert any publicly accessible webpage. The tool works best with content-rich pages like articles, blog posts, documentation, and wiki pages. Pages that rely heavily on JavaScript rendering may have limited content extraction. Cloudflare Markdown for Agents is a technology that converts HTML to Markdown on the server side for websites using Cloudflare. When available, it provides higher-quality conversion with better formatting. Our tool automatically uses this when the target site s...",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/site-to-markdown.svg",
       "_source": "olgunozoktas/findutils-tools",
       "_owner": "olgunozoktas",
       "_developer": "Olgun Özoktaş",
@@ -10295,8 +10327,8 @@
     {
       "id": "findutils-ssl-certificate-checker",
       "name": "SSL Certificate Checker",
-      "subtitle": "Instantly check any website's SSL certificate - expiration date, chain validi...",
-      "description": "Instantly check any website's SSL certificate - expiration date, chain validity, hostname match, key size, and TLS version. no signup, results in seconds.",
+      "subtitle": "Check any website's SSL certificate - expiration date, chain validity, hostna...",
+      "description": "Check any website's SSL certificate - expiration date, chain validity, hostname match, key size, and TLS version. No signup; a scan usually finishes within a minute.",
       "category": [
         "utilities",
         "web"
@@ -10507,8 +10539,8 @@
     {
       "id": "findutils-subtitle-extractor",
       "name": "Subtitle Extractor",
-      "subtitle": "Extract embedded subtitles from MP4, MKV, and WebM videos.",
-      "description": "Extract embedded subtitles from MP4, MKV, and WebM videos. Export as SRT format instantly in your browser with no upload required.",
+      "subtitle": "Read the subtitle tracks out of an MKV or WebM file and save them as SRT or VTT.",
+      "description": "Read the subtitle tracks out of an MKV or WebM file and save them as SRT or VTT. Runs in your browser, up to 500 MB, and the video is never uploaded.",
       "category": [
         "utilities",
         "web"
@@ -10519,7 +10551,7 @@
       "homepage": "https://findutils.com/media/subtitle-extractor/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "This tool extracts embedded subtitle tracks (soft subtitles) from video files. Burned-in subtitles (hard-coded into the video) cannot be extracted. Subtitles are exported in SRT (SubRip) format, which is widely supported by video players and editing software. Yes, if your video contains multiple subtitle tracks, you can select which track to extract using the dropdown menu.",
+      "longDescription": "This tool extracts text subtitle tracks stored inside MKV and WebM containers, including SRT, WebVTT and ASS/SSA tracks. Burned-in subtitles, which are rendered into the video frames during encoding, cannot be extracted by any tool. Image-based tracks such as PGS and VobSub are pictures rather than text and are not read here. You can save the selected track as SRT (SubRip) or as WebVTT. SRT is the format almost every desktop and TV player accepts; WebVTT is what the HTML video element and mos...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/subtitle-extractor.svg",
       "_source": "olgunozoktas/findutils-tools",
       "_owner": "olgunozoktas",
@@ -11497,8 +11529,8 @@
     {
       "id": "findutils-video-compressor",
       "name": "Video Compressor",
-      "subtitle": "Compress video files online without uploading.",
-      "description": "Compress video files online without uploading. Reduce MP4, WebM, and MKV size by up to 70% in your browser. No signup, no watermarks.",
+      "subtitle": "Compress MP4, MOV, WebM, and MKV video in your browser at a chosen bitrate pr...",
+      "description": "Compress MP4, MOV, WebM, and MKV video in your browser at a chosen bitrate preset. Nothing is uploaded, and there is no signup and no watermark.",
       "category": [
         "utilities",
         "web"
@@ -11509,7 +11541,7 @@
       "homepage": "https://findutils.com/media/video-compressor/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Compression results depend on the source video's codec, resolution, and content complexity. Most videos achieve 30-70% size reduction. Screen recordings and presentations compress more efficiently than high-motion footage like sports or action scenes. Some quality loss is inherent in video compression. The High quality preset minimizes visible degradation and is suitable for most purposes. The Medium preset provides a good balance, while Low prioritizes the smallest file size with more notice...",
+      "longDescription": "It depends on the source file. Each preset sets a target video bitrate of 8, 4, or 1.5 Mbps, so a clip already encoded below that bitrate barely shrinks, while a high-bitrate camera recording drops a lot. The tool shows the original and compressed sizes after every run, so you can compare presets on your own file instead of trusting a percentage. Yes, some. Quality loss is inherent in video compression. The High quality preset minimizes visible degradation and is suitable for most purposes. T...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/video-compressor.svg",
       "_source": "olgunozoktas/findutils-tools",
       "_owner": "olgunozoktas",
@@ -11535,7 +11567,7 @@
       "homepage": "https://findutils.com/media/video-cropper/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Upload your video, drag the selection box on the preview to frame the area you want, then click Crop Video. The cropped file downloads with no watermark and no signup. No. All processing happens entirely in your browser. Your video never leaves your device, keeping private footage secure. Yes. The audio track is preserved in the cropped output. To remove it, run the result through the Mute Video tool.",
+      "longDescription": "Upload your video, drag the selection box on the preview to frame the area you want, then click Crop Video. The cropped file downloads with no watermark and no signup. No. The crop is re-encoded in your browser with WebCodecs and the video file never leaves your device. The page loads ad and analytics scripts as most sites do, and they never see your file. Yes. The audio track is preserved in the cropped output. To remove it, run the result through the Mute Video tool.",
       "icon": null,
       "iconEmoji": "📦",
       "_source": "olgunozoktas/findutils-tools",
@@ -11551,8 +11583,8 @@
     {
       "id": "findutils-video-format-converter",
       "name": "Video Format Converter",
-      "subtitle": "Convert videos between MP4, WebM, MKV, and MOV formats online.",
-      "description": "Convert videos between MP4, WebM, MKV, and MOV formats online. No upload, no signup. Browser-based conversion with quality preservation.",
+      "subtitle": "Convert video between MP4, MOV, WebM, and MKV containers in your browser.",
+      "description": "Convert video between MP4, MOV, WebM, and MKV containers in your browser. Nothing is uploaded, no signup, and streams are copied when the codecs allow it.",
       "category": [
         "utilities",
         "web"
@@ -11563,7 +11595,7 @@
       "homepage": "https://findutils.com/media/video-format-converter/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "You can convert from MP4, WebM, MKV, and MOV to either MP4 or WebM format. The tool automatically selects transmuxing or re-encoding based on codec compatibility. When the source and target formats share compatible codecs, the tool transmuxes the stream with zero quality loss. Re-encoding is only applied when necessary and uses high-quality settings. No. All processing runs inside your browser via WebAssembly. Your video files never leave your device, ensuring complete privacy.",
+      "longDescription": "You can convert from any container your browser can decode, including MP4, MOV, WebM, and MKV, into MP4, WebM, MKV, or MOV. The tool copies the streams when the target container can carry them, and re-encodes only when it cannot. No, when the containers share a codec: the streams are copied into the new container with zero quality loss. Re-encoding is applied only when the target container cannot carry the source codec, and it uses high-quality settings. No. The conversion runs inside your br...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/video-format-converter.svg",
       "_source": "olgunozoktas/findutils-tools",
       "_owner": "olgunozoktas",
@@ -11589,7 +11621,7 @@
       "homepage": "https://findutils.com/media/video-merger/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Upload your clips, arrange them in order with the up and down arrows, then click Merge Videos. The joined file downloads with no watermark and no signup. No. All processing happens entirely in your browser. Your videos never leave your device, keeping private footage secure. The merged video uses one fixed frame size, so every clip must match it. If your clips differ, resize them to the same dimensions first with the Video Resizer, then merge.",
+      "longDescription": "Upload your clips, arrange them in order with the up and down arrows, then click Merge Videos. The joined file downloads with no watermark and no signup. No. The clips are decoded and joined in your browser and the video files never leave your device. The page loads ad and analytics scripts as most sites do, and they never see your files. The merged video uses one fixed frame size, so every clip must match it. If your clips differ, resize them to the same dimensions first with the Video Resiz...",
       "icon": null,
       "iconEmoji": "📦",
       "_source": "olgunozoktas/findutils-tools",
@@ -11605,8 +11637,8 @@
     {
       "id": "findutils-video-metadata-extractor",
       "name": "Video Metadata Extractor",
-      "subtitle": "Extract video metadata online - view codec, resolution, frame rate, bitrate, ...",
-      "description": "Extract video metadata online - view codec, resolution, frame rate, bitrate, and audio details. private, no upload to any server.",
+      "subtitle": "Read video metadata in your browser: container, duration, resolution, codec, ...",
+      "description": "Read video metadata in your browser: container, duration, resolution, codec, frame rate, bitrate, and audio details. The file is never uploaded.",
       "category": [
         "utilities",
         "web"
@@ -11617,7 +11649,7 @@
       "homepage": "https://findutils.com/media/video-metadata-extractor/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "You can view file name, size, duration, video resolution, aspect ratio, codec, frame rate, bitrate, and audio details including codec, sample rate, channels, and bitrate. Metadata helps verify video specifications before uploading, troubleshoot playback issues, ensure compatibility, and understand video quality settings. No, all analysis happens entirely in your browser. Your videos never leave your device, making this tool safe for confidential or sensitive footage.",
+      "longDescription": "You can view the container and MIME type, file name, size, and duration, the video resolution, aspect ratio, codec string, frame rate, and bitrate, and the audio codec, sample rate, and channel count. Metadata helps verify video specifications before uploading, troubleshoot playback issues, ensure compatibility, and understand video quality settings. No. The analysis runs entirely in your browser and the video file never leaves your device. The page loads ad and analytics scripts as most site...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/video-metadata-extractor.svg",
       "_source": "olgunozoktas/findutils-tools",
       "_owner": "olgunozoktas",
@@ -11631,8 +11663,8 @@
     {
       "id": "findutils-video-resizer",
       "name": "Video Resizer",
-      "subtitle": "Resize videos to any resolution instantly in your browser.",
-      "description": "Resize videos to any resolution instantly in your browser. Presets for YouTube, Instagram, TikTok, and custom dimensions. private, no upload.",
+      "subtitle": "Resize videos to any resolution in your browser with presets for YouTube, Ins...",
+      "description": "Resize videos to any resolution in your browser with presets for YouTube, Instagram, and TikTok. The clip is re-recorded in real time and nothing is uploaded.",
       "category": [
         "utilities",
         "web"
@@ -11643,7 +11675,7 @@
       "homepage": "https://findutils.com/media/video-resizer/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "You can choose from presets including 4K (3840x2160), 1080p (1920x1080), 720p (1280x720), 480p (854x480), 360p (640x360), Square (1080x1080), and Instagram Story (1080x1920), or enter any custom width and height. Downscaling typically maintains good visual quality because you are reducing pixel count. Upscaling may introduce softness or artifacts because the browser interpolates new pixels that did not exist in the original footage. Yes, disable the aspect ratio lock to resize to any dimensio...",
+      "longDescription": "You can choose from presets including 4K (3840x2160), 1080p (1920x1080), 720p (1280x720), 480p (854x480), 360p (640x360), Square (1080x1080), and Instagram Story (1080x1920), or enter any custom width and height. Yes, and the direction matters. Downscaling typically maintains good visual quality because you are reducing pixel count. Upscaling may introduce softness or artifacts because the browser interpolates new pixels that did not exist in the original footage. Yes, disable the aspect rati...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/video-resizer.svg",
       "_source": "olgunozoktas/findutils-tools",
       "_owner": "olgunozoktas",
@@ -11669,7 +11701,7 @@
       "homepage": "https://findutils.com/media/video-reverser/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Upload your video, then click Reverse Video. The tool flips the frame order and reverses the audio, and the backwards clip downloads with no watermark and no signup. No. All processing happens entirely in your browser. Your video never leaves your device, keeping private footage secure. Yes. The audio track is reversed sample by sample along with the video, which creates the characteristic backwards-speech sound.",
+      "longDescription": "Upload your video, then click Reverse Video. The tool flips the frame order and reverses the audio, and the backwards clip downloads with no watermark and no signup. No. The clip is decoded and rebuilt in your browser and the video file never leaves your device. The page loads ad and analytics scripts as most sites do, and they never see your file. Yes. The audio track is reversed sample by sample along with the video, which creates the characteristic backwards-speech sound.",
       "icon": null,
       "iconEmoji": "📦",
       "_source": "olgunozoktas/findutils-tools",
@@ -11685,8 +11717,8 @@
     {
       "id": "findutils-video-rotator",
       "name": "Video Rotator",
-      "subtitle": "Rotate and flip videos by 90, 180, or 270 degrees directly in your browser.",
-      "description": "Rotate and flip videos by 90, 180, or 270 degrees directly in your browser. Fix sideways phone videos, create mirror effects, and export instantly. No upload required.",
+      "subtitle": "Rotate and flip videos by 90, 180, or 270 degrees in your browser.",
+      "description": "Rotate and flip videos by 90, 180, or 270 degrees in your browser. Fix sideways phone videos or mirror a clip, then export a WebM file. No upload required.",
       "category": [
         "utilities",
         "web"
@@ -11697,7 +11729,7 @@
       "homepage": "https://findutils.com/media/video-rotator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "You can rotate videos by 90, 180, or 270 degrees. Click the rotate left or rotate right button once for 90 degrees and continue clicking to reach your desired angle. Yes, you can apply rotation and horizontal or vertical flipping together. For example, rotate 90 degrees clockwise and then flip horizontally for a rotated mirror effect. The video is re-encoded during rotation, but the tool uses high-quality encoding settings to minimize any visible quality loss. The output closely matches the o...",
+      "longDescription": "You can rotate videos by 90, 180, or 270 degrees. Click the rotate left or rotate right button once for 90 degrees and continue clicking to reach your desired angle. Yes, you can apply rotation and horizontal or vertical flipping together. For example, rotate 90 degrees clockwise and then flip horizontally for a rotated mirror effect. Yes, slightly. The video is re-encoded during rotation because the frames themselves are rewritten. The tool records at a high bitrate to minimize visible quali...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/video-rotator.svg",
       "_source": "olgunozoktas/findutils-tools",
       "_owner": "olgunozoktas",
@@ -11723,7 +11755,7 @@
       "homepage": "https://findutils.com/media/video-speed-changer/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Upload your video, pick a speed preset between 0.25x and 4x, then click Change Speed. The retimed file downloads with no watermark and no signup. No. All processing happens entirely in your browser. Your video never leaves your device, keeping private footage secure. Yes. The audio track is retimed along with the video, so speech and sound stay aligned with the picture at the new speed.",
+      "longDescription": "Upload your video, pick a speed preset between 0.25x and 4x, then click Change Speed. The retimed file downloads with no watermark and no signup. No. The clip is re-recorded in your browser and the video file never leaves your device. The page loads ad and analytics scripts as most sites do, and they never see your file. Yes. The audio track is retimed along with the video, so speech and sound stay aligned with the picture at the new speed.",
       "icon": null,
       "iconEmoji": "📦",
       "_source": "olgunozoktas/findutils-tools",
@@ -11739,8 +11771,8 @@
     {
       "id": "findutils-video-thumbnail-generator",
       "name": "Video Thumbnail Generator",
-      "subtitle": "Extract high-quality thumbnails from video files online.",
-      "description": "Extract high-quality thumbnails from video files online. Auto-generate multiple frames or capture specific timestamps. no upload required.",
+      "subtitle": "Extract high-quality JPEG thumbnails from video files online.",
+      "description": "Extract high-quality JPEG thumbnails from video files online. Auto-generate evenly spaced frames or capture one exact timestamp. Nothing is uploaded.",
       "category": [
         "utilities",
         "web"
@@ -11777,7 +11809,7 @@
       "homepage": "https://findutils.com/media/video-to-audio/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "The audio is extracted in WebM format, which is widely supported and provides good quality. You can use other tools to convert to MP3 if needed. Yes, we extract audio at high bitrate (192kbps) to maintain quality. The output quality depends on the original video's audio track. You need to have the video file on your device. This tool doesn't download videos from URLs.",
+      "longDescription": "WAV is always available, because lossless PCM is the one format every browser can write. MP3, OGG (Opus), FLAC, and AAC appear in the output picker only when your browser can encode them, so the list you see depends on the browser you are using. Yes, when you pick WAV: it is lossless PCM, so nothing is discarded beyond what the video's own audio track already lost. The compressed options re-encode the track, and in every case the result can only be as good as the source recording. No, not dir...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/video-to-audio.svg",
       "_source": "olgunozoktas/findutils-tools",
       "_owner": "olgunozoktas",
@@ -11829,7 +11861,7 @@
       "homepage": "https://findutils.com/media/video-trimmer/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "No. Our video trimmer is available to use with no hidden costs, watermarks, or limitations. You can trim as many videos as you want. No, your videos are never uploaded anywhere. All processing happens entirely in your browser using WebAssembly technology. Your files stay on your device. We support MP4, WebM, MKV, and MOV for input. Output can be saved as MP4 or WebM format.",
+      "longDescription": "No. Our video trimmer is free to use, with no hidden costs, watermarks, or limitations. You can trim as many videos as you want. No, for the video file itself. The trimmer reads it in your browser with WebCodecs through the Mediabunny library and sends it nowhere. The optional From URL box is the one request that leaves: your browser downloads that address directly, so the site you paste sees the request, and the video still goes nowhere else. The page loads ad and analytics scripts as most s...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/video-trimmer.svg",
       "_source": "olgunozoktas/findutils-tools",
       "_owner": "olgunozoktas",
@@ -11984,7 +12016,7 @@
       "platform": "Web",
       "price": "Free",
       "github": "https://github.com/olgunozoktas/findutils-tools",
-      "homepage": "https://findutils.com/network/what-is-my-ip/",
+      "homepage": "https://findutils.com/what-is-my-ip/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "icon": null,
@@ -14989,8 +15021,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 169922,
-      "forks": 21855,
+      "stars": 169949,
+      "forks": 21857,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -15033,8 +15065,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 169922,
-      "forks": 21855,
+      "stars": 169949,
+      "forks": 21857,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -16438,8 +16470,8 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 3734,
-      "forks": 263,
+      "stars": 3735,
+      "forks": 264,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
       "requirements": "macOS 15 Sequoia or later",
