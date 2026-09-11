@@ -622,7 +622,7 @@
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
       "stars": 3956,
-      "forks": 642,
+      "forks": 641,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -1438,7 +1438,7 @@
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
       "stars": 3956,
-      "forks": 642,
+      "forks": 641,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -14989,8 +14989,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 169870,
-      "forks": 21846,
+      "stars": 169896,
+      "forks": 21851,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -15033,8 +15033,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 169870,
-      "forks": 21846,
+      "stars": 169896,
+      "forks": 21851,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -16586,7 +16586,7 @@
         "Prayer times with 13 calculation methods",
         "Qibla compass",
         "Holy Quran (translation, tafsir, word-by-word analysis)",
-        "36,390 hadith from 7 major collections",
+        "36,000+ hadith from 7 major collections",
         "Dhikr counter & Asma al-Husna",
         "Hijri & Gregorian calendar",
         "Ablution guide",
