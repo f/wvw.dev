@@ -517,7 +517,7 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 361,
+      "stars": 362,
       "forks": 29
     },
     {
@@ -621,8 +621,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3962,
-      "forks": 643,
+      "stars": 3961,
+      "forks": 644,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -1437,8 +1437,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3962,
-      "forks": 643,
+      "stars": 3961,
+      "forks": 644,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -13744,7 +13744,7 @@
       "price": "Free",
       "github": "https://github.com/sametcn99/libredirect-mobile",
       "language": "Kotlin",
-      "stars": 1,
+      "stars": 2,
       "forks": 0,
       "developer": "sametcn99",
       "requirements": "Android device",
@@ -13902,7 +13902,7 @@
       "github": "https://github.com/f/mcptools",
       "homepage": null,
       "language": "Go",
-      "stars": 1623,
+      "stars": 1622,
       "forks": 127,
       "brew": "brew install f/mcptools/mcp",
       "requirements": "macOS, Linux, or Windows",
@@ -15021,8 +15021,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 170320,
-      "forks": 21909,
+      "stars": 170345,
+      "forks": 21912,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -15065,8 +15065,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 170320,
-      "forks": 21909,
+      "stars": 170345,
+      "forks": 21912,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -16877,8 +16877,8 @@
       "_store": "Wallnetic",
       "_storeUrl": "",
       "developer": "Fatih Kan",
-      "stars": 61,
-      "forks": 4
+      "stars": 62,
+      "forks": 5
     },
     {
       "id": "whisperwrap",
