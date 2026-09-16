@@ -274,8 +274,8 @@
       "github": "https://github.com/f/agentlytics",
       "homepage": "https://agentlytics.io",
       "language": "JavaScript",
-      "stars": 579,
-      "forks": 83,
+      "stars": 580,
+      "forks": 84,
       "installCommand": "npx agentlytics",
       "requirements": "Node.js 20.19+ or 22.12+, macOS",
       "features": [
@@ -518,7 +518,7 @@
       "_storeUrl": "",
       "developer": "tddworks",
       "stars": 363,
-      "forks": 29
+      "forks": 28
     },
     {
       "id": "aso-screenshot-generator",
@@ -621,8 +621,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3965,
-      "forks": 646,
+      "stars": 3966,
+      "forks": 647,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -1437,8 +1437,8 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3965,
-      "forks": 646,
+      "stars": 3966,
+      "forks": 647,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -1883,7 +1883,7 @@
       "github": "https://github.com/DodoApps/dodopulse",
       "homepage": null,
       "language": "Swift",
-      "stars": 134,
+      "stars": 135,
       "forks": 14,
       "downloadUrl": null,
       "requirements": "macOS 12.0 or later",
@@ -12876,8 +12876,8 @@
       "github": "https://github.com/f/git-rewrite-commits",
       "homepage": "https://blog.fka.dev/git-rewrite-commits/",
       "language": "TypeScript",
-      "stars": 1422,
-      "forks": 56,
+      "stars": 1423,
+      "forks": 57,
       "installCommand": "npx git-rewrite-commits",
       "requirements": "Node.js, Git",
       "features": [
@@ -13451,7 +13451,7 @@
       "_store": "Jubstaa's App Store",
       "_storeUrl": "",
       "developer": "İlker Balcılar",
-      "stars": 1,
+      "stars": 2,
       "forks": 0
     },
     {
@@ -13902,7 +13902,7 @@
       "github": "https://github.com/f/mcptools",
       "homepage": null,
       "language": "Go",
-      "stars": 1623,
+      "stars": 1624,
       "forks": 127,
       "brew": "brew install f/mcptools/mcp",
       "requirements": "macOS, Linux, or Windows",
@@ -15021,8 +15021,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 170441,
-      "forks": 21918,
+      "stars": 170462,
+      "forks": 21924,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -15065,8 +15065,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 170441,
-      "forks": 21918,
+      "stars": 170462,
+      "forks": 21924,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
