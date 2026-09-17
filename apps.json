@@ -517,7 +517,7 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 363,
+      "stars": 364,
       "forks": 28
     },
     {
@@ -13902,7 +13902,7 @@
       "github": "https://github.com/f/mcptools",
       "homepage": null,
       "language": "Go",
-      "stars": 1625,
+      "stars": 1626,
       "forks": 127,
       "brew": "brew install f/mcptools/mcp",
       "requirements": "macOS, Linux, or Windows",
@@ -15021,8 +15021,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 170490,
-      "forks": 21930,
+      "stars": 170507,
+      "forks": 21933,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -15065,8 +15065,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 170490,
-      "forks": 21930,
+      "stars": 170507,
+      "forks": 21933,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
