@@ -621,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3976,
+      "stars": 3977,
       "forks": 649,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1437,7 +1437,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 3976,
+      "stars": 3977,
       "forks": 649,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -13902,7 +13902,7 @@
       "github": "https://github.com/f/mcptools",
       "homepage": null,
       "language": "Go",
-      "stars": 1626,
+      "stars": 1625,
       "forks": 128,
       "brew": "brew install f/mcptools/mcp",
       "requirements": "macOS, Linux, or Windows",
@@ -15021,8 +15021,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 170900,
-      "forks": 21962,
+      "stars": 170919,
+      "forks": 21963,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -15065,8 +15065,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 170900,
-      "forks": 21962,
+      "stars": 170919,
+      "forks": 21963,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -15607,7 +15607,7 @@
       "_store": "RoleCraft",
       "_storeUrl": "",
       "developer": "Samet ÇELİKBIÇAK",
-      "stars": 79,
+      "stars": 80,
       "forks": 26
     },
     {
