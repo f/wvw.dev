@@ -435,7 +435,7 @@
       "github": "https://github.com/f/appetit",
       "homepage": "https://apps.fka.dev",
       "language": "JavaScript",
-      "stars": 50,
+      "stars": 51,
       "forks": 13,
       "requirements": "Any modern browser",
       "features": [
@@ -15021,8 +15021,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 170919,
-      "forks": 21963,
+      "stars": 170937,
+      "forks": 21966,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -15065,8 +15065,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 170919,
-      "forks": 21963,
+      "stars": 170937,
+      "forks": 21966,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -15127,7 +15127,7 @@
       "_store": "prompts.chat Extension",
       "_storeUrl": "",
       "developer": "Fatih Solhan",
-      "stars": 44,
+      "stars": 43,
       "forks": 8
     },
     {
