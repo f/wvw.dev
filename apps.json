@@ -15021,8 +15021,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 171738,
-      "forks": 22021,
+      "stars": 171779,
+      "forks": 22022,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -15065,8 +15065,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 171738,
-      "forks": 22021,
+      "stars": 171779,
+      "forks": 22022,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -15607,8 +15607,8 @@
       "_store": "RoleCraft",
       "_storeUrl": "",
       "developer": "Samet ÇELİKBIÇAK",
-      "stars": 83,
-      "forks": 42
+      "stars": 86,
+      "forks": 43
     },
     {
       "id": "runhq",
@@ -16470,7 +16470,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 3783,
+      "stars": 3784,
       "forks": 269,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
