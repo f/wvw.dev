@@ -518,7 +518,7 @@
       "_storeUrl": "",
       "developer": "tddworks",
       "stars": 393,
-      "forks": 33
+      "forks": 34
     },
     {
       "id": "aso-screenshot-generator",
@@ -16359,8 +16359,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 176018,
-      "forks": 22446,
+      "stars": 176062,
+      "forks": 22450,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -16403,8 +16403,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 176018,
-      "forks": 22446,
+      "stars": 176062,
+      "forks": 22450,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
