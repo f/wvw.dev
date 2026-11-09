@@ -436,7 +436,7 @@
       "homepage": "https://apps.fka.dev",
       "language": "JavaScript",
       "stars": 52,
-      "forks": 13,
+      "forks": 12,
       "requirements": "Any modern browser",
       "features": [
         "Apple App Store-inspired UI",
@@ -517,7 +517,7 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 393,
+      "stars": 394,
       "forks": 34
     },
     {
@@ -16359,8 +16359,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 176660,
-      "forks": 22532,
+      "stars": 176718,
+      "forks": 22545,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -16403,8 +16403,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 176660,
-      "forks": 22532,
+      "stars": 176718,
+      "forks": 22545,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
