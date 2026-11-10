@@ -274,7 +274,7 @@
       "github": "https://github.com/f/agentlytics",
       "homepage": "https://agentlytics.io",
       "language": "JavaScript",
-      "stars": 594,
+      "stars": 595,
       "forks": 88,
       "installCommand": "npx agentlytics",
       "requirements": "Node.js 20.19+ or 22.12+, macOS",
@@ -517,7 +517,7 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 394,
+      "stars": 395,
       "forks": 34
     },
     {
@@ -621,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 4061,
+      "stars": 4062,
       "forks": 649,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1404,7 +1404,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 4061,
+      "stars": 4062,
       "forks": 649,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -16359,7 +16359,7 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 176718,
+      "stars": 176738,
       "forks": 22545,
       "requirements": "Any modern browser",
       "features": [
@@ -16403,7 +16403,7 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 176718,
+      "stars": 176738,
       "forks": 22545,
       "requirements": "Any modern browser",
       "features": [
@@ -16919,7 +16919,7 @@
       "_storeUrl": "",
       "developer": "Samet ÇELİKBIÇAK",
       "stars": 98,
-      "forks": 44
+      "forks": 43
     },
     {
       "id": "runhq",
@@ -17836,7 +17836,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 4258,
+      "stars": 4259,
       "forks": 305,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
