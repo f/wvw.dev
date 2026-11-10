@@ -16359,8 +16359,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 176777,
-      "forks": 22548,
+      "stars": 176813,
+      "forks": 22553,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -16403,8 +16403,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 176777,
-      "forks": 22548,
+      "stars": 176813,
+      "forks": 22553,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -18220,7 +18220,7 @@
       "_store": "Wallnetic",
       "_storeUrl": "",
       "developer": "Fatih Kan",
-      "stars": 79,
+      "stars": 78,
       "forks": 10
     },
     {
