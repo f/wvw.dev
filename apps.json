@@ -621,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 4063,
+      "stars": 4064,
       "forks": 649,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1404,7 +1404,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 4063,
+      "stars": 4064,
       "forks": 649,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -16359,8 +16359,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 176965,
-      "forks": 22568,
+      "stars": 176997,
+      "forks": 22571,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -16403,8 +16403,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 176965,
-      "forks": 22568,
+      "stars": 176997,
+      "forks": 22571,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -16785,7 +16785,7 @@
       "github": "https://github.com/sametcn99/reddit-rss-api",
       "homepage": "https://reddit-rss-api.deno.dev",
       "language": "TypeScript",
-      "stars": 3,
+      "stars": 4,
       "forks": 1,
       "developer": "sametcn99",
       "requirements": "Any HTTP client or browser",
