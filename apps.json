@@ -621,7 +621,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 4065,
+      "stars": 4066,
       "forks": 649,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
@@ -1404,7 +1404,7 @@
       "_store": "Mustafa Ergisi",
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
-      "stars": 4065,
+      "stars": 4066,
       "forks": 649,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
@@ -16359,8 +16359,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 177007,
-      "forks": 22571,
+      "stars": 177033,
+      "forks": 22572,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -16403,8 +16403,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 177007,
-      "forks": 22571,
+      "stars": 177033,
+      "forks": 22572,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -17837,7 +17837,7 @@
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
       "stars": 4277,
-      "forks": 308,
+      "forks": 310,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
       "requirements": "macOS 15 Sequoia or later",
