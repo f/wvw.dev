@@ -517,7 +517,7 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 398,
+      "stars": 399,
       "forks": 35
     },
     {
@@ -15432,7 +15432,7 @@
     },
     {
       "id": "munch",
-      "name": "Munch",
+      "name": "Munch Puzzle Game",
       "subtitle": "Can you beat the computer at the game of Munch?",
       "description": "Play the classic poison-apple strategy game in your browser and try to avoid the losing move.",
       "longDescription": "Munch is a browser game where players take turns eating apples from a grid, and whoever is forced to eat the poison apple loses. This version pits you against a computer opponent built around a solved strategy for the 5x6 board.",
@@ -15765,6 +15765,43 @@
       "forks": 0
     },
     {
+      "id": "pdx-punk",
+      "name": "PDX Punk Game",
+      "subtitle": "A noir detective murder mystery in Cyberpunk Portland",
+      "description": "Choose your character, interrogate suspects, and solve a murder at Rose City Grill in this pixel-art browser game.",
+      "longDescription": "PDX Punk is a noir detective murder mystery set in Cyberpunk Portland. The diner's got one extra seat and one extra body: pick a character, follow the leads from Rose City Grill under the Burnside Bridge to a body on the river beach, check the alibis, and find out who wanted that seat empty. Every conversation branches into new leads, and you can play with your friends. Made with the Quill game engine.",
+      "icon": "https://raw.githubusercontent.com/stedwick/wvw.dev.apps/main/screenshots/pdx-punk-icon.png",
+      "iconEmoji": "🔪",
+      "category": [
+        "web",
+        "games"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/stedwick",
+      "homepage": "https://pdxpunkgame.com",
+      "language": "TypeScript",
+      "requirements": "Web browser on desktop or mobile.",
+      "features": [
+        "Choose your character: Man, Woman, Witch, Detective, Ghost, or Dog",
+        "Interrogate suspects through branching dialogue",
+        "Explore a pixel-art Portland, from Rose City Grill to the rainy riverfront",
+        "Play with your friends"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/stedwick/wvw.dev.apps/main/screenshots/pdx-punk-1.webp",
+        "https://raw.githubusercontent.com/stedwick/wvw.dev.apps/main/screenshots/pdx-punk-2.webp",
+        "https://raw.githubusercontent.com/stedwick/wvw.dev.apps/main/screenshots/pdx-punk-3.webp",
+        "https://raw.githubusercontent.com/stedwick/wvw.dev.apps/main/screenshots/pdx-punk-4.webp"
+      ],
+      "_source": "stedwick/wvw.dev.apps",
+      "_owner": "stedwick",
+      "_developer": "Philip Brocoum",
+      "_store": "Phil's Apps",
+      "_storeUrl": "https://philipbrocoum.com",
+      "developer": "Philip Brocoum"
+    },
+    {
       "id": "personal-website",
       "name": "Personal Website",
       "subtitle": "osmankoc.dev — Next.js & TypeScript",
@@ -15799,7 +15836,7 @@
     },
     {
       "id": "philnav",
-      "name": "PhilNav",
+      "name": "PhilNav Infrared Head Mouse",
       "subtitle": "Infrared head mouse for hands-free computer control",
       "description": "Control your computer hands-free with a reflective sticker and a Raspberry Pi-powered infrared head mouse running at 75 FPS.",
       "longDescription": "PhilNav is a custom infrared head mouse that lets you move the cursor hands-free by tracking a reflective sticker on your head. The software is open source on GitHub, and this listing points to the assembled Gumroad hardware package built by Philip Brocoum for accessibility-focused computing.",
@@ -16359,8 +16396,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 177317,
-      "forks": 22600,
+      "stars": 177355,
+      "forks": 22608,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -16403,8 +16440,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 177317,
-      "forks": 22600,
+      "stars": 177355,
+      "forks": 22608,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -16513,6 +16550,44 @@
       "developer": "Dogancan Mavideniz",
       "stars": 39,
       "forks": 2
+    },
+    {
+      "id": "quill",
+      "name": "Quill Pixel Game Maker",
+      "subtitle": "Make your first pixel art game with your AI coding agent",
+      "description": "A game engine for the AI age, with source code and skills for your coding agent. BYOA: Bring your own agent.",
+      "longDescription": "Quill is a new kind of game engine for the AI age. Describe your idea, create it with your AI sidekick, and play your game in the browser. You get the full source code for the Quill engine and for PDX Punk, which was built with Quill over one weekend, plus skills and a plugin that give Claude, ChatGPT, Kimi, or another coding agent the tools to create characters, levels, NPCs, dialogue and voices, music, and multiplayer. Build any 2D or 2.5D pixel art game, then publish or sell it. One-time purchase with a year of updates.",
+      "icon": "https://raw.githubusercontent.com/stedwick/wvw.dev.apps/main/screenshots/quill-icon.png",
+      "iconEmoji": "🪶",
+      "category": [
+        "games",
+        "developer-tools"
+      ],
+      "platform": "Web + coding agent",
+      "price": "$25",
+      "buyUrl": "https://philipb.gumroad.com/l/quill",
+      "github": "https://github.com/stedwick",
+      "homepage": "https://quillgamemaker.com",
+      "language": "TypeScript",
+      "requirements": "Your own coding agent with a paid plan, such as ChatGPT Pro, Claude Pro, or Kimi Pro.",
+      "features": [
+        "Full source code for the Quill engine and the PDX Punk game",
+        "Eight skills for your coding agent: characters, levels, NPCs, dialogue and voices, music, multiplayer, and more",
+        "Sprite animation, platforming, dialogue trees, cutscenes, weather, and parallax scenery",
+        "Multiplayer for up to 100 players, with mobile touch controls",
+        "Publish or sell the games you make"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/stedwick/wvw.dev.apps/main/screenshots/quill-1.webp",
+        "https://raw.githubusercontent.com/stedwick/wvw.dev.apps/main/screenshots/quill-2.webp",
+        "https://raw.githubusercontent.com/stedwick/wvw.dev.apps/main/screenshots/quill-3.webp"
+      ],
+      "_source": "stedwick/wvw.dev.apps",
+      "_owner": "stedwick",
+      "_developer": "Philip Brocoum",
+      "_store": "Phil's Apps",
+      "_storeUrl": "https://philipbrocoum.com",
+      "developer": "Philip Brocoum"
     },
     {
       "id": "radial-clock",
@@ -17726,7 +17801,7 @@
     },
     {
       "id": "tater-talk",
-      "name": "Tater Talk",
+      "name": "Tater Talk Dictation",
       "subtitle": "The simplest speech-to-text dictation web-app on Win/Mac/Nix",
       "description": "The easiest way to talk to your computer on Win, Mac, Linux, iOS, Android, and the browser with optional bring-your-own premium speech models.",
       "longDescription": "Tater Talk is a browser-based dictation app built to make talking to your computer feel simple across Windows, macOS, Linux, iPhone, Android, and the web. The current version adds a polished redesign and bring-your-own API key support for premium speech-to-text providers such as Microsoft Azure and AssemblyAI.",
@@ -17836,7 +17911,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 4285,
+      "stars": 4286,
       "forks": 310,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
