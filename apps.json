@@ -622,7 +622,7 @@
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
       "stars": 4070,
-      "forks": 650,
+      "forks": 651,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/awesome-openclaw-agents.jpg"
     },
     {
@@ -948,43 +948,6 @@
       "_store": "presque.cool",
       "_storeUrl": "",
       "developer": "Tristan Hubert"
-    },
-    {
-      "id": "cartoon-weather",
-      "name": "Cartoon Weather",
-      "subtitle": "Animated Themes & Live Widgets",
-      "description": "A fun weather app with animated cartoon characters that react to real weather conditions. No boring static icons anymore.",
-      "longDescription": "Cartoon Weather transforms the everyday task of checking the weather into a delightful visual experience. Instead of static icons and plain numbers, you get beautiful full-screen animated characters that react to actual weather conditions. Choose from seven unique character themes, get accurate hourly and 7-day forecasts, air quality index, UV index, humidity, wind speed, and more. Customize your home screen with animated widgets and track weather for up to 5 locations. Privacy-focused with no ads and no tracking.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/24/f4/6424f465-728a-e6af-6caf-4eeaf85391b8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "iconEmoji": "🌤️",
-      "iconStyle": {
-        "borderRadius": "22%"
-      },
-      "category": [
-        "weather",
-        "ios"
-      ],
-      "platform": "iOS",
-      "price": "Free",
-      "github": "https://github.com/enesgunumdogdu/cartoon-weather",
-      "homepage": "https://apps.apple.com/app/cartoon-weather-fun-forecast/id6757344541",
-      "features": [
-        "7 unique animated character themes that react to real weather",
-        "24-hour hourly and 7-day extended forecasts",
-        "Air quality index, UV index, humidity, and wind speed",
-        "Customizable animated home screen widgets",
-        "Multi-location support for up to 5 cities",
-        "Push notifications for rain, snow, and severe weather",
-        "Available in 19 languages",
-        "No ads, no tracking — privacy-focused"
-      ],
-      "requirements": "iOS 15.0 or later",
-      "_source": "enesgunumdogdu/my-apps",
-      "_owner": "enesgunumdogdu",
-      "_developer": "Enes Gunumdogdu",
-      "_store": "Enes Günümdoğdu",
-      "_storeUrl": "",
-      "developer": "Enes Gunumdogdu"
     },
     {
       "id": "check-ai",
@@ -1405,7 +1368,7 @@
       "_storeUrl": "",
       "developer": "Mustafa Ergisi",
       "stars": 4070,
-      "forks": 650,
+      "forks": 651,
       "_generatedIcon": "https://raw.githubusercontent.com/f/wvw.dev/master/assets/icons/crewclaw.jpg"
     },
     {
@@ -16396,8 +16359,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 177674,
-      "forks": 22660,
+      "stars": 177695,
+      "forks": 22664,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -16440,8 +16403,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 177674,
-      "forks": 22660,
+      "stars": 177695,
+      "forks": 22664,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -17092,47 +17055,6 @@
       "_storeUrl": "",
       "stars": 13,
       "forks": 2
-    },
-    {
-      "id": "seasons-solstice-tracker",
-      "name": "Seasons: Solstice Tracker",
-      "subtitle": "Moon, Progress & Widgets",
-      "description": "See exactly where you stand in the year — season progress, solstice countdowns, moon phases, and beautiful animated themes.",
-      "longDescription": "Seasons shows exactly where you stand in the year — the percentage through your current season, days remaining, and the countdown to the next solstice or equinox. Track all 8 moon phases with illumination percentage, get location-based sunrise and sunset times, and visualize the year with a unique staggered dot grid. Choose from five hand-crafted animated themes, add widgets to your home screen, lock screen, and StandBy, and get notified when seasons change. Supports 85 countries, both hemispheres, and 6 languages.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/a0/bb/03a0bb0a-e3e9-b128-17cf-cc4372f0bdd5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "iconEmoji": "🌗",
-      "iconStyle": {
-        "borderRadius": "22%"
-      },
-      "category": [
-        "weather",
-        "ios",
-        "lifestyle"
-      ],
-      "platform": "iOS",
-      "price": "Free",
-      "github": "https://github.com/enesgunumdogdu/my-apps",
-      "homepage": "https://apps.apple.com/us/app/seasons-solstice-tracker/id6758998537",
-      "features": [
-        "Season progress with percentage and days remaining",
-        "Precise solstice and equinox countdowns",
-        "All 8 moon phases with illumination percentage",
-        "Location-based sunrise and sunset times",
-        "Unique staggered dot grid visualization",
-        "5 hand-crafted animated themes",
-        "Home screen, lock screen, and StandBy widgets",
-        "Supports 85 countries and both hemispheres",
-        "Season change notifications with customizable intervals"
-      ],
-      "requirements": "iOS 17.0 or later",
-      "_source": "enesgunumdogdu/my-apps",
-      "_owner": "enesgunumdogdu",
-      "_developer": "Enes Gunumdogdu",
-      "_store": "Enes Günümdoğdu",
-      "_storeUrl": "",
-      "developer": "Enes Gunumdogdu",
-      "stars": 0,
-      "forks": 0
     },
     {
       "id": "secretdrop",
@@ -17911,8 +17833,8 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 4292,
-      "forks": 311,
+      "stars": 4293,
+      "forks": 312,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
       "requirements": "macOS 15 Sequoia or later",
