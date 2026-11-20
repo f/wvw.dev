@@ -829,7 +829,7 @@
       "homepage": "https://booking-calendar-docs.vercel.app",
       "language": "TypeScript",
       "stars": 12,
-      "forks": 2,
+      "forks": 3,
       "requirements": "Modern browser or self-hosted deployment",
       "features": [
         "Admin dashboard for slots, appointments, and booking links",
@@ -14880,7 +14880,7 @@
       "_store": "Jubstaa's App Store",
       "_storeUrl": "",
       "developer": "İlker Balcılar",
-      "stars": 28,
+      "stars": 29,
       "forks": 0
     },
     {
@@ -16396,8 +16396,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 177941,
-      "forks": 22691,
+      "stars": 177991,
+      "forks": 22702,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -16440,8 +16440,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 177941,
-      "forks": 22691,
+      "stars": 177991,
+      "forks": 22702,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -17911,7 +17911,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 4313,
+      "stars": 4316,
       "forks": 312,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
