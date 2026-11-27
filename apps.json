@@ -559,7 +559,7 @@
       "_store": "TDD Works",
       "_storeUrl": "",
       "developer": "tddworks",
-      "stars": 402,
+      "stars": 403,
       "forks": 36
     },
     {
@@ -14838,7 +14838,7 @@
         "https://ilkerbalcilar.com/images/projects/hono-telescope/hono-telescope-query-inspector.webp",
         "https://ilkerbalcilar.com/images/projects/hono-telescope/hono-telescope-logged-console-output.webp"
       ],
-      "stars": 27,
+      "stars": 28,
       "forks": 0,
       "_source": "Jubstaaa/appetit",
       "_owner": "Jubstaaa",
@@ -16474,8 +16474,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 178594,
-      "forks": 22760,
+      "stars": 178622,
+      "forks": 22761,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -16518,8 +16518,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 178594,
-      "forks": 22760,
+      "stars": 178622,
+      "forks": 22761,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -18027,7 +18027,7 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 4415,
+      "stars": 4418,
       "forks": 319,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
