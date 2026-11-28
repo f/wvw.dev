@@ -6697,9 +6697,7 @@
       "_developer": "Olgun Özoktaş",
       "_store": "FindUtils",
       "_storeUrl": "https://x.com/olgunozoktas",
-      "developer": "Olgun Özoktaş",
-      "stars": 2,
-      "forks": 1
+      "developer": "Olgun Özoktaş"
     },
     {
       "id": "findutils-image-to-puzzle",
@@ -16474,8 +16472,8 @@
       "github": "https://github.com/f/prompts.chat",
       "homepage": "https://prompts.chat",
       "language": "TypeScript",
-      "stars": 178688,
-      "forks": 22767,
+      "stars": 178702,
+      "forks": 22768,
       "requirements": "Any modern browser",
       "features": [
         "151K+ GitHub stars",
@@ -16518,8 +16516,8 @@
       "homepage": "https://prompts.chat/book",
       "buyUrl": "https://donate.stripe.com/aFa8wO4NF2S96jDfn4dMI09",
       "language": "TypeScript",
-      "stars": 178688,
-      "forks": 22767,
+      "stars": 178702,
+      "forks": 22768,
       "requirements": "Any modern browser",
       "features": [
         "25 interactive chapters",
@@ -18027,8 +18025,8 @@
       "github": "https://github.com/f/textream",
       "homepage": "https://textream.fka.dev",
       "language": "Swift",
-      "stars": 4422,
-      "forks": 319,
+      "stars": 4427,
+      "forks": 320,
       "brew": "brew install f/textream/textream",
       "downloadUrl": "https://github.com/f/textream/releases/latest",
       "requirements": "macOS 15 Sequoia or later",
